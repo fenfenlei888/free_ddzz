@@ -58,6 +58,7 @@ http://top.wxdaiyan.cn
 https://39.97.164.17
 http://106.15.9.113
 http://148.70.138.55:81
+http://bbs.indmen.com
 http://www.zimeitibbs.com
 http://t.wupen.cn
 http://223.111.136.156
@@ -300,6 +301,7 @@ http://115.28.157.149
 http://www.dxhb.cc
 http://www.gxjk.cn
 http://bbs.abntest.com
+http://bbs.kedududu.com
 http://glgsnw.com
 http://218.94.144.26:8080
 http://39.108.219.42
@@ -492,6 +494,7 @@ https://www.pzbxs.com
 http://medicine.oecr.com
 http://www.80baicai.biz
 http://bbs.forbaby.com.cn
+http://51ele.net
 http://120.46.135.141
 http://bbs.264400.com
 http://diandee.com
@@ -547,6 +550,7 @@ http://49.235.111.114:8080
 http://www.db.myubbs.com:62078
 https://www.jpinfo.net
 http://www.xinyuelt6.com
+https://www.xoooi.com
 http://xn--33-wu2cxg7rw55hwpl5vbp68m.xyz
 http://zjtt.cn
 http://hongfengml.com
@@ -713,6 +717,7 @@ http://www.jinggzj.com
 http://www.0u1u.com
 http://108.170.5.78:8080
 http://www.romjz.com
+http://182.61.14.172
 http://www.52mti.com
 http://47.97.19.221:1433
 http://www.weinio.com
@@ -922,6 +927,7 @@ http://host.dataguru.cn
 http://154.85.222.106
 http://www.gyyrkj.com
 http://zghlzs.com
+http://bbs.lqqcw.com
 http://www.xinyuelt2.com
 http://klsh.com
 http://123.56.133.103
@@ -954,6 +960,7 @@ http://www.quanbazhong.cn
 http://gz.184409.com
 https://www.shuhuajia.me
 http://nd.184409.com
+http://www.sdpea.com
 http://gang.cn
 http://188.lmcpw.net
 http://bbs.0391.com.cn
@@ -995,6 +1002,7 @@ http://www.klsh.com
 http://101.200.176.219
 http://film.dataguru.cn
 http://bbs.rhino3d.asia
+http://www.wlygw.com
 http://www.gxphoto.org
 http://www.fuwen2.com
 https://autoconfig.staging.gkzj.net
@@ -1030,6 +1038,7 @@ http://changdu.184409.com
 http://fuwen3.com
 http://china-liandu.com.cn
 https://www.chu6.com
+http://220.179.228.26:81
 http://1024bbs.cf
 http://43.143.216.250
 http://ourgoldenage.org
@@ -1105,6 +1114,7 @@ http://www.home-way-home.com
 http://ale.184409.com
 http://newbbs.99zigong.com
 http://bbs.jiaozuobar.com
+https://xoooi.com
 http://www.xzccw.com
 https://soft.163dz.com
 http://www.huolinhe.com
@@ -1179,6 +1189,7 @@ http://www.xinyuelt9.com
 http://wycjy.com
 http://bbs.luzhou28.com
 https://www.cgdream.com.cn
+http://139.9.86.192
 http://www.foldcity.com
 http://momoho45.com
 http://xiaoyeren.com
@@ -1241,6 +1252,7 @@ http://156.225.2.244:20000
 https://bbs.yanfabu.com
 http://121.127.238.161
 http://www.kb9453.com
+http://bbs.5imx.com
 http://my0514.net
 http://www.xinliliang.org
 https://club.west.cn
@@ -1464,9 +1476,11 @@ http://nb.184409.com
 http://www.firemail.wang:8088
 http://www.chinatree.com
 http://49.232.191.113
+https://bbs.ayyt.com
 http://bbs.zhuzhou.com
 http://cloud.wxdaiyan.cn
 https://www.uujh1.com
+http://www.5imx.com
 http://www.ffwold.com
 http://arm-cn.com
 https://www.az980.com
@@ -1687,6 +1701,7 @@ http://www.fcmjg.cn
 http://fangchan.ztrxw.cn
 http://43.133.191.207:8080
 http://www.yztown.vip
+http://www.cui2.cn
 http://hdbbs.fxt365.com:81
 http://www.cailiaoquan.com
 http://kzls.184409.com
@@ -1862,8 +1877,10 @@ http://bbs.shouxi.com
 http://bbs.focusky.com.cn
 https://www.terrartanis.com
 http://www.mchkg.com
+http://www.51ele.net
 http://121.37.221.235
 http://cc.184409.com
+http://120.77.46.134
 http://aufe.myubbs.com
 http://www.zibenquan.org
 http://bbs.2012jh.com
