@@ -1,13 +1,3 @@
-http://49.234.183.121
-http://bbs.sgconline.com.cn
-http://114.112.74.132:8089
-http://news.oecr.com
-http://education.wxdaiyan.cn
-http://da.184409.com
-http://www.xinyue234.com
-http://123.57.160.225
-http://canhelp-z.com
-https://ideapad.it168.com
 https://enbbs.makerpi3d.com
 http://pj.184409.com
 https://hnweis.com
@@ -1021,6 +1011,7 @@ http://120.25.148.206:443
 http://www.huadu.biz
 http://www.cwyan.com
 http://www.huanqing.org
+http://www.616fx.com
 http://jlpzj.cn-www.jlpzj.cn
 https://www.7s6s5s.com
 http://xkh877.cc
@@ -1236,6 +1227,7 @@ http://i.idrugs.cn
 http://www.sswchina.cn
 http://news.dataguru.cn
 http://bbs.roobo.com
+http://popo0227.myds.me
 http://www.zzjggs.com
 http://120.77.173.188:86
 http://food.wxdaiyan.cn
@@ -1512,6 +1504,7 @@ http://wx.vshangtong.com
 http://bbs.7to.cn
 http://www.uerchina.com
 https://www.paijibbs.com
+http://imfec.myubbs.com
 http://qyzb.com.cn
 http://bbs.xtjc.com
 http://dhcp.pilsnet.uttbbs.com
@@ -1614,6 +1607,11 @@ http://www.qyage.net
 http://bbs.zonzu.cn
 http://bbs.chinabike.net
 http://rudong.180724.com
+http://imfec.23du.com
+http://bbs.sgconline.com.cn
+http://news.oecr.com
+http://123.57.160.225
+http://canhelp-z.com
 http://xm.180724.com
 http://cs.180724.com
 http://123.57.5.193:8080
@@ -2764,8 +2762,14 @@ http://www.xzqc.net
 http://bbs.cailiaoren.com
 http://www.xisn5.net
 https://bbs.wstx.com
+http://49.234.183.121
+http://114.112.74.132:8089
+http://education.wxdaiyan.cn
+http://www.xinyue234.com
+http://da.184409.com
 https://bbs.zonzu.cn
 http://okz034.cc
+https://ideapad.it168.com
 http://www.dmxs5.com
 http://www.dtdebug.com
 https://www.pcpc.club
@@ -2853,6 +2857,7 @@ http://z.tonghuar.com
 https://www.975w.com
 http://sns.juziyue.com
 http://www.phonegap100.com
+http://www.bbsottawa.com
 http://forum.leslie-cheung.com
 http://bt.180724.com
 http://dazhou.w91.cn
