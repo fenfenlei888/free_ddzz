@@ -1,4 +1,3 @@
-http://trade.oecr.com
 http://food.wxdaiyan.cn
 https://m.huosub2b.com
 http://www.ragnarok-online.cc
@@ -2336,6 +2335,7 @@ http://bbs.flythings.cn
 http://anshun.aizse.com
 http://bbs.qupu123.com
 http://www.ceeppe.com
+http://www.bloodsoul.tw
 http://122.112.230.93:8080
 http://xng1.top
 https://www.5i8.org
@@ -2437,6 +2437,7 @@ http://www.ddfyw.com
 http://test3.wxdaiyan.cn
 http://ceshile.cn
 http://www.kazan.uttbbs.com
+http://trade.oecr.com
 http://baoding.w91.cn
 http://chinazhiqing.com
 http://bbs.chizhouchacha.com
