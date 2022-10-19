@@ -1,9 +1,3 @@
-http://bbs.gongzuoya.com
-https://www.79bo3.com
-http://bbs.geonet.cn
-http://bbs.zjtt.cn
-http://bbs.nakuz.com
-http://www.0750.name
 http://www.1868888.com
 http://www.linuxchaney.com
 http://118.31.165.148
@@ -807,6 +801,7 @@ http://51fpush.com
 http://www.xingzhefeng.com
 http://www.huicishen.com
 https://www.101516.vip
+http://www.qiaoxiaojun.vip
 http://www.xqm010.cc
 http://bbs.zz18.com
 http://www.toosoft.org
@@ -1124,6 +1119,7 @@ http://www.yizqi.com
 http://www.luanboshiysclub.com
 http://www.rhino3d.us
 http://www.gzsangna2.com
+http://bbs.viczz.com
 https://yiyouhome.cn
 http://communitytest.ruijienetworks.com
 http://www.xcsalon.com
@@ -1609,6 +1605,8 @@ http://www.zyt8.com
 https://video.gkzj.net
 http://chifeng.184409.com
 http://108.170.5.100:8080
+http://bbs.zjtt.cn
+http://www.0750.name
 https://bbs.cnction.com
 http://chunyealley.com.tw
 https://cclme.cn
@@ -1879,6 +1877,7 @@ http://vshangtong.com
 http://zufe.xiasha.cn
 http://www.szyp6.com
 http://www.fspd3.com
+http://juebanys.site
 http://zh.184409.com
 https://forum.kaiyuan.de
 http://ksxt.zhiyou100.com
@@ -2005,6 +2004,7 @@ http://121.41.39.109
 http://184.95.51.83:8080
 http://tac.180724.com
 http://bbs.5akm.com
+http://apuup.com
 http://106.54.79.191:8090
 http://bbs.hanwangsoft.com
 http://www.sh1069.cc
@@ -2398,6 +2398,7 @@ http://www.luori.net
 http://www.penbbs.com
 http://bbs.compressor.cn
 https://www.pucatalyst.com
+http://www.svipshare.com
 https://bbs.tuize.com
 http://www.menhu.ca
 http://bbs.kppw.cn
@@ -2818,6 +2819,10 @@ https://mengchenghui.com
 http://school.wxdaiyan.cn
 http://qiye.lg5.com
 http://bbs.hulimm.com
+https://www.79bo3.com
+http://bbs.gongzuoya.com
+http://bbs.geonet.cn
+http://bbs.nakuz.com
 http://www.qmxyc.cn
 https://www.bdznz.com
 http://www.yawanju.com
