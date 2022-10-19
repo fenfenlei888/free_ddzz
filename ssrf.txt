@@ -1,4 +1,3 @@
-http://bbs.cjrj.org
 http://bbs.hkesp.com
 http://czn.com.cn
 https://www.ibmbjb.com
@@ -1707,6 +1706,7 @@ http://www.fuwen1.com
 http://8888888.ltd
 http://www.manmanqi.com
 http://bbs.8yx.com
+http://bbs.cjrj.org
 http://t.diandee.com
 http://syet.net
 http://bbs.roobo.com
@@ -1821,6 +1821,7 @@ http://119.8.183.194
 https://www.soonidea.cn
 http://www.ffans.vip
 https://www.21micro-grid.com
+https://www.baihei.cc
 http://www.nxs053.cc
 https://www.renrenoffice.com
 http://www.yunchan.org
