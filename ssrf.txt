@@ -1,4 +1,3 @@
-http://winqu.com
 https://bbs.kangantu.com
 http://www.2math.cn
 http://search.uttbbs.com
@@ -2495,6 +2494,7 @@ http://bbs.lytmh.com.cn
 http://www.sdpea.com
 http://188.lmcpw.net
 http://58.221.146.210:8090
+http://winqu.com
 http://43.154.220.234:8090
 http://www.ho-la.cn
 http://cc.wxdaiyan.cn
@@ -2657,6 +2657,7 @@ https://baisha.tongcheng.ink
 http://bayannaoer.w91.cn
 https://ifans.site
 http://bbs.d7w.net
+http://princeton.com.cn
 https://www.ipaiji.com
 http://bbs.10yan.com
 http://tw-redi.com
