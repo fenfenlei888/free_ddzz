@@ -1,13 +1,3 @@
-http://139.198.177.188
-http://www.huicishen.com
-https://bbs.itsource.cn
-http://scut.myujob.com
-http://bbs.zz18.com
-http://www.toosoft.org
-https://tc.rlwsh.com
-http://www.shanghainianhua.com
-http://stbbk.com
-http://www.nl.uttbbs.com
 https://bbs.cnbrass.com
 https://hanwowo.com
 http://www.iuibe.com
@@ -1885,7 +1875,11 @@ http://www.csrworld.cn
 http://www.tcgzw.cn
 http://51fpush.com
 http://www.xingzhefeng.com
+http://www.huicishen.com
 http://www.xqm010.cc
+http://bbs.zz18.com
+http://www.toosoft.org
+http://stbbk.com
 https://www.optbbs.com
 http://www.china2001.com
 http://47.104.99.49:82
@@ -1932,6 +1926,7 @@ https://bbs.twinkstar.com
 http://bbs.u-tpe.com
 http://www.ganhaonas.xyz:8181
 https://zjimo.com
+https://www.xms33.top
 http://www.ssjx1.top
 https://renrenoffice.com
 http://wx.vshangtong.com
@@ -2177,7 +2172,13 @@ http://ustcsv.com
 http://www.lzqpwh.com
 http://14.29.203.250:8081
 http://bbs.metro-3d.com
+http://139.198.177.188
+https://bbs.itsource.cn
+http://scut.myujob.com
 http://122.114.234.67:8001
+https://tc.rlwsh.com
+http://www.nl.uttbbs.com
+http://www.shanghainianhua.com
 http://106.54.191.154:8090
 http://fl.china2001.com.cn
 http://d.tonghuar.com
@@ -2225,6 +2226,7 @@ http://www.xh580.net
 http://150.109.113.206:8090
 http://sandbox.wxdaiyan.cn
 http://www.zhbanker.com
+https://5i8.org
 http://www.xy28zj.com
 https://pcpc.club
 https://bbs.xuanshang95.com
@@ -2261,6 +2263,7 @@ http://www.lietou007.com
 http://106.52.28.22:83
 https://x505.cn
 http://wd.znds.com
+http://www.woaidaima.com
 https://bbs-dev.xuanshang12.cn
 https://bbs.chinacma.org
 http://z.tonghuar.com
@@ -2271,6 +2274,7 @@ http://45.56.123.113
 http://www.okz034.cc
 http://www.sngdzx.cn:8088
 http://94.74.87.187
+https://mopaishi.com
 http://bayannaoer.w91.cn
 http://bbs.d7w.net
 http://111.67.192.156
