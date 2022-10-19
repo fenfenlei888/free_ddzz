@@ -1,4 +1,3 @@
-http://39.107.108.231:8088
 http://www.taotu99.net
 http://bbs.gyyrkj.com
 http://www.xiangxiangmedia.com
@@ -1032,6 +1031,7 @@ https://cacnews.ca
 http://www.hbzjw.net.cn
 http://bbs.livinglabs.cn
 http://number81.xyz
+http://www.w7ky.com
 http://bbs.52dkol.com
 http://xyolgm.com
 http://bbs.xrsi.cn
@@ -2851,6 +2851,7 @@ http://www.czn.com.cn
 https://www.yunweiku.com
 http://www.demo2.myubbs.com:62078
 http://www.yf77.com
+http://39.107.108.231:8088
 http://ssjx2.top
 http://bbs.uipkernel.com
 https://bbs.gotvg.com
