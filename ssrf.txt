@@ -561,6 +561,7 @@ http://chinatree.com
 http://www.xushi.net
 http://bbs.voldp.com
 http://www.horphoto.com
+http://112.74.88.149:8080
 http://forum.go2tutor.com
 http://www.pianopaper.net
 http://www.uk.myubbs.com:62078
@@ -870,6 +871,7 @@ http://123.56.88.72
 https://www.haga7.club
 http://wjsyjxh.com
 http://webmail.hosting.uttbbs.com
+http://www.520free.com
 http://sjz.184409.com
 http://solar.oecr.com
 http://baicheng.w91.cn
@@ -893,6 +895,7 @@ http://www.jiajufans.com
 http://www.abc.myubbs.com:62078
 http://qiongzhong.184409.com
 https://bbs.itheima.com
+http://www.zdvictory.com
 http://kazan.uttbbs.com
 http://www.eastsea.com.cn
 http://47.97.230.163
@@ -1496,6 +1499,7 @@ http://www.xxnms.com
 http://xiaogq.com
 http://a.zggdxy.com
 http://117.34.103.244
+http://www.1314xuexi.com
 http://www.suixin888.com
 https://lcxlyy.com
 https://www.zhenpet.com
@@ -1673,6 +1677,7 @@ http://lz.184409.com
 https://www.zhikaoyz.com
 https://122.195.200.218
 http://yuxiangshequ.com
+http://115.159.114.85
 https://www.059183.com
 http://homefpd.com
 http://www.asp.cn
