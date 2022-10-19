@@ -1,7 +1,3 @@
-http://www.xhymsq.com
-http://www.glgsnw.com
-https://www.bilimlar.com
-http://www.press.myubbs.com:62078
 https://www.gjkeji.com
 http://www.blrys.com
 http://hflxsld.com
@@ -1990,6 +1986,9 @@ http://shop.jlpzj.cn
 http://xxgc.xmdh.com
 https://bilimlar.com
 http://www.mclassic.com.hk
+http://www.glgsnw.com
+http://www.press.myubbs.com:62078
+https://www.bilimlar.com
 http://45.56.85.29
 http://waqxw.com
 http://bbs.huakebosi.com
@@ -2005,6 +2004,7 @@ http://jlpzj.cn-www.jlpzj.cn
 http://bbs.9wee.com
 http://45.77.70.143
 http://sg.bbs.9wee.com
+http://101.200.73.54
 http://www.jzlqw.com
 http://tc.bbs.9wee.com
 http://bbs.hasea.com
@@ -2088,6 +2088,7 @@ http://www.wangdaidp.com
 http://px.cmjnu.com.cn
 http://www.dsw6.com
 http://116.255.230.131:8093
+http://www.xhymsq.com
 http://www.93cs.com
 https://www.cmdyx.com
 http://www.28cun.com
@@ -2111,7 +2112,9 @@ http://wly.bbs.9wee.com
 http://bbs.lytmh.com.cn
 http://www.xh580.net
 http://www.xy28zj.com
+http://www.wxedu.com.cn
 http://221.215.73.173:9090
+http://47.102.199.28:9000
 http://home.lytmh.com.cn
 http://www.anluw.com
 https://www.icax.org
