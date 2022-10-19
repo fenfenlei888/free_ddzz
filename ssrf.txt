@@ -253,6 +253,7 @@ http://www.1024bbs.cf
 http://www.sh-nfc.com
 http://221.6.48.116:88
 http://108.170.5.100
+http://47.92.192.118:999
 http://www.xyolgm.com
 http://bbs.youxitian.com
 https://ozhaha.com
