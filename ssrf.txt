@@ -1,12 +1,3 @@
-https://hnweis.com
-http://www.hdbull.com
-http://47.74.135.217
-http://120.26.51.175:88
-http://bbs.zzit.org
-http://hz.rhygc.com
-http://www.au.uttbbs.com
-http://www.cqh2o.com
-http://bbs.rxjhbaobao.net
 http://124.222.66.43
 http://www.mtxlt.com
 http://hlbe.184409.com
@@ -1055,6 +1046,7 @@ https://we.poppur.com
 http://www.2003n.cn
 http://www.jpun.net
 https://az980.com
+http://www.5dtoy.net
 http://hunan.bbs.nongquan.com
 http://www.chaogubaike.com
 http://bbs.qjyz.com.cn
@@ -1149,6 +1141,7 @@ http://www.98905.com
 http://lin.ywzt.wang
 http://bbs.qianbaomm.com
 https://fuckoz.com
+http://www.zhaoyouning.com
 http://bbs.lgrapp.cn
 http://121.227.42.121:7777
 http://www.number81.xyz
@@ -1610,6 +1603,10 @@ http://bbs.sgconline.com.cn
 http://news.oecr.com
 http://123.57.160.225
 http://canhelp-z.com
+http://47.74.135.217
+http://www.hdbull.com
+https://hnweis.com
+http://www.cqh2o.com
 http://xm.180724.com
 http://cs.180724.com
 http://123.57.5.193:8080
@@ -1700,6 +1697,7 @@ http://www.lytmh.com.cn
 http://xiangyang.180724.com
 http://119.8.183.194
 http://bbs.xrender.com
+http://5dtoy.net
 http://www.lzmcloud.com
 https://www.soonidea.cn
 http://tianshui.180724.com
@@ -2512,6 +2510,7 @@ http://www.wlygw.com
 http://www.fuwen2.com
 https://tcelue.cc
 http://li20.net
+http://39.107.229.137:22222
 http://09hw.icu
 http://60.251.32.214
 http://yanbian.184409.com
@@ -2772,6 +2771,11 @@ https://ideapad.it168.com
 http://pj.184409.com
 https://enbbs.makerpi3d.com
 http://www.dmxs5.com
+http://120.26.51.175:88
+http://www.au.uttbbs.com
+http://hz.rhygc.com
+http://bbs.zzit.org
+http://bbs.rxjhbaobao.net
 http://www.dtdebug.com
 https://www.pcpc.club
 http://changdu.w91.cn
