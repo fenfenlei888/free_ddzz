@@ -1,9 +1,3 @@
-http://bbs.qjyz.com.cn
-https://club.domain.cn
-http://www.cncelab.com
-https://club.22.cn
-https://www.5a56.cn
-https://bbs.huainet.com
 http://ch.184409.com
 https://tcelue.ooo
 http://csgkplc.com
@@ -1796,6 +1790,8 @@ http://www.2003n.cn
 http://www.jpun.net
 https://az980.com
 http://hunan.bbs.nongquan.com
+http://bbs.qjyz.com.cn
+http://www.cncelab.com
 http://bbs.dawansheng.com
 http://www.zydgbbs.com
 http://101.37.227.158:8080
@@ -1810,6 +1806,7 @@ http://www.heike666.com
 http://tc.bbs.9wee.com
 http://www.luanboshiysclub.com
 https://wd.znds.com
+http://www.zhilexue.tech
 http://t.diandee.com
 http://syet.net
 http://www.jmczsoft.com:82
@@ -2294,6 +2291,10 @@ https://203.70.146.23
 http://www.yuepy3.com
 http://www.szwolf.net
 http://bbsedit.360che.com
+https://club.domain.cn
+https://bbs.huainet.com
+https://www.5a56.cn
+https://club.22.cn
 http://bbs.ccbits.com
 http://www.gpo682.cc
 http://www.hasea.com
@@ -2350,6 +2351,7 @@ http://www.xy28zj.com
 http://scgjp.com.cn
 https://pcpc.club
 https://bbs.xuanshang95.com
+https://zhilexue.tech
 https://bbs.ca168.com
 http://www.wxedu.com.cn
 http://bbs.boy-toy.net
