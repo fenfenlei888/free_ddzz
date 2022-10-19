@@ -108,6 +108,7 @@ http://www.dsw6.com
 http://px.cmjnu.com.cn
 http://shop.jlpzj.cn
 http://xxgc.xmdh.com
+http://116.255.230.131:8093
 https://bilimlar.com
 http://www.mclassic.com.hk
 http://www.xhymsq.com
@@ -1499,6 +1500,7 @@ http://www.suixin888.com
 https://lcxlyy.com
 https://www.zhenpet.com
 http://tongxiang.184409.com
+http://108.170.5.77:8080
 http://www.fishing-sh.com
 http://www.mzsky.com
 http://www.journal.myubbs.com:62078
