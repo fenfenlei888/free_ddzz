@@ -1,4 +1,3 @@
-http://www.db.myubbs.com:62078
 https://www.jpinfo.net
 http://www.xinyuelt6.com
 https://www.xoooi.com
@@ -1809,6 +1808,7 @@ http://jlpzj.cn-www.jlpzj.cn
 https://www.7s6s5s.com
 http://xkh877.cc
 http://49.235.111.114:8080
+http://www.db.myubbs.com:62078
 http://dandong.w91.cn
 http://108.170.5.76:8080
 http://202.85.222.116
@@ -2169,6 +2169,7 @@ http://47.101.61.41
 https://jiangjinbianminwang.cn
 http://47.93.52.129
 http://www.11op.com
+http://bbs.iliferobot.cn
 http://www.impk113.com
 http://www.dakedakedu.com
 https://www.donellaguida.com
