@@ -1,8 +1,3 @@
-http://ln.184409.com
-http://47.104.67.153:9999
-http://sr.184409.com
-https://yuksal.net
-http://www.siyuan.hn.cn
 https://tcelue.ws
 http://new.elimautism.org
 http://122.114.110.99
@@ -1613,6 +1608,9 @@ http://dell.benyouhui.it168.com
 https://haidiaoren.com
 http://bbs.keinsci.com
 http://reseller.dataguru.cn
+http://sr.184409.com
+https://yuksal.net
+http://www.siyuan.hn.cn
 http://www.360y.cc
 https://dealer.rv28.com
 http://www.csacas.com
@@ -1634,6 +1632,7 @@ http://bbs.zonzu.cn
 http://rudong.180724.com
 http://xm.180724.com
 http://cs.180724.com
+http://123.57.5.193:8080
 http://120.198.76.2:82
 http://www.cfan.cc
 http://www.zzzzbbbb.com
@@ -2010,6 +2009,7 @@ http://www.shanghainianhua.com
 http://106.54.191.154:8090
 https://hanwowo.com
 https://bbs.cnbrass.com
+https://bbs.xrsi.cn
 http://121.41.39.109
 http://184.95.51.83:8080
 http://tac.180724.com
@@ -2520,6 +2520,7 @@ http://yanbian.184409.com
 http://www.hs23.cn
 http://kinwok.com
 http://14.29.179.149:8081
+http://xx.ddcyf.com:8080
 http://nc.184409.com
 http://114.107.231.211:8082
 http://www.cyjl.cn
@@ -2703,6 +2704,8 @@ http://baise.w91.cn
 http://www.lwgod.org
 http://www.jzs08.com
 https://hsebbs.com
+http://47.104.67.153:9999
+http://ln.184409.com
 http://daxinganling.w91.cn
 http://haidong.180724.com
 http://linfen.180724.com
