@@ -1,7 +1,3 @@
-http://www.twnnn.com
-http://www.xxyw.com
-http://pld.184409.com
-https://zjdg.com
 http://ofc.oecr.com
 https://www.liuxuesheng8.com
 http://47.104.207.91:8090
@@ -1772,6 +1768,7 @@ http://www.pit28.com
 http://bbs.paobiaoqi.com
 https://test.szckhd.com
 http://www.tr.uttbbs.com
+http://www.xxyw.com
 http://101.37.227.158:8080
 http://45.77.70.143
 http://sg.bbs.9wee.com
@@ -1802,6 +1799,7 @@ http://bbs.zhiyou100.com
 http://www.guochong.net
 http://www.28tongji.com
 http://www.xy28home.com
+https://www.heikejiedan1.com
 http://www.ofe501.cc
 http://47.97.181.149:8097
 http://anshan.w91.cn
@@ -2317,6 +2315,9 @@ https://114.215.119.205
 http://www.hasea.com
 http://ww.oyuw.com
 http://bbs.asitb.cn
+http://www.twnnn.com
+https://zjdg.com
+http://pld.184409.com
 http://121.199.48.191:86
 http://dealer.rv28.com
 http://116.62.33.87:8080
@@ -2357,6 +2358,7 @@ http://114.107.231.211:8082
 http://www.cyjl.cn
 http://menhu.ca
 http://www.xh580.net
+http://bbs.029aa.com
 http://150.109.113.206:8090
 https://asiangirl99.com
 http://dingxi.aizse.com
@@ -2389,6 +2391,7 @@ http://www.00211.cn
 http://221.215.73.173:9090
 http://www.duzili.com
 http://bbs.gotvg.com
+http://108.170.5.75
 http://wxedu.com.cn
 https://bbs.lingkee.cn
 https://yuzhe.liyiyi.name
