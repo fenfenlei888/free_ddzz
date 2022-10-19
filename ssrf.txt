@@ -368,6 +368,7 @@ http://106.54.79.191:8090
 http://bbs.cskin.net
 https://tcelue.net
 http://bbs.hanwangsoft.com
+http://129.204.105.114:8080
 http://1.117.58.254
 http://www.sh1069.cc
 http://jn.184409.com
@@ -395,6 +396,7 @@ http://47.101.61.41
 http://www.artskaoyan.com
 https://www.hengzhou365.com
 http://smx.184409.com
+http://bbs.elecnest.cn
 http://www.xng19.xyz
 https://jiangjinbianminwang.cn
 http://47.93.52.129
@@ -611,6 +613,7 @@ http://www.tshopping.com.tw
 https://bbs.mesign.com
 http://new.dataguru.cn
 http://sdk.gamesos.co.kr
+http://108.170.5.99:8080
 https://www.eanttech.com
 http://90yp.xyz
 http://tlf.184409.com
@@ -1171,6 +1174,7 @@ http://bbs.jianfangba.com
 https://jiyouhui.it168.com
 http://bbs.highot.net
 http://ent2006615w2w.nakuz.com
+http://js.idste.net:8080
 http://www.chinawlf.com
 http://www.4kquan.com
 http://tour.ztrxw.cn
@@ -1372,6 +1376,7 @@ http://school.wxdaiyan.cn
 https://video.gkzj.net
 http://qiye.lg5.com
 http://chifeng.184409.com
+http://bbs.gongzuoya.com
 https://www.79bo3.com
 http://bbs.zjtt.cn
 http://bbs.nakuz.com
