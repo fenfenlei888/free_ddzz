@@ -159,6 +159,7 @@ http://www.tickets.myubbs.com:62078
 http://121.62.23.174:88
 http://bbs.jiaozuobar.com
 http://www.shuke8.com
+http://kbhelp.757abc.com
 http://dev.arinchina.com
 http://www.baby12345.cn
 https://soft.163dz.com
@@ -337,6 +338,7 @@ https://yuksal.net
 http://www.siyuan.hn.cn
 https://www.ozhaha.com
 http://new.elimautism.org
+http://www.wxscreen.net
 http://122.114.110.99
 http://luntan.ocar.tv
 http://twitter.uttbbs.com
@@ -687,6 +689,7 @@ http://blog.gdhealth.net
 http://106.225.153.196:8081
 http://bbs.shihenian.com
 http://szsheji.cn
+https://www.tongchengdl.com
 https://community.ruijienetworks.com
 https://bbs.huanai.com
 http://text.irtec.cn:1234
@@ -887,9 +890,11 @@ http://chaozhou.184409.com
 http://www.ernaibyw.com
 http://shanghai.hmsem.com
 http://jpsn.cn
+https://www.mouxue.com
 http://bbs.wglm.net
 http://mzjyss.cn
 http://www.robot-ai.org
+http://www.tongchengdl.com
 http://www.yophome.com
 http://www.shengzhe.net
 https://zhinanzhen.org
