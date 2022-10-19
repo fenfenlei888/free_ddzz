@@ -1,4 +1,3 @@
-http://www.link.uttbbs.com
 http://www.uerchina.com
 http://bbs.rhino3d.us
 http://jiashanx.184409.com
@@ -1731,6 +1730,7 @@ https://www.baihei.cc
 http://www.nxs053.cc
 https://www.renrenoffice.com
 http://www.yunchan.org
+http://www.eqingyu.com
 http://smtp.cpure.org
 http://47.96.40.243:8080
 https://www.niagara-china.com
@@ -2671,6 +2671,7 @@ http://www.bgz6.com
 http://108.170.5.75:8080
 http://www.ogloszenia.myubbs.com:62078
 http://wap.jz100.com
+http://www.link.uttbbs.com
 http://qz.180724.com
 https://2.yongyifamen.com
 http://108.170.5.98:8080
