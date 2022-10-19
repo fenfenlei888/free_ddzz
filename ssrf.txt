@@ -1,9 +1,3 @@
-https://bbs.twinkstar.cn
-https://shktvw.com
-http://tujuoutdoor.com
-http://www.hr.myubbs.com:62078
-http://www.tui56.com
-http://bbcdn.fun
 http://www.rxshenqi.net
 http://www.lejiacar.com
 http://www.tshopping.com.tw
@@ -1733,6 +1727,7 @@ http://www.india.uttbbs.com
 http://bbs.ipcgta.com
 http://ks.184409.com
 https://bbs.ikuai8.com
+http://123.57.84.98:8099
 http://www.wzrenda.com
 http://work.17mc.cc:9090
 http://120.25.148.206:443
@@ -1788,6 +1783,10 @@ http://www.oecr.com
 http://jiatc.com
 http://srfyf.zt.xa17.wang
 https://tcelue.tv
+https://bbs.twinkstar.cn
+http://tujuoutdoor.com
+http://bbcdn.fun
+http://www.hr.myubbs.com:62078
 http://bbs.dawansheng.com
 http://www.zydgbbs.com
 http://101.37.227.158:8080
@@ -2172,6 +2171,7 @@ http://tc.184409.com
 https://bbs.bianzhirensheng.com
 https://imuxuan.com
 https://www.centerbbs.com
+https://www.swfly.cn
 http://www.10086rom.com
 http://www.biaook.com
 http://bbs.nystudents.net
@@ -2299,6 +2299,8 @@ https://tcelue.ooo
 http://ch.184409.com
 http://oecr.com
 http://www.xahycj.com
+https://shktvw.com
+http://www.tui56.com
 http://bbs.ccbits.com
 http://www.gpo682.cc
 http://www.hasea.com
@@ -2377,6 +2379,7 @@ http://42.121.15.9:8003
 https://bbs.wstx.com
 https://bbs.zonzu.cn
 http://okz034.cc
+http://www.dmxs5.com
 https://www.pcpc.club
 http://changdu.w91.cn
 https://discuz.myesball.net
