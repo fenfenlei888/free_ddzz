@@ -1,8 +1,3 @@
-https://47.110.78.242
-http://bbs.skykiwi.com
-http://jade.yuxiangshequ.com
-https://xinxinmin.com
-http://shgm.net
 http://www.jxfuli.cf
 http://irobo.org
 http://xianyang.184409.com
@@ -2001,6 +1996,8 @@ http://shanghainianhua.com
 http://portal.xingxiancn.com
 http://www.ctyhlt.com
 http://www.toohost.es
+https://47.110.78.242
+http://shgm.net
 http://45.56.85.29
 http://waqxw.com
 http://bbs.huakebosi.com
@@ -2010,6 +2007,7 @@ http://dh.bbs.9wee.com
 http://111.67.198.23
 https://24maker.com
 http://119.23.14.180
+http://work.17mc.cc:9090
 http://jlpzj.cn-www.jlpzj.cn
 http://bbs.9wee.com
 http://45.77.70.143
@@ -2030,6 +2028,7 @@ http://mtedu.utaipei.edu.tw
 http://www.lytmh.com.cn
 http://119.8.183.194
 http://www.waqxw.com
+http://www.playacg.com
 http://bbs.uker.net
 https://v.icax.org
 http://www.boesea.com
@@ -2078,6 +2077,9 @@ http://ww.4973.cn
 https://wtg365.net
 http://bbs.mongoosenest.org
 http://113.254.20.186:8084
+http://jade.yuxiangshequ.com
+http://bbs.skykiwi.com
+https://xinxinmin.com
 http://www.93cs.com
 https://www.cmdyx.com
 http://www.28cun.com
@@ -2098,6 +2100,7 @@ http://wly.bbs.9wee.com
 http://bbs.lytmh.com.cn
 http://www.xh580.net
 http://www.xy28zj.com
+http://221.215.73.173:9090
 http://home.lytmh.com.cn
 https://www.icax.org
 https://www.24maker.com
