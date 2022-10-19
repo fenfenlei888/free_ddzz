@@ -1,10 +1,3 @@
-http://123.56.133.103
-http://106.225.209.33:8081
-http://bbs.shouxi.com
-http://ftp.dataguru.cn
-http://www.mchkg.com
-http://121.37.221.235
-http://o1.email.myubbs.com:62078
 http://bbs.hibet18.com
 http://help.ztrxw.cn
 http://178.236.45.61
@@ -372,6 +365,7 @@ http://bandumusicbbs.net
 http://47.101.61.41
 http://www.artskaoyan.com
 https://www.hengzhou365.com
+https://jiangjinbianminwang.cn
 http://47.93.52.129
 http://sxh.xmhy.cc
 http://47.103.23.172
@@ -708,6 +702,7 @@ https://www.znds.com
 http://www.chinayey.com
 https://bbs.emath.ac.cn
 http://bbs.cnblackhat.com
+http://118.190.105.95:801
 http://xiangtan.184409.com
 http://www.wycjy.com
 http://b.ns.e.myubbs.com:62078
@@ -822,7 +817,11 @@ http://154.85.222.106
 http://www.gyyrkj.com
 http://zghlzs.com
 http://www.xinyuelt2.com
+http://123.56.133.103
+http://ftp.dataguru.cn
+http://106.225.209.33:8081
 http://www.li20.net
+http://o1.email.myubbs.com:62078
 http://www.gosest.com
 http://150.158.152.164
 http://218.244.147.126
@@ -952,6 +951,7 @@ http://fdydd.top
 http://material.oecr.com
 http://www.btuge.com
 http://119.45.205.197
+http://www.wnt1688.cn
 http://ffans.club
 http://pda.dataguru.cn
 http://gobbit.users.wxdaiyan.cn
@@ -998,6 +998,7 @@ https://www.suiningwang.com
 http://210.56.60.100
 http://www.yy779.com
 http://www.huangdineijing.com
+http://qihuokaihu.cdfco.com.cn
 http://www.zgwxsg.com
 http://www.dtganji.com
 http://160.238.87.187
@@ -1563,6 +1564,7 @@ https://bbs.bdp.cn
 http://106.14.192.228:8082
 http://hanwowo.com
 http://v.yuxiangshequ.com
+http://139.199.183.128
 http://dz.zhijianyun.net
 http://bbs.dz.blizzard.cn
 http://www.help-hope.org
@@ -1617,8 +1619,11 @@ http://www.pcd99.com
 https://www.suapp.me
 http://www.artceda.com
 http://app.lingsky.com
+http://bbs.shouxi.com
 http://bbs.focusky.com.cn
 https://www.terrartanis.com
+http://www.mchkg.com
+http://121.37.221.235
 http://www.zibenquan.org
 https://club.dangbei.com
 http://wendan.com.cn
