@@ -1,23 +1,3 @@
-http://10.ustcjz.cn
-http://101.200.172.3
-http://www.dimai3d.com
-http://www.gcxaw.com
-http://com.cmtest.net
-https://dev.okfun.org
-http://client.dataguru.cn
-http://test.hmphanmi.com.cn
-http://bbs.duoqu.com
-http://www.airz.cn
-http://www.pir422.cc
-https://www.zhongchu56.com
-http://freeinfo.com.my
-http://www.shijiwenxue.top
-http://www.zhongshisheji.net
-https://www.sdxiangqiwang.com
-http://bbs.jcys.com
-http://202.133.247.70
-http://wuchangqu.com
-https://hhday.com.tw:8443
 http://www.china-liandu.com.cn
 http://www.2cy8.com
 http://theory.oecr.com
@@ -234,6 +214,7 @@ http://shanghainianhua.com
 http://bbs.yuceweb.com
 https://ibmbjb.com
 http://www.inextera.com
+http://portal.xingxiancn.com
 http://www.520mojin.com
 http://www.ctyhlt.com
 http://ww.4973.cn
@@ -354,6 +335,7 @@ http://www.sierracharlie.users.uttbbs.com
 http://baish.184409.com
 http://maps.uttbbs.com
 http://bbs.inknet.cn
+http://www.nongdui.com
 https://vip.yjxsoft.com
 http://104.237.56.131
 http://bbs.61cms.net
@@ -368,6 +350,7 @@ http://img.laoguanhe.com
 http://www.xn--fiz831d.com
 http://www.cta613.org
 http://www.u9zy.cn
+http://bbs.rdzjw.com
 http://www.1024bbs.cf
 http://www.sh-nfc.com
 http://221.6.48.116:88
@@ -475,6 +458,7 @@ http://zn1069.com
 http://bjsouyao.com
 https://www.zjdg.com
 http://121.41.39.109
+http://bbs.leshenriben.com
 http://www.west.club
 http://bbs.bd-gti.com
 http://bbs.5akm.com
@@ -489,6 +473,7 @@ http://bbs.rxbeby.com
 http://www.wutanju.com
 http://www.cgdream.com.cn
 http://home.bleachcn.net
+http://www.moka.vip
 http://xinyuelt4.com
 http://106.75.108.98
 http://www.rxjhbaobao.net
@@ -560,6 +545,7 @@ http://www.szy7.club
 http://www.hotlineage.com
 http://bbs.cnpes6.com
 http://pl.180724.com
+http://www.jinmen.cc
 http://luanboshiysclub.com
 https://www.315nh.com
 http://bbs.stvgame.com
@@ -570,6 +556,7 @@ http://bbs.forbaby.com.cn
 http://120.46.135.141
 http://bbs.264400.com
 http://diandee.com
+http://bbs.dqzjw.com
 http://115.29.189.88
 http://bbs.zgzkw.com
 http://www.zzb.tech
@@ -628,6 +615,7 @@ http://bgz6.com
 http://blog.yuxiangshequ.com
 http://www.fsjxjg.com
 https://zjtt.cn
+http://www.zhengjimtcn.com
 http://119.3.216.156
 http://chinatree.com
 http://www.xushi.net
@@ -657,6 +645,7 @@ http://hunan.bbs.nongquan.com
 http://bbs.qjyz.com.cn
 https://club.domain.cn
 http://www.cncelab.com
+https://club.22.cn
 https://www.5a56.cn
 https://bbs.huainet.com
 https://tcelue.ooo
@@ -800,6 +789,7 @@ http://www.rhino3d.us
 http://www.xmhy.cc
 http://www.gzsangna2.com
 https://bbs.3dmgame.com
+http://www.swothouse.com
 http://communitytest.ruijienetworks.com
 http://www.0734zly.com
 http://bbs.ivfmami.cn
@@ -818,6 +808,15 @@ http://b.ns.e.myubbs.com:62078
 http://cinema-home.cn
 http://www.jhdtw.cn
 https://help.massdesign.cn
+http://10.ustcjz.cn
+http://101.200.172.3
+http://com.cmtest.net
+http://client.dataguru.cn
+https://dev.okfun.org
+http://www.pir422.cc
+http://www.zhongshisheji.net
+http://www.shijiwenxue.top
+http://202.133.247.70
 http://www.fuwen1.com
 https://www.80baicai.biz
 http://www.larkmate.com
@@ -845,6 +844,7 @@ http://120.79.180.108
 https://583118.com
 https://www.awanzhou.com
 http://www.xinyuelt2.com
+http://www.li20.net
 http://www.gosest.com
 http://150.158.152.164
 http://218.244.147.126
@@ -1079,6 +1079,7 @@ https://www.paijibbs.com
 http://47.100.86.221
 http://talk.oecr.com
 http://www.huaibin88.cn
+http://bbs.xtjc.com
 http://www.ca.myubbs.com:62078
 http://www.zcsxxw.com
 http://pp9p.cc
@@ -1247,6 +1248,7 @@ http://www.yf77.com
 http://39.107.108.231:8088
 http://www.taotu99.net
 http://bbs.gyyrkj.com
+http://www.xiangxiangmedia.com
 https://www.100miaomu.cn
 http://files.wxdaiyan.cn
 http://www.jz100.com
@@ -1294,6 +1296,7 @@ http://bbs.du175.com
 http://www.caidiancun.com
 http://discuz.tomwx.net
 http://bbs.castudents.org
+http://bbs.xingxiancn.com
 http://heart.bluebaba.cn
 http://pohu.wang
 http://www.sglpw.cn
@@ -1405,6 +1408,7 @@ http://002.bleachcn.net
 http://www.kindrednet.cn
 http://rxjhbaobao.net
 http://www.micro-wsp.comcncontactwww.nakuz.com
+http://www.djyxx.com
 http://bbs.g3d.org
 http://www.birdwo.com
 http://tj.bbs.nongquan.com
@@ -1485,12 +1489,23 @@ http://bbs.bwxsj.cn
 https://dnaxcattalk.dnaxcat.com.tw
 http://www.awanzhou.com
 https://www.dongtingxw.com
+http://www.dimai3d.com
 http://sh.52bus.com
+http://www.gcxaw.com
+http://test.hmphanmi.com.cn
+http://www.airz.cn
+http://bbs.duoqu.com
+https://www.zhongchu56.com
+http://freeinfo.com.my
 http://bc-bc.xyz
 http://bbs.ningyuan.me
 http://www.52pg.net
 http://122.227.59.19
+https://www.sdxiangqiwang.com
+http://bbs.jcys.com
+http://wuchangqu.com
 http://www.sh086.com
+https://hhday.com.tw:8443
 https://bbs.iyunbiao.com
 http://www.xisn6.net
 http://www.735055.com
