@@ -87,6 +87,7 @@ http://113.254.20.186:8084
 https://47.110.78.242
 http://bbs.skykiwi.com
 http://jade.yuxiangshequ.com
+https://xinxinmin.com
 http://shgm.net
 http://www.jxfuli.cf
 http://irobo.org
@@ -303,6 +304,7 @@ http://www.beewok.com
 http://www.xylt3.com
 http://hhh.bgz6.com
 http://www.xiaoyeren.com
+http://www.shuolianai.com
 http://fs.184409.com
 http://betl.184409.com
 http://www.qbyan27.com
@@ -390,6 +392,7 @@ http://47.101.61.41
 http://www.artskaoyan.com
 https://www.hengzhou365.com
 http://smx.184409.com
+http://www.xng19.xyz
 https://jiangjinbianminwang.cn
 http://47.93.52.129
 http://sxh.xmhy.cc
@@ -592,6 +595,7 @@ http://oecr.com
 http://srfyf.zt.xa17.wang
 http://www.xahycj.com
 https://tcelue.tv
+https://bbs.twinkstar.cn
 https://shktvw.com
 http://tujuoutdoor.com
 http://www.hr.myubbs.com:62078
@@ -817,6 +821,7 @@ http://bbs.dmoli.com
 http://123.60.57.99
 http://i.idrugs.cn
 http://news.dataguru.cn
+https://www.wuyabuluo.com
 http://www.zzjggs.com
 http://www.qyzb.com.cn
 http://www.ddfyw.com
@@ -896,6 +901,7 @@ http://154.85.222.106
 http://www.gyyrkj.com
 http://zghlzs.com
 http://www.xinyuelt2.com
+http://klsh.com
 http://123.56.133.103
 http://wuhu.184409.com
 http://ftp.dataguru.cn
@@ -963,6 +969,7 @@ http://www.0756.name
 http://xzpeixian.180724.com
 http://www.xzly.com
 https://www.07133.cn
+http://www.klsh.com
 http://101.200.176.219
 http://film.dataguru.cn
 http://bbs.rhino3d.asia
@@ -1066,6 +1073,7 @@ http://39.106.111.122
 http://www.msn.hk.cn
 http://bbs.ykt1.cn:88
 https://www.usa.163dz.com
+https://dayibin.cn
 http://bbs.8090de.cn
 https://www.alex.users.gkzj.net
 http://118.31.40.168
@@ -1103,6 +1111,7 @@ https://bbs.5daowang.com
 https://www.suiningwang.com
 http://210.56.60.100
 http://www.yy779.com
+http://www.phete.com
 http://www.huangdineijing.com
 http://qihuokaihu.cdfco.com.cn
 http://www.zgwxsg.com
@@ -1197,6 +1206,7 @@ http://bbs.tb18.net
 https://www.ji14.com
 http://jb.ngouwu.com
 http://ty.184409.com
+http://xng19.xyz
 http://mg.184409.com
 http://bbs.aalborgportland.com.cn
 http://156.225.2.244:20000
@@ -1238,6 +1248,7 @@ http://122.114.110.99
 http://www.wxscreen.net
 http://bt.184409.com
 http://www.nuclear.net.cn
+https://www.phete.com
 http://bbs.cqcqcq.com
 http://81.69.249.252
 http://www.webfgoo.com
@@ -1330,6 +1341,7 @@ http://www.kcb2b.cn
 http://www.aibeiwang.com
 http://autodiscover.support.uttbbs.com
 http://60.248.140.2:8081
+https://www.doudouxiyan.com
 http://www.luoyouming.cc
 http://185.243.57.96:443
 http://bbs.0634.com
@@ -1371,6 +1383,7 @@ http://www.measurer8.com
 http://bbs.sijige.net
 http://www.robotjc.com
 http://www.lzpxf.com
+http://www.laigaoxiao.cn
 http://www.90yp.xyz
 http://tongling.184409.com
 http://club.west.cn
@@ -1390,6 +1403,7 @@ http://liuzhou.184409.com
 http://www.jz100.com
 https://www.zhujiaren.com
 http://bbs.wt-px.com
+http://bbs.babymozart.cc
 http://bbs.hbzkw.com
 http://bo.oecr.com
 http://ua.wxdaiyan.cn
@@ -1516,6 +1530,7 @@ http://121.42.13.206
 http://bbs.chinahrd.net
 http://meishi.ztrxw.cn
 http://bbs.toypf.com
+https://www.xinxinmin.com
 https://www.eleok.com
 http://www.aimang.net
 http://www.bjxxw.com
@@ -1576,6 +1591,7 @@ http://xiangyang.184409.com
 http://es.184409.com
 http://www.pinxijy.com
 http://www.sdsdzx.com
+http://www.toohost.info
 http://www.168gamesf.com
 http://002.bleachcn.net
 http://www.kindrednet.cn
