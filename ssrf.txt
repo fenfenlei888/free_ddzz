@@ -5,6 +5,7 @@ http://bbs.uker.net
 http://58.221.146.210:8090
 http://www.boesea.com
 http://winqu.com
+http://haoshu5.com
 http://suqian.184409.com
 http://www.xahr.org
 http://bbs.dahua-cpa.com
@@ -23,6 +24,7 @@ https://art.gkzj.net
 http://xiangqin.azheteng.cn
 http://mycuc.cn
 http://www.hdkaraokesong.com
+https://www.1024bbs.cf
 http://www.morelfans.cn
 http://www.food.myubbs.com:62078
 http://www.tkway.com
@@ -30,6 +32,7 @@ https://jiulia.xyz
 http://group.nciyuan.net
 http://182.254.208.215
 http://xzpeixian.180724.com
+https://www.sinlody.com
 http://bbs.lyhdw.com
 http://film.dataguru.cn
 http://www.gxphoto.org
@@ -120,6 +123,7 @@ http://hflxsld.com
 http://bbs.playdvb.com
 https://www.passions.com.cn
 http://ctxk.org
+http://www.haoshu5.com
 https://www.ezacg.top
 http://www.bugs.myubbs.com:62078
 http://www.zentrue.com
@@ -158,12 +162,14 @@ http://www.jeestudy.com
 http://jlpzj.net
 http://alashan.aizse.com
 https://webdisk.games.gkzj.net
+http://auto.ytbbs.com
 http://bbs.gyusoft.com
 http://opticaldesign.oecr.com
 https://syztdt.com
 https://jsbi.com.cn
 http://bbs.doit.am
 http://finance.oecr.com
+https://mail.maiyadi.org
 http://portfolio.wxdaiyan.cn
 http://so.ppfeng.com
 http://www.umhom23.com
@@ -264,6 +270,7 @@ http://www.feicuishuo.com
 http://45.136.150.15
 http://www.ogloszenia.myubbs.com:62078
 http://www.link.uttbbs.com
+http://wo.tkway.com
 http://www.yueyingzy.com
 http://www.8liuxing.com
 http://bbs.rhino3d.us
@@ -303,6 +310,7 @@ http://www.kb9453.com
 http://bbs.abntest.com
 http://my0514.net
 http://www.xinliliang.org
+http://club.lvya.org
 http://www.education.uttbbs.com
 http://job.oecr.com
 http://www.xinyuelt7.com
@@ -338,6 +346,7 @@ https://27.102.129.228
 https://yhlc.p2peye.com
 http://bbs.china-ws.org
 http://139.199.28.65
+http://love.ztrxw.cn
 http://www.dzstyle.cn
 http://ustcsv.com
 http://106.55.169.186:8088
@@ -354,6 +363,7 @@ http://www.westpay.com.cn
 http://120.27.93.163:9091
 https://www.qisehua.wang
 http://bbs.zz18.com
+https://tc.rlwsh.com
 http://www.mx.myubbs.com:62078
 http://www.nl.uttbbs.com
 http://stbbk.com
@@ -372,6 +382,7 @@ http://bbs.hanwangsoft.com
 http://xn--cjrstt1p9mdrylbyc1t3a.com
 http://www.sh1069.cc
 http://1.117.58.254
+http://jiankang.ytbbs.com
 https://bbs.phhua.com
 http://nt.184409.com
 http://www.wutanju.com
@@ -415,6 +426,7 @@ http://52pojie.xyz
 http://autodiscover.support.uttbbs.com
 http://60.248.140.2:8081
 http://120.25.196.77
+http://185.243.57.96:443
 http://www.10086rom.com
 http://news.yanfabu.com
 http://pg6.sip.dataguru.cn
@@ -455,6 +467,7 @@ https://bbs.skyfleet.cc
 http://en.dataguru.cn
 http://luanboshiysclub.com
 http://www.demo2.myubbs.com:62078
+https://www.315nh.com
 http://39.107.108.231:8088
 http://medicine.oecr.com
 https://www.pzbxs.com
@@ -484,6 +497,7 @@ http://com.cnww.molifan.net
 http://gamezhuan8.top
 http://39.103.201.166
 http://202.117.154.215
+http://bbs.lvya.org
 http://www.india.uttbbs.com
 https://bbs.rrjc.com
 http://ppfeng.com
@@ -499,6 +513,7 @@ http://www.mycuc.cn
 http://cloud.wxdaiyan.cn
 http://au.wxdaiyan.cn
 http://www.huadu.biz
+http://arm-cn.com
 http://www.cwyan.com
 http://www.ffwold.com
 http://www.huanqing.org
@@ -517,6 +532,7 @@ http://pohu.wang
 http://47.105.94.241
 http://121.42.238.32
 https://donellaguida.com
+http://www.wo.tkway.com
 http://yanan.180724.com
 http://bbs.lvchakeji.cn
 http://120.25.171.194
@@ -534,9 +550,11 @@ http://www.chnfly.net
 http://chinatree.com
 http://119.3.216.156
 http://autodiscover.forums.myubbs.com:62078
+http://www.xushi.net
 http://www.xxnms.com
 http://www.pianopaper.net
 http://forum.go2tutor.com
+https://www.zp05.com
 http://www.suixin888.com
 http://www.uk.myubbs.com:62078
 http://proxy.wxdaiyan.cn
@@ -578,6 +596,7 @@ https://54.185.218.198
 https://www.tuanlong.top
 http://helpdesk.dataguru.cn
 http://opticaltest.oecr.com
+http://www.fspd6.com
 http://113.254.20.186:8080
 http://www.oecr.com
 http://oecr.com
@@ -611,6 +630,7 @@ http://bbs.paobiaoqi.com
 https://114.215.119.205
 http://tunchang.184409.com
 https://test.szckhd.com
+http://bbs.asitb.cn
 http://www.listenyuan.com
 http://www.tr.uttbbs.com
 http://www.sqzksub.com
@@ -669,6 +689,7 @@ http://hhday.com.tw
 http://www.19fang.net
 http://www.100sj.net
 http://anshun.aizse.com
+http://lvyou.ytbbs.com
 http://image.cool-de.com
 http://www.extranet.uttbbs.com
 https://zuirouqing.yymoban.com
@@ -683,6 +704,7 @@ http://wiki.keepcloud.cn
 http://www.zfwz.net
 http://www.iaacp.org
 http://www.98905.com
+http://qinzi.ytbbs.com
 http://47.101.197.44
 http://qh.bbs.nongquan.com
 https://xng55.xyz
@@ -733,6 +755,7 @@ http://112.74.170.175
 https://news.yanfabu.com
 http://www.0734zly.com
 http://xxyysszz.com
+http://www.jomen.net
 http://timmad.com
 http://zjwchc.xiasha.cn
 http://www.members.uttbbs.com
@@ -788,6 +811,7 @@ http://all.edge.uttbbs.com
 https://isp-caledon.cit.gkzj.net
 http://opsbbs.whaley.cn
 http://www.penbbs.com
+http://love.ytbbs.com
 http://fudanu.com
 http://www.pr.uttbbs.com
 http://bbs.compressor.cn
@@ -801,6 +825,7 @@ http://mg.180724.com
 http://www.motoing.com.cn
 http://www.zzjggs.com
 http://www.ddfyw.com
+http://ceshile.cn
 http://bbs.wangjing.cn
 http://www.jkzmd.com
 http://140.143.244.108
@@ -813,6 +838,7 @@ https://m.huosub2b.com
 https://bbs.shouxi.com
 http://bbs.rauz.net.cn
 http://gamesos.co.kr
+http://buy.ytbbs.com
 http://liyangedu.com
 http://106.14.192.228:8082
 http://www.dn2828.com
@@ -826,6 +852,7 @@ http://www.help-hope.org
 http://discuz.qqtz.com
 http://www.haomake.xyz
 http://secidc.org.cn
+http://www.haga7.club
 http://45.136.150.17
 http://dhcp.pilsnet.myubbs.com:62078
 http://bbs.dzol.cn
@@ -840,6 +867,7 @@ http://mzjyss.cn
 http://www.robot-ai.org
 http://www.shengzhe.net
 https://zhinanzhen.org
+https://www.haga7.club
 http://123.56.88.72
 http://zhihuibaoku.cn
 http://bbs.linuxeye.com
