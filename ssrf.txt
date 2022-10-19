@@ -1,9 +1,3 @@
-http://am.184409.com
-http://bbs.epower.cn
-https://www.macw.cn
-https://www.zippobymazziinchina.com
-http://www.danyou8.com
-http://www.tjzjbbs.com
 http://imaoigou.cn
 http://www.measurer8.com
 http://lsdca.com
@@ -674,6 +668,7 @@ https://bbs.xlhost.cn
 http://bbs.shenkongwang.com
 http://zlt.sseuu.com
 https://www.yxzx111.com
+http://www.baisha0898.com
 http://www.xietd.com
 https://bbs.epower.cn
 http://webdisk.travel.myubbs.com:62078
@@ -1373,6 +1368,7 @@ http://ga.180724.com
 http://www.bbs.tuize.com
 http://finance.oecr.com
 https://mail.maiyadi.org
+http://bbs.admway.com
 https://www.tcren.cn
 http://www.wildhunter.xyz
 http://bbs.51testing.com
@@ -1527,6 +1523,7 @@ http://zixun.lingtuan.com
 http://chongzuo.180724.com
 http://nt.180724.com
 https://www.jetsocome.com
+http://baisha0898.com
 http://www.xa17.wang
 http://www.ustcsv.com
 http://139.162.17.188
@@ -1607,6 +1604,9 @@ https://www.9xng.xyz
 http://118.31.165.148
 http://www.wendan.com.cn
 http://chunyealley.com.tw
+https://www.zippobymazziinchina.com
+https://www.macw.cn
+http://www.tjzjbbs.com
 https://cclme.cn
 https://bbs.mfcad.com
 http://108.170.5.101:8080
@@ -2827,7 +2827,10 @@ http://bbs.nakuz.com
 http://www.linuxchaney.com
 http://www.qmxyc.cn
 https://www.sou688.com
+http://bbs.epower.cn
+http://am.184409.com
 https://www.bdznz.com
+http://www.danyou8.com
 http://www.teamanga.cn
 http://www.yawanju.com
 http://sab.sabjy.com
