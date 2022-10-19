@@ -1,6 +1,3 @@
-http://www.taotu99.net
-http://bbs.gyyrkj.com
-http://www.xiangxiangmedia.com
 http://www.enroobbs.com
 https://www.100miaomu.cn
 http://files.wxdaiyan.cn
@@ -1223,6 +1220,7 @@ http://www.biotrainee.com
 http://luzhou.180724.com
 https://bbs.kangantu.com
 http://search.uttbbs.com
+http://www.xn--7hvu6lcwr.com
 http://bbs.chinadjba.com
 http://www.28tongji.com
 http://www.zyys128.com
@@ -1527,6 +1525,7 @@ http://nxs053.cc
 http://www.lipar.com.tw
 http://www.qyage.net
 http://bbs.zonzu.cn
+http://www.yifen30.com
 http://bbs.chinabike.net
 http://rudong.180724.com
 http://imfec.23du.com
@@ -1612,6 +1611,8 @@ http://www.chijiuhui.net
 https://bbs.skyfleet.cc
 http://en.dataguru.cn
 https://used.rv28.com
+http://www.taotu99.net
+http://www.xiangxiangmedia.com
 https://www.svipshare.com
 http://184.95.51.86:8080
 http://www.santafe-tw.com
@@ -2852,6 +2853,7 @@ https://www.yunweiku.com
 http://www.demo2.myubbs.com:62078
 http://www.yf77.com
 http://39.107.108.231:8088
+http://bbs.gyyrkj.com
 http://ssjx2.top
 http://bbs.uipkernel.com
 https://bbs.gotvg.com
@@ -2961,6 +2963,7 @@ http://bengbu.180724.com
 http://www.mmdsy.com
 http://mianyang.180724.com
 http://bayannaoer.w91.cn
+http://www.qcfdlt.com
 https://ifans.site
 http://jiajiao.xiasha.cn
 http://bbs.d7w.net
