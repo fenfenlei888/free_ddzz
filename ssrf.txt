@@ -1,4 +1,3 @@
-http://bbs.uker.net
 http://www.boesea.com
 https://8fx.news
 http://suqian.184409.com
@@ -71,6 +70,7 @@ http://bbs.mxxsyh.com
 http://meigongyun.com
 http://www.lebvo.com
 http://light.oecr.com
+http://www.913js.org
 http://bbs.sunsili.com
 http://sh.exampx.com
 http://bbs.tianmingxy.com
@@ -932,6 +932,7 @@ http://www.santafe.tw
 http://jpsn.cn
 http://www.ernaibyw.com
 http://www.iyppz.com
+http://www.tomwx.cn
 http://www.hamiga.com
 http://bbs.quanbazhong.cn
 http://45.64.75.58
@@ -1388,6 +1389,7 @@ https://27.102.129.228
 http://edu.oecr.com
 https://yhlc.p2peye.com
 http://love.ztrxw.cn
+http://cowork.jrjkg.com.cn
 http://imuxuan.com
 http://www.haining.cn
 http://www.91show.club
@@ -1971,6 +1973,7 @@ http://www.1314mh.com
 http://bbs.dzol.cn
 http://chaozhou.184409.com
 http://shanghai.hmsem.com
+http://www.txtnovel.top
 http://beijing.hmsem.com
 https://bbs.yiwugo.com
 http://103.132.235.65
@@ -2042,3 +2045,6 @@ https://club.dangbei.com
 http://wendan.com.cn
 http://110.76.44.26
 http://display.oecr.com
+http://bbs.hasea.com
+http://bbs.uker.net
+http://www.hasea.com
