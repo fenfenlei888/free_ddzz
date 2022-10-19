@@ -1,5 +1,3 @@
-http://xng19.xyz
-http://mg.184409.com
 http://bbs.aalborgportland.com.cn
 http://156.225.2.244:20000
 https://bbs.yanfabu.com
@@ -717,6 +715,7 @@ http://110.76.44.26
 http://display.oecr.com
 https://syyyd.com
 http://www.xahr.org
+http://bbs.visionzone.com.cn
 http://bbs.dahua-cpa.com
 http://zunyi.180724.com
 http://120.48.31.72
@@ -760,6 +759,7 @@ http://www.115533.com
 http://www.zsacg.com
 http://t.wupen.cn
 http://www.zimeitibbs.com
+https://kartinfo.me
 http://autoconfig.email.uttbbs.com
 http://technology.oecr.com
 http://qingyuan.184409.com
@@ -2682,8 +2682,10 @@ http://www.jsxslyh.com
 http://www.ruodiantong.com
 http://bbs.ecmoban.com
 http://ty.184409.com
+http://xng19.xyz
 http://108.170.5.98:8080
 https://bbs.guitarsquare.com
+http://mg.184409.com
 http://baise.w91.cn
 http://www.jzs08.com
 http://daxinganling.w91.cn
