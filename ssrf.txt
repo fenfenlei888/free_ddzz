@@ -1,5 +1,3 @@
-http://123.60.57.99
-http://i.idrugs.cn
 http://news.dataguru.cn
 https://www.wuyabuluo.com
 http://www.zzjggs.com
@@ -1708,6 +1706,8 @@ http://love.ytbbs.com
 http://bangbu.aizse.com
 http://syet.net
 http://bbs.dmoli.com
+http://123.60.57.99
+http://i.idrugs.cn
 http://bbs.roobo.com
 http://www.jmczsoft.com:82
 http://bbs.hasea.com
@@ -1830,6 +1830,7 @@ http://47.96.40.243:8080
 https://www.niagara-china.com
 http://renhuai.tv
 http://mail.bbs.tuize.com
+https://bbs.qupu123.com
 http://www.ornithopter.cn
 http://39.109.112.72
 http://www.ukin.ca
@@ -2335,6 +2336,7 @@ http://108.170.5.78:8080
 http://www.52mti.com
 http://bbs.flythings.cn
 http://anshun.aizse.com
+http://bbs.qupu123.com
 http://www.ceeppe.com
 http://122.112.230.93:8080
 http://xng1.top
