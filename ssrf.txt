@@ -1,7 +1,3 @@
-http://www.nhjd.net
-http://61.220.142.211
-http://www.quanbazhong.cn
-http://display.oecr.com
 http://bbs.uker.net
 http://www.boesea.com
 https://8fx.news
@@ -47,6 +43,7 @@ http://haian.184409.com
 http://www.service.uttbbs.com
 https://6xng.xyz
 https://www.52pojie.xyz
+http://www.tcshyx.com
 http://top.wxdaiyan.cn
 https://39.97.164.17
 http://106.15.9.113
@@ -833,11 +830,14 @@ http://www.hbxczx.cn
 http://xinyuelt8.com
 http://www.moodle.myubbs.com:62078
 http://www.zhao11.com
+http://61.220.142.211
+http://www.quanbazhong.cn
 https://www.shuhuajia.me
 http://nd.184409.com
 http://gang.cn
 http://188.lmcpw.net
 http://bbs.0391.com.cn
+http://bbs.inter.net.cn
 http://58.221.146.210:8090
 http://www.biotrainee.com
 http://winqu.com
@@ -859,6 +859,7 @@ https://www.hao0724.com
 https://art.gkzj.net
 http://xiangqin.azheteng.cn
 http://mycuc.cn
+https://pzyxs.com.cn
 http://www.food.myubbs.com:62078
 https://www.1024bbs.cf
 http://www.waterant.cn
@@ -1631,6 +1632,8 @@ http://www.zibenquan.org
 http://bbs.2012jh.com
 https://bslthb.cn
 http://dlhw.net
+http://www.nhjd.net
 https://club.dangbei.com
 http://wendan.com.cn
 http://110.76.44.26
+http://display.oecr.com
