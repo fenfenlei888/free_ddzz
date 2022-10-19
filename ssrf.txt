@@ -1,4 +1,3 @@
-http://60.248.140.2:8081
 https://www.doudouxiyan.com
 http://www.luoyouming.cc
 http://185.243.57.96:443
@@ -1608,6 +1607,7 @@ http://www.cfan.cc
 http://www.kcb2b.cn
 http://autodiscover.support.uttbbs.com
 http://www.zzzzbbbb.com
+http://60.248.140.2:8081
 http://www.06gd.com
 http://www.180724.com
 http://www.zyt8.com
@@ -2311,6 +2311,7 @@ https://www.chuxiong.com
 http://123.ytbbs.com
 http://www.rxjhsq.net
 http://www.9453bb.com
+http://www.cq3.in
 http://www.imxy28.com
 http://www.99huitu.com
 http://35.194.171.161
