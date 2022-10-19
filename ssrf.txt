@@ -1,13 +1,3 @@
-http://beewok.com
-http://bbs.3qck.com
-http://www.hbzjw.net.cn
-https://cacnews.ca
-http://www.jwjiaoji.com
-http://number81.xyz
-http://bbs.livinglabs.cn
-http://xyolgm.com
-http://www.jinggzj.com
-http://www.0u1u.com
 http://108.170.5.78:8080
 http://www.romjz.com
 http://182.61.14.172
@@ -1432,6 +1422,7 @@ http://bbs.huakebosi.com
 http://www.qx4.cn
 http://sy.180724.com
 https://7177.cn
+http://11sgz.com
 http://bbs.zggdxy.com
 http://112.90.82.4:8181
 https://www.x505.cn
@@ -1601,6 +1592,7 @@ https://yzjwjx.daqufa.com
 http://www.jay2u.club
 https://hrbhjmjg.com
 http://www.vrzy123.com
+https://www.cgioo.com
 http://yq.180724.com
 http://www.yantaitupianyun.com
 http://qinzhou.180724.com
@@ -1749,7 +1741,14 @@ https://www.souho.net
 https://www.feihua8.com
 http://www.ispeak.cn
 http://sg.184409.com
+http://beewok.com
+https://cacnews.ca
+http://www.hbzjw.net.cn
+http://bbs.livinglabs.cn
+http://number81.xyz
+http://xyolgm.com
 http://101.200.73.54
+http://www.jinggzj.com
 http://www.jzlqw.com
 http://bvu877.cc
 http://www.bacysoft.cn
@@ -1765,6 +1764,7 @@ http://www.zhilexue.tech
 http://bbs.8yx.com
 http://t.diandee.com
 http://syet.net
+http://bbs.roobo.com
 http://www.jmczsoft.com:82
 http://bbs.hasea.com
 http://www.vfe647.cc
@@ -2343,7 +2343,11 @@ https://www.9vcar.com
 http://www.yfhzzx.com
 https://allcp.net
 http://ns.e.wxdaiyan.cn
+http://bbs.3qck.com
+http://www.jwjiaoji.com
 https://forum.eve-ng.cn
+http://www.mowangtuili.cn
+http://www.0u1u.com
 https://www.5i8.org
 http://pop.cpure.org
 http://fd.bbs.9wee.com
@@ -2354,6 +2358,8 @@ https://zulin.rv28.com
 https://app.qianmo.me
 http://baoji.w91.cn
 http://jhsyw.com
+https://bbs.pyua.net
+http://i.vr2.tv
 https://www.hqyx.me
 http://45.33.44.158
 http://118.89.57.183
@@ -2456,6 +2462,7 @@ http://www.zjman.cn
 http://forum.wxdaiyan.cn
 http://www.lietou007.com
 http://www.ckuyun.com
+http://bbs.game0951.com
 http://106.52.28.22:83
 http://www.lingdian.org.cn
 https://x505.cn
