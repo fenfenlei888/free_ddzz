@@ -1,11 +1,3 @@
-https://bbs.yaozh.cn
-http://ftp.dataguru.cn
-http://106.225.209.33:8081
-http://www.li20.net
-http://o1.email.myubbs.com:62078
-http://www.gosest.com
-http://150.158.152.164
-http://218.244.147.126
 http://iqingua.com
 http://bbs.hibet18.com
 http://www.pshezi.com
@@ -1479,6 +1471,7 @@ https://www.tuanlong.top
 http://opticaltest.oecr.com
 http://www.oecr.com
 http://jiatc.com
+http://64.32.12.98:443
 http://srfyf.zt.xa17.wang
 https://tcelue.tv
 https://bbs.twinkstar.cn
@@ -1677,6 +1670,10 @@ http://www.xinyuelt2.com
 http://123.56.133.103
 http://klsh.com
 http://www.jyxdsxh.cn
+http://ftp.dataguru.cn
+http://218.244.147.126
+http://150.158.152.164
+http://www.gosest.com
 https://stage.fn139.168tech.vip
 http://bbs.zhiyou100.com
 http://www.guochong.net
@@ -1952,6 +1949,7 @@ http://www.zgbbs.org
 http://crm.uttbbs.com
 http://xsgbbs.com
 http://www.bb.uttbbs.com
+http://64.32.12.100:443
 http://bleachcn.net
 https://ibmhome365.com
 https://webdisk.news.163dz.com
@@ -2120,6 +2118,7 @@ http://bbs.87870.com
 http://xxke.cn
 https://hgpoo.com
 https://bbs.dawansheng.com
+https://bbs.weijj.com
 http://www.jhsyw.com
 http://hotel.uttbbs.com
 http://www.yimawang.cn
@@ -2479,6 +2478,10 @@ http://154.85.222.106
 http://zghlzs.com
 http://bbs.lqqcw.com
 http://wuhu.184409.com
+http://106.225.209.33:8081
+https://bbs.yaozh.cn
+http://www.li20.net
+http://o1.email.myubbs.com:62078
 http://wly.bbs.9wee.com
 http://bbs.lytmh.com.cn
 http://43.154.220.234:8090
