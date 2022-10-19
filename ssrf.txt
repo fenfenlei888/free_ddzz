@@ -137,6 +137,7 @@ http://121.127.235.150
 http://haining.184409.com
 http://www.52pojie.xyz
 http://shouguang.184409.com
+https://mcar.vip
 http://pl.184409.com
 http://www.52jiance.cn
 http://sytu.myubbs.com
@@ -334,6 +335,7 @@ http://heyuan.184409.com
 http://www.dzstyle.cn
 http://ustcsv.com
 http://www.lzqpwh.com
+http://www.csrworld.cn
 http://106.55.169.186:8088
 http://www.tcgzw.cn
 http://14.29.203.250:8081
@@ -480,6 +482,7 @@ http://bbs.forbaby.com.cn
 http://120.46.135.141
 http://bbs.264400.com
 http://diandee.com
+https://bbs.opencart.cn
 http://bbs.dqzjw.com
 http://115.29.189.88
 http://bbs.zgzkw.com
@@ -1371,6 +1374,7 @@ http://bbs.zjtt.cn
 http://bbs.nakuz.com
 http://www.0750.name
 http://www.1868888.com
+http://118.31.165.148
 https://www.9xng.xyz
 http://www.wendan.com.cn
 http://am.184409.com
@@ -1536,6 +1540,7 @@ http://www.aimang.net
 http://www.bjxxw.com
 http://yukang.org.cn
 http://wh.184409.com
+http://mdq.mdxxw.cn
 http://jx.184409.com
 http://www.bandumusicbbs.net
 http://www.gameofmir.com.cn
@@ -1762,6 +1767,7 @@ http://v.yuxiangshequ.com
 http://139.199.183.128
 http://dz.zhijianyun.net
 http://bbs.dz.blizzard.cn
+http://bbs.9tripod.com
 http://www.help-hope.org
 http://bbs.52rd.com
 http://45.136.150.17
