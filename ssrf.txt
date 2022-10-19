@@ -1,6 +1,3 @@
-http://zh.184409.com
-https://7177.cn
-https://forum.kaiyuan.de
 http://ksxt.zhiyou100.com
 http://www.sxjszx.com.cn
 http://104.143.10.132:8888
@@ -1953,6 +1950,7 @@ http://webdisk.travel.myubbs.com:62078
 http://bbs.huakebosi.com
 http://www.qx4.cn
 http://sy.180724.com
+https://7177.cn
 http://112.90.82.4:8181
 http://47.74.178.33
 http://market.wxdaiyan.cn
@@ -1997,6 +1995,7 @@ http://www.ganhaonas.xyz:8181
 https://renrenoffice.com
 http://120.27.241.130:876
 https://club.topsage.com
+http://bbs.dcjr.cn
 https://fl.china2001.com.cn
 http://120.198.76.2:82
 http://www.santafe-tw.com
@@ -2123,6 +2122,8 @@ http://wxcw99.com
 http://www.lgbbs.cn
 http://www.szyp6.com
 http://www.fspd3.com
+http://zh.184409.com
+https://forum.kaiyuan.de
 http://www.zgbbs.org
 http://www.sxydedu.cn
 https://www.3sjt.com
@@ -2163,6 +2164,7 @@ http://www.jzs08.com
 http://www.00211.cn
 http://221.215.73.173:9090
 http://wxedu.com.cn
+https://yuzhe.liyiyi.name
 http://47.102.199.28:9000
 http://home.lytmh.com.cn
 http://net.wxdaiyan.cn
