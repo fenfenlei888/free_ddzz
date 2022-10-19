@@ -1,12 +1,3 @@
-http://t.sqxw.cn
-https://bbs.mingbaiyun.com
-http://luoyang.184409.com
-http://198.12.231.14
-https://wine.ucfamily.com.cn
-http://gn.184409.com
-http://www.ccwin.cn
-http://123.57.9.201:8080
-https://bbs.cailiaoren.com
 https://www.imaoigou.cn
 http://dasheshen.com
 https://47.91.186.183
@@ -1635,6 +1626,7 @@ http://www.todayhot.cn
 http://94.191.103.19
 http://bbs.9wee.com
 http://www.diandee.com
+http://benxi.aizse.com
 http://www.90yunpan.com
 https://we.poppur.com
 http://www.2003n.cn
@@ -1739,6 +1731,9 @@ http://www.heike666.com
 http://119.28.188.53
 http://luohe.184409.com
 http://www.toosoft.cn
+http://t.sqxw.cn
+https://wine.ucfamily.com.cn
+http://luoyang.184409.com
 http://tc.bbs.9wee.com
 http://www.hdchd.cc
 http://www.luanboshiysclub.com
@@ -1787,6 +1782,7 @@ https://zjimo.com
 https://www.0771ao.com
 https://www.xms33.top
 http://dayibin.cn
+http://changzhou.w91.cn
 http://x505.cn
 http://www.ssjx1.top
 https://renrenoffice.com
@@ -2382,7 +2378,13 @@ http://dameme.skybbs.biz
 http://bbs.chinaswim.com
 http://news.uttbbs.com
 https://zulin.rv28.com
+https://bbs.mingbaiyun.com
+http://198.12.231.14
+http://gn.184409.com
 https://app.qianmo.me
+http://123.57.9.201:8080
+http://www.ccwin.cn
+https://bbs.cailiaoren.com
 http://baoji.w91.cn
 http://tanhuaxiuchewang.com
 http://jhsyw.com
@@ -2402,6 +2404,7 @@ http://bbs.kppw.cn
 http://bbs.guochong.net
 http://www.printerwhy.net
 http://test3.wxdaiyan.cn
+http://baoding.w91.cn
 http://chinazhiqing.com
 http://bbs.chizhouchacha.com
 http://163.21.236.70
@@ -2504,7 +2507,9 @@ http://wd.znds.com
 http://dong.w91.cn
 https://admin.infinix.club
 http://www.woaidaima.com
+http://www.scgjp.com.cn
 https://bbs-dev.xuanshang12.cn
+http://baotou.w91.cn
 https://bbs.chinacma.org
 http://z.tonghuar.com
 https://www.975w.com
