@@ -1,16 +1,3 @@
-http://www.noc.myubbs.com:62078
-http://zsu.myubbs.com
-http://www.fuwen1.com
-http://www.xunsos.net
-https://www.80baicai.biz
-http://www.larkmate.com
-http://bbs.eastsea.com.cn
-http://96.126.101.89:80
-http://www.hnfhhgj.com
-http://tr.180724.com
-http://8888888.ltd
-https://www.gm6699.com
-http://www.manmanqi.com
 http://bbs.cjrj.org
 http://bbs.hkesp.com
 http://czn.com.cn
@@ -1716,6 +1703,9 @@ http://hf.184409.com
 http://www.zhilexue.tech
 https://dev.okfun.org
 https://121.196.191.46
+http://www.fuwen1.com
+http://8888888.ltd
+http://www.manmanqi.com
 http://bbs.8yx.com
 http://t.diandee.com
 http://syet.net
@@ -1780,6 +1770,7 @@ http://nxs053.cc
 http://bbs.zonzu.cn
 http://120.198.76.2:82
 http://www.cfan.cc
+http://www.zzzzbbbb.com
 http://www.06gd.com
 http://108.170.5.100:8080
 https://bbs.cnction.com
@@ -1788,6 +1779,7 @@ http://108.170.5.101:8080
 http://www.boy-toy.net
 http://bbs.370k.com
 http://www.chijiuhui.net
+https://used.rv28.com
 http://184.95.51.86:8080
 http://www.santafe-tw.com
 http://www.tbqq.net
@@ -2383,6 +2375,7 @@ http://jhsyw.com
 https://bbs.pyua.net
 http://i.vr2.tv
 http://www.xmhy.cc
+http://xlibbs.com
 https://bbs.3dmgame.com
 http://zunyi.184409.com
 http://www.swothouse.com
@@ -2400,6 +2393,7 @@ http://xiangtan.184409.com
 http://118.190.105.95:801
 http://cinema-home.cn
 http://www.jhdtw.cn
+http://bbs.feiyuqing.cn
 http://www.wenxiucn.com
 http://com.cmtest.net
 http://www.iscut.cn
@@ -2412,7 +2406,17 @@ http://www.zhongshisheji.net
 http://118.89.57.183
 http://202.133.247.70
 http://www.test2.myubbs.com:62078
+http://zsu.myubbs.com
+http://www.noc.myubbs.com:62078
+https://www.80baicai.biz
+http://www.xunsos.net
 http://iuni.xinruiweb.com
+http://www.larkmate.com
+http://tr.180724.com
+http://www.hnfhhgj.com
+http://96.126.101.89:80
+http://bbs.eastsea.com.cn
+https://www.gm6699.com
 http://www.langrissera.com
 http://www.chattyku.com:8090
 https://www.pucatalyst.com
@@ -2547,6 +2551,7 @@ http://dazhou.w91.cn
 http://tzy.myznufe.com
 https://camp.rv28.com
 http://changde.w91.cn
+http://bbs.ehongya.com
 http://bangbu.w91.cn
 http://www.mtedu.utaipei.edu.tw
 http://zq2.bbs.9wee.com
