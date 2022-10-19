@@ -1,6 +1,3 @@
-https://www.doudouxiyan.com
-http://www.luoyouming.cc
-http://185.243.57.96:443
 http://bbs.0634.com
 http://www.goodnas.net
 http://www.mifengedu.cn
@@ -1608,6 +1605,7 @@ http://www.kcb2b.cn
 http://autodiscover.support.uttbbs.com
 http://www.zzzzbbbb.com
 http://60.248.140.2:8081
+http://185.243.57.96:443
 http://www.06gd.com
 http://www.180724.com
 http://www.zyt8.com
@@ -1656,6 +1654,7 @@ http://bijie.w91.cn
 http://wlmq.180724.com
 http://fz.180724.com
 http://home.my0557.cn
+http://community.wistone.com
 http://bbs.changeducation.cn
 http://anshun.180724.com
 https://www.hgpoo.com
@@ -2796,6 +2795,8 @@ http://naruto.bleachcn.net
 http://bbs.cnqol.com
 http://lps.184409.com
 http://www.aibeiwang.com
+http://www.luoyouming.cc
+https://www.doudouxiyan.com
 http://47.102.199.28:9000
 https://slashtw.space
 http://baiyin.aizse.com
