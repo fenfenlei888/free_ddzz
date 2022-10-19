@@ -1,4 +1,3 @@
-http://ggg.bgz6.com
 http://52pojie.xyz
 http://bbs.liyueer.com
 http://tc.184409.com
@@ -1703,6 +1702,7 @@ http://fagui.nongquan.com
 http://www.caiyuanzi.org
 http://36.137.241.31:8000
 http://www.liyangedu.com
+http://43.142.14.33:81
 https://www.mchkg.com
 http://waqxw.com
 https://bbs.xlhost.cn
@@ -2205,6 +2205,7 @@ http://jay2u.club
 http://changji.184409.com
 http://fengshui.xigehuangjia.com
 http://www.bbs-csw.com
+http://ggg.bgz6.com
 http://d.tonghuar.com
 http://bbs.anychat.cn
 http://www.yimawang.cn
