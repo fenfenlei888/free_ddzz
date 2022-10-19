@@ -1,4 +1,3 @@
-http://ksxt.zhiyou100.com
 http://www.sxjszx.com.cn
 http://104.143.10.132:8888
 http://www.whhbat.com
@@ -2124,6 +2123,7 @@ http://www.szyp6.com
 http://www.fspd3.com
 http://zh.184409.com
 https://forum.kaiyuan.de
+http://ksxt.zhiyou100.com
 http://www.zgbbs.org
 http://www.sxydedu.cn
 https://www.3sjt.com
@@ -2178,6 +2178,7 @@ https://t.icax.org
 http://hero.bbs.9wee.com
 http://forum.wxdaiyan.cn
 http://www.lietou007.com
+http://106.52.28.22:83
 https://bbs.chinacma.org
 http://www.mtedu.utaipei.edu.tw
 http://zq2.bbs.9wee.com
