@@ -1,6 +1,3 @@
-http://zongyi.oyuw.com
-http://news.yanfabu.com
-http://www.cmenews.cn
 http://bleach.bleachcn.net
 http://www.hzweiyun.com
 http://bbs.huawin.com
@@ -1422,6 +1419,7 @@ http://rugao.180724.com
 http://218.76.65.252
 http://bbs.innear.cn:8090
 http://www.gdankuai.com
+http://www.cpure.org
 http://mgm1.diy.cc
 http://xinyue234.com
 http://bbs.gushu7.com
@@ -2800,6 +2798,9 @@ http://www.luoyouming.cc
 https://www.doudouxiyan.com
 http://47.102.199.28:9000
 http://www.yevr.top
+http://www.cmenews.cn
+http://news.yanfabu.com
+http://zongyi.oyuw.com
 https://slashtw.space
 http://baiyin.aizse.com
 https://www.xyyao.com
