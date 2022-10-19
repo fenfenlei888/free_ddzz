@@ -5,6 +5,7 @@ http://bbs.uker.net
 http://58.221.146.210:8090
 http://www.boesea.com
 http://winqu.com
+http://www.lianyaowang.com
 http://haoshu5.com
 http://suqian.184409.com
 http://www.xahr.org
@@ -18,6 +19,7 @@ http://www.cnecop.com
 http://club.oecr.com
 https://www.cqlf.info
 http://www.wikin.cn
+http://www.huawu2020.com
 https://www.vzhang.net
 http://forum.mplusfun.com
 https://art.gkzj.net
@@ -71,6 +73,7 @@ http://changdu.184409.com
 http://autoconfig.email.uttbbs.com
 http://www.davinci-cg.com
 http://technology.oecr.com
+http://china-liandu.com.cn
 http://www.lebvo.com
 http://meigongyun.com
 http://light.oecr.com
@@ -115,6 +118,7 @@ http://www.024mh.com
 http://www.nvadmin5.com
 http://www.hmting.com
 http://www.eshangyu.com
+http://zhgfwx.com
 http://www.mclassic.com.hk
 http://www.xhymsq.com
 http://132.232.176.167
@@ -126,6 +130,7 @@ http://www.blrys.com
 http://st.180724.com
 http://hflxsld.com
 http://bbs.playdvb.com
+http://sglpw.cn
 http://124.222.198.5:81
 https://www.passions.com.cn
 http://ctxk.org
@@ -193,11 +198,13 @@ http://opticalfilm.oecr.com
 http://www.wanmirbbs.com
 http://www.jiadianbbs.cn
 https://www.chinafix.com
+http://www.lixinjiayuan.com
 https://bbs.5daowang.com
 http://www.yy779.com
 http://bbs.mdm520.cn
 https://www.mchkg.com
 http://www.52ytq.com
+http://www.zgwxsg.com
 http://pansj.cc
 http://160.238.87.187
 http://zlt.sseuu.com
@@ -243,6 +250,7 @@ http://bbs.61cms.net
 http://106.14.1.150:8090
 http://bbs.teachersbbs.com
 http://106.55.38.226
+http://wycjy.com
 http://www.xinyuelt9.com
 https://115.vipfenxiang.com
 https://www.cgdream.com.cn
@@ -430,6 +438,7 @@ http://hz.rhygc.com
 http://124.222.66.43
 http://bbs.suozhuai.com
 http://lbpv.cc
+http://www.mtxlt.com
 http://www.qingquxuexiao.cn
 http://4x4.sh.cn
 http://feikechina.com
@@ -478,6 +487,7 @@ http://holographic.oecr.com
 http://www.measurer8.com
 http://sh-nfc.com
 http://bbs.morelfans.cn
+http://bbs.sijige.net
 http://yzjinhuan.com
 http://www.ilovezhai.com
 http://www.lzpxf.com
@@ -554,6 +564,7 @@ http://108.61.160.124
 http://bbs.castudents.org
 http://discuz.tomwx.net
 http://www.caidiancun.com
+http://www.sglpw.cn
 http://hongfengml.com
 http://pohu.wang
 http://47.105.94.241
@@ -723,6 +734,7 @@ http://www.romjz.com
 http://www.52mti.com
 http://tj.bbs.nongquan.com
 http://hhday.com.tw
+http://www.lichenyue.com
 http://www.19fang.net
 http://www.100sj.net
 http://anshun.aizse.com
@@ -807,6 +819,7 @@ https://www.daybuy.tw
 http://www.jipinshequ.com
 http://www.chinayey.com
 http://flash.dataguru.cn
+http://www.wycjy.com
 http://xiangtan.184409.com
 http://b.ns.e.myubbs.com:62078
 http://love.uttbbs.com
@@ -827,12 +840,14 @@ http://www.airz.cn
 http://www.pir422.cc
 https://www.zhongchu56.com
 http://freeinfo.com.my
+http://www.shijiwenxue.top
 http://www.zhongshisheji.net
 https://www.sdxiangqiwang.com
 http://bbs.jcys.com
 http://202.133.247.70
 http://wuchangqu.com
 https://hhday.com.tw:8443
+http://www.china-liandu.com.cn
 http://www.2cy8.com
 http://theory.oecr.com
 https://121.196.191.46
