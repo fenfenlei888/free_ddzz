@@ -1,8 +1,3 @@
-http://iqingua.com
-http://bbs.hibet18.com
-http://www.pshezi.com
-http://www.chuidiao365.com
-http://bbs.quanzhi.com
 http://sail-lab.net
 http://178.236.45.61
 http://help.ztrxw.cn
@@ -1674,6 +1669,9 @@ http://ftp.dataguru.cn
 http://218.244.147.126
 http://150.158.152.164
 http://www.gosest.com
+http://iqingua.com
+http://www.pshezi.com
+http://www.chuidiao365.com
 https://stage.fn139.168tech.vip
 http://bbs.zhiyou100.com
 http://www.guochong.net
@@ -1691,6 +1689,7 @@ http://bbs.chinarein.com
 http://www.syet.net
 https://bbs.twinkstar.com
 http://bbs.u-tpe.com
+http://group.cantonese.asia
 http://www.jbn122.cc
 http://www.princeton.com.cn
 http://www.bbs.tuize.com
@@ -1759,6 +1758,7 @@ http://203.33.224.178:8081
 http://www.x505.cn
 http://discuz.myesball.net
 https://bbs.anluw.com
+http://home.cantonese.asia
 http://bijie.w91.cn
 http://home.my0557.cn
 http://www.0csm.com
@@ -1998,6 +1998,7 @@ http://www.gzsfkj.com
 http://www.gssjcjy.com
 http://122.112.227.136
 http://www.0760.biz
+http://www.cantonese.asia
 http://www.intehn.com
 http://108.170.5.102:8080
 http://www.dxhb.cc
@@ -2482,7 +2483,9 @@ http://106.225.209.33:8081
 https://bbs.yaozh.cn
 http://www.li20.net
 http://o1.email.myubbs.com:62078
+http://bbs.hibet18.com
 http://wly.bbs.9wee.com
+http://bbs.quanzhi.com
 http://bbs.lytmh.com.cn
 http://43.154.220.234:8090
 http://www.ho-la.cn
