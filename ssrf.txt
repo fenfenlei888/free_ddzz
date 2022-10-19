@@ -1,4 +1,3 @@
-http://bbs.gtibee.com
 http://www.51fpush.com
 http://job.oecr.com
 http://www.lwgod.org
@@ -1609,6 +1608,7 @@ http://www.xinliliang.org
 https://club.topsage.com
 http://club.lvya.org
 http://www.education.uttbbs.com
+http://bbs.gtibee.com
 http://bbs.dcjr.cn
 http://ifans.site
 https://dealer.rv28.com
@@ -2839,6 +2839,7 @@ http://bbs.d7w.net
 http://princeton.com.cn
 http://hk.180724.com
 http://svipshare.com
+http://www.earn.pet
 http://wuzhong.180724.com
 https://www.ipaiji.com
 http://wuhu.180724.com
