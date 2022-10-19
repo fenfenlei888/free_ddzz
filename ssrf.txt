@@ -1058,6 +1058,7 @@ http://www.bugs.myubbs.com:62078
 https://www.ezacg.top
 http://www.haoshu5.com
 http://bbs.kangantu.org
+http://47.95.35.30
 https://www.txrjy.com
 http://www.0757111.com
 http://fdydd.top
@@ -1306,6 +1307,7 @@ http://bbs.cailiaoren.com
 http://www.xisn5.net
 http://49.234.183.121
 http://bbs.sgconline.com.cn
+http://114.112.74.132:8089
 http://news.oecr.com
 http://education.wxdaiyan.cn
 http://da.184409.com
@@ -1791,6 +1793,7 @@ http://honey.bluebaba.cn
 https://www.4k123.com
 https://www.icnzz.cn
 http://wj.cmjnu.com.cn
+http://www.guiyib.com
 http://songyuan163.com
 http://64.32.12.99:443
 https://jingjixue123.xyz
