@@ -487,6 +487,7 @@ http://bbs.gzhifi.com
 http://108.170.5.76
 http://www.1024wz.top
 http://www.yszq.net
+http://www.0516k.com
 http://www.jsshys.com
 https://www.zhongxinwanka.com
 http://holographic.oecr.com
@@ -699,6 +700,7 @@ http://www.0750yl.com
 https://number81.xyz
 http://43.138.147.221
 https://lib.gkzj.net
+http://dz.magapp-x.magcloud.cc
 http://www.fdydd.top
 https://5i8.us
 http://114.107.245.122:9080
@@ -981,6 +983,7 @@ http://178.236.45.61
 http://help.ztrxw.cn
 http://www.zhenpet.com
 https://www.szy7.club
+http://bbs.221600.cn
 http://elearning.wxdaiyan.cn
 https://mabinogi.club
 http://www.hbxczx.cn
@@ -1115,6 +1118,7 @@ http://st.180724.com
 http://www.lyhdw.com
 http://www.5isudu.com
 http://bbs.playdvb.com
+http://124.223.212.110
 http://www.yuxinanmo.com
 https://www.passions.com.cn
 http://124.222.198.5:81
@@ -1390,6 +1394,7 @@ http://home.wangjing.cn
 http://www.xzqc.net
 http://www.qyage.net
 http://bbs.cailiaoren.com
+http://bbs.chinabike.net
 http://www.xisn5.net
 http://49.234.183.121
 http://bbs.sgconline.com.cn
@@ -1704,9 +1709,11 @@ http://www.jbsfdc.com
 http://www.aifangjie.cn
 http://115.28.31.233
 http://xiangyang.184409.com
+http://www.wcjbb.com
 http://es.184409.com
 http://www.pinxijy.com
 http://www.sdsdzx.com
+http://bbs.0516k.com
 http://www.toohost.info
 http://www.168gamesf.com
 http://002.bleachcn.net
@@ -1911,6 +1918,7 @@ http://honey.bluebaba.cn
 https://www.4k123.com
 https://www.icnzz.cn
 http://wj.cmjnu.com.cn
+http://59.126.32.10
 http://www.guiyib.com
 http://songyuan163.com
 http://64.32.12.99:443
