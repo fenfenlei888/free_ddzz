@@ -1,5 +1,3 @@
-http://ts.184409.com
-http://bbs.shart.cn
 http://ctxk.org
 http://sglpw.cn
 http://www.zentrue.com
@@ -1989,6 +1987,7 @@ https://www.bilimlar.com
 https://www.gjkeji.com
 http://www.blrys.com
 http://hflxsld.com
+http://bbs.shart.cn
 http://45.56.85.29
 http://waqxw.com
 http://bbs.huakebosi.com
@@ -2018,6 +2017,7 @@ http://www.xy28home.com
 http://47.97.181.149:8097
 http://bbs.u-tpe.com
 https://renrenoffice.com
+http://120.27.241.130:876
 https://club.topsage.com
 https://bbs.anluw.com
 http://home.my0557.cn
@@ -2089,6 +2089,7 @@ http://px.cmjnu.com.cn
 http://www.dsw6.com
 http://116.255.230.131:8093
 http://www.xhymsq.com
+http://ts.184409.com
 http://www.93cs.com
 https://www.cmdyx.com
 http://www.28cun.com
@@ -2099,6 +2100,7 @@ https://www.anluw.com
 http://bbs.icfpa.cn
 https://www.zcboss.com
 http://foshan.qcyx.org
+http://180.166.245.194:8888
 https://bbs.kongfen.org.cn
 http://www.hasea.com
 http://fd.bbs.9wee.com
