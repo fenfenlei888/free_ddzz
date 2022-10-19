@@ -1,4 +1,3 @@
-https://fc.dcjixiang.com
 http://122.51.207.16
 http://bbs.huoying666.com
 http://47.74.190.202
@@ -1776,6 +1775,7 @@ https://wujindeng.net
 https://www.dubious.users.163dz.com
 http://dz.plas2006.com
 http://www.zydgbbs.com
+https://fc.dcjixiang.com
 http://101.37.227.158:8080
 http://45.77.70.143
 http://sg.bbs.9wee.com
@@ -2344,6 +2344,7 @@ http://wly.bbs.9wee.com
 http://bbs.lytmh.com.cn
 http://43.154.220.234:8090
 http://cc.wxdaiyan.cn
+http://60.251.32.214
 http://14.29.179.149:8081
 http://114.107.231.211:8082
 http://www.cyjl.cn
