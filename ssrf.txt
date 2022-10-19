@@ -200,6 +200,7 @@ http://www.cmiw.cn
 http://zlt.sseuu.com
 http://www.51minsheng.com
 http://154.87.1.174
+http://www.lgbbs.cn
 https://bbs.epower.cn
 http://www.xietd.com
 http://wxcw99.com
@@ -253,6 +254,7 @@ http://www.1024bbs.cf
 http://www.sh-nfc.com
 http://221.6.48.116:88
 http://108.170.5.100
+http://www.zhaohushi.com
 http://47.92.192.118:999
 http://www.xyolgm.com
 http://bbs.youxitian.com
@@ -272,6 +274,7 @@ http://media.netzone.com
 http://www.ca001.com
 http://www.c4d8.net
 http://42.192.140.92
+https://lgbbs.cn
 http://47.110.47.105
 http://www.feicuishuo.com
 http://www.mayueling.com
