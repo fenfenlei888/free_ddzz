@@ -1,6 +1,3 @@
-https://www.donellaguida.com
-http://bbs.suozhuai.com
-http://lbpv.cc
 http://www.871daiyun.com
 http://www.inwaishe.com
 http://changji.184409.com
@@ -1821,6 +1818,7 @@ http://bbs.zz18.com
 http://www.toosoft.org
 http://stbbk.com
 https://www.optbbs.com
+http://www.hgs99.com
 http://zn1069.com
 http://www.iuibe.com
 http://www.china2001.com
@@ -1861,6 +1859,7 @@ http://zw.180724.com
 http://pp.wxdaiyan.cn
 http://dh.bbs.9wee.com
 http://111.67.198.23
+http://lbpv.cc
 http://bbs.topbin.cn
 http://www.asiangirl99.com
 http://www.ltbly.com
@@ -1871,6 +1870,7 @@ http://www.puyiji.com
 http://119.23.14.180
 https://bbs.wulinshe.com
 http://184.95.51.85:8080
+http://bbs.sj.58qiqu.com
 http://work.17mc.cc:9090
 http://jlpzj.cn-www.jlpzj.cn
 http://xkh877.cc
@@ -2200,6 +2200,8 @@ http://47.93.52.129
 http://www.11op.com
 http://www.impk113.com
 http://www.dakedakedu.com
+https://www.donellaguida.com
+http://bbs.suozhuai.com
 http://jay2u.club
 http://d.tonghuar.com
 http://bbs.anychat.cn
@@ -2244,6 +2246,7 @@ http://bbs.lytmh.com.cn
 http://43.154.220.234:8090
 http://cc.wxdaiyan.cn
 http://14.29.179.149:8081
+http://114.107.231.211:8082
 http://www.cyjl.cn
 http://www.xh580.net
 http://150.109.113.206:8090
