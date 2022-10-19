@@ -1,4 +1,3 @@
-http://bbs.chinadjba.com
 http://1.83.154.140:8093
 https://www.faceboer.org
 http://www.zyys128.com
@@ -1661,6 +1660,7 @@ http://bbs.inter.net.cn
 http://www.biotrainee.com
 https://bbs.kangantu.com
 http://search.uttbbs.com
+http://bbs.chinadjba.com
 http://www.28tongji.com
 https://yl.0771ao.com
 https://dev.fn139.168tech.vip
@@ -2432,6 +2432,7 @@ http://mzjyss.cn
 https://bbs.ichuanglan.com
 http://123.56.88.72
 http://zhihuibaoku.cn
+https://www.itsk.com
 http://baoding.w91.cn
 http://wjsyjxh.com
 http://guangzhou.hmsem.com
