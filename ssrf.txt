@@ -1,8 +1,3 @@
-https://sandeli.daqufa.com
-http://www.52tk.net
-http://gamezhuan8.top
-http://202.117.154.215
-http://www.india.uttbbs.com
 http://ppfeng.com
 http://bbs.ipcgta.com
 https://development.gkzj.net
@@ -1819,6 +1814,11 @@ http://soe-parrot.com
 http://bbs.sj.58qiqu.com
 http://jianhu.184409.com
 http://www.blgxnet.com
+http://gamezhuan8.top
+http://www.52tk.net
+https://sandeli.daqufa.com
+http://202.117.154.215
+http://www.india.uttbbs.com
 http://work.17mc.cc:9090
 http://jlpzj.cn-www.jlpzj.cn
 http://xkh877.cc
@@ -1826,6 +1826,7 @@ http://dandong.w91.cn
 http://108.170.5.76:8080
 http://202.85.222.116
 http://bbs.9wee.com
+http://bbs.dawansheng.com
 http://www.zydgbbs.com
 http://101.37.227.158:8080
 http://45.77.70.143
@@ -2058,6 +2059,7 @@ http://www.bb.uttbbs.com
 http://bleachcn.net
 https://ibmhome365.com
 https://webdisk.news.163dz.com
+http://108.170.5.74:8080
 http://bbs.inknet.cn
 http://maps.uttbbs.com
 http://www.sxydedu.cn
@@ -2206,6 +2208,7 @@ http://121.199.29.110
 http://101.42.161.149
 http://bbs.87870.com
 http://xxke.cn
+https://bbs.dawansheng.com
 http://hotel.uttbbs.com
 http://www.yimawang.cn
 http://xn.184409.com
