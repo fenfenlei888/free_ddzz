@@ -386,6 +386,7 @@ http://140.143.187.135
 http://106.54.79.191:8090
 http://bbs.cskin.net
 https://tcelue.net
+http://www.jyrm.cn
 http://bbs.hanwangsoft.com
 http://129.204.105.114:8080
 http://1.117.58.254
@@ -481,6 +482,7 @@ http://ys.184409.com
 http://bbs.gzhifi.com
 http://108.170.5.76
 http://www.1024wz.top
+http://www.yszq.net
 http://www.jsshys.com
 https://www.zhongxinwanka.com
 http://holographic.oecr.com
@@ -661,6 +663,7 @@ https://www.dubious.users.163dz.com
 http://47.95.118.66
 https://uujh1.com
 http://64.32.12.101:443
+http://223.72.182.50:8200
 https://fc.dcjixiang.com
 http://122.51.207.16
 http://bbs.huoying666.com
@@ -701,6 +704,7 @@ http://xinyuelt7.com
 http://sbc.sanbeicha.com.cn
 http://101.200.54.194
 http://bbs.yitens.net
+http://59.127.158.12
 http://mail.centerbbs.com
 http://www.gaoduanke.com
 http://www.csgkplc.com
@@ -745,6 +749,7 @@ http://image.cool-de.com
 http://www.ceeppe.com
 https://zuirouqing.yymoban.com
 https://voip750101.pg6.sip.gkzj.net
+http://xng1.top
 http://122.112.230.93:8080
 http://bbs.chinatree.com
 http://dl.mamacn.com
@@ -911,6 +916,7 @@ http://baicheng.w91.cn
 http://www.rexuesq.com
 http://linzhi.180724.com
 https://www.archive.gkzj.net
+http://gj.jyrm.cn
 http://www.xinyuelt5.com
 http://www.jgsdf.com
 https://sjhz.mobi
@@ -972,6 +978,7 @@ http://elearning.wxdaiyan.cn
 https://mabinogi.club
 http://www.hbxczx.cn
 http://xinyuelt8.com
+http://www.lsdca.com
 http://www.moodle.myubbs.com:62078
 http://www.zhao11.com
 http://61.220.142.211
@@ -1189,6 +1196,7 @@ http://ifunstar.com
 http://218.76.65.252
 http://www.gdankuai.com
 http://bbs.innear.cn:8090
+http://mgm1.diy.cc
 http://qinyeba.com
 http://xinyue234.com
 http://hrb.184409.com
@@ -1237,6 +1245,7 @@ http://39.105.131.214
 http://www.yjqun.com
 http://www.paheng.com
 http://www.tabyw.com
+http://cta613.org
 http://www.bjdsw.cn
 http://www.szwalking.com
 http://www.pmcenter.cn
@@ -1262,6 +1271,7 @@ http://www.ca.myubbs.com:62078
 http://www.zcsxxw.com
 http://pp9p.cc
 http://bbs.91zhiliang.com
+http://yszq.cn
 http://www.ruodiantong.com
 http://www.jsxslyh.com
 http://shop.wxdaiyan.cn
@@ -1321,6 +1331,7 @@ http://www.webfgoo.com
 http://rxjhsq.net
 http://108.170.10.234
 http://bbs.oecr.com
+http://forums.joygames.me
 http://www.s.myubbs.com:62078
 http://106.54.117.50:8080
 https://27.102.129.228
@@ -1346,6 +1357,7 @@ http://bbs.wh27s.cn
 https://www.saratov.gkzj.net
 http://88.lmcpw.net
 http://114.116.13.137
+http://ssjx0.top
 http://180.97.151.53
 http://wjq.184409.com
 http://sensor.oecr.com
@@ -1438,6 +1450,7 @@ http://qiye.lg5.com
 http://chifeng.184409.com
 http://bbs.gongzuoya.com
 https://www.79bo3.com
+http://bbs.geonet.cn
 http://bbs.zjtt.cn
 http://bbs.nakuz.com
 http://www.0750.name
@@ -1452,6 +1465,7 @@ https://www.zippobymazziinchina.com
 http://www.danyou8.com
 http://www.tjzjbbs.com
 http://www.measurer8.com
+http://lsdca.com
 http://bbs.sijige.net
 http://www.robotjc.com
 http://www.lzpxf.com
@@ -1504,6 +1518,7 @@ https://dhr.moe
 https://www.domain.gkzj.net
 http://nb.184409.com
 http://www.firemail.wang:8088
+http://yf.jyrm.cn
 http://www.chinatree.com
 http://49.232.191.113
 https://bbs.ayyt.com
@@ -1577,6 +1592,7 @@ http://www.sszzcw.com
 http://bbs.chishoes.com
 http://43.143.128.146
 http://sanya.184409.com
+http://mbbs.medextech.com:8200
 http://kingstargold.cn
 https://club.idcgz.net
 http://hu.184409.com
@@ -1634,6 +1650,7 @@ http://ls.184409.com
 http://www.sqzksub.com
 http://43.136.176.17
 https://www.yztown.vip
+http://bbs.dayin.la
 http://www.qixingquan.com
 http://cj.cmjnu.com.cn
 http://115.29.109.104
@@ -1776,6 +1793,7 @@ http://www.wuxi0510.com
 http://flash.dataguru.cn
 http://love.uttbbs.com
 http://www.91d2.org
+http://52mti.com:8888
 http://bbs.bwxsj.cn
 https://dnaxcattalk.dnaxcat.com.tw
 http://www.awanzhou.com
@@ -1827,6 +1845,7 @@ http://www.8888888.ltd
 http://www.nakuz.com
 http://kb9453.com
 http://www.cqxdx.com
+http://www.yszq.cn
 http://www.dlhw.net
 http://fang.514200.com
 http://mg.180724.com
