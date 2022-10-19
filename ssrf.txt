@@ -1,6 +1,3 @@
-http://122.51.207.16
-http://bbs.huoying666.com
-http://47.74.190.202
 http://1540516856.com
 https://bbs.9you.com
 http://www.mytju.cn
@@ -1776,6 +1773,9 @@ https://www.dubious.users.163dz.com
 http://dz.plas2006.com
 http://www.zydgbbs.com
 https://fc.dcjixiang.com
+http://47.74.190.202
+http://bbs.huoying666.com
+http://122.51.207.16
 http://101.37.227.158:8080
 http://45.77.70.143
 http://sg.bbs.9wee.com
@@ -1829,6 +1829,7 @@ https://dealer.rv28.com
 http://www.csacas.com
 https://bbs.iwangzhe.com
 https://fl.china2001.com.cn
+https://www.jetsocome.com
 http://bbs.5ucms.com
 http://nxs053.cc
 http://bbs.zonzu.cn
