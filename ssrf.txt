@@ -1,5 +1,3 @@
-http://www.xinliliang.org
-https://club.west.cn
 http://svipfulishipin6.top
 http://www.education.uttbbs.com
 http://club.lvya.org
@@ -845,6 +843,7 @@ http://fagui.nongquan.com
 http://www.caiyuanzi.org
 http://36.137.241.31:8000
 http://www.liyangedu.com
+http://bbs.itaokecms.com
 http://43.142.14.33:81
 http://zhuzhou.180724.com
 https://www.mchkg.com
@@ -1608,6 +1607,8 @@ http://120.27.241.130:876
 http://156.225.2.244:20000
 http://www.kb9453.com
 http://bbs.5imx.com
+https://club.west.cn
+http://www.xinliliang.org
 https://club.topsage.com
 http://bbs.dcjr.cn
 http://ifans.site
