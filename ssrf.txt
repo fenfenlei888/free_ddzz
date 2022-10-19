@@ -870,6 +870,7 @@ http://o1.email.myubbs.com:62078
 http://bbs.hibet18.com
 http://178.236.45.61
 http://sail-lab.net
+https://www.szy7.club
 http://aufe.myubbs.com
 https://mabinogi.club
 http://elearning.wxdaiyan.cn
