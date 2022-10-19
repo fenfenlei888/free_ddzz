@@ -1,9 +1,3 @@
-http://sail-lab.net
-http://178.236.45.61
-http://help.ztrxw.cn
-http://www.zhenpet.com
-https://www.szy7.club
-http://bbs.221600.cn
 http://elearning.wxdaiyan.cn
 https://mabinogi.club
 http://www.hbxczx.cn
@@ -1644,6 +1638,7 @@ http://bbs.phonegap100.com
 http://linzhi.180724.com
 http://www.goitos.com
 https://bbs.dahuagong.com
+https://www.52tikong.com
 http://gj.jyrm.cn
 http://bbs.nowxue.com
 http://www.movies.uttbbs.com
@@ -1714,6 +1709,7 @@ http://ifans.site
 https://dealer.rv28.com
 http://www.csacas.com
 https://shuiye.cc
+https://52tikong.com
 https://bbs.iwangzhe.com
 https://fl.china2001.com.cn
 https://www.jetsocome.com
@@ -2486,6 +2482,12 @@ http://o1.email.myubbs.com:62078
 http://bbs.hibet18.com
 http://wly.bbs.9wee.com
 http://bbs.quanzhi.com
+http://www.zhenpet.com
+http://help.ztrxw.cn
+http://178.236.45.61
+http://sail-lab.net
+https://www.szy7.club
+http://bbs.221600.cn
 http://bbs.lytmh.com.cn
 http://43.154.220.234:8090
 http://www.ho-la.cn
@@ -2642,6 +2644,7 @@ http://bbs.miji7.com
 https://362411.com.cn
 http://94.74.87.187
 https://mopaishi.com
+https://baisha.tongcheng.ink
 http://bayannaoer.w91.cn
 https://ifans.site
 http://bbs.d7w.net
