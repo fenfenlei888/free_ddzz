@@ -1,10 +1,3 @@
-http://www.wxcw99.com
-http://www.6566566.com
-http://129.204.66.164
-http://dameme.skybbs.biz
-http://bbs.chinaswim.com
-http://119.28.188.53
-http://news.uttbbs.com
 http://luohe.184409.com
 http://www.toosoft.cn
 http://t.sqxw.cn
@@ -1651,6 +1644,7 @@ http://www.jpun.net
 https://az980.com
 http://hunan.bbs.nongquan.com
 http://bbs.qjyz.com.cn
+https://fn139.168tech.vip
 http://www.cncelab.com
 http://csgkplc.com
 https://www.tuanlong.top
@@ -1740,7 +1734,11 @@ http://www.number81.xyz
 http://shz.184409.com
 http://poczta.dataguru.cn
 https://163it.top
+http://www.wxcw99.com
+http://www.6566566.com
+http://129.204.66.164
 http://www.heike666.com
+http://119.28.188.53
 http://tc.bbs.9wee.com
 http://www.hdchd.cc
 http://www.luanboshiysclub.com
@@ -1771,6 +1769,7 @@ http://bbs.zhiyou100.com
 http://www.guochong.net
 http://www.28tongji.com
 https://yl.0771ao.com
+https://dev.fn139.168tech.vip
 http://www.xy28home.com
 https://www.heikejiedan1.com
 https://lb.0771ao.com
@@ -1850,6 +1849,7 @@ http://115533.com
 http://www.myok.cc
 https://www.wtsxia.com
 https://www.beicity.com
+https://cascade.fn139.168tech.vip
 http://www.lytmh.com.cn
 http://119.8.183.194
 https://www.soonidea.cn
@@ -2378,6 +2378,9 @@ http://www.imxy28.com
 http://www.99huitu.com
 http://35.194.171.161
 http://bbs.xxyw.com
+http://dameme.skybbs.biz
+http://bbs.chinaswim.com
+http://news.uttbbs.com
 https://zulin.rv28.com
 https://app.qianmo.me
 http://baoji.w91.cn
@@ -2485,6 +2488,7 @@ http://cn-www.jlpzj.cn
 http://www.space-empires.com
 https://pucatalyst.com
 https://t.icax.org
+https://c-ni.cn
 http://hero.bbs.9wee.com
 https://www.sxbst.net.cn
 http://www.zjman.cn
@@ -2515,6 +2519,7 @@ https://www.xghylt.com
 http://www.okz034.cc
 https://gx.0771ao.com
 http://mszb.ckuyun.com
+http://chaoyang.w91.cn
 http://www.sngdzx.cn:8088
 https://362411.com.cn
 http://94.74.87.187
