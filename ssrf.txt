@@ -1,9 +1,3 @@
-http://221.6.48.116
-https://www.zhinanzhen.org
-http://148.70.21.123
-http://www.hanwowo.com
-http://www.lipar.com.tw
-http://home.wangjing.cn
 http://www.xzqc.net
 http://www.qyage.net
 http://bbs.cailiaoren.com
@@ -1613,9 +1607,12 @@ http://bbs.swiper.com.cn
 http://www.h596.com
 http://www.linsivvi.com
 http://diqing.aizse.com
+http://148.70.21.123
+http://221.6.48.116
 http://zh.180724.com
 http://bbs.5ucms.com
 http://nxs053.cc
+http://www.lipar.com.tw
 http://bbs.zonzu.cn
 http://rudong.180724.com
 http://xm.180724.com
@@ -1735,6 +1732,7 @@ http://www.ukin.ca
 http://daqing.aizse.com
 http://bbs.tonghuar.com
 https://1069-2.com
+http://www.60shequ.cn
 https://www.zjimo.com
 http://datong.w91.cn
 http://boertala.w91.cn
@@ -2254,6 +2252,7 @@ http://zk.cmjnu.com.cn
 http://47.104.207.91:8090
 http://guyuan.184409.com
 http://ca.gegeyou.com
+http://www.ry0751.com
 http://www.kingstargold.cn
 http://bygl.184409.com
 https://number81.xyz
@@ -2753,11 +2752,14 @@ https://bs.0771ao.com
 https://bbs.lingkee.cn
 https://yuzhe.liyiyi.name
 http://nt.184409.com
+https://www.zhinanzhen.org
 http://1069-1.com
+http://www.hanwowo.com
 http://www.ermudi.cn
 http://bbs.tuize.com
 http://bbs.91shenfan.com
 http://42.121.15.9:8003
+http://home.wangjing.cn
 https://bbs.wstx.com
 https://bbs.zonzu.cn
 http://okz034.cc
