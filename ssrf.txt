@@ -1,5 +1,3 @@
-http://bbs.cuug.com
-http://www.vsj.wang
 https://bbs.ikuai8.com
 http://bbs.yxsensing.net
 http://au.wxdaiyan.cn
@@ -1685,6 +1683,7 @@ http://116.255.230.131:8086
 http://www.coltansmart.com
 http://ihuge.net
 http://99957764.deutron.com.tw
+http://hnrhrj.com
 http://bbs.hiioo.com
 http://bbs.china-ws.org
 http://139.199.28.65
@@ -2263,6 +2262,8 @@ http://kezhilibin.net
 http://www.minsu.com.cn
 http://sctz5.com
 http://www.mycuc.cn
+http://www.vsj.wang
+http://bbs.cuug.com
 http://www.youjiaotv.com
 http://vfe647.cc
 http://180.166.245.194:8888
