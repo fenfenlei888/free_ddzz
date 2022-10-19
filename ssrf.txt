@@ -1,8 +1,3 @@
-http://bbs.199u2.com
-http://123.ytbbs.com
-https://fuckoz.com
-http://bbs.lgrapp.cn
-http://www.rxjhsq.net
 http://www.number81.xyz
 http://www.99huitu.com
 http://121.227.42.121:7777
@@ -1745,6 +1740,8 @@ http://www.zfwz.net
 http://www.98905.com
 http://lin.ywzt.wang
 http://bbs.qianbaomm.com
+https://fuckoz.com
+http://bbs.lgrapp.cn
 https://163it.top
 http://www.heike666.com
 http://tc.bbs.9wee.com
@@ -1762,6 +1759,7 @@ http://www.jmczsoft.com:82
 http://bbs.hasea.com
 http://www.vfe647.cc
 http://mail.langrissera.com
+http://www.09hw.icu
 http://bbs.phonegap100.com
 http://www.goitos.com
 https://bbs.dahuagong.com
@@ -1806,6 +1804,7 @@ https://shuiye.cc
 https://bbs.iwangzhe.com
 https://fl.china2001.com.cn
 https://www.jetsocome.com
+http://139.162.17.188
 http://bbs.5ucms.com
 http://nxs053.cc
 http://bbs.zonzu.cn
@@ -2371,7 +2370,10 @@ http://fd.bbs.9wee.com
 http://wiki.keepcloud.cn
 http://www.iaacp.org
 https://xng55.xyz
+http://bbs.199u2.com
 https://www.chuxiong.com
+http://123.ytbbs.com
+http://www.rxjhsq.net
 http://www.9453bb.com
 http://www.imxy28.com
 https://zulin.rv28.com
@@ -2402,6 +2404,7 @@ http://wly.bbs.9wee.com
 http://bbs.lytmh.com.cn
 http://43.154.220.234:8090
 http://cc.wxdaiyan.cn
+http://09hw.icu
 http://60.251.32.214
 http://14.29.179.149:8081
 http://114.107.231.211:8082
