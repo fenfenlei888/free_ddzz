@@ -1,9 +1,3 @@
-http://bbs.babymozart.cc
-http://bbs.hbzkw.com
-http://bo.oecr.com
-http://ua.wxdaiyan.cn
-http://lyhdw.com
-http://47.105.100.124
 http://edu.wxdaiyan.cn
 https://www.aisojie.com
 http://www.nowba007.com
@@ -1617,6 +1611,9 @@ http://184.95.51.86:8080
 http://www.santafe-tw.com
 https://www.zhujiaren.com
 http://bbs.wt-px.com
+http://bbs.babymozart.cc
+http://47.105.100.124
+http://lyhdw.com
 http://www.tbqq.net
 https://mxeia.com
 http://www.showing9.com
@@ -2837,6 +2834,7 @@ http://bbs.epower.cn
 http://am.184409.com
 https://www.bdznz.com
 http://www.danyou8.com
+http://www.chishoes.com
 http://www.xxyysszz.com
 http://www.measurer8.com
 http://lsdca.com
@@ -2859,6 +2857,9 @@ http://39.107.108.231:8088
 http://bbs.gyyrkj.com
 http://ssjx2.top
 http://bbs.uipkernel.com
+http://bo.oecr.com
+http://bbs.hbzkw.com
+http://ua.wxdaiyan.cn
 https://bbs.gotvg.com
 http://sec.wangxinzhi.com
 http://www.520hack.com
