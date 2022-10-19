@@ -1,4 +1,3 @@
-http://222.73.135.105:8000
 http://zzwav.com
 http://www.bj-ygsp.com
 https://luck.crtslt.net
@@ -2634,6 +2633,7 @@ http://138.2.17.133
 http://ifunstar.com
 https://bbs.xuanshang95.com
 http://qinyeba.com
+http://222.73.135.105:8000
 http://www.hyl044.cc
 https://zhilexue.tech
 https://bbs.ca168.com
@@ -2764,6 +2764,7 @@ http://www.xtm340.cc
 http://cz.180724.com
 http://www.okz034.cc
 https://gx.0771ao.com
+http://bbs.pyua.net
 http://www.shouji188.net
 http://bbs.xinpg.com
 http://www.wptcw.com
