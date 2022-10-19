@@ -1,4 +1,3 @@
-http://bbs.newslist.com.cn
 http://www.mingxingjie.com.cn
 http://bbs.enlern.com
 http://www.tooidc.cn
@@ -1867,6 +1866,7 @@ http://119.28.75.197
 http://pansj.cc
 https://xinpg.com
 http://www.lji823.cc
+http://kb.ventuz.com.cn
 http://91lng.com
 http://www.cmiw.cn
 http://www.51minsheng.com
@@ -2809,6 +2809,7 @@ http://baiyin.aizse.com
 https://www.xyyao.com
 http://daxinganling.aizse.com
 http://16kaoyan.com:8888
+http://bbs.newslist.com.cn
 http://home.lytmh.com.cn
 http://bbs.hulimm.com
 http://www.qmxyc.cn
