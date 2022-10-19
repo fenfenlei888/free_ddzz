@@ -1,6 +1,3 @@
-http://webdisk.travel.myubbs.com:62078
-http://www.qx4.cn
-http://www.szyp6.com
 http://www.fspd3.com
 http://sy.180724.com
 http://zh.184409.com
@@ -1954,7 +1951,9 @@ http://zlt.sseuu.com
 https://www.yxzx111.com
 http://www.xietd.com
 https://bbs.epower.cn
+http://webdisk.travel.myubbs.com:62078
 http://bbs.huakebosi.com
+http://www.qx4.cn
 http://112.90.82.4:8181
 http://47.74.178.33
 http://market.wxdaiyan.cn
@@ -1971,6 +1970,7 @@ http://111.67.198.23
 http://bbs.topbin.cn
 https://24maker.com
 http://119.23.14.180
+http://184.95.51.85:8080
 http://work.17mc.cc:9090
 http://jlpzj.cn-www.jlpzj.cn
 http://bbs.9wee.com
@@ -2015,6 +2015,7 @@ http://119.8.183.194
 https://www.renrenoffice.com
 http://www.waqxw.com
 http://www.playacg.com
+http://www.venews.cn
 http://bbs.uker.net
 https://v.icax.org
 http://www.boesea.com
@@ -2120,6 +2121,7 @@ http://www.51minsheng.com
 http://154.87.1.174
 http://wxcw99.com
 http://www.lgbbs.cn
+http://www.szyp6.com
 http://www.zgbbs.org
 http://www.sxydedu.cn
 https://www.3sjt.com
@@ -2163,6 +2165,7 @@ http://47.102.199.28:9000
 http://home.lytmh.com.cn
 http://net.wxdaiyan.cn
 http://www.anluw.com
+http://www.itfxz.vip
 https://www.icax.org
 https://www.24maker.com
 http://cn-www.jlpzj.cn
