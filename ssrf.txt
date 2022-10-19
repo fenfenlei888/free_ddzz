@@ -1,5 +1,3 @@
-http://bbs.0634.com
-http://www.goodnas.net
 http://www.mifengedu.cn
 http://www.yevr.top
 http://zongyi.oyuw.com
@@ -1606,6 +1604,8 @@ http://autodiscover.support.uttbbs.com
 http://www.zzzzbbbb.com
 http://60.248.140.2:8081
 http://185.243.57.96:443
+http://www.goodnas.net
+http://bbs.0634.com
 http://www.06gd.com
 http://www.180724.com
 http://www.zyt8.com
@@ -2524,6 +2524,7 @@ http://xx.ddcyf.com:8080
 http://nc.184409.com
 http://114.107.231.211:8082
 http://www.cyjl.cn
+http://64.32.12.102:443
 http://bbs.lnylfw.com
 https://hengyang.seofuwu.cn
 http://www.boxueop.com
