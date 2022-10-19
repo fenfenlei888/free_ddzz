@@ -1,6 +1,3 @@
-http://bbs.ztrxw.cn
-http://qdrxzc.com
-http://rjcomm.fengdasoft.com
 http://zjj.184409.com
 http://discuz.qqtz.com
 http://secidc.org.cn
@@ -1700,6 +1697,8 @@ https://my.poppur.com
 http://www.dn2828.com
 http://ssjx1.top
 http://www.de.myubbs.com:62078
+http://bbs.ztrxw.cn
+http://rjcomm.fengdasoft.com
 http://www.jmczsoft.com:82
 http://bbs.hasea.com
 http://www.vfe647.cc
@@ -2444,6 +2443,7 @@ http://trade.oecr.com
 https://m.huosub2b.com
 http://www.macgood.com
 https://club.haojue.com
+http://qdrxzc.com
 http://baoding.w91.cn
 http://chinazhiqing.com
 http://bbs.chizhouchacha.com
@@ -2479,6 +2479,7 @@ https://www.gisbbs.cn
 https://5i8.org
 http://asiangirl99.com
 http://www.xy28zj.com
+http://bbs.shiqi.xin
 http://scgjp.com.cn
 https://pcpc.club
 https://bbs.xuanshang95.com
@@ -2583,6 +2584,7 @@ http://www.xtm340.cc
 http://www.okz034.cc
 https://gx.0771ao.com
 http://www.shouji188.net
+http://bbs.xinpg.com
 http://mszb.ckuyun.com
 http://chaoyang.w91.cn
 http://deyang.w91.cn
