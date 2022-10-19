@@ -1,5 +1,3 @@
-http://www.szwalking.com
-http://www.pmcenter.cn
 https://www.77scw.com
 http://www.kutlan.cn
 http://47.106.13.214
@@ -1613,6 +1611,7 @@ http://godclone.com
 http://bbs.highot.net
 http://x505.cn
 http://www.ssjx1.top
+http://114.253.252.223:88
 http://www.4kquan.com
 http://www.yjqun.com
 http://39.105.131.214
@@ -2663,6 +2662,8 @@ http://www.tabyw.com
 http://mowangtuili.cn
 http://cta613.org
 http://bbs.258377.com
+http://www.pmcenter.cn
+http://www.szwalking.com
 http://sanya.180724.com
 http://108.170.5.75:8080
 http://qz.180724.com
