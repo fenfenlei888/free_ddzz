@@ -1,6 +1,3 @@
-http://www.dsw6.com
-http://px.cmjnu.com.cn
-http://shop.jlpzj.cn
 http://xxgc.xmdh.com
 http://116.255.230.131:8093
 https://bilimlar.com
@@ -1993,6 +1990,7 @@ http://hdbbs.fxt365.com
 http://www.tao92.com
 http://www.rmu7.club
 https://bbs.qianfanyun.com
+http://shop.jlpzj.cn
 http://45.56.85.29
 http://waqxw.com
 http://bbs.huakebosi.com
@@ -2020,6 +2018,7 @@ http://www.xy28home.com
 http://bbs.u-tpe.com
 https://renrenoffice.com
 https://club.topsage.com
+https://bbs.anluw.com
 http://home.my0557.cn
 http://mtedu.utaipei.edu.tw
 http://www.lytmh.com.cn
@@ -2084,6 +2083,8 @@ http://tianshui.184409.com
 http://www.fallyou.com
 https://terrartanis.com
 http://www.wangdaidp.com
+http://px.cmjnu.com.cn
+http://www.dsw6.com
 http://www.93cs.com
 https://www.cmdyx.com
 http://www.28cun.com
@@ -2099,6 +2100,7 @@ http://fd.bbs.9wee.com
 http://www.imxy28.com
 http://118.89.57.183
 http://www.langrissera.com
+https://www.pucatalyst.com
 http://www.printerwhy.net
 http://163.21.236.70
 http://wly.bbs.9wee.com
