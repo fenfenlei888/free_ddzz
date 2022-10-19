@@ -1,10 +1,3 @@
-http://ctxk.org
-http://sglpw.cn
-http://www.zentrue.com
-http://13.113.177.206:81
-http://www.ppfeng.com
-http://www.bikesky.com
-http://security.magicworks.net
 http://58.56.76.173
 http://www.cuzhiwang.com
 https://www.88flw.co
@@ -1988,12 +1981,17 @@ https://www.gjkeji.com
 http://www.blrys.com
 http://hflxsld.com
 http://bbs.shart.cn
+http://ctxk.org
+http://13.113.177.206:81
+http://www.ppfeng.com
 http://45.56.85.29
 http://waqxw.com
 http://bbs.huakebosi.com
+http://market.wxdaiyan.cn
 http://bbs.anluw.com
 http://www.fashuounion.com
 https://www.sousouyo.com
+http://pp.wxdaiyan.cn
 http://dh.bbs.9wee.com
 http://111.67.198.23
 https://24maker.com
@@ -2089,7 +2087,12 @@ http://px.cmjnu.com.cn
 http://www.dsw6.com
 http://116.255.230.131:8093
 http://www.xhymsq.com
+http://webmail.wxdaiyan.cn
 http://ts.184409.com
+http://sglpw.cn
+http://www.zentrue.com
+http://security.magicworks.net
+http://www.bikesky.com
 http://www.93cs.com
 https://www.cmdyx.com
 http://www.28cun.com
@@ -2114,6 +2117,7 @@ http://163.21.236.70
 http://wly.bbs.9wee.com
 http://bbs.lytmh.com.cn
 http://www.xh580.net
+http://sandbox.wxdaiyan.cn
 http://www.xy28zj.com
 http://www.wxedu.com.cn
 http://www.jzs08.com
@@ -2128,6 +2132,7 @@ http://cn-www.jlpzj.cn
 https://pucatalyst.com
 https://t.icax.org
 http://hero.bbs.9wee.com
+http://forum.wxdaiyan.cn
 http://www.lietou007.com
 https://bbs.chinacma.org
 http://www.mtedu.utaipei.edu.tw
