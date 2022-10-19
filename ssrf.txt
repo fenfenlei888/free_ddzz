@@ -1,4 +1,3 @@
-http://bbs.hibet18.com
 http://help.ztrxw.cn
 http://178.236.45.61
 http://sail-lab.net
@@ -826,6 +825,7 @@ http://www.gosest.com
 http://150.158.152.164
 http://218.244.147.126
 http://iqingua.com
+http://bbs.hibet18.com
 http://www.pshezi.com
 http://www.chuidiao365.com
 http://bbs.quanzhi.com
@@ -1410,6 +1410,7 @@ http://xinyuelt5.com
 http://7wyx.cn
 http://text.irtec.cn:1234
 http://www.sdwsxy.cn
+http://www.jbsfdc.com
 http://www.aifangjie.cn
 http://115.28.31.233
 http://www.pinxijy.com
