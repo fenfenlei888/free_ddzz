@@ -1,8 +1,3 @@
-https://114.215.119.205
-http://ww.oyuw.com
-https://test.szckhd.com
-http://bbs.asitb.cn
-http://www.tr.uttbbs.com
 http://www.twnnn.com
 http://www.xxyw.com
 http://pld.184409.com
@@ -1775,6 +1770,8 @@ https://bbs.9you.com
 http://1540516856.com
 http://www.pit28.com
 http://bbs.paobiaoqi.com
+https://test.szckhd.com
+http://www.tr.uttbbs.com
 http://101.37.227.158:8080
 http://45.77.70.143
 http://sg.bbs.9wee.com
@@ -1861,6 +1858,7 @@ https://bbs.anluw.com
 http://home.my0557.cn
 http://mtedu.utaipei.edu.tw
 http://www.ratbxh.com
+http://www.023lpwst.com
 http://bbs.kazi.ai
 http://139.180.130.98:8080
 http://www.xkh877.cc
@@ -1886,6 +1884,7 @@ http://www.ukin.ca
 http://daqing.aizse.com
 http://bbs.tonghuar.com
 https://www.zjimo.com
+http://www.cmchuanbo.org
 http://chenzhou.w91.cn
 http://dali.w91.cn
 https://bbs.51kahui.com
@@ -2314,7 +2313,10 @@ http://64.32.12.101:443
 http://223.72.182.50:8200
 http://www.mytju.cn
 http://comcncontactwww.nakuz.com
+https://114.215.119.205
 http://www.hasea.com
+http://ww.oyuw.com
+http://bbs.asitb.cn
 http://121.199.48.191:86
 http://dealer.rv28.com
 http://116.62.33.87:8080
