@@ -1,10 +1,3 @@
-http://elearning.wxdaiyan.cn
-https://mabinogi.club
-http://www.hbxczx.cn
-http://xinyuelt8.com
-http://www.lsdca.com
-http://www.moodle.myubbs.com:62078
-http://www.zhao11.com
 http://61.220.142.211
 http://www.quanbazhong.cn
 http://gz.184409.com
@@ -1603,6 +1596,7 @@ http://love.ytbbs.com
 http://bangbu.aizse.com
 http://syet.net
 http://bbs.dmoli.com
+http://www.goo0.cn
 http://123.60.57.99
 http://i.idrugs.cn
 http://news.dataguru.cn
@@ -1668,6 +1662,9 @@ http://iqingua.com
 http://www.pshezi.com
 http://www.chuidiao365.com
 https://stage.fn139.168tech.vip
+http://elearning.wxdaiyan.cn
+http://www.moodle.myubbs.com:62078
+http://www.lsdca.com
 http://bbs.zhiyou100.com
 http://www.guochong.net
 http://www.28tongji.com
@@ -2488,6 +2485,10 @@ http://178.236.45.61
 http://sail-lab.net
 https://www.szy7.club
 http://bbs.221600.cn
+http://xinyuelt8.com
+http://www.hbxczx.cn
+https://mabinogi.club
+http://www.zhao11.com
 http://bbs.lytmh.com.cn
 http://43.154.220.234:8090
 http://www.ho-la.cn
@@ -2591,6 +2592,7 @@ http://www.space-empires.com
 https://pucatalyst.com
 https://t.icax.org
 https://c-ni.cn
+http://www.51qixing.net
 http://hero.bbs.9wee.com
 https://www.sxbst.net.cn
 http://www.zjman.cn
