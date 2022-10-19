@@ -134,6 +134,7 @@ http://13.113.177.206:81
 http://www.ppfeng.com
 http://www.bikesky.com
 http://security.magicworks.net
+http://58.56.76.173
 http://www.cuzhiwang.com
 https://www.88flw.co
 http://101.35.175.119
@@ -896,6 +897,7 @@ https://m.huosub2b.com
 http://www.ragnarok-online.cc
 http://www.macgood.com
 https://my.poppur.com
+https://club.haojue.com
 http://www.dn2828.com
 http://www.de.myubbs.com:62078
 http://ssjx1.top
@@ -1333,6 +1335,7 @@ http://47.92.245.21
 https://www.songyuan163.com
 https://bbs.vipfenxiang.com
 http://help.wikin.cn
+http://bbs.keinsci.com
 https://haidiaoren.com
 http://dell.benyouhui.it168.com
 http://reseller.dataguru.cn
@@ -1795,6 +1798,7 @@ http://118.190.176.134
 http://jingjiang.184409.com
 http://job.ztrxw.cn
 http://116.255.230.131:8084
+http://www.longyao.biz
 http://www.fcmjg.cn
 http://fangchan.ztrxw.cn
 http://43.133.191.207:8080
