@@ -1,5 +1,3 @@
-http://www.xzqc.net
-http://www.qyage.net
 http://bbs.cailiaoren.com
 http://bbs.chinabike.net
 http://www.xisn5.net
@@ -1372,6 +1370,7 @@ http://101.42.177.34
 http://www.goonecity.com
 http://changdu.184409.com
 http://www.davinci-cg.com
+http://bbs.xcsalon.com
 https://www.chu6.com
 https://www.heikejiedan1.com
 http://220.179.228.26:81
@@ -1613,6 +1612,7 @@ http://zh.180724.com
 http://bbs.5ucms.com
 http://nxs053.cc
 http://www.lipar.com.tw
+http://www.qyage.net
 http://bbs.zonzu.cn
 http://rudong.180724.com
 http://xm.180724.com
@@ -2760,6 +2760,7 @@ http://bbs.tuize.com
 http://bbs.91shenfan.com
 http://42.121.15.9:8003
 http://home.wangjing.cn
+http://www.xzqc.net
 https://bbs.wstx.com
 https://bbs.zonzu.cn
 http://okz034.cc
