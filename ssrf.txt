@@ -1,6 +1,3 @@
-http://zghlzs.com
-http://bbs.lqqcw.com
-http://www.xinyuelt2.com
 http://klsh.com
 http://123.56.133.103
 http://wuhu.184409.com
@@ -1539,6 +1536,7 @@ http://www.hbzjw.net.cn
 http://bbs.livinglabs.cn
 http://number81.xyz
 http://xyolgm.com
+http://bbs.xrsi.cn
 http://101.200.73.54
 http://www.jinggzj.com
 http://www.romjz.com
@@ -1677,6 +1675,7 @@ http://bid.lingtuan.com
 http://f.pil.tw
 http://bazhong.184409.com
 http://host.dataguru.cn
+http://www.xinyuelt2.com
 http://www.jyxdsxh.cn
 https://stage.fn139.168tech.vip
 http://bbs.zhiyou100.com
@@ -2476,6 +2475,8 @@ http://www.188iot.com
 http://www.xyjun.com
 http://www.gyyrkj.com
 http://154.85.222.106
+http://zghlzs.com
+http://bbs.lqqcw.com
 http://wly.bbs.9wee.com
 http://bbs.lytmh.com.cn
 http://43.154.220.234:8090
@@ -2602,6 +2603,7 @@ http://rya724.cc
 http://chaozhou.w91.cn
 http://www.scgjp.com.cn
 https://bbs-dev.xuanshang12.cn
+http://bbs.himi.club
 http://baotou.w91.cn
 https://bbs.chinacma.org
 http://z.tonghuar.com
