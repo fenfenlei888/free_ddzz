@@ -1,5 +1,3 @@
-https://m.huosub2b.com
-http://www.ragnarok-online.cc
 http://www.macgood.com
 https://my.poppur.com
 https://club.haojue.com
@@ -1703,6 +1701,7 @@ http://bbs.roobo.com
 http://www.zzjggs.com
 http://120.77.173.188:86
 http://food.wxdaiyan.cn
+http://www.ragnarok-online.cc
 http://www.jmczsoft.com:82
 http://bbs.hasea.com
 http://www.vfe647.cc
@@ -2069,6 +2068,7 @@ http://139.198.177.188
 http://www.hnrhrj.com
 https://bbs.itsource.cn
 http://scut.myujob.com
+http://120.78.78.103:81
 http://122.114.234.67:8001
 https://tc.rlwsh.com
 http://www.nl.uttbbs.com
@@ -2439,6 +2439,7 @@ http://test3.wxdaiyan.cn
 http://ceshile.cn
 http://www.kazan.uttbbs.com
 http://trade.oecr.com
+https://m.huosub2b.com
 http://baoding.w91.cn
 http://chinazhiqing.com
 http://bbs.chizhouchacha.com
