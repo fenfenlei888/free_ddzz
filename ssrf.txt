@@ -1,5 +1,3 @@
-http://qyqrs.com
-http://www.188iot.com
 http://host.dataguru.cn
 http://154.85.222.106
 http://www.gyyrkj.com
@@ -2474,6 +2472,8 @@ https://www.awanzhou.com
 http://www.zhaifan.net
 http://www.360hudong.com
 http://124.222.188.138
+http://qyqrs.com
+http://www.188iot.com
 http://www.xyjun.com
 http://wly.bbs.9wee.com
 http://bbs.lytmh.com.cn
@@ -2583,6 +2583,7 @@ https://www.sxbst.net.cn
 http://www.zjman.cn
 http://forum.wxdaiyan.cn
 http://changde.aizse.com
+http://124.222.157.111:8096
 http://www.lietou007.com
 http://www.ckuyun.com
 http://jbn122.cc
@@ -2591,6 +2592,7 @@ http://106.52.28.22:83
 http://www.lingdian.org.cn
 https://x505.cn
 http://wd.znds.com
+https://53.kuzou.cn
 http://dong.w91.cn
 https://admin.infinix.club
 http://www.woaidaima.com
