@@ -65,6 +65,7 @@ http://changdu.184409.com
 http://autoconfig.email.uttbbs.com
 http://www.davinci-cg.com
 http://technology.oecr.com
+http://meigongyun.com
 http://light.oecr.com
 http://www.tzedu.net
 http://shanghainianhua.com
@@ -81,6 +82,7 @@ https://geo.163dz.com
 https://47.110.78.242
 http://www.99nets.com
 http://shgm.net
+https://www.55art.com
 http://px.184409.com
 http://hntz22.com
 http://www.hu6hu.com
@@ -164,6 +166,7 @@ http://www.tecdee.com
 http://fagui.nongquan.com
 http://www.caiyuanzi.org
 http://bbs.51testing.com
+http://www.liyangedu.com
 http://water.oecr.com
 http://opticalfilm.oecr.com
 http://www.wanmirbbs.com
@@ -222,6 +225,7 @@ http://www.xinyuelt9.com
 https://115.vipfenxiang.com
 https://www.cgdream.com.cn
 https://www.aibaogame.com
+http://www.u9zy.cn
 http://www.cta613.org
 http://www.xn--fiz831d.com
 http://img.laoguanhe.com
@@ -435,6 +439,7 @@ http://yzjinhuan.com
 http://www.ilovezhai.com
 http://www.lzpxf.com
 http://www.cdzykj.cn
+http://www.szy7.club
 http://bbs.cnpes6.com
 http://pl.180724.com
 http://47.111.232.50:1234
@@ -768,6 +773,7 @@ https://news.p2peye.com
 http://all.edge.uttbbs.com
 https://isp-caledon.cit.gkzj.net
 http://opsbbs.whaley.cn
+http://www.penbbs.com
 http://fudanu.com
 http://www.pr.uttbbs.com
 http://bbs.compressor.cn
@@ -793,6 +799,7 @@ https://m.huosub2b.com
 https://bbs.shouxi.com
 http://bbs.rauz.net.cn
 http://gamesos.co.kr
+http://liyangedu.com
 http://106.14.192.228:8082
 http://www.dn2828.com
 http://www.de.myubbs.com:62078
@@ -830,6 +837,7 @@ http://linzhi.180724.com
 https://www.archive.gkzj.net
 https://sjhz.mobi
 http://bbs.nowxue.com
+http://www.u9zy.com
 http://www.movies.uttbbs.com
 https://domain.gkzj.net
 http://bbs.ebaina.com
