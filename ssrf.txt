@@ -1,5 +1,3 @@
-http://imaoigou.cn
-http://www.measurer8.com
 http://lsdca.com
 http://bbs.sijige.net
 http://www.robotjc.com
@@ -1052,6 +1050,7 @@ https://cacnews.ca
 http://www.hbzjw.net.cn
 http://bbs.livinglabs.cn
 http://number81.xyz
+http://bbs.52dkol.com
 http://xyolgm.com
 http://bbs.xrsi.cn
 http://101.200.73.54
@@ -1608,6 +1607,7 @@ https://www.zippobymazziinchina.com
 https://www.macw.cn
 http://www.tjzjbbs.com
 https://cclme.cn
+http://imaoigou.cn
 https://bbs.mfcad.com
 http://108.170.5.101:8080
 http://www.boy-toy.net
@@ -2831,6 +2831,7 @@ http://bbs.epower.cn
 http://am.184409.com
 https://www.bdznz.com
 http://www.danyou8.com
+http://www.measurer8.com
 http://www.teamanga.cn
 http://www.yawanju.com
 http://sab.sabjy.com
