@@ -1,5 +1,3 @@
-http://bbs.quanbazhong.cn
-http://45.64.75.58
 http://mzjyss.cn
 http://www.yz1234.vip
 https://bbs.ichuanglan.com
@@ -2450,6 +2448,8 @@ http://secidc.org.cn
 http://www.ernaibyw.com
 http://jpsn.cn
 http://www.iyppz.com
+http://45.64.75.58
+http://bbs.quanbazhong.cn
 http://baoding.w91.cn
 http://chinazhiqing.com
 http://bbs.chizhouchacha.com
@@ -2592,6 +2592,7 @@ http://www.okz034.cc
 https://gx.0771ao.com
 http://www.shouji188.net
 http://bbs.xinpg.com
+http://www.wptcw.com
 http://mszb.ckuyun.com
 http://chaoyang.w91.cn
 http://deyang.w91.cn
