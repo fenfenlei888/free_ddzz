@@ -1,4 +1,3 @@
-http://www.mclassic.com.hk
 http://www.xhymsq.com
 http://www.glgsnw.com
 https://www.bilimlar.com
@@ -1990,6 +1989,7 @@ https://bbs.qianfanyun.com
 http://shop.jlpzj.cn
 http://xxgc.xmdh.com
 https://bilimlar.com
+http://www.mclassic.com.hk
 http://45.56.85.29
 http://waqxw.com
 http://bbs.huakebosi.com
@@ -2015,6 +2015,7 @@ http://bbs.zhiyou100.com
 http://www.guochong.net
 http://www.28tongji.com
 http://www.xy28home.com
+http://47.97.181.149:8097
 http://bbs.u-tpe.com
 https://renrenoffice.com
 https://club.topsage.com
