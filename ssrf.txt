@@ -1,6 +1,3 @@
-http://godclone.com
-http://bbs.jianfangba.com
-https://jiyouhui.it168.com
 http://bbs.highot.net
 http://ent2006615w2w.nakuz.com
 http://js.idste.net:8080
@@ -1623,6 +1620,7 @@ http://mf.2math.cn
 http://bbs.uccool.com
 http://58.248.64.173:9090
 https://93e.cc
+http://godclone.com
 http://x505.cn
 http://www.ssjx1.top
 http://changji.w91.cn
@@ -2654,6 +2652,8 @@ http://139.9.86.192
 http://www.wxedu.com.cn
 http://www.ncshxd.com
 http://bbs.boy-toy.net
+https://jiyouhui.it168.com
+http://bbs.jianfangba.com
 http://sjz.180724.com
 http://mowangtuili.cn
 http://bbs.258377.com
@@ -2688,6 +2688,7 @@ https://bbs.wstx.com
 https://bbs.zonzu.cn
 http://okz034.cc
 http://www.dmxs5.com
+http://www.dtdebug.com
 https://www.pcpc.club
 http://changdu.w91.cn
 https://discuz.myesball.net
