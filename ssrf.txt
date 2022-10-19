@@ -1,6 +1,3 @@
-http://yhhongyue.eicp.net
-https://bbs.yanfabu.com
-http://www.kb9453.com
 http://bbs.abntest.com
 http://my0514.net
 http://www.xinliliang.org
@@ -859,6 +856,7 @@ http://jxhozen.com
 http://www.szbdt.com
 http://www.zhaodongren.com
 http://bbs.vkee.pw
+http://chuidiao365.com
 http://media.netzone.com
 http://www.ca001.com
 http://www.c4d8.net
@@ -887,6 +885,7 @@ http://www.honglaibbs.com
 http://webdisk.videos.myubbs.com:62078
 http://122.112.227.136
 http://www.intehn.com
+http://yhhongyue.eicp.net
 http://115.28.157.149
 http://www.dxhb.cc
 http://glgsnw.com
@@ -920,6 +919,7 @@ http://www.chinaodoo.net
 http://www.1024ad.xyz
 http://kezhilibin.net
 http://www.minsu.com.cn
+https://bbs.ikuai8.com
 http://120.25.148.206:443
 http://www.tysh.net
 https://www.xiaochimiji.com
@@ -1145,7 +1145,9 @@ https://www.ji14.com
 http://jb.ngouwu.com
 http://mg.184409.com
 http://bbs.aalborgportland.com.cn
+https://bbs.yanfabu.com
 http://121.127.238.161
+http://www.kb9453.com
 https://club.west.cn
 http://bbs.gtibee.com
 http://www.51fpush.com
@@ -1207,6 +1209,7 @@ http://122.227.59.19
 https://www.lsjlp8.com
 http://www.kezhilibin.net
 http://120.48.0.46
+http://luoya.shawsen.com
 http://1024wz.top
 https://bbs.sific.com.cn
 http://bbs.52rd.com
