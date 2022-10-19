@@ -1,7 +1,3 @@
-http://bbs.keinsci.com
-https://haidiaoren.com
-http://dell.benyouhui.it168.com
-http://reseller.dataguru.cn
 http://ln.184409.com
 http://47.104.67.153:9999
 http://sr.184409.com
@@ -1609,9 +1605,14 @@ http://xinyu.180724.com
 http://www.rxbeby.com
 http://ifans.site
 http://47.92.245.21
+https://www.combat2000.cn
 http://help.wikin.cn
 https://bbs.vipfenxiang.com
 https://www.songyuan163.com
+http://dell.benyouhui.it168.com
+https://haidiaoren.com
+http://bbs.keinsci.com
+http://reseller.dataguru.cn
 http://www.360y.cc
 https://dealer.rv28.com
 http://www.csacas.com
@@ -1718,6 +1719,7 @@ http://bbs.xrender.com
 https://www.soonidea.cn
 http://tianshui.180724.com
 http://www.ffans.vip
+http://bbs.qcfdlt.com
 https://www.21micro-grid.com
 https://www.baihei.cc
 http://www.nxs053.cc
