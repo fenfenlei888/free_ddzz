@@ -1,4 +1,3 @@
-http://4x4.sh.cn
 http://www.shengzhe.net
 http://zhihuibaoku.cn
 http://123.56.88.72
@@ -395,6 +394,7 @@ http://124.222.66.43
 http://bbs.suozhuai.com
 http://lbpv.cc
 http://www.qingquxuexiao.cn
+http://4x4.sh.cn
 http://feikechina.com
 http://www.88yogo.com
 http://www.lxhuwai.com
@@ -463,6 +463,7 @@ http://108.61.160.124
 http://www.caidiancun.com
 http://hongfengml.com
 http://pohu.wang
+http://47.105.94.241
 http://121.42.238.32
 https://donellaguida.com
 http://yanan.180724.com
