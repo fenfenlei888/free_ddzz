@@ -1,6 +1,3 @@
-http://feikechina.com
-http://4x4.sh.cn
-http://wx8591.vshangtong.com
 http://101.200.215.97
 http://www.ufocns.com
 http://www.lxhuwai.com
@@ -925,6 +922,7 @@ https://autodiscover.es.gkzj.net
 http://www.newhuashang.com
 http://101.43.34.8
 http://blog.leslie-cheung.com
+http://www.gdzcnfw.com
 http://www.yzarts.com
 http://www.17mud.com
 https://yzjwjx.daqufa.com
@@ -1609,6 +1607,8 @@ http://hlbe.184409.com
 https://mbabdw.com
 http://www.myhdly.com
 http://cs.180724.com
+http://4x4.sh.cn
+http://wx8591.vshangtong.com
 http://123.57.5.193:8080
 http://120.198.76.2:82
 http://www.cfan.cc
@@ -2784,6 +2784,7 @@ https://www.pcpc.club
 http://www.qingquxuexiao.cn
 http://changdu.w91.cn
 https://discuz.myesball.net
+http://feikechina.com
 http://bbs.62115.com
 http://bbs.cnqol.com
 http://47.102.199.28:9000
@@ -2903,6 +2904,7 @@ http://94.74.87.187
 https://mopaishi.com
 https://baisha.tongcheng.ink
 http://bengbu.180724.com
+http://www.mmdsy.com
 http://mianyang.180724.com
 http://bayannaoer.w91.cn
 https://ifans.site
