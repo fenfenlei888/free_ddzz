@@ -73,6 +73,7 @@ http://technology.oecr.com
 http://www.lebvo.com
 http://meigongyun.com
 http://light.oecr.com
+http://1024bbs.cf
 http://www.tzedu.net
 http://shanghainianhua.com
 https://ibmbjb.com
@@ -85,11 +86,13 @@ http://bbs.mongoosenest.org
 http://113.254.20.186:8084
 http://fcg.180724.com
 http://ygpaobu.com
+http://www.jxfuli.tk
 https://geo.163dz.com
 https://47.110.78.242
 http://shenghuo.ztrxw.cn
 http://www.99nets.com
 http://shgm.net
+http://www.jxfuli.cf
 https://www.55art.com
 http://px.184409.com
 http://hntz22.com
@@ -164,6 +167,7 @@ http://alashan.aizse.com
 https://webdisk.games.gkzj.net
 http://auto.ytbbs.com
 http://bbs.gyusoft.com
+https://www.ytbbs.com
 http://opticaldesign.oecr.com
 https://syztdt.com
 https://jsbi.com.cn
@@ -243,6 +247,7 @@ http://img.laoguanhe.com
 http://xiaoyeren.com
 http://bbs.51xisui.com
 http://www.wuchangqu.com
+http://www.1024bbs.cf
 http://bbs.uccool.com
 http://58.248.64.173:9090
 http://bbs.jianfangba.com
@@ -322,6 +327,7 @@ http://47.92.245.21
 http://www.xylt3.com
 http://help.wikin.cn
 https://bbs.vipfenxiang.com
+https://bbs.crossincode.com
 http://www.nbdps.net
 http://reseller.dataguru.cn
 http://sr.184409.com
@@ -375,6 +381,7 @@ http://www.iuibe.com
 https://www.zjdg.com
 http://bjsouyao.com
 http://121.41.39.109
+http://www.west.club
 http://140.143.187.135
 http://sensor.oecr.com
 http://106.54.79.191:8090
@@ -428,6 +435,7 @@ http://60.248.140.2:8081
 http://120.25.196.77
 http://185.243.57.96:443
 http://www.10086rom.com
+http://bbs.nystudents.net
 http://news.yanfabu.com
 http://pg6.sip.dataguru.cn
 http://www.hzweiyun.com
@@ -492,6 +500,7 @@ http://yx.180724.com
 http://soe-parrot.com
 http://machine.oecr.com
 https://www.px521.net
+http://www.blgxnet.com
 http://www.fingerstyle.cc
 http://com.cnww.molifan.net
 http://gamezhuan8.top
@@ -512,6 +521,7 @@ http://sctz5.com
 http://www.mycuc.cn
 http://cloud.wxdaiyan.cn
 http://au.wxdaiyan.cn
+https://bbs.ziyouro.cn
 http://www.huadu.biz
 http://arm-cn.com
 http://www.cwyan.com
@@ -525,6 +535,7 @@ http://davinci-cg.com
 https://www.yjxsoft.com
 http://www.db.myubbs.com:62078
 http://108.61.160.124
+http://bbs.castudents.org
 http://discuz.tomwx.net
 http://www.caidiancun.com
 http://hongfengml.com
@@ -550,6 +561,7 @@ http://www.chnfly.net
 http://chinatree.com
 http://119.3.216.156
 http://autodiscover.forums.myubbs.com:62078
+http://bbs.voldp.com
 http://www.xushi.net
 http://www.xxnms.com
 http://www.pianopaper.net
@@ -618,6 +630,7 @@ https://wujindeng.net
 http://www.fstssj.com
 http://185.200.34.174
 https://www.dubious.users.163dz.com
+http://64.32.12.101:443
 http://yukang.org.cn
 https://fc.dcjixiang.com
 http://bbs.huoying666.com
@@ -834,6 +847,7 @@ http://www.kazan.uttbbs.com
 http://trade.oecr.com
 https://api.onecoolzone.com
 http://food.wxdaiyan.cn
+http://www.ragnarok-online.cc
 https://m.huosub2b.com
 https://bbs.shouxi.com
 http://bbs.rauz.net.cn
@@ -865,6 +879,7 @@ http://jpsn.cn
 http://bbs.wglm.net
 http://mzjyss.cn
 http://www.robot-ai.org
+http://www.yophome.com
 http://www.shengzhe.net
 https://zhinanzhen.org
 https://www.haga7.club
