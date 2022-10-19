@@ -1,8 +1,3 @@
-http://jpsn.cn
-http://www.ernaibyw.com
-http://www.iyppz.com
-http://www.tomwx.cn
-http://www.hamiga.com
 http://bbs.quanbazhong.cn
 http://45.64.75.58
 http://mzjyss.cn
@@ -1698,6 +1693,8 @@ http://www.haga7.club
 http://dhcp.pilsnet.myubbs.com:62078
 http://www.santafe.tw
 http://bbs.hasea.com
+http://www.hamiga.com
+http://www.tomwx.cn
 http://www.vfe647.cc
 http://mail.langrissera.com
 http://www.09hw.icu
@@ -1754,6 +1751,7 @@ https://bbs.iwangzhe.com
 https://fl.china2001.com.cn
 https://www.jetsocome.com
 http://139.162.17.188
+http://forum.smart6.net
 http://bbs.5ucms.com
 http://nxs053.cc
 http://bbs.zonzu.cn
@@ -2023,6 +2021,7 @@ http://www.gssjcjy.com
 http://122.112.227.136
 http://www.0760.biz
 http://www.intehn.com
+http://108.170.5.102:8080
 http://www.dxhb.cc
 http://yhhongyue.eicp.net
 http://www.gxjk.cn
@@ -2448,6 +2447,9 @@ http://discuz.qqtz.com
 http://zjj.184409.com
 http://www.haomake.xyz
 http://secidc.org.cn
+http://www.ernaibyw.com
+http://jpsn.cn
+http://www.iyppz.com
 http://baoding.w91.cn
 http://chinazhiqing.com
 http://bbs.chizhouchacha.com
@@ -2513,6 +2515,7 @@ https://bs.0771ao.com
 https://bbs.lingkee.cn
 https://yuzhe.liyiyi.name
 http://www.ermudi.cn
+http://bbs.91shenfan.com
 http://42.121.15.9:8003
 https://bbs.wstx.com
 https://bbs.zonzu.cn
