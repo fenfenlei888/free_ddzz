@@ -138,6 +138,7 @@ http://security.magicworks.net
 http://58.56.76.173
 http://www.cuzhiwang.com
 https://www.88flw.co
+http://www.openloongson.cn
 http://101.35.175.119
 http://121.54.172.224
 http://52.8.132.183
@@ -1541,8 +1542,10 @@ http://www.90yp.xyz
 http://tongling.184409.com
 http://club.west.cn
 http://mzxc.com.cn
+http://www.czn.com.cn
 http://www.0510photo.com
 http://47.111.232.50:1234
+https://www.yunweiku.com
 http://en.dataguru.cn
 https://bbs.skyfleet.cc
 http://www.demo2.myubbs.com:62078
