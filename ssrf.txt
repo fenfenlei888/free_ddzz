@@ -140,6 +140,7 @@ http://101.35.175.119
 http://121.54.172.224
 http://52.8.132.183
 http://www.xsgbbs.com
+http://www.199u2.com
 http://122.112.211.202
 http://121.127.235.150
 http://haining.184409.com
@@ -716,6 +717,7 @@ http://bbs.csgkplc.com
 http://rxjhbbao.net
 http://blog.gdhealth.net
 http://www.lexiangjian.com
+http://forum.wocaobbs.com
 http://szsheji.cn
 http://www.myvrgame.cn
 http://zt.184409.com
@@ -767,6 +769,7 @@ http://www.iaacp.org
 http://lin.ywzt.wang
 http://bbs.qianbaomm.com
 https://xng55.xyz
+http://bbs.199u2.com
 http://123.ytbbs.com
 https://fuckoz.com
 http://bbs.lgrapp.cn
@@ -1347,6 +1350,7 @@ http://love.ztrxw.cn
 http://imuxuan.com
 http://www.haining.cn
 http://www.91show.club
+https://www.sxhonor.com
 http://360hudong.com
 http://myvrgame.cn
 http://www.suixin567.com
@@ -1681,6 +1685,7 @@ http://www.huaxuepai.com
 http://119.29.99.54
 http://www.0376.name
 http://www.514200.com
+http://14.23.124.132:7080
 http://www.caijingzaixian.com
 http://bbs.bleachcn.net
 http://bbs.shihenian.com
