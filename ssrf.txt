@@ -1,5 +1,3 @@
-http://bazhong.184409.com
-http://124.222.188.138
 http://qyqrs.com
 http://www.188iot.com
 http://host.dataguru.cn
@@ -1681,6 +1679,7 @@ https://www.xlebbs.com
 http://www.zdvictory.com
 http://bid.lingtuan.com
 http://f.pil.tw
+http://bazhong.184409.com
 http://www.jyxdsxh.cn
 https://stage.fn139.168tech.vip
 http://bbs.zhiyou100.com
@@ -2474,6 +2473,7 @@ http://47.97.230.163
 https://www.awanzhou.com
 http://www.zhaifan.net
 http://www.360hudong.com
+http://124.222.188.138
 http://www.xyjun.com
 http://wly.bbs.9wee.com
 http://bbs.lytmh.com.cn
@@ -2489,6 +2489,7 @@ https://hengyang.seofuwu.cn
 http://fyl806.cc
 http://menhu.ca
 http://www.xh580.net
+http://bbs.gamesdata.name
 http://www.jyss.net
 http://bbs.029aa.com
 http://150.109.113.206:8090
