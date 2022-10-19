@@ -66,6 +66,7 @@ http://demo.daihuo100.com
 http://autoconfig.email.uttbbs.com
 http://technology.oecr.com
 http://qingyuan.184409.com
+http://bbs.mxxsyh.com
 http://meigongyun.com
 http://www.lebvo.com
 http://light.oecr.com
@@ -172,6 +173,7 @@ http://so.ppfeng.com
 http://www.umhom23.com
 http://www.qzrzx.com
 http://www.tecdee.com
+http://www.zhzmsp.com
 http://www.caiyuanzi.org
 http://fagui.nongquan.com
 http://bbs.yunyingz.com
@@ -277,6 +279,7 @@ http://bbs.takecloud.cn
 http://106.225.140.6:8081
 http://linyi.180724.com
 http://bbs.play800.cn
+http://124.223.20.110
 https://autoconfig.news.gkzj.net
 http://sx.oa57.net
 http://webdisk.sms.uttbbs.com
@@ -807,6 +810,7 @@ http://b.ns.e.myubbs.com:62078
 http://cinema-home.cn
 http://www.jhdtw.cn
 http://qj.184409.com
+http://xc.yuxinanmo.com
 https://help.massdesign.cn
 http://10.ustcjz.cn
 http://www.wenxiucn.com
@@ -904,6 +908,7 @@ https://domain.gkzj.net
 http://www.movies.uttbbs.com
 http://www.ceshile.cn
 http://128.199.77.16
+https://www.msms7.club
 http://bbs.csettn.com
 http://120.79.180.108
 https://583118.com
@@ -1079,6 +1084,7 @@ http://st.180724.com
 http://www.lyhdw.com
 http://www.5isudu.com
 http://bbs.playdvb.com
+http://www.yuxinanmo.com
 https://www.passions.com.cn
 http://124.222.198.5:81
 http://www.bugs.myubbs.com:62078
@@ -1135,6 +1141,7 @@ http://bbs.doit.am
 http://portfolio.wxdaiyan.cn
 https://mail.maiyadi.org
 https://www.tcren.cn
+http://www.wildhunter.xyz
 https://bbs.luzhou28.com
 http://www.jiadianmofang.com
 http://bbs.51testing.com
@@ -1502,6 +1509,7 @@ http://bbs.xingxiancn.com
 http://heart.bluebaba.cn
 http://pohu.wang
 http://www.sglpw.cn
+http://www.tmr.cn
 http://cs.184409.com
 http://121.42.238.32
 http://47.105.94.241
@@ -1628,6 +1636,7 @@ http://bbs.bleachcn.net
 http://bbs.shihenian.com
 http://106.225.153.196:8081
 https://www.tongchengdl.com
+http://www.msms7.club
 https://bbs.huanai.com
 https://community.ruijienetworks.com
 http://xinyuelt5.com
@@ -1729,8 +1738,10 @@ https://news.yanfabu.com
 http://xxyysszz.com
 http://zjwchc.xiasha.cn
 https://www.jiahejun.com
+http://niandaiwang.net
 http://www.rxxiaoai.com
 https://www.yxb365.com
+http://www.openzyfd.com
 http://www.nztd7.com
 http://www.jipinshequ.com
 https://www.daybuy.tw
