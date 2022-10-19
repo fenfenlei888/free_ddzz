@@ -1,7 +1,3 @@
-http://www.doigt.com.cn
-http://47.100.86.221
-http://talk.oecr.com
-http://www.huaibin88.cn
 http://bbs.xtjc.com
 http://www.ca.myubbs.com:62078
 http://www.zcsxxw.com
@@ -887,6 +883,7 @@ http://bbs.huakebosi.com
 http://www.qx4.cn
 http://sy.180724.com
 https://7177.cn
+http://www.90houqq.com
 http://11sgz.com
 http://bbs.zggdxy.com
 http://112.90.82.4:8181
@@ -1850,6 +1847,7 @@ http://101.35.175.119
 http://www.openloongson.cn
 http://haining.184409.com
 http://shouguang.184409.com
+https://bbs.xinpg.com
 http://wap.5281.net
 http://wordpress.wxdaiyan.cn
 http://www.93cs.com
@@ -2674,7 +2672,11 @@ http://www.link.uttbbs.com
 http://qz.180724.com
 http://bbs.rhino3d.us
 http://jiashanx.184409.com
+http://talk.oecr.com
+http://47.100.86.221
+http://www.doigt.com.cn
 https://2.yongyifamen.com
+http://www.huaibin88.cn
 http://108.170.5.98:8080
 https://bbs.guitarsquare.com
 http://baise.w91.cn
