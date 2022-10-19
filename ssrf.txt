@@ -1,5 +1,3 @@
-http://sbc.sanbeicha.com.cn
-http://101.200.54.194
 http://bbs.yitens.net
 http://59.127.158.12
 http://mail.centerbbs.com
@@ -1758,6 +1756,8 @@ https://lib.gkzj.net
 https://5i8.us
 http://114.107.245.122:9080
 http://101.37.227.158:8080
+http://101.200.54.194
+http://sbc.sanbeicha.com.cn
 http://45.77.70.143
 http://sg.bbs.9wee.com
 http://101.200.73.54
@@ -2189,6 +2189,7 @@ http://123.57.63.14:8081
 https://www.zhongxinwanka.com
 http://bbs.morelfans.cn
 https://bbs.mekcc.cn
+https://www.syyyd.com
 http://wuwei.184409.com
 https://www.zcboss.com
 http://yzjinhuan.com
