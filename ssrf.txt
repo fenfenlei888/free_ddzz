@@ -2,6 +2,7 @@ http://nd.184409.com
 http://bbs.0391.com.cn
 http://188.lmcpw.net
 http://bbs.uker.net
+http://58.221.146.210:8090
 http://www.boesea.com
 http://winqu.com
 http://suqian.184409.com
@@ -9,6 +10,7 @@ http://www.xahr.org
 http://bbs.dahua-cpa.com
 http://search.uttbbs.com
 http://bz.184409.com
+http://1.83.154.140:8093
 http://club.22.cn
 https://www.7177.cn
 http://www.cnecop.com
@@ -27,6 +29,7 @@ http://182.254.208.215
 http://xzpeixian.180724.com
 http://bbs.lyhdw.com
 http://film.dataguru.cn
+http://www.gxphoto.org
 https://51montreal.com
 http://211.144.149.153
 https://autoconfig.staging.gkzj.net
@@ -45,6 +48,7 @@ http://bbs.2016xiaozhuge.com
 http://top.wxdaiyan.cn
 https://39.97.164.17
 http://xhymsq.com
+http://148.70.138.55:81
 http://bbs.zhileng.com
 http://202.91.247.138
 http://t.wupen.cn
@@ -69,6 +73,7 @@ http://ww.4973.cn
 http://bbs.sm9mail.com
 https://wtg365.net
 http://bbs.mongoosenest.org
+http://113.254.20.186:8084
 http://fcg.180724.com
 http://ygpaobu.com
 https://geo.163dz.com
@@ -87,6 +92,7 @@ https://bbs.qianfanyun.com
 http://81.69.28.144
 http://bbs.aiyuke.com
 http://shop.jlpzj.cn
+https://bbs.comego.com
 http://xxgc.xmdh.com
 http://rainycare.com
 http://www.024mh.com
@@ -147,6 +153,7 @@ http://bbs.gyusoft.com
 http://opticaldesign.oecr.com
 https://syztdt.com
 https://jsbi.com.cn
+http://bbs.doit.am
 http://finance.oecr.com
 http://portfolio.wxdaiyan.cn
 http://so.ppfeng.com
@@ -175,6 +182,7 @@ http://wxcw99.com
 http://ifunstar.com
 http://webdisk.travel.myubbs.com:62078
 http://www.qx4.cn
+http://bbs.innear.cn:8090
 http://www.fspd3.com
 http://qinyeba.com
 http://sy.180724.com
@@ -224,10 +232,12 @@ http://bbs.highot.net
 http://www.sh-nfc.com
 http://221.6.48.116:88
 http://tour.ztrxw.cn
+http://www.yjqun.com
 http://39.105.131.214
 http://www.paheng.com
 http://www.xyolgm.com
 http://bbs.youxitian.com
+http://193.112.18.21:8081
 https://ozhaha.com
 http://124.156.183.91
 http://jxhozen.com
@@ -238,12 +248,14 @@ http://media.netzone.com
 http://www.c4d8.net
 http://www.ca001.com
 http://42.192.140.92
+http://www.feicuishuo.com
 http://45.136.150.15
 http://www.ogloszenia.myubbs.com:62078
 http://www.link.uttbbs.com
 http://www.yueyingzy.com
 http://www.8liuxing.com
 http://bbs.rhino3d.us
+http://106.225.140.6:8081
 http://bbs.takecloud.cn
 https://www.paijibbs.com
 http://bbs.play800.cn
@@ -254,7 +266,9 @@ https://autoconfig.news.gkzj.net
 http://www.ca.myubbs.com:62078
 http://webdisk.sms.uttbbs.com
 http://sx.oa57.net
+http://www.yiuni.com
 http://www.zcsxxw.com
+http://bbs.gdzijin.com
 http://pp9p.cc
 http://sports.uttbbs.com
 http://bbs.91zhiliang.com
@@ -272,6 +286,7 @@ http://webdisk.videos.myubbs.com:62078
 http://mg.184409.com
 http://bbs.aalborgportland.com.cn
 http://yhhongyue.eicp.net
+https://bbs.yanfabu.com
 http://www.kb9453.com
 http://bbs.abntest.com
 http://my0514.net
@@ -304,18 +319,23 @@ http://106.54.117.50:8080
 http://www.s.myubbs.com:62078
 https://fireblock.t-firefly.com
 http://ihuge.net
+http://120.24.220.110:8088
 http://edu.oecr.com
 https://27.102.129.228
+https://yhlc.p2peye.com
 http://bbs.china-ws.org
 http://139.199.28.65
 http://www.dzstyle.cn
 http://ustcsv.com
+http://106.55.169.186:8088
 http://www.91show.club
+http://14.29.203.250:8081
 http://www.tcgzw.cn
 http://www.xingzhefeng.com
 http://www.kingstargold.com
 http://www.suixin567.com
 http://www.rxjhbbao.com
+http://www.huicishen.com
 http://52.15.204.109
 http://www.westpay.com.cn
 http://120.27.93.163:9091
@@ -356,8 +376,10 @@ http://47.101.61.41
 http://49.234.183.121
 http://news.oecr.com
 http://education.wxdaiyan.cn
+http://123.57.160.225
 http://www.11op.com
 http://zw.180724.com
+http://www.dakedakedu.com
 http://pj.184409.com
 http://47.74.135.217
 http://www.au.uttbbs.com
@@ -376,6 +398,7 @@ http://boluo.180724.com
 http://bbs.liyueer.com
 http://52pojie.xyz
 http://autodiscover.support.uttbbs.com
+http://60.248.140.2:8081
 http://120.25.196.77
 http://www.10086rom.com
 http://news.yanfabu.com
@@ -451,6 +474,8 @@ https://development.gkzj.net
 http://ixis.cn
 http://116.255.199.61
 https://www.domain.gkzj.net
+http://www.firemail.wang:8088
+http://www.chinatree.com
 http://sctz5.com
 http://www.mycuc.cn
 http://cloud.wxdaiyan.cn
@@ -460,12 +485,14 @@ http://www.cwyan.com
 http://www.ffwold.com
 http://www.huanqing.org
 http://baoting.180724.com
+https://www.az980.com
 http://www.wuhanche.com
 https://www.7s6s5s.com
 http://davinci-cg.com
 https://www.yjxsoft.com
 http://www.db.myubbs.com:62078
 http://108.61.160.124
+http://discuz.tomwx.net
 http://www.caidiancun.com
 http://hongfengml.com
 http://pohu.wang
@@ -473,6 +500,7 @@ http://47.105.94.241
 http://121.42.238.32
 https://donellaguida.com
 http://yanan.180724.com
+http://bbs.lvchakeji.cn
 http://120.25.171.194
 http://bbs.xy17358.com
 https://konkurs.gkzj.net
@@ -485,6 +513,7 @@ http://www.tzy648.cc
 http://121.46.31.153
 http://47.92.101.167
 http://www.chnfly.net
+http://chinatree.com
 http://119.3.216.156
 http://autodiscover.forums.myubbs.com:62078
 http://www.xxnms.com
@@ -516,11 +545,13 @@ http://www.szwolf.net
 http://www.jpun.net
 http://180.150.187.10
 https://biz-abroad.com
+https://az980.com
 http://hunan.bbs.nongquan.com
 http://bbs.qjyz.com.cn
 https://webmail.gkzj.net
 http://112.74.44.170
 http://www.cncelab.com
+https://bbs.huainet.com
 http://scn.csegn.com
 https://www.5a56.cn
 http://csgkplc.com
@@ -534,6 +565,7 @@ http://www.oecr.com
 http://oecr.com
 http://gaizexian.184409.com
 https://www.shopping.gkzj.net
+http://www.xahycj.com
 http://tujuoutdoor.com
 https://shktvw.com
 http://bbs.chinahrd.net
@@ -566,6 +598,7 @@ http://pld.184409.com
 http://ofc.oecr.com
 https://www.liuxuesheng8.com
 http://47.104.207.91:8090
+http://115.29.109.104
 https://www.gszg.com.cn
 http://ca.gegeyou.com
 http://siita.org.cn
@@ -588,6 +621,7 @@ http://www.csgkplc.com
 http://bbs.csgkplc.com
 http://www.jmc818.com
 http://blog.gdhealth.net
+http://106.225.153.196:8081
 http://bbs.shihenian.com
 http://szsheji.cn
 https://community.ruijienetworks.com
@@ -620,6 +654,7 @@ http://66.160.158.132
 https://voip750101.pg6.sip.gkzj.net
 http://bengbu.184409.com
 http://www.ikda.cn
+http://bbs.chinatree.com
 http://dl.mamacn.com
 https://www.china.163dz.com
 http://wiki.keepcloud.cn
@@ -652,6 +687,7 @@ http://t.sqxw.cn
 https://wine.ucfamily.com.cn
 http://198.12.231.14
 https://www.bbslixin.com
+http://123.57.9.201:8080
 https://bbs.cailiaoren.com
 https://www.zhikaoyz.com
 http://yuxiangshequ.com
@@ -669,6 +705,8 @@ http://www.gzsangna2.com
 http://8.140.12.248
 http://baicheng.aizse.com
 http://112.74.170.175
+https://news.yanfabu.com
+http://www.0734zly.com
 http://xxyysszz.com
 http://timmad.com
 http://zjwchc.xiasha.cn
@@ -691,16 +729,19 @@ http://bbs.bwxsj.cn
 http://10.ustcjz.cn
 http://101.200.172.3
 http://www.dimai3d.com
+http://www.gcxaw.com
 http://com.cmtest.net
 https://dev.okfun.org
 http://client.dataguru.cn
 http://test.hmphanmi.com.cn
+http://bbs.duoqu.com
 http://www.airz.cn
 http://www.pir422.cc
 https://www.zhongchu56.com
 http://freeinfo.com.my
 http://www.zhongshisheji.net
 https://www.sdxiangqiwang.com
+http://bbs.jcys.com
 http://202.133.247.70
 http://wuchangqu.com
 https://hhday.com.tw:8443
@@ -715,6 +756,7 @@ http://tr.180724.com
 http://www.hnfhhgj.com
 http://96.126.101.89:80
 https://www.gm6699.com
+https://news.p2peye.com
 http://all.edge.uttbbs.com
 https://isp-caledon.cit.gkzj.net
 http://opsbbs.whaley.cn
@@ -741,7 +783,9 @@ https://api.onecoolzone.com
 http://food.wxdaiyan.cn
 https://m.huosub2b.com
 https://bbs.shouxi.com
+http://bbs.rauz.net.cn
 http://gamesos.co.kr
+http://106.14.192.228:8082
 http://www.dn2828.com
 http://www.de.myubbs.com:62078
 http://v.yuxiangshequ.com
@@ -784,6 +828,7 @@ http://bbs.ebaina.com
 http://help.oecr.com
 http://join.skywj.com
 https://autodiscover.old.163dz.com
+http://148.70.126.248:8081
 http://www.abc.myubbs.com:62078
 http://www.jiajufans.com
 https://bbs.itheima.com
@@ -795,6 +840,7 @@ http://laser.oecr.com
 http://bbs.lindianlu.com
 http://www.zhaifan.net
 https://www.wh8k.com
+http://www.synaetech.com
 http://www.360hudong.com
 http://www.eu.myubbs.com:62078
 http://152.136.100.110:8088
@@ -807,6 +853,8 @@ http://www.gyyrkj.com
 http://154.85.222.106
 http://zghlzs.com
 http://123.56.133.103
+http://106.225.209.33:8081
+http://bbs.shouxi.com
 http://ftp.dataguru.cn
 http://www.mchkg.com
 http://121.37.221.235
