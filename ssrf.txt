@@ -1,16 +1,3 @@
-http://bbs.cnpes6.com
-http://pl.180724.com
-http://47.111.232.50:1234
-https://bbs.skyfleet.cc
-http://en.dataguru.cn
-http://luanboshiysclub.com
-http://www.demo2.myubbs.com:62078
-https://www.315nh.com
-http://39.107.108.231:8088
-http://medicine.oecr.com
-https://www.pzbxs.com
-http://bbs.stvgame.com
-http://www.taotu99.net
 http://bbs.forbaby.com.cn
 http://bbs.gyyrkj.com
 http://120.46.135.141
@@ -604,6 +591,7 @@ http://sglpw.cn
 http://www.zentrue.com
 http://13.113.177.206:81
 http://www.ppfeng.com
+http://www.bikesky.com
 http://security.magicworks.net
 http://www.cuzhiwang.com
 https://www.88flw.co
@@ -628,6 +616,7 @@ http://opticaldesign.oecr.com
 http://www.3gmir3.com
 http://so.ppfeng.com
 http://www.umhom23.com
+http://www.qzrzx.com
 http://www.tecdee.com
 http://www.caiyuanzi.org
 http://fagui.nongquan.com
@@ -840,6 +829,7 @@ http://www.irobo.org
 http://gzsfkj.com
 http://yq.180724.com
 http://qinzhou.180724.com
+http://bbs.gzhifi.com
 http://108.170.5.76
 http://www.1024wz.top
 http://holographic.oecr.com
@@ -852,6 +842,13 @@ http://www.college360.cn
 http://www.cdzykj.cn
 http://www.szy7.club
 http://www.hotlineage.com
+http://bbs.cnpes6.com
+http://pl.180724.com
+http://luanboshiysclub.com
+https://www.315nh.com
+http://bbs.stvgame.com
+https://www.pzbxs.com
+http://medicine.oecr.com
 http://diandee.com
 http://115.29.189.88
 http://www.021bababa.org
@@ -909,6 +906,7 @@ http://www.macgood.com
 http://ssjx1.top
 http://www.iyppz.com
 http://45.64.75.58
+http://www.rexuesq.com
 http://www.jgsdf.com
 http://128.199.77.16
 http://bbs.csettn.com
@@ -1126,6 +1124,7 @@ http://www.kb9453.com
 http://my0514.net
 http://www.xinliliang.org
 https://club.west.cn
+http://svipfulishipin6.top
 http://www.education.uttbbs.com
 http://club.lvya.org
 http://bbs.gtibee.com
@@ -1170,6 +1169,7 @@ http://www.westpay.com.cn
 http://120.27.93.163:9091
 https://www.qisehua.wang
 http://www.mx.myubbs.com:62078
+http://hotlineage.com
 https://www.saratov.gkzj.net
 http://88.lmcpw.net
 http://114.116.13.137
@@ -1182,6 +1182,7 @@ http://www.h596.com
 http://nt.184409.com
 https://www.zhinanzhen.org
 http://148.70.21.123
+http://www.hanwowo.com
 http://home.wangjing.cn
 http://www.xzqc.net
 http://www.qyage.net
@@ -1247,7 +1248,13 @@ http://www.lzpxf.com
 http://www.90yp.xyz
 http://club.west.cn
 http://mzxc.com.cn
+http://47.111.232.50:1234
+http://en.dataguru.cn
+https://bbs.skyfleet.cc
+http://www.demo2.myubbs.com:62078
 http://www.yf77.com
+http://39.107.108.231:8088
+http://www.taotu99.net
 https://www.zhujiaren.com
 http://www.ppcost.com
 http://www.azjrj.com
