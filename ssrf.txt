@@ -1,11 +1,3 @@
-http://www.tv.uttbbs.com
-http://www.fsjxjg.com
-http://blog.yuxiangshequ.com
-http://bbs.jpun.net
-http://www.tzy648.cc
-http://121.46.31.153
-http://47.92.101.167
-http://www.chnfly.net
 http://chinatree.com
 http://119.3.216.156
 http://autodiscover.forums.myubbs.com:62078
@@ -831,6 +823,8 @@ http://bbs.lvchakeji.cn
 https://www.xiaochimiji.com
 http://bbs.oiegame.com
 http://bgz6.com
+http://blog.yuxiangshequ.com
+http://www.fsjxjg.com
 https://zjtt.cn
 http://forum.foheart.com
 http://www.90yunpan.com
@@ -870,6 +864,7 @@ http://bbs.bikehome.net
 http://ikstar.com
 https://bbs.emath.ac.cn
 http://cinema-home.cn
+http://www.fuwen1.com
 http://www.larkmate.com
 http://8888888.ltd
 http://www.manmanqi.com
@@ -898,6 +893,7 @@ http://iqingua.com
 http://www.pshezi.com
 http://www.chuidiao365.com
 http://bbs.quanzhi.com
+http://xinyuelt8.com
 http://www.zhao11.com
 http://nd.184409.com
 http://gang.cn
@@ -913,6 +909,7 @@ http://bbs.chinadjba.com
 http://1.83.154.140:8093
 https://www.faceboer.org
 https://www.7177.cn
+http://www.fuwen3.com
 https://www.cqlf.info
 https://www.vzhang.net
 http://www.huawu2020.com
@@ -1055,6 +1052,7 @@ http://www.bj-ygsp.com
 https://luck.crtslt.net
 http://press.oecr.com
 http://www.erji.net
+http://xisn6.net
 http://222.35.122.176:88
 https://www.ossns.com
 http://xxtz.cc
@@ -1296,7 +1294,14 @@ http://yanan.180724.com
 http://www.wo.tkway.com
 https://b.it168.com
 http://121.40.249.34
+http://www.tv.uttbbs.com
 http://www.biyihou.com
+http://bbs.la2011.com
+http://bbs.jpun.net
+http://www.tzy648.cc
+http://47.92.101.167
+http://121.46.31.153
+http://www.chnfly.net
 http://xiaogq.com
 http://117.34.103.244
 http://www.1024ww.top
