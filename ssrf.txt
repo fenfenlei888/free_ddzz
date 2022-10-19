@@ -1,17 +1,3 @@
-http://bbs.51testing.com
-http://106.75.247.44:8089
-http://www.liyangedu.com
-http://water.oecr.com
-http://opticalfilm.oecr.com
-http://www.wanmirbbs.com
-http://www.jiadianbbs.cn
-https://www.chinafix.com
-http://www.lixinjiayuan.com
-https://bbs.5daowang.com
-http://www.yy779.com
-http://bbs.mdm520.cn
-https://www.mchkg.com
-http://www.52ytq.com
 http://www.dtganji.com
 http://www.zgwxsg.com
 http://pansj.cc
@@ -927,6 +913,15 @@ http://www.tecdee.com
 http://www.caiyuanzi.org
 http://fagui.nongquan.com
 http://bbs.yunyingz.com
+https://www.chinafix.com
+http://www.jiadianbbs.cn
+http://opticalfilm.oecr.com
+http://water.oecr.com
+http://www.liyangedu.com
+http://www.lixinjiayuan.com
+http://bbs.mdm520.cn
+https://www.mchkg.com
+http://www.52ytq.com
 http://119.28.75.197
 http://bbs.shenkongwang.com
 http://47.98.200.249
@@ -948,7 +943,9 @@ http://51fpush.com
 http://47.103.23.172
 http://www.inwaishe.com
 http://www.bbs-csw.com
+http://101.43.34.8
 http://gzsfkj.com
+http://aimang.net
 http://www.college360.cn
 http://diandee.com
 http://115.29.189.88
@@ -979,6 +976,7 @@ http://www.jgsdf.com
 http://120.79.180.108
 https://583118.com
 https://www.awanzhou.com
+http://150.158.152.164
 http://218.244.147.126
 http://bbs.quanzhi.com
 http://nd.184409.com
@@ -1076,6 +1074,7 @@ http://bbs.ykt1.cn:88
 https://www.usa.163dz.com
 http://bbs.8090de.cn
 https://www.alex.users.gkzj.net
+http://118.31.40.168
 http://www.home-way-home.com
 http://bbs.jiaozuobar.com
 https://soft.163dz.com
@@ -1092,6 +1091,11 @@ http://bbs.doit.am
 http://portfolio.wxdaiyan.cn
 https://mail.maiyadi.org
 http://www.jiadianmofang.com
+http://bbs.51testing.com
+http://www.wanmirbbs.com
+http://106.75.247.44:8089
+https://bbs.5daowang.com
+http://www.yy779.com
 http://218.76.65.252
 https://www.ossns.com
 http://64.32.12.98
@@ -1119,6 +1123,7 @@ https://059183.com
 http://121.42.13.206
 http://www.shenkongwang.com
 http://www.kindrednet.cn
+https://zhujiaren.com
 http://bbs.yxssy.com
 http://118.24.141.115:8000
 http://47.90.16.162
@@ -1143,3 +1148,4 @@ https://www.583118.com
 https://bbs.uleb.cn
 http://120.24.152.6
 http://app.lingsky.com
+http://110.76.44.26
