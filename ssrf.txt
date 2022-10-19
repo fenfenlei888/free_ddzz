@@ -1,5 +1,3 @@
-https://www.ibmbjb.com
-http://www.luori.net
 http://www.penbbs.com
 http://love.ytbbs.com
 http://bangbu.aizse.com
@@ -1708,6 +1706,7 @@ http://bbs.8yx.com
 http://bbs.cjrj.org
 http://czn.com.cn
 http://t.diandee.com
+https://www.ibmbjb.com
 http://syet.net
 http://bbs.roobo.com
 http://www.jmczsoft.com:82
@@ -1805,6 +1804,7 @@ http://www.0csm.com
 http://mtedu.utaipei.edu.tw
 http://www.ratbxh.com
 http://www.023lpwst.com
+http://159.203.3.103
 http://bbs.kazi.ai
 http://139.180.130.98:8080
 http://www.xkh877.cc
@@ -2421,6 +2421,7 @@ https://www.gm6699.com
 http://www.langrissera.com
 http://bbs.hkesp.com
 http://www.chattyku.com:8090
+http://www.luori.net
 https://www.pucatalyst.com
 https://bbs.tuize.com
 http://www.menhu.ca
