@@ -80,6 +80,7 @@ http://shgm.net
 http://irobo.org
 http://www.jxfuli.cf
 http://123.124.154.237
+http://104.219.18.158
 http://buy.xiasha.cn
 http://www.hu6hu.com
 http://www.lt0550.com
@@ -271,6 +272,7 @@ https://www.hkturtle.org
 http://115.29.188.128:81
 https://www.sousouyo.com
 https://s.epwk.com
+http://47.94.168.215
 http://116.255.230.131:8086
 http://www.onehdasia.com
 http://www.coltansmart.com
@@ -579,6 +581,7 @@ http://47.97.19.221:1433
 http://www.weinio.com
 http://www.jzlqw.com
 http://www.19fang.net
+http://www.soul-core.cn
 http://www.p2pux.com
 http://www.jiuguji.com
 http://image.cool-de.com
@@ -734,6 +737,7 @@ https://www.zhilexue.tech
 http://qiongzhong.184409.com
 http://172.105.224.114
 https://www.xlebbs.com
+http://120.25.231.42
 http://www.zdvictory.com
 http://bid.lingtuan.com
 http://f.pil.tw
@@ -769,6 +773,7 @@ http://bbs.inter.net.cn
 http://www.biotrainee.com
 http://luzhou.180724.com
 https://bbs.kangantu.com
+http://47.242.131.150
 http://search.uttbbs.com
 http://www.xn--7hvu6lcwr.com
 http://bbs.chinadjba.com
@@ -2001,6 +2006,7 @@ http://120.46.135.141
 http://bbs.264400.com
 http://103.104.172.51
 http://diandee.com
+http://43.138.102.128
 https://acer.it168.com
 http://heike666.cc
 http://bbs.dqzjw.com
@@ -2049,6 +2055,7 @@ http://xa.180724.com
 http://www.xinyuelt6.com
 http://xn--33-wu2cxg7rw55hwpl5vbp68m.xyz
 http://www.tysh.net
+http://www.shejiquan.cn
 https://donellaguida.com
 http://bbs.bato.cn
 http://www.mayi.sg
@@ -2125,6 +2132,7 @@ http://dingxi.w91.cn
 http://www.mytju.cn
 http://www.n023.com
 http://comcncontactwww.nakuz.com
+http://43.155.83.59
 https://114.215.119.205
 http://www.hasea.com
 http://ww.oyuw.com
@@ -2139,6 +2147,7 @@ http://zk.cmjnu.com.cn
 http://47.104.207.91:8090
 http://guyuan.184409.com
 http://ca.gegeyou.com
+http://103.244.158.250
 http://www.ry0751.com
 http://www.kingstargold.cn
 http://bygl.184409.com
