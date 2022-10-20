@@ -1,5 +1,3 @@
-https://bbs.huanai.com
-http://www.msms7.club
 http://text.irtec.cn:1234
 http://7wyx.cn
 http://bbs.rocaircraft.com
@@ -3174,6 +3172,7 @@ http://www.pxenter.com
 http://qiongzhong.180724.com
 https://www.paijibbs.com
 http://qyzb.com.cn
+http://www.nchxys.cn
 http://bbs.xtjc.com
 http://bbs.366200.cn
 http://quanbixuetang.com
@@ -4837,6 +4836,8 @@ http://106.225.153.196:8081
 https://bbs.vipleyuan.com
 http://159.203.3.103
 https://www.tongchengdl.com
+http://www.msms7.club
+https://bbs.huanai.com
 http://ncu.23du.com
 http://nku.myujob.com
 http://nanchong.180724.com
