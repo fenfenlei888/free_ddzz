@@ -1,6 +1,3 @@
-http://bbs.tianmingxy.com
-http://111.231.105.100
-http://bbs.wolfcode.cn
 http://www.ytscript.com
 http://shanghainianhua.com
 http://bbs.focusdo.cn
@@ -4043,6 +4040,9 @@ http://www.madio.net
 http://www.lebvo.com
 http://bbs.hifidiy.net
 http://139.129.28.37
+http://bbs.tianmingxy.com
+http://bbs.wolfcode.cn
+http://bbs.c3.wuyou.net
 http://bbs.daxianju.cn
 http://www.zhi-pu.com
 http://www.lgzcw.com
@@ -4058,6 +4058,7 @@ https://www.retroco.co
 http://forum.godpub.com
 http://bbs.feidou.com
 https://www.rmu7.club
+http://cn-sh.cn
 http://www.1000qm.vip
 http://1.15.174.14:81
 https://www.ccbn.com.cn
@@ -4118,6 +4119,7 @@ http://meigongyun.com
 http://www.idcser.com
 http://bbs.sunsili.com
 http://sh.exampx.com
+http://111.231.105.100
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
@@ -4133,6 +4135,7 @@ http://182.92.159.222
 http://jipinshequ.com
 http://www.fxzdy.com
 http://www.yunxi.net
+http://www.homefpd.com
 http://www.elyoo.com
 http://91d2.org
 http://abbc.eu.org:7777
