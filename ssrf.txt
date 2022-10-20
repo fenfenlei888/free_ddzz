@@ -1,4 +1,3 @@
-http://4x4.sh.cn
 http://wx8591.vshangtong.com
 http://123.57.5.193:8080
 http://www.ufocns.com
@@ -3541,6 +3540,7 @@ http://124.222.66.43
 http://www.mtxlt.com
 http://cs.180724.com
 http://www.myhdly.com
+http://4x4.sh.cn
 http://ha.180724.com
 http://zz.184409.com
 http://www.vincityhomes.com
