@@ -1,5 +1,3 @@
-http://www.xcluqiao.com
-http://www.westpay.com.cn
 http://www.behcet.com.cn
 http://m.imiaoyun.cn
 https://www.qisehua.wang
@@ -3569,6 +3567,7 @@ http://myvrgame.cn
 http://www.apuup.com
 https://bbs.iwangzhe.com
 http://52.15.204.109
+http://www.westpay.com.cn
 http://bbs.reasonclub.com
 http://yiyang.184409.com
 http://qingyang.180724.com
@@ -3793,6 +3792,7 @@ http://yj.180724.com
 https://bbs.zhuzhou.com
 http://www.zhangshangfuzhou.com
 http://taixing.184409.com
+http://huaxingbbs.com
 https://www.mabinogi.club
 http://www.bike163.net
 http://www.airmyth.com
@@ -4647,6 +4647,7 @@ http://360hudong.com
 http://gy.184409.com
 http://www.taiwanzhenglun2.com
 http://chongzuo.184409.com
+http://www.xcluqiao.com
 http://bbs.iyudu.top
 http://gguse.com
 http://www.nanjing2.com
