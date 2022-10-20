@@ -154,6 +154,7 @@ http://ab.184409.com
 http://lwgod.org
 http://shart.cn
 http://www.bearingbbs.com
+http://www.theold.net
 https://www.wszgw.net
 http://so.ppfeng.com
 http://bbs.56785678.net
@@ -222,6 +223,7 @@ http://bbs.huaibei123.cn
 http://www.dea-con.com
 http://www.icanon.asia
 http://47.74.178.33
+http://www.global-movie.net
 https://bbs.aaa-cg.com.cn
 http://47.92.192.118:999
 http://www.zhaohushi.com
@@ -610,6 +612,7 @@ http://101.37.227.158:8080
 http://www.sctz10.com
 http://101.200.54.194
 http://sbc.sanbeicha.com.cn
+http://lvju.wdzb.org.cn
 http://47.244.107.215
 http://www.gaoduanke.com
 http://bisi666.cc
@@ -1745,6 +1748,7 @@ http://www.xionggay.net
 http://www.tjlzs.cn
 http://43.132.249.247
 https://bbs.craftbuiler.top
+http://www.chinayitan.com
 http://aufe.myubbs.com
 http://www.zibenquan.org
 http://bbs.2012jh.com
@@ -1944,6 +1948,7 @@ http://xsgbbs.com
 http://www.bb.uttbbs.com
 http://64.32.12.100:443
 http://bbs.superic.com
+http://www.youcsky.com
 http://bleachcn.net
 https://ibmhome365.com
 https://webdisk.news.163dz.com
@@ -2561,6 +2566,7 @@ http://www.pvkj.com
 http://www.penbbs.com
 http://bbs.compressor.cn
 https://www.hxwke.com
+http://forum.android-studio.org
 https://www.pucatalyst.com
 http://www.svipshare.com
 http://bbs.o2jam.cc
@@ -2737,6 +2743,7 @@ http://wx.180724.com
 http://120.26.60.242
 http://bbs.029aa.com
 https://dz.jisuoxu.com
+http://www.china-africa.cn
 http://150.109.113.206:8090
 http://www.021tz.com
 http://fcg.180724.com
