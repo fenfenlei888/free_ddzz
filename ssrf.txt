@@ -1,5 +1,3 @@
-http://www.extranet.uttbbs.com
-http://rxshenqi.net
 http://www.jnuedf.org
 http://zz.mamacn.com
 http://66.160.158.132
@@ -3462,6 +3460,7 @@ https://bbs.laotingbest.com
 https://www.aimang.net
 http://lvyou.ytbbs.com
 http://www.hongyangjixie.cn
+http://www.extranet.uttbbs.com
 http://dt.184409.com
 http://gg.180724.com
 http://bbs.sugas.site
@@ -3497,6 +3496,7 @@ http://yidou.184409.com
 https://www.jiulu.info
 https://community.joshvm.com
 http://pe.184409.com
+http://zixun.jinsiyu.com
 http://jm.184409.com
 http://www.ggok.cn
 http://ln19.com:8088
@@ -4863,6 +4863,7 @@ http://www.100sj.net
 http://impk113.com
 http://118.24.141.115:8000
 http://www.smdsw.cn
+http://rxshenqi.net
 http://www.zbhw.com
 http://www.bjsax.com
 https://365xiaochi.net
