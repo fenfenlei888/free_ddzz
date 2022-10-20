@@ -7,6 +7,7 @@ http://184.95.51.83
 http://www.xahr.org
 http://bbs.visionzone.com.cn
 http://bbs.dahua-cpa.com
+http://111.225.222.146
 http://zunyi.180724.com
 http://120.48.31.72
 http://122.195.200.230:82
@@ -2046,6 +2047,7 @@ http://64.32.12.100:443
 http://114.55.57.179
 http://bbs.superic.com
 http://www.youcsky.com
+http://dx.weifengtang.com
 http://bleachcn.net
 https://ibmhome365.com
 https://webdisk.news.163dz.com
