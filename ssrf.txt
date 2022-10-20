@@ -1,4 +1,3 @@
-http://51uwb.cn
 http://bbs.mp67.com
 http://ihuge.net
 http://99957764.deutron.com.tw
@@ -3860,6 +3859,7 @@ http://112.90.82.4:8181
 http://120.25.151.191
 http://lji823.cc
 https://www.x505.cn
+http://123.56.189.154
 http://qd.180724.com
 http://150.223.45.236:8081
 http://xiaomicheng.com
@@ -3929,6 +3929,7 @@ http://116.255.230.131:8086
 http://qun.eweiqi.com
 http://www.coltansmart.com
 http://www.onehdasia.com
+http://51uwb.cn
 http://www.fenglove.com
 http://bbs.daxianju.cn
 https://dgwww.com
