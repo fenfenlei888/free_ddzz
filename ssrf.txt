@@ -1,6 +1,3 @@
-http://www.jnuedf.org
-http://zz.mamacn.com
-http://66.160.158.132
 http://bengbu.184409.com
 http://47.90.16.162
 http://bbs.dult.cn
@@ -3462,6 +3459,8 @@ http://lvyou.ytbbs.com
 http://www.hongyangjixie.cn
 http://www.extranet.uttbbs.com
 http://dt.184409.com
+http://www.jnuedf.org
+http://zz.mamacn.com
 http://gg.180724.com
 http://bbs.sugas.site
 https://www.sts1.xyz
@@ -3684,6 +3683,7 @@ http://cqu.myujob.com
 http://yulin.180724.com
 http://www.cqfjh.com
 http://suizhou.180724.com
+http://bbs.jinsiyu.com
 http://fangwei.zhougongbaisui.com
 http://www.gyusoft.com
 http://taishan.184409.com
@@ -4864,6 +4864,7 @@ http://impk113.com
 http://118.24.141.115:8000
 http://www.smdsw.cn
 http://rxshenqi.net
+http://66.160.158.132
 http://www.zbhw.com
 http://www.bjsax.com
 https://365xiaochi.net
@@ -4999,6 +5000,7 @@ http://www.jiaoyiyuan.com
 http://bbs.mobiwind.cn
 http://linxia.180724.com
 http://bbs.kaitaobaodian.com
+http://www.chinae68.com
 http://www.mahamaha.com
 http://changji.180724.com
 http://ta.184409.com
