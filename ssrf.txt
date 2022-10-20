@@ -1,9 +1,3 @@
-http://2021.caiwubaobiao.com
-https://www.hnweis.com
-https://www.hzyw5.com
-https://bbs.mfcad.com
-http://108.170.5.101:8080
-http://www.laigaoxiao.cn
 https://www.tingyuxuan.net
 http://www.90yp.xyz
 http://tongling.184409.com
@@ -3285,6 +3279,7 @@ http://www.fumanyou.cc
 http://0731gayt.com
 http://www.yzhw666.com:8083
 http://anshan.w91.cn
+https://dauto.com.tw:8443
 http://ag.chn-africa.com
 http://www.iqingua.com
 http://www.nvadmin5.com
@@ -3710,6 +3705,7 @@ http://www.freeinfo.com.my
 http://jinzhou.180724.com
 http://bozhou.180724.com
 http://www.zhonghuaying.com
+http://www.52cae.cn
 http://wjq.180724.com
 http://www.shuqu.net
 http://jx.180724.com
@@ -4713,7 +4709,13 @@ http://bbs.sijige.net
 http://www.chinasfj.cn
 http://wn.180724.com
 http://www1.area-11.com
+https://www.hnweis.com
+http://2021.caiwubaobiao.com
+https://bbs.mfcad.com
+https://www.hzyw5.com
+http://108.170.5.101:8080
 http://ecy.guangsyl.cn
+http://www.laigaoxiao.cn
 http://yw10.xyz
 http://yqsjob.com
 http://huidong.180724.com
@@ -4777,6 +4779,7 @@ http://snj.184409.com
 http://ptbbs.net
 http://bbs.chntrs.com
 https://bbs.029aa.com
+https://tutorbec.com.tw:8443
 http://13.56.224.28
 http://youximeng.com
 http://m.langrissera.com
@@ -4973,6 +4976,7 @@ http://lc.184409.com
 http://www.5uzc.com
 http://bazhong.180724.com
 http://www.songjiangjituan.cn
+https://plastic-bbs.com:8443
 http://www.csslkj.com
 http://yancheng.180724.com
 http://hanzhong.180724.com
