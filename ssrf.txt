@@ -1,4 +1,3 @@
-http://bbs.ltesting.net
 http://www.xinyuelt7.com
 http://58.213.78.75:9000
 http://bbs.5281.net
@@ -2140,6 +2139,7 @@ http://www.smbwgg.com
 http://zjtt.cn
 http://forum.netzone.com
 http://hongfengml.com
+http://bbs.cantonese.asia
 http://bbs.sto.net.cn
 http://dandong.w91.cn
 http://cncdiy.cn
@@ -3373,6 +3373,7 @@ http://www.dxhb.cc
 http://134.175.116.248
 http://bbs.netzone.com
 https://www.anluw.com
+http://bbs.ltesting.net
 http://hzvtc.xiasha.cn
 http://godox.ltd
 http://www.mangoscn.com
