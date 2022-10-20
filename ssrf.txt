@@ -1,6 +1,3 @@
-http://hdkaraokesong.com
-http://haimen.180724.com
-http://bbs.lindianlu.com
 http://group.huran.net
 http://hq.180724.com
 http://www.chinaxieshi.cn
@@ -3430,6 +3427,7 @@ https://zn.kuaiyinmao.com
 http://yidou.184409.com
 http://www.dszw.net
 http://www.tangnianw.com
+http://bbs.lindianlu.com
 https://www.jiulu.info
 https://community.joshvm.com
 http://pe.184409.com
@@ -4025,6 +4023,7 @@ http://www.028gay.net
 http://china-africa.cn
 https://www.tzbbs.com.cn
 http://bbs.bingchengwang.com
+http://www.szllcc.com
 http://xinwen.zhougongbaisui.com
 http://www.sanmaobbs.com
 http://zhoushan.184409.com
@@ -4984,6 +4983,8 @@ https://www.shuolianai.com
 http://www.nonglinshuyuan.com
 http://home.china-ws.org
 http://www.piaoyou123.com
+http://hdkaraokesong.com
+http://haimen.180724.com
 http://snj.184409.com
 http://ptbbs.net
 http://bbs.chntrs.com
@@ -5154,6 +5155,7 @@ http://xunliaoyou.cn
 https://www.shitan.co
 http://www.0557shu.com
 http://www.itmxc.com
+https://www.woodenkitten.com
 http://forum.tpps.org.tw
 http://66.160.158.134
 https://qz.huaigirls.com
@@ -5285,6 +5287,7 @@ http://www.jsdjhw.com
 http://www.glsanw.com
 http://120.55.27.58:876
 http://xinlt.cn
+https://woodenkitten.com
 http://ningguo.180724.com
 http://ffskybbsjp.azurewebsites.net
 http://www.tjibm.com
