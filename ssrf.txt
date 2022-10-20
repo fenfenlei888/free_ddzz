@@ -1,6 +1,3 @@
-http://52.15.204.109
-http://www.taiwanzhenglun2.com
-https://bbs.iwangzhe.com
 http://www.xcluqiao.com
 http://www.westpay.com.cn
 http://www.behcet.com.cn
@@ -3570,6 +3567,8 @@ http://baishan.aizse.com
 http://bbs.5iyq.com
 http://myvrgame.cn
 http://www.apuup.com
+https://bbs.iwangzhe.com
+http://52.15.204.109
 http://bbs.reasonclub.com
 http://yiyang.184409.com
 http://qingyang.180724.com
@@ -4646,6 +4645,7 @@ http://ja.184409.com
 https://www.sxhonor.com
 http://360hudong.com
 http://gy.184409.com
+http://www.taiwanzhenglun2.com
 http://chongzuo.184409.com
 http://bbs.iyudu.top
 http://gguse.com
