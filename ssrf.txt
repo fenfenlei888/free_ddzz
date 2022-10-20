@@ -282,6 +282,7 @@ http://www.411au.com.cn
 http://baoding.aizse.com
 http://115.28.157.149
 http://kel.184409.com
+https://zhikaoyz.com
 http://bbs.abntest.com
 http://47.52.224.170
 http://218.94.144.26:8080
@@ -467,6 +468,7 @@ http://www.80baicai.biz
 http://51ele.net
 http://sctz1.com
 http://hdu.xiasha.cn
+http://www.srvf.cn
 http://115.29.189.88
 https://bbs.opencart.cn
 http://www.zzb.tech
@@ -534,6 +536,7 @@ http://119.3.216.156
 http://www.diytwo.com
 http://www.pianopaper.net
 http://forum.go2tutor.com
+https://bbs.xiaoyuer.com
 http://wz.180724.com
 http://www.pecc.cn
 http://proxy.wxdaiyan.cn
@@ -622,6 +625,7 @@ https://5i8.us
 http://www.xs8.live
 http://114.107.245.122:9080
 http://101.37.227.158:8080
+http://www.feifeicms.me
 http://www.sctz10.com
 http://101.200.54.194
 http://sbc.sanbeicha.com.cn
@@ -1312,6 +1316,7 @@ https://bbs.cnction.com
 https://www.9xng.xyz
 http://118.31.165.148
 http://www.941cz.com
+http://www.rapidbbs.cn
 http://www.wendan.com.cn
 http://chunyealley.com.tw
 https://www.zippobymazziinchina.com
@@ -1429,6 +1434,7 @@ http://www.journal.myubbs.com:62078
 http://64.32.12.99
 http://fz.184409.com
 http://bbs.pab.pub
+http://forum.nobook.com
 http://www.sszzcw.com
 http://43.143.128.146
 http://kingstargold.cn
@@ -1466,6 +1472,7 @@ http://203.33.224.178:8081
 http://219.136.240.11
 http://www.x505.cn
 http://discuz.myesball.net
+http://www.bmw8518.com
 http://www.bzswbbs.com
 https://bbs.anluw.com
 http://home.cantonese.asia
@@ -1477,6 +1484,7 @@ http://bbs1.phpdisk.com
 http://bijie.w91.cn
 http://tunchang.184409.com
 http://www.mm.ci
+https://bbs.bibgame.com
 http://49.233.206.40:88
 https://www.xinpg.com
 http://175.178.88.82
@@ -1543,6 +1551,7 @@ http://www.sdsdzx.com
 http://bbs.0516k.com
 http://www.168gamesf.com
 http://bbs.xiasha.cn
+http://forum.nobook.com.cn
 http://002.bleachcn.net
 http://www.kindrednet.cn
 http://139.180.130.98:8080
@@ -2648,6 +2657,7 @@ http://123.56.88.72
 http://zhihuibaoku.cn
 https://www.itsk.com
 http://baoding.w91.cn
+http://www.zhixuannet.com
 http://wjsyjxh.com
 http://bbs.jiuping.cn
 http://guangzhou.hmsem.com
@@ -2695,6 +2705,7 @@ http://wuhu.184409.com
 http://106.225.209.33:8081
 https://bbs.yaozh.cn
 http://1tzwz.com
+http://123.59.206.214:31206
 http://shtzw.net
 http://yt.180724.com
 http://www.li20.net
@@ -2978,7 +2989,9 @@ http://bbs.aalborgportland.com.cn
 http://121.127.238.161
 https://bbs.yanfabu.com
 http://my0514.net
+http://wlinyi.139931.com
 http://svipfulishipin6.top
+http://www.feifeicms.vip
 http://baise.w91.cn
 http://www.lwgod.org
 http://www.jzs08.com
@@ -3226,6 +3239,7 @@ http://autodiscover.forums.myubbs.com:62078
 http://a.zggdxy.com
 http://117.34.103.244
 http://cn-www.jlpzj.cn
+https://qy0.cn
 http://caiji.fxku.cn
 http://www.1314xuexi.com
 http://www.suixin888.com
@@ -3261,6 +3275,7 @@ http://www.iyingwu.net
 https://54.185.218.198
 http://kel.180724.com
 http://47.106.187.21
+https://www.qy0.cn
 http://www.fspd6.com
 http://forum.wxdaiyan.cn
 http://113.254.20.186:8080
@@ -3274,6 +3289,8 @@ https://www.xinxinmin.com
 http://as.180724.com
 http://www.lietou007.com
 http://www.php200.cn
+http://www.feifeicms.pro
+http://szzyyzz.com
 https://www.eleok.com
 http://www.aimang.net
 http://www.bjxxw.com
@@ -3297,6 +3314,7 @@ http://www.lingdian.org.cn
 http://39.107.78.109
 https://x505.cn
 http://43.136.176.17
+http://vip.weistock.com:8081
 https://bbs.xiaot.com
 http://www.qixingquan.com
 http://wd.znds.com
@@ -3503,6 +3521,7 @@ http://bbs.46ps.com
 http://123.207.235.177
 http://bbs.dzol.cn
 http://www.1314mh.com
+http://bbs.mzsky.com
 http://chaozhou.184409.com
 http://bengbu.180724.com
 http://beijing.hmsem.com
