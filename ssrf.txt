@@ -1,4 +1,3 @@
-http://104.143.10.132:8888
 http://184.95.51.82:8080
 http://www.erji.hk
 http://www.11sgz.com
@@ -5148,6 +5147,7 @@ https://forum.kaiyuan.de
 http://zhouyi68.com
 http://bbs.lineage2.gamesdata.name
 http://159.203.53.181
+http://104.143.10.132:8888
 http://px.xiasha.cn
 http://1564847122.jyrm.cn
 http://xc.184409.com
@@ -5228,6 +5228,7 @@ http://bbs.kaitaobaodian.com
 http://www.chinae68.com
 http://www.mahamaha.com
 http://changji.180724.com
+http://yong2022.xyz
 http://gx.rhygc.com
 https://wh8k.com
 http://ta.184409.com
