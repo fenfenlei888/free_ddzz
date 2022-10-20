@@ -1,5 +1,3 @@
-http://bbs.hongyawang.com
-http://www.28cun.com
 http://www.tecdee.com
 http://www.qzrzx.com
 http://www.zhzmsp.com
@@ -2776,6 +2774,7 @@ http://jb.ngouwu.com
 https://bbs.shiyebian.org
 https://forum.dragonballz.us
 http://hld.184409.com
+https://www.syzxw.com.cn
 http://www.kb9453.com
 http://121.5.141.171
 http://bbs.5imx.com
@@ -3250,6 +3249,7 @@ http://www.hys99.cn
 https://autodiscover.old.163dz.com
 https://forum.mtkfan.com
 https://www.583118.com
+http://www.szhjwybj.com
 http://cd.184409.com
 http://www.zjgay.net
 http://52bianc2017.w208.0735data.cn
@@ -3398,6 +3398,7 @@ http://bbs.wu-cp.com
 http://www.3gmir3.com
 http://xy.180724.com
 http://www.hytangbao.com
+http://www.28cun.com
 http://www.virology.com.cn
 http://www.zhiyoucheng.co
 https://admin.in.ilovexclub.com
@@ -5113,6 +5114,7 @@ http://opticaldesign.oecr.com
 http://hntz01.com
 http://www.lakwdian.com
 http://nj.184409.com
+http://bbs.hongyawang.com
 http://linzhi.184409.com
 https://www.teach66.com
 http://bozhou.184409.com
