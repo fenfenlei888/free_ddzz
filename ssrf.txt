@@ -1,4 +1,3 @@
-https://bbs.ayyt.com
 http://bbs.zhuzhou.com
 http://arm-cn.com
 http://www.ffwold.com
@@ -3464,6 +3463,7 @@ http://www.zyt8.com
 http://www.180724.com
 http://chengde.180724.com
 http://108.170.5.100:8080
+http://xxnms.com
 http://www.0750.name
 http://www.gildland.com
 http://www.941cz.com
@@ -4749,6 +4749,7 @@ http://bbs.yimenapp.com
 http://micro-dsp.comcncontactmww.nakuz.com
 http://www.chinatree.com
 http://49.232.191.113
+https://bbs.ayyt.com
 http://zhanjiang.180724.com
 http://honghe.180724.com
 http://www.xy168.net
