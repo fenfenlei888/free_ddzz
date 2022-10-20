@@ -1,4 +1,3 @@
-http://www.zhengjimtcn.com
 http://chinatree.com
 http://119.3.216.156
 http://www.chinatarot.com
@@ -3829,6 +3828,7 @@ http://ppdm.us
 http://www.fhsx.net.cn
 http://jomen.net
 http://hn.184409.com
+http://bbs.hgplus.net
 https://www.lcxlyy.com
 http://www.yaodumod.com
 http://www.keaimao.com.cn
@@ -4295,6 +4295,7 @@ http://bbs.lvchakeji.cn
 http://bgz6.com
 http://108.170.5.76:8080
 https://zjtt.cn
+http://www.zhengjimtcn.com
 https://www.stereosound.com.cn
 http://www.gonghedd.com
 https://sinoquebec.com
