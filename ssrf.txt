@@ -1,5 +1,3 @@
-https://video.gkzj.net
-http://chifeng.184409.com
 http://108.170.5.100:8080
 http://bbs.zjtt.cn
 http://bbs.vbsa.com.au
@@ -3812,6 +3810,7 @@ https://wzbj.beizongren.cn
 http://112.126.82.224
 http://bygl.180724.com
 http://www.mamayujia.com
+http://bjsax.com
 http://cdios.hjsite.com
 http://sytu.23du.com
 http://allyworld.xicp.net:8092
@@ -4703,6 +4702,8 @@ http://zhangqiu.184409.com
 http://haidong.184409.com
 http://47.100.196.62
 http://www.tooidc.cn
+https://video.gkzj.net
+http://chifeng.184409.com
 http://www.chessocean.com
 http://wn.184409.com
 http://www.chinasfj.cn
@@ -4743,6 +4744,7 @@ http://ncu.23du.com
 http://nanchong.180724.com
 http://zgtrz.com
 http://www.zbhw.com
+http://www.bjsax.com
 https://365xiaochi.net
 https://www.sts4.xyz
 https://www.sixiantongxiang.com
