@@ -1152,6 +1152,7 @@ http://117.34.103.244:81
 http://www.sdtz.cc
 http://dayibin.cn
 http://47.99.124.209
+https://bbs.t-firefly.com
 http://64.32.12.98
 http://www.mengchenghui.com
 http://www.huangshanonline.com
@@ -2602,6 +2603,7 @@ http://59.127.158.12
 http://150.109.146.88
 http://114.aiyidu.com
 http://sctz10.com
+http://www.jiyiba.com
 https://riji.bozhong.com
 http://www.csgkplc.com
 http://forum.goldenantler.ca
@@ -3499,6 +3501,7 @@ http://forum.wxdaiyan.cn
 http://113.254.20.186:8080
 https://sony.it168.com
 http://gaizexian.184409.com
+http://bbs.97973.com
 http://changde.aizse.com
 http://meishi.ztrxw.cn
 http://124.222.157.111:8096
