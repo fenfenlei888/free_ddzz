@@ -1,5 +1,3 @@
-http://bbs.61cms.net
-http://106.14.1.150:8090
 https://115.vipfenxiang.com
 http://47.98.200.249
 https://www.aibaogame.com
@@ -3977,6 +3975,7 @@ http://www.hprx.com
 http://121.199.48.191:89
 http://www.nongdui.com
 http://104.237.56.131
+http://106.14.1.150:8090
 http://bbs.c3.wuyou.net
 http://htmlarticle25www.nakuz.com
 http://bbs.daxianju.cn
@@ -4169,6 +4168,7 @@ http://baish.184409.com
 https://vip.yjxsoft.com
 https://www.haidiaoren.com
 http://ty.mamacn.com
+http://bbs.61cms.net
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
@@ -4184,6 +4184,7 @@ http://www.hbqhome.com
 https://wiki.mabinogi.club
 http://www.dioenglish.com
 https://www.51dahuo.com
+http://www.5ihome.net
 https://maiyadi.org
 http://club.tfclub.com
 http://bbs.xichuanwh.com
@@ -4222,6 +4223,7 @@ http://bbs.fhsx.net.cn
 http://abbc.eu.org:7777
 https://dz.zhijianyun.net
 http://www.xng18.xyz
+http://5ihome.net
 http://www.qxs8.cc
 http://bbs.bossos.net
 http://www.gzwt.tk
