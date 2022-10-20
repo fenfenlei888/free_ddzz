@@ -1,5 +1,3 @@
-http://fz.mamacn.com
-http://154.87.1.174
 http://wxcw99.com
 http://www.lgbbs.cn
 http://vshangtong.com
@@ -2162,6 +2160,7 @@ http://www.inwaishe.com
 http://www.xyw086.com
 http://www.cuebkaoyan.com
 http://172.105.218.161
+http://bjsyouth.cn
 http://bbs.0777hw.com
 http://bbs.liyueer.com
 http://news110.cn
@@ -3394,6 +3393,7 @@ https://www.0371zl.com
 https://xinpg.com
 http://kb.ventuz.com.cn
 http://www.cmiw.cn
+http://154.87.1.174
 https://admin.in.ilovexclub.com
 https://post76.hk
 http://haian.180724.com
@@ -5135,6 +5135,7 @@ http://91lng.com
 http://bbs.sjyjvr.com
 http://www.51minsheng.com
 http://www.homefpd.com
+http://fz.mamacn.com
 http://dg.184409.com
 https://www.881828.com
 http://jinggzj.com
