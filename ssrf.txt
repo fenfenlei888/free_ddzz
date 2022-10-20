@@ -2612,6 +2612,7 @@ http://zhangbei.180724.com
 http://112.74.88.149:8080
 https://www.zp05.com
 http://www.uk.myubbs.com:62078
+http://47.75.128.247
 http://bbs.ibenxi.com
 http://bbs.myir-tech.com
 http://ofe501.cc
@@ -2788,6 +2789,7 @@ https://gjkeji.com
 http://pop.cpure.org
 http://www.feicuibbs.cn
 http://fd.bbs.9wee.com
+http://www.love230.com
 http://wiki.keepcloud.cn
 http://www.fmdevelopers.com.cn
 http://bbs.blackshark.com
@@ -3895,6 +3897,7 @@ http://www.wptcw.com
 http://luoya.shawsen.com
 https://isp-caledon.cit.gkzj.net
 http://opsbbs.whaley.cn
+http://123.57.240.48
 http://www.cncye.com
 http://www.lkdie.com
 http://mszb.ckuyun.com
