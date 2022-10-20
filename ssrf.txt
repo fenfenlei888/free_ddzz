@@ -381,6 +381,7 @@ http://106.15.61.58
 http://47.104.99.49:82
 https://www.11sgz.com
 http://bbs.cskin.net
+https://bbs.517sc.com
 http://dezhou.w91.cn
 https://tcelue.net
 http://218.161.23.131
@@ -590,6 +591,7 @@ http://lasa.180724.com
 http://benxi.aizse.com
 http://www.90yunpan.com
 https://we.poppur.com
+https://www.lingfu.cc
 http://www.2003n.cn
 http://www.jpun.net
 http://www.hubeibbs.net
@@ -1210,6 +1212,7 @@ http://www.yeei.cn
 http://bbs.santai.ren
 http://dhcp.pilsnet.uttbbs.com
 http://yszq.cn
+https://bbs.shiyebian.org
 http://jb.ngouwu.com
 https://www.ji14.com
 http://bbs.tb18.net
@@ -3316,6 +3319,7 @@ http://bbs.62115.com
 http://www.lxhuwai.com
 http://wwww.oyuw.com
 http://www.centerbbs.com
+https://www.xuecq.com
 http://naruto.bleachcn.net
 http://bbs.cnqol.com
 http://31shenghuo.com
