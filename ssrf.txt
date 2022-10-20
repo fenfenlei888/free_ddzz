@@ -1,8 +1,3 @@
-http://cd.mamacn.com
-http://bbs.dz.blizzard.cn
-http://bbs.9tripod.com
-http://www.gxdk.com.cn
-http://bbs.52rd.com
 http://45.136.150.17
 http://miaobar.cc
 http://huizhou.180724.com
@@ -3444,6 +3439,7 @@ http://dz.zhijianyun.net
 http://hljubbs.com
 https://www.0758vip.com
 http://www.fulingws.cn
+http://www.gxdk.com.cn
 http://bbs.d1dns.com
 http://idsky.net
 https://forum.mtkfan.com
@@ -4526,6 +4522,7 @@ http://114.253.252.223:88
 http://39.105.131.214
 http://www.yjqun.com
 http://www.paheng.com
+http://021tz.cc
 http://www.bjdsw.cn
 https://www.yuelan8.com
 http://xwdh.net
@@ -4960,6 +4957,10 @@ http://wx.mamacn.com
 http://39.109.112.72
 http://jxfuli.tk
 http://124.128.39.4
+http://bbs.dz.blizzard.cn
+http://cd.mamacn.com
+http://bbs.9tripod.com
+http://bbs.52rd.com
 http://tongliao.180724.com
 http://182.92.159.222
 http://dnt2006615www.nakuz.com
@@ -5035,6 +5036,7 @@ http://www.gguse.com
 http://www.renxing500.com
 http://www.zbhwxh.com
 http://bbs.bjyqy.cn
+http://www.bsqy.org
 http://www.sporthealth.cn
 http://www.thinkingbeing.net
 http://bbs.qphome.com
@@ -5177,6 +5179,7 @@ http://dt.180724.com
 http://www.d1wp.com
 http://peizimenhu.com
 http://www.kaoyouzhijia.net
+http://sh1069.cc
 https://www.verycare.org
 https://aibaogame.com
 http://0527jsw.com
@@ -5209,6 +5212,7 @@ http://tc.oa57.net
 http://dx.180724.com
 http://xinyishi.180724.com
 https://bbs.daxianju.cn
+http://www.021tz.cc
 http://www.zhouyi68.com
 http://www.hongchengnet.com
 http://cd.180724.com
