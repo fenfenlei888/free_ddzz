@@ -1,5 +1,3 @@
-http://www.heike666.com
-http://119.28.188.53
 http://www.houla.cn
 http://pockyland.net
 http://luohe.184409.com
@@ -3403,6 +3401,7 @@ http://hjbxw.com
 http://bbs.hejun.com
 http://kbhelp.757abc.com
 http://dev.arinchina.com
+http://cjlu.xiasha.cn
 http://zstu.xiasha.cn
 http://zhangzhou.180724.com
 https://www.llgarden.com
@@ -3836,6 +3835,7 @@ http://www.58wh.com
 http://nn.184409.com
 http://micro-dsp.comcncontactwsw.nakuz.com
 https://shop.wanxueyuan.cn
+http://hzvtc.xiasha.cn
 http://www.mangoscn.com
 https://www.longjingshuochang.com
 http://comcnncontactwww.nakuz.com
@@ -4376,7 +4376,9 @@ http://www.zhaoyouning.com
 http://www.dioenglish.com
 http://www.6566566.com
 http://129.204.66.164
+http://www.heike666.com
 http://manmanqi.com
+http://119.28.188.53
 http://qth.184409.com
 http://bbs.inanxun.com
 http://198.255.9.43
