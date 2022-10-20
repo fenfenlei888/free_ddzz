@@ -1770,6 +1770,7 @@ http://bbs.g3d.org
 http://tj.bbs.nongquan.com
 https://3sjt.com
 http://111.161.41.17:81
+http://bbs.shoufish.com
 https://www.tcelue.com
 http://www.lichenyue.com
 http://hcwxcn.com
@@ -2549,6 +2550,7 @@ http://luanboshiysclub.com
 http://ht.184409.com
 https://www.pzbxs.com
 http://bbs.forbaby.com.cn
+http://www.shoufish.com
 http://128.199.110.255
 http://120.46.135.141
 http://bbs.264400.com
@@ -2720,6 +2722,7 @@ http://www.n023.com
 http://comcncontactwww.nakuz.com
 http://www.pjhku.com
 http://43.155.83.59
+http://bbs.sonyfcb.com
 https://114.215.119.205
 http://www.hasea.com
 https://www.app001.com
@@ -3972,6 +3975,7 @@ http://8.142.82.217
 http://bbs.wangjing.cn
 http://www.jkzmd.com
 http://www.business.myubbs.com:62078
+http://bbs.ffsky.com
 http://www.sngdzx.cn:8088
 https://bbs.sific.com.cn
 https://api.onecoolzone.com
