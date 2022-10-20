@@ -701,6 +701,7 @@ https://www.china.163dz.com
 http://www.bacysoft.cn
 http://qz.184409.com
 http://101.200.182.140
+http://bbs.aero.cn
 http://www.zfwz.net
 http://www.98905.com
 http://lin.ywzt.wang
@@ -988,6 +989,7 @@ http://bbs.sm9mail.com
 https://lb.0771ao.com
 http://52tk.net
 http://www.jxfuli.tk
+http://bbs.wuyou.net
 http://shenghuo.ztrxw.cn
 http://www.1tzwz.com
 https://www.55art.com
@@ -1019,6 +1021,7 @@ http://chinanative.net
 http://st.180724.com
 http://www.5isudu.com
 http://old.gzicpa.org.cn
+http://shequ.taoke.com
 http://cq.mamacn.com
 http://120.76.23.10
 http://www.0722sy.com
@@ -2879,6 +2882,7 @@ http://120.26.60.242
 http://bbs.029aa.com
 https://dz.jisuoxu.com
 http://www.china-africa.cn
+http://www.cnky.cn
 http://150.109.113.206:8090
 http://www.021tz.com
 http://fcg.180724.com
@@ -3145,6 +3149,7 @@ https://mouxue.com
 https://bs.0771ao.com
 https://bbs.lingkee.cn
 https://yuzhe.liyiyi.name
+http://www.likespc.cn
 http://junweidianqi.cn
 http://bbs.jf210.com
 http://nt.184409.com
@@ -3283,6 +3288,7 @@ http://www.guziyuan.cn
 http://www.520hack.com
 http://bbs.lvya.org
 https://bbs.rrjc.com
+https://shequ.taoke.com
 http://66.160.158.131
 http://ixis.cn
 http://fs.mamacn.com
