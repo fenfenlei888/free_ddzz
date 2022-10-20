@@ -1,5 +1,3 @@
-http://www.lixinjiayuan.com
-http://bsdstc.club
 http://bbs.mdm520.cn
 http://bbs.ncf-china.com
 http://www.cqwyxy.com
@@ -3400,6 +3398,8 @@ http://www.zhiyoucheng.co
 https://www.chinafix.com
 http://www.jiadianbbs.cn
 http://opticalfilm.oecr.com
+http://bsdstc.club
+http://www.lixinjiayuan.com
 https://admin.in.ilovexclub.com
 https://post76.hk
 http://haian.180724.com
@@ -3590,6 +3590,7 @@ http://yulin.180724.com
 http://www.cqfjh.com
 http://suizhou.180724.com
 http://bbs.jinsiyu.com
+http://haditie.com
 http://fangwei.zhougongbaisui.com
 http://www.gyusoft.com
 http://taishan.184409.com
