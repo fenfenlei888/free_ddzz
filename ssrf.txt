@@ -175,6 +175,7 @@ http://11sgz.com
 http://www.52panku.com
 http://bbs.zggdxy.com
 http://112.90.82.4:8181
+http://120.25.151.191
 https://www.x505.cn
 http://lji823.cc
 http://qd.180724.com
@@ -430,6 +431,7 @@ https://sandeli.daqufa.com
 http://202.117.154.215
 http://www.india.uttbbs.com
 http://bbs.ipcgta.com
+http://134.175.25.191
 http://ks.184409.com
 https://hc.0771ao.com
 https://bbs.ikuai8.com
@@ -780,6 +782,7 @@ http://mycuc.cn
 https://www.1024bbs.cf
 http://www.food.myubbs.com:62078
 https://pzyxs.com.cn
+http://45.63.48.110
 http://fs.180724.com
 http://www.xiaoputao66.xyz
 http://bbs.77169.net
@@ -930,6 +933,7 @@ http://dayibin.cn
 http://47.99.124.209
 http://64.32.12.98
 http://www.mengchenghui.com
+http://www.huangshanonline.com
 http://wycjy.com
 http://www.xinyuelt9.com
 http://bbs.luzhou28.com
@@ -1301,6 +1305,7 @@ http://fob0.com
 https://www.hgpoo.com
 http://www.xiyinlifaze.cn
 http://www.libaiyi.cn
+http://www.iyunle.cn
 http://124.223.70.155
 http://beelark.com
 http://bbs.kaikuomir.com
@@ -1604,6 +1609,7 @@ http://baiyin.w91.cn
 http://light.oecr.com
 http://www.913js.org
 http://ssjx3.top
+http://8.135.1.164
 http://www.luenpower.com
 https://www.xs8.live
 http://www.tzedu.net
@@ -1635,6 +1641,7 @@ http://ccg.454028.com
 http://px.cmjnu.com.cn
 http://www.dsw6.com
 http://ftp.cpure.org
+http://47.92.104.132
 http://116.255.230.131:8093
 http://www.xhymsq.com
 http://www.52yunku.com
@@ -1864,6 +1871,7 @@ http://www.11op.com
 http://bbs.iliferobot.cn
 http://www.impk113.com
 http://www.dakedakedu.com
+http://bbs.huansi.cn
 https://www.donellaguida.com
 http://www.coco-in.net
 http://bbs.suozhuai.com
@@ -2271,6 +2279,7 @@ http://secidc.org.cn
 http://www.ernaibyw.com
 http://jpsn.cn
 http://www.iyppz.com
+http://erji.hk
 http://45.64.75.58
 http://bbs.quanbazhong.cn
 http://mzjyss.cn
@@ -2487,6 +2496,7 @@ https://pcpc.club
 http://bbs.apisystem.cn
 http://138.2.17.133
 http://52brain.com
+http://3.88.235.9
 http://ifunstar.com
 https://bbs.xuanshang95.com
 http://qinyeba.com
@@ -2559,6 +2569,7 @@ http://xng19.xyz
 http://108.170.5.98:8080
 https://bbs.guitarsquare.com
 http://mg.184409.com
+https://qiaoxiaojun.vip
 http://bbs.aalborgportland.com.cn
 http://121.127.238.161
 https://bbs.yanfabu.com
@@ -2889,6 +2900,7 @@ https://zhujiaren.com
 http://jining.184409.com
 http://bbs.yxssy.com
 http://yb.180724.com
+http://dcdemo.pubtc.com
 http://157.7.139.69
 http://bbs.ebnew.com
 http://z.tonghuar.com
@@ -2930,6 +2942,7 @@ http://www.autofans.cn
 http://tzy.myznufe.com
 https://www.zhikaoyz.com
 http://www.317200.net
+http://www.shougoukucun.cn
 https://www.059183.com
 https://camp.rv28.com
 http://changde.w91.cn
@@ -3017,6 +3030,7 @@ http://www.guxunw.com
 http://139.199.183.128
 http://94.74.87.187
 http://www.help-hope.org
+http://www.shlhzj.com
 https://mopaishi.com
 https://baisha.tongcheng.ink
 http://bbs.46ps.com
