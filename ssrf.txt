@@ -785,6 +785,7 @@ http://news.dataguru.cn
 http://bbs.roobo.com
 http://popo0227.myds.me
 http://www.zzjggs.com
+http://bbs.weixinrj.com
 http://119.3.228.24
 http://120.77.173.188:86
 http://food.wxdaiyan.cn
@@ -2855,6 +2856,7 @@ https://www.usa.163dz.com
 http://bbs.ykt1.cn:88
 https://www.alex.users.gkzj.net
 http://bbs.8090de.cn
+http://bbs.zcypai.com
 http://bbs.jiaozuobar.com
 http://www.ganzw.com
 https://www.exosome.com.cn
