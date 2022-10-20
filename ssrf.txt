@@ -1176,6 +1176,7 @@ http://chuxiong.aizse.com
 http://www.sglpw.cn
 http://heart.bluebaba.cn
 http://www.tmr.cn
+http://bbs.wenfangcn.com
 https://bbs.daliangshan.net
 http://47.105.94.241
 http://cs.184409.com
@@ -1445,6 +1446,7 @@ http://www.ornithopter.cn
 http://v.yuxiangshequ.com
 http://39.109.112.72
 http://dz.zhijianyun.net
+http://124.128.39.4
 http://bbs.dz.blizzard.cn
 http://bbs.9tripod.com
 http://www.gxdk.com.cn
@@ -2159,6 +2161,7 @@ http://118.89.57.183
 http://yc.180724.com
 http://yinchuan.180724.com
 http://202.133.247.70
+http://103.255.176.183
 http://liyang.180724.com
 http://www.test2.myubbs.com:62078
 http://zsu.myubbs.com
@@ -2263,6 +2266,7 @@ http://o1.email.myubbs.com:62078
 http://bbs.hibet18.com
 http://wly.bbs.9wee.com
 http://bbs.quanzhi.com
+http://193.112.62.121
 http://www.zhenpet.com
 http://help.ztrxw.cn
 http://178.236.45.61
@@ -2970,6 +2974,7 @@ https://dongtingxw.com
 http://www.qcfdlt.com
 https://ifans.site
 http://www.oyuw.com
+http://184.95.51.86
 http://bbs.ebaina.com
 http://help.oecr.com
 http://join.skywj.com
