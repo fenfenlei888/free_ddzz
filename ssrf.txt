@@ -1,4 +1,5 @@
 https://syyyd.com
+http://139.196.156.10
 http://184.95.51.83
 http://www.xahr.org
 http://bbs.visionzone.com.cn
@@ -629,6 +630,7 @@ http://bbs.xunpiaowang.com
 http://bbs.cnecport.com
 https://121.196.191.46
 http://www.fuwen1.com
+http://112.74.88.149
 http://yk.180724.com
 http://8888888.ltd
 http://www.manmanqi.com
@@ -762,6 +764,7 @@ http://www.food.myubbs.com:62078
 https://pzyxs.com.cn
 http://fs.180724.com
 http://www.xiaoputao66.xyz
+http://bbs.77169.net
 https://jiulia.xyz
 https://dev.fn139.168tech.vip
 http://xzpeixian.180724.com
@@ -824,6 +827,8 @@ http://chinanative.net
 http://st.180724.com
 http://www.5isudu.com
 http://old.gzicpa.org.cn
+http://120.76.23.10
+http://www.0722sy.com
 http://124.222.198.5:81
 https://www.passions.com.cn
 https://www.ezacg.top
@@ -1127,6 +1132,7 @@ http://nananshi.180724.com
 http://bbs.370k.com
 http://47.111.232.50:1234
 http://www.chijiuhui.net
+http://bbs.17dra.com
 https://bbs.skyfleet.cc
 http://en.dataguru.cn
 https://used.rv28.com
@@ -1818,6 +1824,7 @@ http://www.dakedakedu.com
 https://www.donellaguida.com
 http://www.coco-in.net
 http://bbs.suozhuai.com
+http://www.jpk73.cc
 http://jay2u.club
 http://changji.184409.com
 http://www.miji7.com
@@ -2008,6 +2015,7 @@ http://185.200.34.174
 http://dq.184409.com
 http://47.95.118.66
 http://qd.184409.com
+http://129.28.175.154
 http://www.gpo682.cc
 https://uujh1.com
 http://64.32.12.101:443
@@ -2099,6 +2107,7 @@ http://www.rxjhsq.net
 http://www.9453bb.com
 http://www.cq3.in
 http://www.imxy28.com
+http://114.34.84.101
 http://www.99huitu.com
 http://35.194.171.161
 http://bbs.xxyw.com
@@ -2203,6 +2212,7 @@ http://trade.oecr.com
 https://m.huosub2b.com
 http://www.macgood.com
 https://club.haojue.com
+http://www.sneakers.com.cn
 http://qdrxzc.com
 http://discuz.qqtz.com
 http://zjj.184409.com
@@ -2429,6 +2439,7 @@ https://bbs.xuanshang95.com
 http://qinyeba.com
 http://222.73.135.105:8000
 http://zzwav.com
+http://43.156.233.105
 http://www.bj-ygsp.com
 https://luck.crtslt.net
 https://www.alyxz.com
@@ -2518,6 +2529,7 @@ http://www.s.myubbs.com:62078
 http://forums.joygames.me
 http://edu.oecr.com
 http://ankang.aizse.com
+http://www.souke8.cn
 http://daqing.w91.cn
 http://www.00211.cn
 http://221.215.73.173:9090
@@ -2659,6 +2671,7 @@ http://www.fingerstyle.cc
 http://yili.184409.com
 http://sec.wangxinzhi.com
 http://com.cnww.molifan.net
+http://www.guziyuan.cn
 http://www.520hack.com
 http://bbs.lvya.org
 https://bbs.rrjc.com
