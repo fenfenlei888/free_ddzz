@@ -211,6 +211,7 @@ http://bbs.fxku.cn
 https://ozhaha.com
 http://124.156.183.91
 http://39.107.116.45
+http://112.124.10.157
 http://www.szbdt.com
 http://jxhozen.com
 http://www.zhaodongren.com
@@ -265,6 +266,7 @@ http://47.92.26.199
 http://bbs.srfc.com.cn
 https://www.ozhaha.com
 https://www.hkturtle.org
+http://115.29.188.128:81
 https://www.sousouyo.com
 https://s.epwk.com
 http://116.255.230.131:8086
@@ -697,6 +699,7 @@ http://bbs.hasea.com
 http://dq.180724.com
 http://www.hamiga.com
 http://www.tomwx.cn
+http://www.battlecn.net
 http://www.yz1234.vip
 http://www.vfe647.cc
 http://mail.langrissera.com
@@ -822,6 +825,7 @@ http://bbs.xcsalon.com
 https://www.chu6.com
 https://www.heikejiedan1.com
 http://220.179.228.26:81
+http://18.177.97.207
 http://cc.180724.com
 http://ourgoldenage.org
 http://bbs.sm9mail.com
@@ -2700,6 +2704,7 @@ https://slashtw.space
 http://baiyin.aizse.com
 https://www.xyyao.com
 http://daxinganling.aizse.com
+http://bbs.lazzb.cn
 http://16kaoyan.com:8888
 http://bbs.newslist.com.cn
 http://bbs.enlern.com
