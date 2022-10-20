@@ -8,6 +8,7 @@ http://bbs.dahua-cpa.com
 http://zunyi.180724.com
 http://120.48.31.72
 http://122.195.200.230:82
+http://60.205.179.195
 http://www.jdjcy.com
 http://www.cnecop.com
 http://club.oecr.com
@@ -453,6 +454,7 @@ http://www.616fx.com
 http://jlpzj.cn-www.jlpzj.cn
 https://www.7s6s5s.com
 http://xkh877.cc
+http://96.126.101.89
 http://49.235.111.114:8080
 http://www.db.myubbs.com:62078
 https://www.jpinfo.net
@@ -1595,6 +1597,7 @@ https://club.dangbei.com
 http://www.nhjd.net
 http://display.oecr.com
 http://www.venews.cn
+http://bbs.2r3r.com
 http://47.75.87.77
 http://www.combat2000.cn
 http://bbs.uker.net
@@ -2190,6 +2193,7 @@ http://bbs.3qck.com
 http://www.jwjiaoji.com
 https://forum.eve-ng.cn
 http://www.mowangtuili.cn
+http://www.postbbs.com
 http://bbs.miaolaoshi.com
 http://www.0u1u.com
 http://108.170.5.78:8080
@@ -2408,6 +2412,7 @@ http://www.hbxczx.cn
 https://mabinogi.club
 http://www.zhao11.com
 http://61.220.142.211
+http://66.160.158.130
 http://108.170.10.236
 http://gz.184409.com
 http://bbs.lytmh.com.cn
@@ -2458,6 +2463,7 @@ https://hengyang.seofuwu.cn
 http://www.boxueop.com
 http://fyl806.cc
 http://menhu.ca
+http://bbs.locoyposter.com
 http://xiangtan.180724.com
 http://china-liandu.com.cn
 http://fuwen3.com
@@ -2951,6 +2957,7 @@ http://14.23.124.132:7080
 http://rya724.cc
 http://chaozhou.w91.cn
 http://www.scgjp.com.cn
+http://bbs.tsst666.com
 http://up.653200.net
 http://bbs.shihenian.com
 https://bbs.0376.net
