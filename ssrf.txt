@@ -1,5 +1,3 @@
-http://www.onehdasia.com
-http://www.coltansmart.com
 http://51uwb.cn
 http://bbs.mp67.com
 http://ihuge.net
@@ -3929,6 +3927,8 @@ http://bbs.caishen66.cn
 http://47.94.168.215
 http://116.255.230.131:8086
 http://qun.eweiqi.com
+http://www.coltansmart.com
+http://www.onehdasia.com
 http://www.fenglove.com
 http://bbs.daxianju.cn
 https://dgwww.com
@@ -4228,6 +4228,7 @@ https://www.chaoshang.org.cn
 http://114.116.2.138:8091
 http://bbs.52jiance.cn
 https://huachaowang.com
+http://bbs.iyudu.top
 http://www.chinasfj.cn
 http://www1.area-11.com
 http://www.scrpg.net
