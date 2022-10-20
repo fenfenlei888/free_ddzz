@@ -1,7 +1,3 @@
-http://water.oecr.com
-http://opticalfilm.oecr.com
-http://www.jiadianbbs.cn
-https://www.chinafix.com
 http://www.lixinjiayuan.com
 http://bsdstc.club
 http://bbs.mdm520.cn
@@ -3401,6 +3397,9 @@ http://www.tecdee.com
 http://bbs.5dmail.net
 http://www.virology.com.cn
 http://www.zhiyoucheng.co
+https://www.chinafix.com
+http://www.jiadianbbs.cn
+http://opticalfilm.oecr.com
 https://admin.in.ilovexclub.com
 https://post76.hk
 http://haian.180724.com
@@ -4523,6 +4522,7 @@ http://club.lvya.org
 https://www.tcelue.cc
 http://bbs.dcjr.cn
 http://job.oecr.com
+http://www.haditie.com
 http://bbs.yidai.com
 https://forum.align.com.tw
 http://htjlarticle55www.nakuz.com
@@ -5118,6 +5118,7 @@ http://nj.184409.com
 http://bbs.hongyawang.com
 http://www.qzrzx.com
 http://www.zhzmsp.com
+http://water.oecr.com
 http://linzhi.184409.com
 https://www.teach66.com
 http://bozhou.184409.com
