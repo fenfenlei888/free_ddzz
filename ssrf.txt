@@ -332,6 +332,7 @@ http://115.238.255.143:88
 http://www.onehdasia.com
 http://www.coltansmart.com
 http://51uwb.cn
+http://bbs.mp67.com
 http://ihuge.net
 http://99957764.deutron.com.tw
 http://hnrhrj.com
@@ -1290,6 +1291,7 @@ http://image.datuc.com
 http://ssjx0.top
 http://zixun.lingtuan.com
 http://chongzuo.180724.com
+http://dz.reetoo.com.cn:9080
 https://92fj.com
 http://nt.180724.com
 https://www.jetsocome.com
@@ -1509,6 +1511,7 @@ http://115.28.128.6
 http://www.mcqy.net
 https://lcxlyy.com
 https://www.zhenpet.com
+http://bbs.xdcad.net
 http://www.sctzdh.com
 http://tongxiang.184409.com
 http://www.mzsky.com
@@ -1880,6 +1883,7 @@ http://www.heyuan18.com
 http://baby12345.cn
 http://www.playacg.com
 http://159.75.202.8:8080
+http://113.90.156.194:9080
 http://144.202.126.147
 http://bbs.focusky.com.cn
 https://www.terrartanis.com
