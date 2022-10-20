@@ -1,4 +1,3 @@
-http://47.90.16.162
 http://bbs.dult.cn
 http://www.jiankangxingqiu.com
 http://forum.iyingwu.net
@@ -3462,6 +3461,7 @@ http://www.jnuedf.org
 http://zz.mamacn.com
 http://bengbu.184409.com
 http://gg.180724.com
+http://47.90.16.162
 http://bbs.sugas.site
 https://www.sts1.xyz
 http://www.zpinfo.net
@@ -4570,6 +4570,7 @@ http://htjlarticle55www.nakuz.com
 http://bbs.52jiance.cn
 http://47.92.245.21
 http://help.wikin.cn
+http://shijiwenxue.top
 http://bbs.keinsci.com
 https://haidiaoren.com
 http://dell.benyouhui.it168.com
