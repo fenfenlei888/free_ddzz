@@ -1,5 +1,3 @@
-http://bbs.gdzijin.com
-http://101.35.175.119:88
 http://sports.uttbbs.com
 http://xianyang.180724.com
 http://xn.180724.com
@@ -2794,6 +2792,7 @@ http://bleach.bleachcn.net
 http://116.90.83.61
 http://23.234.195.237
 http://lx.oa57.net
+http://www.earobe.com.cn
 http://bbs.huawin.com
 http://help.wxdaiyan.cn
 http://8.210.192.73
@@ -3381,6 +3380,7 @@ http://www.yueyingzy.com
 http://www.8liuxing.com
 https://shop.wanxueyuan.cn
 http://webdisk.sms.uttbbs.com
+http://bbs.gdzijin.com
 http://wz.rhygc.com
 http://hzvtc.xiasha.cn
 http://godox.ltd
@@ -5197,6 +5197,7 @@ http://bifeigantang.top
 http://www.slfhcy.com
 http://sx.oa57.net
 http://zx.180724.com
+http://101.35.175.119:88
 http://www.ivfan.com
 http://chizhou.180724.com
 http://guangzhou2026.net
