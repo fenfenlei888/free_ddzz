@@ -1,8 +1,3 @@
-http://66.230.154.4
-https://stage.fn139.168tech.vip
-http://elearning.wxdaiyan.cn
-http://www.moodle.myubbs.com:62078
-http://www.lsdca.com
 https://www.0598kk.com
 http://www.xiaxueluntan.com
 http://bbs.zhiyou100.com
@@ -3600,6 +3595,7 @@ https://help.massdesign.cn
 http://10.ustcjz.cn
 http://101.200.172.3
 https://dev.okfun.org
+http://www.aicao.org.cn
 http://www.shenwujun.com
 http://www.yaodumod.com
 http://bbs.cnecport.com
@@ -3686,6 +3682,8 @@ http://150.158.152.164
 http://218.244.147.126
 http://iqingua.com
 http://www.pshezi.com
+http://66.230.154.4
+http://www.moodle.myubbs.com:62078
 http://xsc.xmdh.com
 http://www.cheaixi.com
 http://bbs.styd.cn
@@ -3723,6 +3721,7 @@ http://www.sharsi.com
 http://lx.oa57.net
 http://ywzt.top:7777
 http://www.tianbaochina.cn
+http://qianfengjiyi.cn
 http://mswiki.win
 http://justmark.com.cn:7777
 https://www.sts2.xyz
@@ -3821,6 +3820,7 @@ http://www.kancolly.com
 http://52.8.20.93
 http://bbs.dubai.boniu123.cc
 http://www.60743.com
+http://jdzyg.com
 http://www.shanbenjiaoyu.com
 http://www.micro-dsp.comcncontactmww.nakuz.com
 http://www.xng16.xyz
@@ -4462,7 +4462,10 @@ http://www.wutongshu0531.com
 http://www.chuidiao365.com
 http://sctzdh.com
 http://123.59.83.120:8080
+https://stage.fn139.168tech.vip
+http://elearning.wxdaiyan.cn
 http://365da.com.cn
+http://www.lsdca.com
 http://hrbpet.org
 http://chaoshang.org.cn
 http://43.129.90.82
@@ -4596,6 +4599,7 @@ http://www.cheaixi.cn
 http://abbc.eu.org:7777
 http://forum.caregirl.net
 http://www.06edu.net
+http://www.114zp.com
 http://qidong.184409.com
 http://dongtingxw.com
 http://hit.23du.com
