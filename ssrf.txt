@@ -1,5 +1,3 @@
-http://www.caidiancun.com
-http://chuxiong.aizse.com
 http://www.sglpw.cn
 http://heart.bluebaba.cn
 http://www.tmr.cn
@@ -3499,6 +3497,8 @@ http://arm-cn.com
 http://cz.184409.com
 http://www.rxjhbbao.net
 http://hk.184409.com
+http://chuxiong.aizse.com
+http://www.caidiancun.com
 http://www.ss8008.top
 http://hzyiwo.com
 http://diybcq.com
@@ -4858,6 +4858,7 @@ http://nq.180724.com
 http://www.tianzhuxian.com
 http://zgyjr.com
 http://bbs.virology.com.cn
+http://qlqwgw.com
 http://www.slfhcy.com
 http://chizhou.180724.com
 http://hp.oa57.net
