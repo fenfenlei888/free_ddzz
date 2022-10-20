@@ -1499,6 +1499,7 @@ http://anshun.w91.cn
 http://www.lang4.com
 http://cz.184409.com
 http://www.rxjhbbao.net
+http://www.bbstui.com
 http://www.hsyjk1.com
 http://davinci-cg.com
 http://hk.184409.com
@@ -1523,10 +1524,12 @@ http://bbs.la2011.com
 http://174.139.68.11
 http://www.tzy648.cc
 http://121.46.31.153
+http://myzsu.com
 http://www.chnfly.net
 http://mz.184409.com
 http://www.xxnms.com
 http://xiaogq.com
+http://www.igzhu.com
 https://zj.a5.net
 http://115.28.128.6
 http://www.mcqy.net
@@ -1798,6 +1801,7 @@ http://gy.mamacn.com
 http://www.china-liandu.com.cn
 http://www.2cy8.com
 http://www.nxs053.cc
+http://www.bhwang.cn
 http://cuit.org.cn
 http://www.xisn6.net
 https://bbs.iyunbiao.com
@@ -1846,6 +1850,7 @@ http://wx.mamacn.com
 http://v.yuxiangshequ.com
 http://39.109.112.72
 http://dz.zhijianyun.net
+http://hljubbs.com
 http://124.128.39.4
 http://cd.mamacn.com
 http://bbs.dz.blizzard.cn
@@ -2033,6 +2038,7 @@ http://gushu7.com
 http://jade.yuxiangshequ.com
 http://bbs.skykiwi.com
 https://xinxinmin.com
+http://igzhu.com
 http://bbs.godasai.com
 http://xianyang.184409.com
 http://43.154.63.200
@@ -3187,6 +3193,7 @@ http://www.pmcenter.cn
 http://www.szwalking.com
 https://www.77scw.com
 http://sanya.180724.com
+http://www.ijgsu.com
 http://www.bgz6.com
 http://twlkbt.com
 http://108.170.5.75:8080
@@ -3198,6 +3205,7 @@ http://www.link.uttbbs.com
 http://qz.180724.com
 http://bbs.rhino3d.us
 http://jiashanx.184409.com
+http://www.ijnu.cn
 http://203.195.186.190
 http://talk.oecr.com
 http://47.100.86.221
@@ -3688,6 +3696,7 @@ https://www.xg8.live
 http://bbs.locojoy.com
 http://www.asp.cn
 http://www.syqun.com
+http://www.myhit.cn
 http://bbs.ehongya.com
 https://spb.gkzj.net
 http://bangbu.w91.cn
