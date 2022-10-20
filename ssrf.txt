@@ -1,6 +1,3 @@
-http://dz.zhijianyun.net
-http://hljubbs.com
-http://124.128.39.4
 http://cd.mamacn.com
 http://bbs.dz.blizzard.cn
 http://bbs.9tripod.com
@@ -3443,6 +3440,8 @@ http://liyangedu.com
 https://www.1688yxw.cn
 http://sjz.mamacn.com
 http://v.yuxiangshequ.com
+http://dz.zhijianyun.net
+http://hljubbs.com
 https://www.0758vip.com
 http://www.fulingws.cn
 http://bbs.d1dns.com
@@ -4960,6 +4959,7 @@ http://www.ornithopter.cn
 http://wx.mamacn.com
 http://39.109.112.72
 http://jxfuli.tk
+http://124.128.39.4
 http://tongliao.180724.com
 http://182.92.159.222
 http://dnt2006615www.nakuz.com
@@ -5082,6 +5082,7 @@ http://www.mahamaha.com
 http://changji.180724.com
 http://ta.184409.com
 http://www.cmcckf.com
+http://bsqy.org
 http://www.lyhw.net
 http://bbs.wtoqc.net
 http://mpjzxh.cn
