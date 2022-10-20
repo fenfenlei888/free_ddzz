@@ -1,5 +1,3 @@
-http://121.227.42.121:7777
-http://www.number81.xyz
 http://shz.184409.com
 http://poczta.dataguru.cn
 https://163it.top
@@ -3742,6 +3740,8 @@ http://lin.ywzt.wang
 https://www.dianhunbbs.com
 http://101.32.36.36
 http://ppdm.us
+http://www.number81.xyz
+http://121.227.42.121:7777
 http://www.fhsx.net.cn
 http://jomen.net
 http://hn.184409.com
@@ -4477,6 +4477,7 @@ http://www.shidong.cc
 http://www.lovekor.net
 http://www.bsrjyy.com
 http://www.515334.net
+http://www.siita.org.cn
 https://www.hnzxgs.com.cn
 https://www.boxueop.com
 http://bbs.fhsx.net.cn
