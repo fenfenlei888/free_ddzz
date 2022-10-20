@@ -299,6 +299,7 @@ http://115.28.157.149
 http://kel.184409.com
 https://zhikaoyz.com
 http://bbs.abntest.com
+http://www.meishen.cc
 http://47.52.224.170
 http://218.94.144.26:8080
 http://39.108.219.42
@@ -816,6 +817,7 @@ http://www.qshapan.com
 http://bangbu.aizse.com
 http://syet.net
 http://bbs.dmoli.com
+https://tieba.cuit.org.cn
 http://lincang.180724.com
 http://www.goo0.cn
 http://123.60.57.99
@@ -1116,6 +1118,7 @@ https://www.0771ao.com
 http://www.cm868.com
 https://www.xms33.top
 http://yongzhou.184409.com
+http://103.254.220.134
 http://bbs.wanho.net
 http://www.zyxyy.com
 http://bbs.ieltschn.com
@@ -1953,6 +1956,7 @@ http://111.67.204.3
 http://120.27.61.75:8082
 http://www.fsacn.cn
 http://115.238.255.144:88
+http://tieba.cuit.org.cn
 http://baiyin.w91.cn
 http://light.oecr.com
 http://www.913js.org
