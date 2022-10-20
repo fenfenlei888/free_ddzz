@@ -1,4 +1,3 @@
-http://www.zlighting.net
 http://ftp.cpure.org
 http://47.92.104.132
 http://116.255.230.131:8093
@@ -2463,6 +2462,7 @@ http://www.toosoft.cn
 https://wine.ucfamily.com.cn
 http://godox.org.cn
 https://au.eistudy.com
+http://www.xipick.com
 http://bbs.lingtuan.com
 http://www.itluma.cn
 http://dasheshen.com
@@ -5076,6 +5076,7 @@ http://jipinshequ.com
 http://ccg.454028.com
 http://px.cmjnu.com.cn
 http://www.fxzdy.com
+http://www.zlighting.net
 http://www.ngsdyxx.com
 http://92fj.com
 http://hu.180724.com
