@@ -1,6 +1,3 @@
-https://www.wujiesec.com
-https://www.52tikong.com
-http://gj.jyrm.cn
 http://bbs.nowxue.com
 http://www.movies.uttbbs.com
 http://www.ty28lt.com
@@ -3702,6 +3699,7 @@ http://linzhi.180724.com
 http://ganzi.180724.com
 https://www.antzone.cn
 http://c.panshy.com
+https://www.wujiesec.com
 http://xianning.184409.com
 http://deyang.aizse.com
 http://xsc.xmdh.com
@@ -4445,6 +4443,8 @@ http://sjz.184409.com
 http://www.09hw.icu
 http://bbs.phonegap100.com
 https://bbs.dahuagong.com
+http://gj.jyrm.cn
+https://www.52tikong.com
 http://yj.184409.com
 http://sdu.myubbs.com
 http://365da.com.cn
@@ -4546,6 +4546,7 @@ http://bozhou.184409.com
 http://172.104.49.170
 http://www.homefpd.com
 http://dg.184409.com
+http://zhouyi68.com
 http://px.xiasha.cn
 http://xc.184409.com
 http://cheaixi.com
