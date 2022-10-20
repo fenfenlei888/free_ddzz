@@ -1,4 +1,3 @@
-http://bbs1.phpdisk.com
 http://bijie.w91.cn
 http://tunchang.184409.com
 http://www.mm.ci
@@ -3489,6 +3488,7 @@ http://www.babylead.com
 http://www.zgyjr.com
 http://49.232.191.228
 http://159.75.129.68
+http://bbs1.phpdisk.com
 http://bbs.caup.net
 http://testpv.com
 http://xn--7hvu6lcwr.com
@@ -3687,6 +3687,7 @@ http://www.tdwqs.com
 http://www.3wsjw.com
 http://www.canadalondonchinese.com
 http://jj.180724.com
+http://xhyz714.com
 http://bbs.shuen.com.cn
 https://www.ccbn.com.cn
 http://yl.180724.com
