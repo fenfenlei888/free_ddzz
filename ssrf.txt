@@ -569,6 +569,7 @@ http://www.tr.uttbbs.com
 http://www.xxyw.com
 http://ofc.oecr.com
 http://hntz03.com
+http://bbs.xiushui.net
 https://bbs.o2jam.cc
 http://www.zhujiwanjia.com
 http://www.0750yl.com
@@ -1574,6 +1575,7 @@ http://120.48.0.46
 https://www.renrenoffice.com
 http://all.edge.uttbbs.com
 http://1024wz.top
+http://111.231.118.218:88
 http://www.8888888.ltd
 http://fudanu.com
 http://www.pr.uttbbs.com
@@ -2096,6 +2098,7 @@ http://cnhw.ccaaun.com
 https://www.gengzhongbang.com
 http://p2pux.com
 http://122.114.122.174
+http://jx.xiangmu.org.cn:88
 http://hyl044.cc
 http://gl.184409.com
 http://www.szy7.club
@@ -2121,6 +2124,7 @@ http://43.138.102.128
 https://acer.it168.com
 http://heike666.cc
 http://bbs.dqzjw.com
+http://www.360424.com
 https://www.ispeak.cn
 http://www.bvu877.cc
 http://www.021bababa.org
@@ -2620,6 +2624,7 @@ http://www.jyss.net
 http://wx.180724.com
 http://120.26.60.242
 http://bbs.029aa.com
+https://dz.jisuoxu.com
 http://150.109.113.206:8090
 http://www.021tz.com
 http://fcg.180724.com
