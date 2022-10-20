@@ -186,6 +186,7 @@ http://bbs.itaokecms.com
 http://43.142.14.33:81
 http://zhuzhou.180724.com
 https://www.mchkg.com
+http://www.5acnc.cn
 http://wanjiejixie.com
 https://forum.dnaxcat.com.tw
 http://waqxw.com
@@ -1140,6 +1141,7 @@ https://mail.maiyadi.org
 http://bbs.admway.com
 https://www.tcren.cn
 http://www.wildhunter.xyz
+http://www.bbs168x.cn
 http://bbs.51testing.com
 http://www.wanmirbbs.com
 http://www.5000yx.com
@@ -1602,6 +1604,7 @@ http://bbs.hysine.cn
 https://77scw.com
 http://121.42.13.206
 http://bbs.chinahrd.net
+http://38.121.62.70
 http://203.33.224.178:8081
 http://219.136.240.11
 http://plus.udigital.cn
@@ -3023,6 +3026,7 @@ http://yanbian.184409.com
 http://www.hs23.cn
 http://kinwok.com
 http://14.29.179.149:8081
+http://xiadan.shize.org
 http://www.xiaochi28.com
 http://xx.ddcyf.com:8080
 http://nc.184409.com
@@ -3615,6 +3619,7 @@ http://www.shenkongwang.com
 http://www.storyren.com
 http://106.52.28.22:83
 https://bbs.nuedc-training.com.cn
+http://182.92.76.47
 http://www.listenyuan.com
 http://www.lingdian.org.cn
 http://39.107.78.109
@@ -3730,6 +3735,7 @@ http://www.317200.net
 http://www.shougoukucun.cn
 https://www.059183.com
 https://camp.rv28.com
+http://forum.tfcis.org
 http://changde.w91.cn
 https://www.xg8.live
 http://bbs.locojoy.com
