@@ -1,4 +1,3 @@
-http://114.116.2.138:8090
 http://121.40.214.251:8080
 http://www.stubbs.cn
 http://bbs.teachersbbs.com
@@ -3602,6 +3601,7 @@ http://www.663jx.com
 http://bbs.rockingchina.com
 http://www.airmyth.com
 http://www.xiyinyishu.com
+http://lt.tcopx.com
 http://www.qingyidao.com
 http://danzhou.180724.com
 http://waaax.top
@@ -5163,6 +5163,7 @@ http://maps.uttbbs.com
 http://108.170.5.74:8080
 http://www.sxydedu.cn
 http://hsmzy.com
+http://114.116.2.138:8090
 https://boesea.com
 http://panzhihua.180724.com
 http://nq.180724.com
