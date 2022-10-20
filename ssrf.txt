@@ -850,6 +850,7 @@ http://hf.184409.com
 http://www.zhilexue.tech
 https://dev.okfun.org
 https://www.jiankangxingqiu.com
+http://zhi-pu.com
 http://dtganji.com
 http://103.30.40.31
 http://bbs.xunpiaowang.com
@@ -1723,6 +1724,7 @@ http://bbs.kaikuomir.com
 http://www.0csm.com
 http://www.234008.cc
 http://mtedu.utaipei.edu.tw
+https://www.xinweiyu.com
 http://www.hisnj.com
 http://dalianlaw.com
 http://www.2001n.com
@@ -4092,3 +4094,4 @@ https://bbs.hcharts.cn
 http://www.sc69.cc
 http://111.67.192.156
 https://bbs.ltxinbing.com
+http://www.zhi-pu.com
