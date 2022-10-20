@@ -1,5 +1,3 @@
-http://haian.184409.com
-http://www.service.uttbbs.com
 https://www.zqsa.com
 https://www.52pojie.xyz
 http://39.101.244.209
@@ -4059,6 +4057,7 @@ http://sz.184409.com
 http://www.hdbbs.net
 https://www.alex.gkzj.net
 http://124.221.113.162
+http://haian.184409.com
 http://bbs.daxianju.cn
 http://www.zhi-pu.com
 http://www.lgzcw.com
@@ -4109,9 +4108,12 @@ http://www.sxbst.net.cn
 http://bbs.lama001.com
 http://www.okxy28.com
 http://ny.saojie.org
+http://www.service.uttbbs.com
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
+http://bbs.cngansu.cn
+http://club.tfclub.com
 http://www.retroco.co
 http://114.116.2.138:8091
 https://huachaowang.com
