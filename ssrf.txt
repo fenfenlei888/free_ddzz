@@ -1747,6 +1747,7 @@ http://datong.w91.cn
 http://www.chnhealth.cn
 http://bbs.atguigu.com
 http://wj.cmjnu.com.cn
+http://www.leedgap.com
 http://boertala.w91.cn
 http://64.32.12.99:443
 http://songyuan163.com
@@ -2432,6 +2433,7 @@ http://www.ytbbs.com
 http://guyuan.184409.com
 http://ca.gegeyou.com
 http://103.244.158.250
+http://software.300457.com
 http://www.ry0751.com
 http://www.kingstargold.cn
 http://bygl.184409.com
