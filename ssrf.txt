@@ -536,6 +536,7 @@ https://test.szckhd.com
 http://www.tr.uttbbs.com
 http://www.xxyw.com
 http://ofc.oecr.com
+https://bbs.o2jam.cc
 http://www.zhujiwanjia.com
 http://www.0750yl.com
 http://43.138.147.221
@@ -1387,6 +1388,7 @@ http://66.160.158.132
 http://bengbu.184409.com
 http://47.90.16.162
 http://forum.iyingwu.net
+http://47.92.221.168
 http://bj.180724.com
 http://www.mvp007.com
 http://www.mmyubb.com
@@ -2284,6 +2286,7 @@ http://bbs.compressor.cn
 https://www.hxwke.com
 https://www.pucatalyst.com
 http://www.svipshare.com
+http://bbs.o2jam.cc
 https://bbs.tuize.com
 http://www.menhu.ca
 http://bbs.kppw.cn
@@ -2664,6 +2667,7 @@ https://mouxue.com
 https://bs.0771ao.com
 https://bbs.lingkee.cn
 https://yuzhe.liyiyi.name
+http://bbs.jf210.com
 http://nt.184409.com
 https://www.zhinanzhen.org
 http://1069-1.com
