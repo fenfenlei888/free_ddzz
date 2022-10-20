@@ -1,6 +1,3 @@
-http://kuai247.com
-http://bbs.play800.cn
-http://linyi.180724.com
 http://49.235.60.179
 https://autoconfig.news.gkzj.net
 http://124.223.20.110
@@ -3959,6 +3956,8 @@ http://www.0731gayt.com
 http://www.yimenonline.com
 http://106.225.140.6:8081
 http://123.57.84.98
+http://linyi.180724.com
+http://bbs.play800.cn
 http://htmlarticle25www.nakuz.com
 http://bbs.daxianju.cn
 https://dgwww.com
@@ -4181,6 +4180,7 @@ http://bbs.17liuxue.com
 http://wo.tkway.com
 http://dali.184409.com
 http://whsalt.com
+http://kuai247.com
 http://www.yunshui.net
 http://120.25.3.54
 http://www.tcax.org
@@ -4237,6 +4237,7 @@ http://zgyjr.com
 http://www.elyoo.com
 http://91d2.org
 https://bbs.zzjb.com
+http://www.515334.net
 https://www.hnzxgs.com.cn
 https://www.boxueop.com
 http://bbs.fhsx.net.cn
@@ -4273,5 +4274,6 @@ https://yt520.cc
 http://bbs.fytxonline.com
 http://www.xiangjiangriverwater.com
 http://120.55.27.58:876
+http://ffskybbsjp.azurewebsites.net
 http://www.tjibm.com
 http://www.51dahuo.com
