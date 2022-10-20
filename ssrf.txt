@@ -1,7 +1,3 @@
-http://www.hjbxw.com
-http://www.jmczsoft.com:82
-https://www.hiliuyang.com
-http://www.haga7.club
 http://dhcp.pilsnet.myubbs.com:62078
 http://www.santafe.tw
 http://bbs.hasea.com
@@ -3709,6 +3705,9 @@ http://zhuji.184409.com
 http://ssjx1.top
 http://bbs.ztrxw.cn
 http://rjcomm.fengdasoft.com
+http://www.jmczsoft.com:82
+http://www.hjbxw.com
+https://www.hiliuyang.com
 http://sheji.sbsc.com.cn
 http://www.cpa1932.com
 http://c.panshy.com
@@ -3896,6 +3895,7 @@ http://bbs.qiuxuedao.cn
 http://hhht66666.com
 http://bbs.yeya-jia.com
 http://htmlarticle55wwe.nakuz.com
+https://www.rosevision.net
 https://www.xylt1.com
 http://www.k654321.com
 http://bbss.gongshangren.com
@@ -4434,6 +4434,7 @@ http://dg.mamacn.com
 http://www.dn2828.com
 http://www.de.myubbs.com:62078
 https://www.pzxxw.com
+http://www.haga7.club
 http://www.hrbpet.org
 http://yj.184409.com
 http://sdu.myubbs.com
@@ -4458,6 +4459,7 @@ http://www.retroco.co
 http://www.yxyz6974.com
 https://www.chaoshang.org.cn
 http://cheaixi.cn
+http://www.hnwudao.cn
 http://www.ezpro.pro
 http://114.116.2.138:8091
 http://htjlarticle55www.nakuz.com
@@ -4605,6 +4607,7 @@ http://www.jjjbbs.cn
 http://sd.184409.com
 http://www.hdxxfb.com
 http://118.24.6.169
+http://www.wj86.net
 http://bbs.07340.com
 http://www.jcy1998.com
 http://qingquxuexiao.com
