@@ -1433,6 +1433,7 @@ http://5dtoy.net
 https://www.daybuy.tw
 http://www.jipinshequ.com
 http://www.lzmcloud.com
+https://tingyuxuan.net
 http://www.shgm.net
 http://www.wuxi0510.com
 http://www.gang.cn
@@ -1946,6 +1947,7 @@ http://108.170.5.76
 http://www.yszq.net
 http://123.57.63.14:8081
 https://www.zhongxinwanka.com
+http://47.107.111.18:443
 http://bbs.morelfans.cn
 https://bbs.mekcc.cn
 https://www.syyyd.com
