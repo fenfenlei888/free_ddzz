@@ -1,6 +1,3 @@
-http://www.chuidiao365.com
-http://123.59.83.120:8080
-http://sctzdh.com
 http://66.230.154.4
 https://stage.fn139.168tech.vip
 http://elearning.wxdaiyan.cn
@@ -3758,6 +3755,7 @@ http://kjsq.net
 http://pir422.cc
 http://43.226.47.17
 http://3.88.211.117
+http://www.joychanong.com
 https://bbs.07340.com
 http://jy.184409.com
 https://www.1688yxw.cn
@@ -3822,6 +3820,7 @@ http://www.quanbixuetang.com
 http://www.kancolly.com
 http://52.8.20.93
 http://bbs.dubai.boniu123.cc
+http://www.60743.com
 http://www.shanbenjiaoyu.com
 http://www.micro-dsp.comcncontactmww.nakuz.com
 http://www.xng16.xyz
@@ -4460,6 +4459,9 @@ http://www.sctongzhi.net
 http://yj.184409.com
 http://sdu.myubbs.com
 http://www.wutongshu0531.com
+http://www.chuidiao365.com
+http://sctzdh.com
+http://123.59.83.120:8080
 http://365da.com.cn
 http://hrbpet.org
 http://chaoshang.org.cn
