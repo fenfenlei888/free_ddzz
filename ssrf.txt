@@ -1,8 +1,3 @@
-http://120.25.231.42
-http://www.zdvictory.com
-http://bid.lingtuan.com
-http://szpci.com
-http://f.pil.tw
 http://cy.180724.com
 http://bbs.bianzhirensheng.com
 http://wpn352.cc
@@ -3396,6 +3391,7 @@ http://zw.180724.com
 http://www.dmhw.cn
 http://baise.aizse.com
 http://111.67.198.23
+http://bike163.net
 http://lbpv.cc
 http://www.inwaishe.com
 http://www.xyw086.com
@@ -3480,6 +3476,7 @@ http://ay.180724.com
 http://bbs.oiegame.com
 http://www.dsdgbase.com
 http://119.3.216.156
+http://www.nztdi.com
 http://www.fqlook.cn
 https://bbs.xiaoyuer.com
 http://wz.180724.com
@@ -3696,6 +3693,8 @@ http://120.79.180.108
 https://583118.com
 https://www.zhilexue.tech
 http://xianning.184409.com
+http://120.25.231.42
+http://bid.lingtuan.com
 http://deyang.aizse.com
 http://xsc.xmdh.com
 http://www.cheaixi.com
@@ -3780,6 +3779,7 @@ http://bbs.ep360.cn
 http://www.kjsq.net
 http://116.196.80.199
 http://dafeng.184409.com
+http://www.rosevision.net
 http://df.184409.com
 http://yulin.184409.com
 http://bbsy.gaoxiaobbs.cn
@@ -4449,6 +4449,9 @@ http://www.wjsyjxh.com
 http://172.105.224.114
 http://qiongzhong.184409.com
 https://www.xlebbs.com
+http://www.zdvictory.com
+http://f.pil.tw
+http://szpci.com
 http://yj.184409.com
 http://sdu.myubbs.com
 http://365da.com.cn
