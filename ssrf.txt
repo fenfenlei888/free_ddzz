@@ -1,5 +1,3 @@
-https://www.aimang.net
-https://bbs.laotingbest.com
 http://www.100sj.net
 http://chuxiong.w91.cn
 http://impk113.com
@@ -3465,6 +3463,8 @@ http://tj.bbs.nongquan.com
 http://111.161.41.17:81
 http://hcwxcn.com
 http://bbs.shoufish.com
+https://bbs.laotingbest.com
+https://www.aimang.net
 http://www.hongyangjixie.cn
 http://dt.184409.com
 http://gg.180724.com
@@ -3990,6 +3990,7 @@ http://51fpush.com
 http://www.xingzhefeng.com
 http://www.huicishen.com
 https://www.101516.vip
+http://shalongart.com
 http://88620.com
 http://hami.180724.com
 http://bbs.zz18.com
