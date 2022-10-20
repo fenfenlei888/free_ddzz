@@ -1,7 +1,3 @@
-http://bbs.0391.com.cn
-http://gang.cn
-http://www.31shenghuo.com
-http://bbs.inter.net.cn
 http://www.biotrainee.com
 https://www.9bbk.com
 http://luzhou.180724.com
@@ -3683,6 +3679,8 @@ http://www.cheaixi.com
 http://www.quanbazhong.cn
 http://nd.184409.com
 http://www.guochong.net
+http://bbs.0391.com.cn
+http://bbs.inter.net.cn
 http://bbs.styd.cn
 http://shuzi.xcex.net
 http://www.hybbs.com
@@ -3828,6 +3826,7 @@ http://jiafen.oa57.net
 http://q057707.com
 https://www.rmu7.club
 http://ningguo.184409.com
+http://www.jinggzj.com:8080
 http://www.shiwuzq.org
 https://teach66.com
 http://tdwqs.com
@@ -4469,6 +4468,8 @@ https://www.0598kk.com
 http://hrbpet.org
 https://www.shuhuajia.me
 http://changzhi.180724.com
+http://gang.cn
+http://www.31shenghuo.com
 http://chaoshang.org.cn
 http://43.129.90.82
 https://www.51dahuo.com
