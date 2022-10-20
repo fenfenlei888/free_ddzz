@@ -1,5 +1,3 @@
-http://www.youqichuyun.com
-http://115.238.255.143:88
 http://www.onehdasia.com
 http://www.coltansmart.com
 http://51uwb.cn
@@ -4204,6 +4202,8 @@ http://bbs.srfc.com.cn
 https://www.hkturtle.org
 https://www.sousouyo.com
 http://bbs.i52088.com
+http://115.238.255.143:88
+http://www.youqichuyun.com
 http://gzwt.tk
 http://www.doubanchong.com
 http://bbs.cngansu.cn
@@ -4242,6 +4242,7 @@ http://thinkingbeing.net
 https://bbs.vipleyuan.com
 https://365xiaochi.net
 https://www.sixiantongxiang.com
+http://180.76.184.151
 http://thx.shuqu.net
 https://www.samngamhos.go.th
 http://jxfuli.tk
