@@ -1,7 +1,3 @@
-http://www.mclassic.com.hk
-http://bbs.jlsd.com
-http://www.xghylt.com
-http://www.glgsnw.com
 http://www.press.myubbs.com:62078
 https://www.bilimlar.com
 https://www.gjkeji.com
@@ -4028,6 +4024,9 @@ http://www.tao92.com
 http://hdbbs.fxt365.com
 https://bbs.qianfanyun.com
 http://pxenter.com
+http://bbs.jlsd.com
+http://www.glgsnw.com
+http://www.xghylt.com
 http://bbs.c3.wuyou.net
 http://htmlarticle25www.nakuz.com
 http://bbs.daxianju.cn
@@ -4058,7 +4057,9 @@ http://cn-sh.cn
 http://www.1000qm.vip
 http://1.15.174.14:81
 https://jxfuli.cf
+https://dz.xiapuapp.com
 https://www.ccbn.com.cn
+http://www.yiminlianyihui.com
 https://bbs.zhuzhou.com
 http://119.29.153.216:81
 https://wzbj.beizongren.cn
@@ -4132,6 +4133,7 @@ http://comcncontactmww.nakuz.com
 http://shop.jlpzj.cn
 http://xxgc.xmdh.com
 https://bilimlar.com
+http://www.mclassic.com.hk
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
@@ -4156,6 +4158,7 @@ http://www.fxzdy.com
 http://www.yunxi.net
 http://www.homefpd.com
 https://boesea.com
+http://zgyjr.com
 http://www.elyoo.com
 http://91d2.org
 http://bbs.fhsx.net.cn
