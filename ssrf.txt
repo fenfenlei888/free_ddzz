@@ -1,7 +1,3 @@
-http://zixun.lingtuan.com
-http://chongzuo.180724.com
-http://103.61.2.32
-http://dz.reetoo.com.cn:9080
 https://92fj.com
 http://nt.180724.com
 https://www.jetsocome.com
@@ -3563,7 +3559,10 @@ http://bbs.xa17.wang
 http://bbs.wh27s.cn
 http://image.datuc.com
 http://bbs.reasonclub.com
+http://chongzuo.180724.com
+http://zixun.lingtuan.com
 http://yiyang.184409.com
+http://dz.reetoo.com.cn:9080
 https://www.ojpal.com
 http://qingyang.180724.com
 http://k654321.com
@@ -3684,6 +3683,7 @@ http://wzs.180724.com
 http://bn.180724.com
 http://comcnncontactwww.nakuz.com
 http://ankang.180724.com
+http://sha0724.com
 http://www.farflunginfo.com
 http://184.95.51.85
 https://www.maiyadi.org
@@ -3815,6 +3815,7 @@ http://xf.jyrm.cn
 http://gonghedd.com
 http://gz.180724.com
 http://df.180724.com
+https://ojpal.com
 http://15.nakuz.com
 http://18.139.235.208
 http://micro-dsp.comcjcontactwww.nakuz.com
@@ -4653,6 +4654,7 @@ http://114.116.13.137
 http://www.jzfdcxxw.cn
 http://gguse.com
 http://ssjx0.top
+http://103.61.2.32
 http://www.nanjing2.com
 http://www.dadijilu.com
 http://pe.180724.com
