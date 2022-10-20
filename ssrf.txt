@@ -1,5 +1,3 @@
-http://ty.mamacn.com
-http://104.237.56.131
 http://bbs.61cms.net
 http://106.14.1.150:8090
 https://115.vipfenxiang.com
@@ -3978,6 +3976,7 @@ http://www.zpxsxk.com
 http://www.hprx.com
 http://121.199.48.191:89
 http://www.nongdui.com
+http://104.237.56.131
 http://bbs.c3.wuyou.net
 http://htmlarticle25www.nakuz.com
 http://bbs.daxianju.cn
@@ -4169,6 +4168,7 @@ http://www.sierracharlie.users.uttbbs.com
 http://baish.184409.com
 https://vip.yjxsoft.com
 https://www.haidiaoren.com
+http://ty.mamacn.com
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
@@ -4198,6 +4198,7 @@ http://micro-dsp.comcncontactmww.nakuz.com
 https://www.6chrome.com
 http://51dahuo.com
 http://mail.gonghedd.com
+http://bbs.we11cn.com
 http://68.168.141.140:81
 https://bbs.vipleyuan.com
 https://365xiaochi.net
