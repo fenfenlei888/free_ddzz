@@ -1,5 +1,3 @@
-http://bbs-nuedc.21sitetest.com
-http://bbs.cnblackhat.com
 http://hntz02.com
 http://b.ns.e.myubbs.com:62078
 https://shuolianai.com
@@ -3598,6 +3596,7 @@ http://119.3.216.156
 http://www.fqlook.cn
 https://bbs.xiaoyuer.com
 http://wz.180724.com
+http://www.topfirst.cn
 http://www.pecc.cn
 http://121.41.226.219
 http://www.healcsa.com
@@ -3720,6 +3719,7 @@ https://bbs.jiaozuobar.com
 http://mrihome.com
 http://optics.oecr.com
 http://bbs.hgplus.net
+http://www.imyxr.com
 http://bbs.raindi.net
 http://haikou.184409.com
 http://dsdgbase.com
@@ -4392,6 +4392,8 @@ http://qth.184409.com
 http://www.tw-redi.com
 http://www.zyibin.com
 http://www.chinayey.com
+http://bbs-nuedc.21sitetest.com
+http://bbs.cnblackhat.com
 http://bbs.inanxun.com
 http://cheaixi.cc
 http://198.255.9.43
