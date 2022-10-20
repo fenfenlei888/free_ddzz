@@ -1,5 +1,3 @@
-http://bbs.dayin.la
-http://community.wistone.com
 http://cj.cmjnu.com.cn
 http://23.95.33.136
 http://115.29.109.104
@@ -4815,6 +4813,8 @@ https://www.xinpg.com
 http://www.zy234.com
 http://ls.184409.com
 http://dingzhou.180724.com
+http://community.wistone.com
+http://bbs.dayin.la
 http://hsyjk1.com
 http://yuzhou.184409.com
 http://thinkingbeing.net
@@ -4823,6 +4823,7 @@ http://ncu.23du.com
 http://nku.myujob.com
 http://nanchong.180724.com
 http://zgtrz.com
+http://juebanys.net
 http://www.zbhw.com
 http://www.bjsax.com
 https://365xiaochi.net
