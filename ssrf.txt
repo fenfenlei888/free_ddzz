@@ -1,9 +1,3 @@
-http://plus.udigital.cn
-http://www.x505.cn
-http://discuz.myesball.net
-http://www.bmw8518.com
-http://www.bzswbbs.com
-https://bbs.anluw.com
 http://home.cantonese.asia
 http://www.hanmi520.com
 http://www.aierhr.com
@@ -2826,6 +2820,7 @@ https://bbs.twinkstar.cn
 http://www.hr.myubbs.com:62078
 http://www.rxshenqi.net
 http://www.2j8j.com
+http://zangaoba.net
 http://new.dataguru.cn
 http://sdk.gamesos.co.kr
 https://www.80wusun.com
@@ -3164,6 +3159,7 @@ http://group.cantonese.asia
 http://www.xxke.cn
 http://sh.184409.com
 http://www.home-way-home.com
+http://jsjysw.top
 http://ale.184409.com
 http://www.princeton.com.cn
 http://bbs.feedtrade.com.cn
@@ -3489,6 +3485,10 @@ http://121.42.13.206
 http://bbs.chinahrd.net
 http://203.33.224.178:8081
 http://www.haoyoushi.cn
+http://plus.udigital.cn
+http://www.x505.cn
+https://bbs.anluw.com
+http://www.bzswbbs.com
 http://www.zgyjr.com
 http://49.232.191.228
 http://bbs.caup.net
@@ -4151,6 +4151,7 @@ http://chinatree.com
 http://www.chinatarot.com
 http://www.diytwo.com
 https://www.stereosound.com.cn
+http://www.jsjysw.top
 http://forum.go2tutor.com
 http://www.pianopaper.net
 http://proxy.wxdaiyan.cn
@@ -4796,7 +4797,9 @@ http://bbs.we11cn.com
 http://38.121.62.70
 http://219.136.240.11
 https://manhua.huaigirls.com
+http://discuz.myesball.net
 http://www.ing10bbs.com
+http://www.bmw8518.com
 http://68.168.141.140:81
 http://www.changdaolvyou.com
 http://bbs.worldeps.com
@@ -5044,6 +5047,7 @@ http://dh.180724.com
 https://www.fulingws.com
 https://sts2.xyz
 http://103.212.35.164
+http://wyiii.com
 http://114.215.135.172
 http://bbs.yypost.com
 http://bbs.infoeach.com
