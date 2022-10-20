@@ -630,6 +630,7 @@ http://louiscollege.net
 http://bbcdn.fun
 http://www.hr.myubbs.com:62078
 http://bbs.dawansheng.com
+http://www.2j8j.com
 http://www.rxshenqi.net
 http://www.tshopping.com.tw
 http://sdk.gamesos.co.kr
@@ -931,6 +932,7 @@ http://www.gosest.com
 http://iqingua.com
 http://www.pshezi.com
 http://www.chuidiao365.com
+http://123.59.83.120:8080
 http://sctzdh.com
 http://66.230.154.4
 https://stage.fn139.168tech.vip
@@ -1742,6 +1744,7 @@ http://43.133.191.207:8080
 http://www.yztown.vip
 http://hdbbs.fxt365.com:81
 http://www.zerotimes.cn
+https://bbs.huorong.cn
 http://lz.184409.com
 http://yuxiangshequ.com
 https://122.195.200.218
@@ -1881,6 +1884,7 @@ http://datong.w91.cn
 http://www.shuimotv.com
 http://www.chnhealth.cn
 http://bbs.atguigu.com
+http://bbs.huainet.com
 http://wj.cmjnu.com.cn
 http://www.leedgap.com
 http://boertala.w91.cn
@@ -2746,6 +2750,7 @@ http://125.229.114.79
 http://tanhuaxiuchewang.com
 http://bbs.33weiqi.com
 https://47.91.186.183
+https://www.520mojing.com
 http://www.cqqjnews.com
 http://47.107.111.18
 http://jhsyw.com
