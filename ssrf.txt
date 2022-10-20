@@ -1,5 +1,3 @@
-http://popo0227.myds.me
-http://www.zzjggs.com
 http://bbs.weixinrj.com
 http://119.3.228.24
 http://120.77.173.188:86
@@ -3712,6 +3710,7 @@ http://lincang.180724.com
 http://120.26.51.175
 http://123.60.57.99
 http://www.sswchina.cn
+http://www.zzjggs.com
 http://tc.rlwsh.com
 http://www.xng17.xyz
 http://zhuji.184409.com
@@ -3723,6 +3722,7 @@ http://xsc.xmdh.com
 http://www.cheaixi.com
 http://bbs.styd.cn
 http://shuzi.xcex.net
+http://www.hybbs.com
 http://ting8006.cn
 https://www.pianosea.com
 http://rc.laoguanhe.com
@@ -3786,6 +3786,7 @@ https://www.0758vip.com
 http://www.fulingws.cn
 https://forum.mtkfan.com
 http://yidou.184409.com
+https://www.jiulu.info
 https://community.joshvm.com
 http://pe.184409.com
 http://jm.184409.com
@@ -4425,6 +4426,7 @@ http://i.idrugs.cn
 http://news.dataguru.cn
 http://www.ahtongzhi.com
 http://bbs.roobo.com
+http://popo0227.myds.me
 http://www.hrbpet.org
 http://yj.184409.com
 http://sdu.myubbs.com
