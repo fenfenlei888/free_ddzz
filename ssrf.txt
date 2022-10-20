@@ -1,8 +1,3 @@
-http://www.wutongshu0531.com
-http://218.244.147.126
-http://150.158.152.164
-http://www.gosest.com
-http://iqingua.com
 http://www.pshezi.com
 http://www.chuidiao365.com
 http://123.59.83.120:8080
@@ -3689,6 +3684,10 @@ http://host.dataguru.cn
 http://www.xinyuelt2.com
 http://www.jyxdsxh.cn
 http://deyang.aizse.com
+http://www.gosest.com
+http://150.158.152.164
+http://218.244.147.126
+http://iqingua.com
 http://xsc.xmdh.com
 http://www.cheaixi.com
 http://bbs.styd.cn
@@ -3843,6 +3842,7 @@ https://sixiantongxiang.com
 http://www.baishabowuguan.com
 http://www.shibianshi.com
 https://jxfuli.cf
+http://www.zhonghuaying.com
 http://www.shuqu.net
 http://www.bocailou01.com
 https://dz.xiapuapp.com
@@ -3853,6 +3853,7 @@ http://admin.in.ilovexclub.com
 http://www.fengsheng.cc
 http://www.tdwqs.com
 http://www.canadalondonchinese.com
+http://bbs.shuen.com.cn
 https://www.ccbn.com.cn
 http://47.93.191.207
 https://mdq.mdxxw.cn
@@ -4457,6 +4458,7 @@ http://ftp.dataguru.cn
 http://www.sctongzhi.net
 http://yj.184409.com
 http://sdu.myubbs.com
+http://www.wutongshu0531.com
 http://365da.com.cn
 http://hrbpet.org
 http://chaoshang.org.cn
