@@ -938,6 +938,7 @@ http://gang.cn
 http://www.31shenghuo.com
 http://bbs.inter.net.cn
 http://www.biotrainee.com
+https://www.9bbk.com
 http://luzhou.180724.com
 http://ispeak.cn
 https://bbs.kangantu.com
@@ -1626,6 +1627,7 @@ http://www.514200.com
 http://www.caijingzaixian.com
 http://bbs.bleachcn.net
 http://yich.180724.com
+http://47.106.15.148
 http://106.225.153.196:8081
 http://www.023lpwst.com
 https://www.tongchengdl.com
