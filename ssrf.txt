@@ -1,5 +1,3 @@
-http://www.jdwxs8.com
-http://www.beelark.com
 http://zjfc.xiasha.cn
 http://www.xiaogq.com
 https://bbs.newtype.com.cn
@@ -3841,6 +3839,7 @@ http://ctxk.org
 http://wx.11sgz.com
 http://13.113.177.206:81
 http://www.ppfeng.com
+http://42.193.193.61
 http://www.cuzhiwang.com
 http://tuan.aiyidu.com
 http://6337711.com
@@ -3971,6 +3970,7 @@ http://diybcq.com
 http://bbs.niubt.cn
 http://www.haoyoushi.cn
 http://www.zgyjr.com
+http://49.232.191.228
 http://bbs.caup.net
 http://www.yunyingtong.org
 http://www.chaoshang.org.cn
@@ -4192,6 +4192,8 @@ http://www.tcax.org
 http://218.94.144.26:8080
 http://www.yelv.com
 http://www.idicbc.com
+http://www.jdwxs8.com
+http://www.beelark.com
 http://www.myh360.com
 http://gzwt.tk
 http://www.doubanchong.com
