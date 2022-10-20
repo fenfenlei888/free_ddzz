@@ -228,6 +228,7 @@ http://www.icanon.asia
 http://47.74.178.33
 http://www.global-movie.net
 https://bbs.aaa-cg.com.cn
+http://www.heren.pw
 http://47.92.192.118:999
 http://www.zhaohushi.com
 http://www.uccool.com
@@ -304,6 +305,7 @@ https://s.epwk.com
 http://nb.mamacn.com
 http://47.94.168.215
 http://116.255.230.131:8086
+http://www.youqichuyun.com
 http://115.238.255.143:88
 http://www.onehdasia.com
 http://www.coltansmart.com
@@ -331,6 +333,7 @@ http://bbs.zz18.com
 http://www.toosoft.org
 http://stbbk.com
 https://www.optbbs.com
+http://www.youximeng.com
 https://talk.dnaxcat.com.tw
 http://www.66host.biz
 http://www.hgs99.com
@@ -489,6 +492,7 @@ http://bbs.ipcgta.com
 http://134.175.25.191
 http://ks.184409.com
 https://hc.0771ao.com
+http://bbs.epday.com
 https://bbs.ikuai8.com
 http://123.57.84.98:8099
 http://www.wzrenda.com
@@ -587,6 +591,7 @@ https://wujindeng.net
 http://140.246.102.194:8081
 https://www.dubious.users.163dz.com
 http://dz.plas2006.com
+http://www.1opk.com
 http://www.zydgbbs.com
 https://fc.dcjixiang.com
 http://47.74.190.202
@@ -802,6 +807,8 @@ http://www.yophome.com
 https://www.haga7.club
 http://club.qc188.com
 http://webmail.hosting.uttbbs.com
+http://it776.com
+https://www.huainet.com
 http://sjz.184409.com
 http://www.520free.com
 http://solar.oecr.com
@@ -1198,6 +1205,7 @@ http://image.datuc.com
 http://ssjx0.top
 http://zixun.lingtuan.com
 http://chongzuo.180724.com
+https://92fj.com
 http://nt.180724.com
 https://www.jetsocome.com
 https://bbs.vrqjcs.com
@@ -1791,6 +1799,7 @@ http://xa.184409.com
 http://www.imcema.org
 http://club.22.cn
 http://www.lin8888.com
+http://www.92fj.com
 http://www.leslie-cheung.com
 http://www.kinwok.com
 http://www.wikin.cn
@@ -1824,6 +1833,7 @@ https://39.97.164.17
 http://106.15.9.113
 http://haikou.mamacn.com
 https://bbs.eve-ng.cn
+https://image.cool-de.com
 http://bbs.indmen.com
 http://www.heikejiedan1.com
 http://223.111.136.156
@@ -1933,6 +1943,7 @@ https://xinpg.com
 http://www.lji823.cc
 http://kb.ventuz.com.cn
 http://91lng.com
+http://bbs.sjyjvr.com
 http://www.cmiw.cn
 http://www.51minsheng.com
 http://fz.mamacn.com
@@ -2236,6 +2247,7 @@ http://bbs.dqzjw.com
 http://www.360424.com
 https://www.ispeak.cn
 http://www.bvu877.cc
+http://123.56.75.9:62078
 http://www.021bababa.org
 http://home.chinesetax.net
 http://yx.180724.com
@@ -2612,6 +2624,7 @@ http://discuz.qqtz.com
 http://zjj.184409.com
 http://www.haomake.xyz
 http://secidc.org.cn
+https://bbs.cnnerv.com
 http://www.11ria.com
 http://www.ernaibyw.com
 http://jpsn.cn
@@ -3191,6 +3204,7 @@ https://www.icax.org
 http://121.40.249.34
 http://www.yiwu.cn
 http://www.tv.uttbbs.com
+http://www.bjyinongxinxi.com
 http://bbs.jpun.net
 http://www.cablesnews.com
 http://bjgay.org
@@ -3441,6 +3455,7 @@ http://mszb.ckuyun.com
 http://www.pzzj.net
 http://chaoyang.w91.cn
 http://kb9453.com
+http://www.it776.com
 http://dz.lfly.xyz
 http://deyang.w91.cn
 http://104.225.149.63
