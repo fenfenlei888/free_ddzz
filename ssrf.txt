@@ -1,7 +1,3 @@
-http://www.miji8.com
-http://mzsf.653200.net
-http://www.yueyingzy.com
-http://851.jswhb.ltd:88
 http://www.8liuxing.com
 http://bbs.takecloud.cn
 http://bifeigantang.top
@@ -3330,6 +3326,7 @@ https://www.0371zl.com
 https://xinpg.com
 http://kb.ventuz.com.cn
 http://www.cmiw.cn
+http://www.yudu1.com
 http://154.87.1.174
 https://admin.in.ilovexclub.com
 http://www.lgbbs.cn
@@ -3385,6 +3382,7 @@ http://bbs.vkee.pw
 http://news.setyun.cn
 http://www.c4d8.net
 https://lgbbs.cn
+http://www.yueyingzy.com
 https://shop.wanxueyuan.cn
 http://wz.rhygc.com
 http://hzvtc.xiasha.cn
@@ -3770,6 +3768,7 @@ http://gl.180724.com
 http://www.shuke8.com
 http://www.18k6.com
 http://shiyan.180724.com
+http://yudu1.com
 http://jlpzj.net
 http://s.lichenyue.com
 http://bbs.7gg.me
@@ -5190,7 +5189,10 @@ http://www.ca001.com
 http://ill624.cc
 http://www.feicuishuo.com
 http://www.mayueling.com
+http://www.miji8.com
 http://fcg.rhygc.com
+http://851.jswhb.ltd:88
+http://mzsf.653200.net
 http://www.slfhcy.com
 http://www.ivfan.com
 http://chizhou.180724.com
