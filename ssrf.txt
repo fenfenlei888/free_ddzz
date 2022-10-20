@@ -1,5 +1,3 @@
-https://www.xinweiyu.com
-http://www.hisnj.com
 http://dalianlaw.com
 http://www.2001n.com
 http://120.53.117.240
@@ -3593,6 +3591,7 @@ http://sz.68866886.net
 http://www.redbaoba.com
 http://www.441109.com
 http://hbqhome.com
+http://bbs.cnwen.net
 http://info.xiasha.cn
 http://changde.180724.com
 http://bbs.feidou.com
@@ -4825,6 +4824,8 @@ http://www.0csm.com
 http://124.223.70.155
 http://mtedu.utaipei.edu.tw
 http://www.234008.cc
+http://www.hisnj.com
+https://www.xinweiyu.com
 http://thinkingbeing.net
 https://bbs.vipleyuan.com
 http://ncu.23du.com
