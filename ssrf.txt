@@ -141,6 +141,7 @@ http://45.56.85.29
 https://bbs.chizhouchacha.com
 http://sytu.myubbs.com
 http://www.tickets.myubbs.com:62078
+http://www.zfzj.cn
 http://121.62.23.174:88
 http://hjbxw.com
 http://gl.180724.com
@@ -601,6 +602,7 @@ http://64.32.12.102
 http://www.tr.uttbbs.com
 http://www.xxyw.com
 http://ofc.oecr.com
+http://www.ljdb.net
 http://hntz03.com
 http://bbs.xiushui.net
 https://bbs.o2jam.cc
