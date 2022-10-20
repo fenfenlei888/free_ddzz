@@ -56,6 +56,7 @@ http://www.115533.com
 http://www.zsacg.com
 http://t.wupen.cn
 http://www.zimeitibbs.com
+http://39.102.57.33:88
 https://kartinfo.me
 http://autoconfig.email.uttbbs.com
 http://technology.oecr.com
@@ -1178,6 +1179,7 @@ http://bbs.sgconline.com.cn
 http://news.oecr.com
 http://123.57.160.225
 http://canhelp-z.com
+http://bbs.xiubaotang.com:88
 http://47.74.135.217
 http://www.hdbull.com
 https://hnweis.com
