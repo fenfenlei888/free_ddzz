@@ -264,6 +264,7 @@ http://webdisk.videos.myubbs.com:62078
 http://suihua.184409.com
 http://zjbf.cc
 http://39.108.64.77
+https://bbs.jcpeixun.com
 http://www.baicha8.cn
 http://www.411au.com.cn
 http://baoding.aizse.com
@@ -278,6 +279,7 @@ http://www.jdwxs8.com
 http://www.beelark.com
 http://zjfc.xiasha.cn
 http://www.xiaogq.com
+https://bbs.newtype.com.cn
 http://1tjy.com
 http://huaibei.180724.com
 https://bbs.crossincode.com
@@ -1361,6 +1363,7 @@ http://www.xxnms.com
 http://xiaogq.com
 https://zj.a5.net
 http://115.28.128.6
+http://www.mcqy.net
 https://lcxlyy.com
 https://www.zhenpet.com
 http://www.sctzdh.com
@@ -1443,6 +1446,7 @@ http://fob0.com
 https://www.hgpoo.com
 http://www.xiyinlifaze.cn
 http://www.libaiyi.cn
+http://www.xqd163.com
 http://www.iyunle.cn
 http://124.223.70.155
 http://beelark.com
@@ -2360,6 +2364,7 @@ http://www.jwjiaoji.com
 https://forum.eve-ng.cn
 http://www.mowangtuili.cn
 http://www.postbbs.com
+http://bbs.mf8-china.com
 http://www.xxtz.cc
 http://www.ytzx.cc
 http://bbs.miaolaoshi.com
@@ -3417,6 +3422,7 @@ http://www.synaetech.com
 http://www.eu.myubbs.com:62078
 http://www.pcd99.com
 http://wuhu.180724.com
+http://www.mf8-china.com
 https://www.suapp.me
 http://zs.180724.com
 http://app.lingsky.com
