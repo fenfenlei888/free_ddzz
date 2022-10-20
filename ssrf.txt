@@ -1,5 +1,3 @@
-http://www.hmphanmi.com.cn
-http://api.juweile.com
 http://www.sswchina.com
 http://www.01096299.com
 http://xueyuan.kuaipu.com.cn
@@ -3457,6 +3455,7 @@ https://www.tsz3.com
 http://47.101.197.44
 http://115533.com
 http://bbs.sugas.site
+http://api.juweile.com
 https://www.sts1.xyz
 http://www.zpinfo.net
 http://ya.184409.com
@@ -4708,6 +4707,7 @@ http://bbs.17dra.com
 https://used.rv28.com
 http://www.taotu99.net
 http://qingyuan.180724.com
+http://www.bmwowner.cn
 http://www.xiangxiangmedia.com
 https://www.svipshare.com
 http://zq.180724.com
@@ -4874,6 +4874,7 @@ http://www.mvp007.com
 http://bbs.iapply.cn
 http://www.mmyubb.com
 http://ufa.wxdaiyan.cn
+http://www.hmphanmi.com.cn
 http://www.bjsax.com
 https://365xiaochi.net
 https://www.sts4.xyz
@@ -5115,6 +5116,7 @@ http://joychanong.com
 http://rc.xiasha.cn
 http://yelv.com
 http://www.yhyhlt.com
+http://bmwowner.cn
 http://paperbert.com
 http://suzhou.180724.com
 http://chifeng.180724.com
