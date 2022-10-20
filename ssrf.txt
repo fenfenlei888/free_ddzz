@@ -1,7 +1,3 @@
-http://www.umhom23.com
-http://bbs.yunyingz.com
-http://fagui.nongquan.com
-http://www.caiyuanzi.org
 http://36.137.241.31:8000
 https://www.muyek.com
 http://www.liyangedu.com
@@ -4008,6 +4004,7 @@ http://shart.cn
 https://www.wszgw.net
 http://bbs.56785678.net
 http://so.ppfeng.com
+http://bbs.yunyingz.com
 http://www.fp2d.cn
 http://bbs.c3.wuyou.net
 http://htmlarticle25www.nakuz.com
@@ -4153,6 +4150,9 @@ http://www.bearingbbs.com
 http://www.theold.net
 http://120.25.206.20:88
 http://www.dmsnx.com
+http://www.umhom23.com
+http://www.caiyuanzi.org
+http://fagui.nongquan.com
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
@@ -4190,11 +4190,13 @@ http://zgyjr.com
 http://www.elyoo.com
 http://91d2.org
 https://www.hnzxgs.com.cn
+https://www.boxueop.com
 http://bbs.fhsx.net.cn
 http://abbc.eu.org:7777
 https://dz.zhijianyun.net
 http://www.xng18.xyz
 http://bbs.bossos.net
+http://www.gzwt.tk
 http://jxfuli.cf
 http://dz.xiapuapp.com
 http://bbs.07340.com
