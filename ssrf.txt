@@ -1,4 +1,3 @@
-http://39.106.67.9
 http://47.244.107.215
 http://www.gaoduanke.com
 http://bisi666.cc
@@ -3763,6 +3762,7 @@ http://101.37.227.158:8080
 http://www.sctz10.com
 http://www.feifeicms.me
 http://lvju.wdzb.org.cn
+http://39.106.67.9
 http://www.njsxkz.com
 http://www.fuximiao.cn
 http://lb.184409.com
@@ -3844,6 +3844,7 @@ http://dafeng.184409.com
 http://df.184409.com
 http://yulin.184409.com
 http://bbsy.gaoxiaobbs.cn
+http://jwc.xmdh.com
 http://bh.184409.com
 http://60.173.107.196:6666
 http://www.365da.com.cn
