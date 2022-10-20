@@ -1444,6 +1444,7 @@ http://www.imeiai.com
 http://redchinacn.org
 http://122.114.131.71:7777
 http://www.kcb2b.cn
+http://www.bgzdh.cn
 http://bbs.coatu.com
 http://autodiscover.support.uttbbs.com
 http://www.zzzzbbbb.com
@@ -3467,6 +3468,7 @@ https://enbbs.makerpi3d.com
 http://www.dmxs5.com
 http://www.sc1069.cc
 http://120.26.51.175:88
+http://bgzdh.cn
 http://www.au.uttbbs.com
 http://hz.rhygc.com
 http://bbs.zzit.org
