@@ -1,6 +1,3 @@
-http://www.vpsxuexi.com
-http://www.28tongji.com
-http://www.zyys128.com
 http://108.170.5.98
 http://119.45.177.140
 https://yl.0771ao.com
@@ -3678,6 +3675,7 @@ http://bbs.styd.cn
 https://bbs.kangantu.com
 http://ispeak.cn
 http://www.xn--7hvu6lcwr.com
+http://www.28tongji.com
 http://shuzi.xcex.net
 http://www.hybbs.com
 http://ting8006.cn
@@ -3738,6 +3736,7 @@ http://www.dianhunbbs.com
 http://www.029lintong.com
 http://dt.184409.com
 http://bbs.sugas.site
+https://www.sts1.xyz
 http://ya.184409.com
 http://www.chaoshang.org.cn
 http://zhixun2010.com
@@ -4471,6 +4470,8 @@ http://www.biotrainee.com
 http://search.uttbbs.com
 http://47.242.131.150
 http://bbs.chinadjba.com
+http://www.vpsxuexi.com
+http://www.zyys128.com
 http://chaoshang.org.cn
 http://43.129.90.82
 https://www.51dahuo.com
@@ -4488,6 +4489,7 @@ http://bbs.xichuanwh.com
 http://bbs.588cy.com
 http://bzz.60743.com
 http://www.retroco.co
+https://sts5.xyz
 http://www.yxyz6974.com
 https://www.chaoshang.org.cn
 http://cheaixi.cn
