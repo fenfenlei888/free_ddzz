@@ -1,5 +1,3 @@
-http://forum.nobook.com.cn
-http://002.bleachcn.net
 http://www.kindrednet.cn
 http://139.180.130.98:8080
 http://www.xkh877.cc
@@ -3597,6 +3595,7 @@ http://icqu.cn
 http://dafeng.180724.com
 http://52.8.20.93
 http://bbs.guangsyl.cn
+https://www.webzx.net
 http://bbs.dubai.boniu123.cc
 http://www.60743.com
 http://jdzyg.com
@@ -4851,6 +4850,8 @@ http://es.184409.com
 http://bbs.0516k.com
 http://www.168gamesf.com
 http://zgtrz.com
+http://002.bleachcn.net
+http://forum.nobook.com.cn
 http://juebanys.net
 http://www.zbhw.com
 http://www.bjsax.com
