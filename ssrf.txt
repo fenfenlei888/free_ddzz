@@ -688,6 +688,7 @@ http://www.sctz10.com
 http://101.200.54.194
 http://sbc.sanbeicha.com.cn
 http://lvju.wdzb.org.cn
+http://39.106.67.9
 http://47.244.107.215
 http://www.gaoduanke.com
 http://bisi666.cc
@@ -2126,6 +2127,7 @@ http://car.xiasha.cn
 http://wap.5281.net
 http://wordpress.wxdaiyan.cn
 http://www.93cs.com
+http://bbs.eptchina.com
 http://www.ifans.site
 http://www.baby12345.cn
 http://bijie.aizse.com
@@ -2744,6 +2746,7 @@ http://120.25.148.206:1000
 http://122.112.230.93:8080
 http://xng1.top
 https://www.5i8.org
+http://64.91.235.131
 http://dl.mamacn.com
 http://59.111.106.155
 https://www.rv28.com
