@@ -1,4 +1,3 @@
-https://bbs.newtype.com.cn
 http://1tjy.com
 http://huaibei.180724.com
 https://bbs.crossincode.com
@@ -4195,6 +4194,7 @@ http://www.jdwxs8.com
 http://www.beelark.com
 http://zjfc.xiasha.cn
 http://www.xiaogq.com
+https://bbs.newtype.com.cn
 http://www.myh360.com
 http://gzwt.tk
 http://www.doubanchong.com
@@ -4207,6 +4207,7 @@ http://www.hbqhome.com
 https://wiki.mabinogi.club
 http://www.dioenglish.com
 http://bbs.inanxun.com
+http://198.255.9.43
 http://chaoshang.org.cn
 http://43.129.90.82
 https://www.51dahuo.com
