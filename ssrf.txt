@@ -214,6 +214,7 @@ http://112.90.82.4:8181
 http://120.25.151.191
 https://www.x505.cn
 http://lji823.cc
+http://www.h3600.cn
 http://qd.180724.com
 http://tmsk.184409.com
 http://150.223.45.236:8081
