@@ -1,4 +1,3 @@
-http://ufa.wxdaiyan.cn
 http://115533.com
 http://www.hmphanmi.com.cn
 http://api.juweile.com
@@ -4375,6 +4374,7 @@ http://changzhi.180724.com
 http://gang.cn
 http://www.31shenghuo.com
 http://www.biotrainee.com
+http://bbs.cv2000.cn
 http://search.uttbbs.com
 http://47.242.131.150
 http://bbs.chinadjba.com
@@ -4872,6 +4872,7 @@ http://bj.180724.com
 http://www.mvp007.com
 http://bbs.iapply.cn
 http://www.mmyubb.com
+http://ufa.wxdaiyan.cn
 http://www.bjsax.com
 https://365xiaochi.net
 https://www.sts4.xyz
