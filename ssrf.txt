@@ -754,6 +754,7 @@ http://129.204.66.164
 http://www.heike666.com
 http://119.28.188.53
 http://www.houla.cn
+http://pockyland.net
 http://luohe.184409.com
 http://www.toosoft.cn
 http://t.sqxw.cn
@@ -1237,6 +1238,7 @@ http://am.180724.com
 http://120.27.241.130:876
 http://156.225.2.244:20000
 http://www.kb9453.com
+http://121.5.141.171
 http://bbs.5imx.com
 http://bbs.cheaa.com
 https://club.west.cn
