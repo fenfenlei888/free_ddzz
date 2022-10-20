@@ -1,5 +1,3 @@
-http://www.linsivvi.com
-http://diqing.aizse.com
 http://ytzx.cc
 http://bbs.97wanwan.com
 http://116.255.166.128
@@ -3559,6 +3557,8 @@ http://www.imgzone.cn
 http://jiankang.ytbbs.com
 https://bbs.aladedalu.com
 http://bbs.swiper.com.cn
+http://diqing.aizse.com
+http://www.linsivvi.com
 http://k654321.com
 http://www.shirenwang.com
 http://xx.180724.com
@@ -3753,6 +3753,7 @@ http://admin.in.ilovexclub.com
 http://wenchang.180724.com
 http://www.fengsheng.cc
 http://www.tdwqs.com
+http://www.3wsjw.com
 http://www.canadalondonchinese.com
 http://jj.180724.com
 http://bbs.shuen.com.cn
