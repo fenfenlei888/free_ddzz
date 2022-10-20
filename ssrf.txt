@@ -1,5 +1,3 @@
-http://czn.com.cn
-http://t.diandee.com
 https://www.ibmbjb.com
 http://221.6.48.113:88
 http://www.adyouxi.com
@@ -4416,6 +4414,8 @@ http://yk.180724.com
 http://124.222.199.14
 http://www.xunliaoyou.cn
 http://hg.180724.com
+http://t.diandee.com
+http://czn.com.cn
 http://www.hrbpet.org
 http://yj.184409.com
 http://sdu.myubbs.com
@@ -4558,6 +4558,7 @@ http://www.gzwt.tk
 http://xd.oa57.net
 http://jxfuli.cf
 http://sdu.myubbs.com:62078
+http://www.chengqu.com
 http://tuangou.fulingws.com
 http://hanzhong.184409.com
 http://dz.xiapuapp.com
