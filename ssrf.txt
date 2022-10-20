@@ -1,9 +1,3 @@
-http://47.75.160.237
-http://www.touzichaoshius.com
-http://www.hntz1.com
-http://www.sctz77.com
-http://diqing.w91.cn
-https://zuirouqing.yymoban.com
 https://voip750101.pg6.sip.gkzj.net
 http://bbs.chinatree.com
 http://bvu877.cc
@@ -3749,6 +3743,7 @@ http://www.soul-core.cn
 http://www.duyadi.com
 http://www.jiuguji.com
 http://image.cool-de.com
+http://47.75.160.237
 http://www.fuximiao.cn
 http://lb.184409.com
 http://cgzsnj.hbck.com.cn
@@ -3869,6 +3864,7 @@ http://www.shanbenjiaoyu.com
 http://www.micro-dsp.comcncontactmww.nakuz.com
 http://www.xng16.xyz
 http://jiafen.oa57.net
+http://q057707.com
 https://www.rmu7.club
 http://ningguo.184409.com
 https://teach66.com
@@ -4358,6 +4354,11 @@ http://47.97.19.221:1433
 http://www.weinio.com
 http://www.19fang.net
 https://www.kangfuzhe.org
+http://www.touzichaoshius.com
+https://zuirouqing.yymoban.com
+http://diqing.w91.cn
+http://www.sctz77.com
+http://www.hntz1.com
 https://wiki.mabinogi.club
 https://svip.huaigirls.com
 http://www.dioenglish.com
@@ -4412,6 +4413,7 @@ https://xylt1.com
 https://huaigirls.com
 http://51dahuo.com
 http://mail.gonghedd.com
+http://yalianedu.net
 http://bbs.we11cn.com
 https://manhua.huaigirls.com
 http://68.168.141.140:81
