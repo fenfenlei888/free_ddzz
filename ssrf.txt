@@ -575,6 +575,7 @@ http://proxy.wxdaiyan.cn
 http://information.oecr.com
 http://202.85.222.116
 http://ganzhou.180724.com
+http://bbs.delit.cn
 http://forum.foheart.com
 http://bbs.intmilch.com
 http://qinzhou.184409.com
@@ -1894,6 +1895,7 @@ http://144.202.126.147
 http://bbs.focusky.com.cn
 https://www.terrartanis.com
 http://www.51ele.net
+http://plat.delit.cn
 http://www.xionggay.net
 http://www.tjlzs.cn
 http://184.95.51.84:8080
