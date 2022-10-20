@@ -1,7 +1,3 @@
-http://bbs.qianfanyun.com
-http://hf.mamacn.com
-https://www.hanwowo.com
-http://112.74.44.170
 http://bbs.qinxue.com
 http://mypanku.com
 http://www.hmqg.com
@@ -3492,6 +3488,8 @@ http://www.99qixing.com
 http://la.180724.com
 http://bbs.moyansz.com
 https://webmail.gkzj.net
+http://112.74.44.170
+https://www.hanwowo.com
 http://www.hhht66666.com
 http://bbs.niubt.cn
 http://www.haoyoushi.cn
@@ -3633,6 +3631,7 @@ http://bbs.dubai.boniu123.cc
 http://www.60743.com
 http://jdzyg.com
 http://www.shanbenjiaoyu.com
+http://www.xhyz714.com
 http://www.micro-dsp.comcncontactmww.nakuz.com
 http://www.xng16.xyz
 http://www.zgywcm.com
@@ -4783,6 +4782,8 @@ http://www.tangedu.cn
 http://km.184409.com
 http://www.gtpeng.com
 http://mail.gonghedd.com
+http://hf.mamacn.com
+http://bbs.qianfanyun.com
 http://yalianedu.net
 http://bbs.we11cn.com
 https://manhua.huaigirls.com
