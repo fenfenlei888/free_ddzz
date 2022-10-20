@@ -3194,6 +3194,7 @@ https://pcpc.club
 http://bbs.apisystem.cn
 http://138.2.17.133
 http://52brain.com
+http://bbs.elight.cn
 http://www.benmao8.com
 http://3.88.235.9
 http://ifunstar.com
@@ -3775,6 +3776,7 @@ https://spb.gkzj.net
 http://bangbu.w91.cn
 http://www.ctxk.org
 http://120.46.145.109
+http://121.41.10.52
 http://8.140.12.248
 http://antzone.cn
 http://www.mtedu.utaipei.edu.tw
