@@ -503,6 +503,7 @@ http://xkh877.cc
 http://96.126.101.89
 http://49.235.111.114:8080
 http://bbs.3polar.com
+http://www.smbwgg.com
 http://www.db.myubbs.com:62078
 https://www.jpinfo.net
 https://www.xoooi.com
@@ -851,6 +852,7 @@ https://stage.fn139.168tech.vip
 http://elearning.wxdaiyan.cn
 http://www.moodle.myubbs.com:62078
 http://www.lsdca.com
+https://www.0598kk.com
 http://bbs.zhiyou100.com
 http://www.quanbazhong.cn
 http://nd.184409.com
@@ -3126,6 +3128,7 @@ http://ssjx2.top
 http://bbs.uipkernel.com
 http://bo.oecr.com
 http://bbs.hbzkw.com
+https://bbs.0598kk.com
 http://ua.wxdaiyan.cn
 http://edu.wxdaiyan.cn
 https://www.aisojie.com
@@ -3546,3 +3549,4 @@ http://wendan.com.cn
 http://sxjszx.com.cn
 http://www.sc69.cc
 http://111.67.192.156
+https://bbs.ltxinbing.com
