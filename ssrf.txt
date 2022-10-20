@@ -1,5 +1,3 @@
-http://194520.com
-http://haining.184409.com
 http://shouguang.184409.com
 https://bbs.xinpg.com
 http://car.xiasha.cn
@@ -2077,6 +2075,7 @@ http://121.199.48.191:89
 http://www.nongdui.com
 http://104.237.56.131
 http://106.14.1.150:8090
+http://5xhome.com
 https://115.vipfenxiang.com
 http://tianchang.184409.com
 https://www.aibaogame.com
@@ -3400,6 +3399,7 @@ http://redchinacn.net
 http://www.treehousesub.com
 http://58.56.76.173
 http://121.54.172.224
+http://haining.184409.com
 http://rhxc-pro.com
 http://www.chntrs.com
 http://mas.180724.com
@@ -5100,6 +5100,7 @@ http://www.openloongson.cn
 http://101.35.175.119
 http://km.mamacn.com
 http://boesea.com
+http://194520.com
 https://sts10.xyz
 http://www.yunxi.net
 http://linzhi.184409.com
