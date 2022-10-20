@@ -1,5 +1,3 @@
-http://39.101.244.209
-http://www.xmzccs.org
 http://liangshan.180724.com
 http://mingdao20.com
 http://9453bb.com
@@ -4109,6 +4107,8 @@ http://www.okxy28.com
 http://ny.saojie.org
 http://www.service.uttbbs.com
 https://www.zqsa.com
+http://www.xmzccs.org
+http://39.101.244.209
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
@@ -4122,6 +4122,7 @@ http://182.92.159.222
 http://jipinshequ.com
 http://www.fxzdy.com
 http://91d2.org
+http://abbc.eu.org:7777
 https://dz.zhijianyun.net
 http://bbs.07340.com
 http://peizimenhu.com
