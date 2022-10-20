@@ -1,7 +1,3 @@
-http://www.imgod.com.cn
-http://bbs.vkee.pw
-http://yichun.180724.com
-http://media.netzone.com
 http://news.setyun.cn
 http://ill624.cc
 http://www.c4d8.net
@@ -2017,6 +2013,7 @@ http://www.meishen.cc
 http://47.52.224.170
 http://39.108.219.42
 http://htmlarticle25www.nakuz.com
+http://meetright.com.cn
 http://47.92.26.199
 http://www.shuolianai.com
 http://www.qbyan27.com
@@ -3390,6 +3387,7 @@ http://bbs.youxitian.com
 http://alashan.w91.cn
 http://mz.180724.com
 http://micro-dsp.comcncontactwsw.nakuz.com
+http://bbs.vkee.pw
 https://shop.wanxueyuan.cn
 http://wz.rhygc.com
 http://hzvtc.xiasha.cn
@@ -3568,6 +3566,7 @@ http://09676.com
 http://qxs8.cc
 https://bbs-test.iwangzhe.com
 http://bbs.cncqq.com
+http://www.meetright.com.cn
 http://www.yiminlianyihui.com
 http://cqu.myujob.com
 http://yulin.180724.com
@@ -4472,6 +4471,7 @@ http://mf.2math.cn
 https://csinuk.com
 https://93e.cc
 http://godclone.com
+http://tcax.org
 http://124.223.31.21:8090
 http://www.gcm8.com
 http://www.ssjx1.top
@@ -5183,7 +5183,10 @@ http://www.sx1688.net
 http://m.rainycare.com
 http://zgyjr.com
 http://bbs.virology.com.cn
+http://www.imgod.com.cn
 http://qlqwgw.com
+http://media.netzone.com
+http://yichun.180724.com
 http://fcg.rhygc.com
 http://www.slfhcy.com
 http://www.ivfan.com
