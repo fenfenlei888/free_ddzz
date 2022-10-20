@@ -330,6 +330,7 @@ http://bbs.caishen66.cn
 http://nb.mamacn.com
 http://bbs.i52088.com
 http://47.94.168.215
+http://qun.eweiqi.com
 http://116.255.230.131:8086
 http://www.youqichuyun.com
 http://115.238.255.143:88
@@ -1071,6 +1072,7 @@ http://old.gzicpa.org.cn
 http://shequ.taoke.com
 http://cq.mamacn.com
 http://120.76.23.10
+http://kaoyan.jluol.com
 http://www.0722sy.com
 http://124.222.198.5:81
 https://www.passions.com.cn
@@ -2283,6 +2285,7 @@ https://tc.rlwsh.com
 http://www.nl.uttbbs.com
 http://www.shanghainianhua.com
 http://106.54.191.154:8090
+http://www.ihain.cn
 https://hanwowo.com
 https://bbs.cnbrass.com
 https://bbs.xrsi.cn
@@ -3037,6 +3040,7 @@ http://bbs.dnfzhengfuzhe.com
 http://bbs.shumeipaiba.com
 https://bbs.0771ao.com
 http://dingxi.aizse.com
+http://www.jluol.com
 http://baishan.w91.cn
 http://exosome.com.cn
 http://jju.myubbs.com
@@ -3748,6 +3752,7 @@ https://gx.0771ao.com
 http://47.91.246.140
 https://www.sdxiangqiwang.com
 http://bbs.jcys.com
+http://new.eweiqi.com
 http://www.sh086.com
 https://hhday.com.tw:8443
 http://theory.oecr.com
