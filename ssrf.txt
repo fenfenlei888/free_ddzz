@@ -1214,6 +1214,7 @@ http://114.253.252.223:88
 http://www.4kquan.com
 http://www.yjqun.com
 http://39.105.131.214
+http://51ibm.com
 http://www.paheng.com
 http://103.59.101.157
 http://changji.w91.cn
@@ -1750,6 +1751,7 @@ https://www.tsz3.com
 http://ufa.wxdaiyan.cn
 http://115533.com
 http://www.hmphanmi.com.cn
+http://api.juweile.com
 http://www.sswchina.com
 http://www.01096299.com
 http://xueyuan.kuaipu.com.cn
@@ -3694,6 +3696,7 @@ http://www.toohost.info
 http://bbs.jiangyou.cn
 http://bbs.himi.club
 http://lzmcloud.com
+http://www.appcome.com
 https://logo007.net
 https://www.renrenzhuan.net
 http://nn.180724.com
@@ -3765,6 +3768,7 @@ https://www.xg8.live
 http://bbs.locojoy.com
 http://www.asp.cn
 http://www.syqun.com
+http://91show.club
 http://www.myhit.cn
 http://bbs.ehongya.com
 https://spb.gkzj.net
@@ -3850,6 +3854,7 @@ https://yuelan8.com
 http://huangshan.180724.com
 http://club.lrswl.com
 http://www.0598yu.com
+http://8.142.82.217
 http://bbs.wangjing.cn
 http://www.jkzmd.com
 http://www.business.myubbs.com:62078
