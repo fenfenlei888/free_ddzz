@@ -1,8 +1,3 @@
-http://www.tianranqijiaoyizhongxin.com
-http://www.puyiji.com
-http://hz.180724.com
-http://www.college360.cn
-http://119.23.14.180
 http://www.cdzykj.cn
 https://bbs.wulinshe.com
 http://www.muyek.com
@@ -3855,6 +3850,9 @@ http://www.1024wz.top
 http://49.234.74.55
 http://www.jsshys.com
 http://holographic.oecr.com
+http://www.tianranqijiaoyizhongxin.com
+http://www.puyiji.com
+http://hz.180724.com
 http://www.zhi-pu.com
 http://www.lgzcw.com
 http://bbsm.rfslmhk.com
@@ -3959,6 +3957,7 @@ https://dz.xiapuapp.com
 http://tj.184409.com
 http://www.fengsheng.cc
 https://www.ccbn.com.cn
+https://mdq.mdxxw.cn
 http://ruian.184409.com
 http://xinzhou.184409.com
 http://linyi.184409.com
@@ -3981,6 +3980,7 @@ http://119.29.153.216:81
 https://wzbj.beizongren.cn
 http://www.mamayujia.com
 http://sytu.23du.com
+http://allyworld.xicp.net:8092
 http://45.79.218.47
 http://test.eltxdmuseum.com
 http://exam.zzb.tech
@@ -4254,6 +4254,7 @@ http://ny.180724.com
 http://www.vrzy123.com
 http://bbs.eblcu.cn
 http://bbs.cngansu.cn
+http://154.89.10.97:20000
 https://www.cgioo.com
 http://www.setyun.cn
 http://qinzhou.180724.com
@@ -4263,6 +4264,8 @@ http://www.sctz0.com
 http://aimang.net
 http://sh-nfc.com
 http://nc.180724.com
+http://119.23.14.180
+http://www.college360.cn
 http://45.253.65.194:8899
 https://www.zm137.com
 http://www.gonghedd.com
