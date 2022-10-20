@@ -1,6 +1,3 @@
-http://qiongzhong.184409.com
-http://172.105.224.114
-https://www.xlebbs.com
 http://120.25.231.42
 http://www.zdvictory.com
 http://bid.lingtuan.com
@@ -4449,6 +4446,9 @@ http://gj.jyrm.cn
 https://www.52tikong.com
 http://www.ty28lt.com
 http://www.wjsyjxh.com
+http://172.105.224.114
+http://qiongzhong.184409.com
+https://www.xlebbs.com
 http://yj.184409.com
 http://sdu.myubbs.com
 http://365da.com.cn
@@ -4522,6 +4522,7 @@ http://bsrjyy.com
 https://www.samngamhos.go.th
 http://www.23myw.com
 http://cs.oa57.net
+http://www.czsj.net
 http://jxfuli.tk
 http://182.92.159.222
 http://dnt2006615www.nakuz.com
@@ -4600,6 +4601,7 @@ https://bbs.inanxun.com
 http://zs.184409.com
 http://www.gzwt.tk
 http://xd.oa57.net
+http://heike666.com
 http://jxfuli.cf
 http://sdu.myubbs.com:62078
 http://www.chengqu.com
