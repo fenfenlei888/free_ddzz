@@ -188,6 +188,7 @@ http://webdisk.travel.myubbs.com:62078
 http://bbs.huakebosi.com
 http://www.qx4.cn
 http://www.mypanku.com
+http://www.rlctech.com:8888
 http://chizhou.w91.cn
 http://sy.180724.com
 https://7177.cn
@@ -1542,6 +1543,7 @@ http://text.irtec.cn:1234
 http://7wyx.cn
 http://bbs.rocaircraft.com
 http://www.sdwsxy.cn
+http://112.124.42.43:8081
 http://bbs.kazi.ai
 http://www.aifangjie.cn
 http://115.28.31.233
@@ -2921,6 +2923,7 @@ https://www.alyxz.com
 http://luoyouming.cc
 http://hrb.mamacn.com
 http://www.erji.net
+http://158.69.248.225:8888
 http://xisn6.net
 http://www.hyl044.cc
 https://www.ossns.com
@@ -3247,6 +3250,7 @@ https://qy0.cn
 http://caiji.fxku.cn
 http://www.1314xuexi.com
 http://www.suixin888.com
+http://47.95.215.103:8888
 http://www.space-empires.com
 http://sys.180724.com
 http://108.170.5.77:8080
