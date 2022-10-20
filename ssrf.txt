@@ -1,5 +1,3 @@
-http://qun.eweiqi.com
-http://116.255.230.131:8086
 http://www.youqichuyun.com
 http://115.238.255.143:88
 http://www.onehdasia.com
@@ -3931,6 +3929,8 @@ https://s.epwk.com
 http://nb.mamacn.com
 http://bbs.caishen66.cn
 http://47.94.168.215
+http://116.255.230.131:8086
+http://qun.eweiqi.com
 http://www.fenglove.com
 http://bbs.daxianju.cn
 https://dgwww.com
@@ -3967,6 +3967,7 @@ http://49.232.191.228
 http://bbs.caup.net
 http://www.yunyingtong.org
 http://www.chaoshang.org.cn
+http://zhixun2010.com
 http://kjsq.net
 http://43.226.47.17
 https://bbs.07340.com
