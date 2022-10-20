@@ -1,12 +1,3 @@
-http://www.jinmen.cc
-http://184.95.51.85:8080
-https://www.315nh.com
-http://www.99paobu.com
-http://dl.180724.com
-http://medicine.oecr.com
-http://bbs.stvgame.com
-http://www.cuebe.cn
-http://www.80baicai.biz
 http://51ele.net
 http://sctz1.com
 http://hdu.xiasha.cn
@@ -3851,6 +3842,10 @@ http://www.puyiji.com
 http://hz.180724.com
 http://www.cdzykj.cn
 https://bbs.wulinshe.com
+http://www.jinmen.cc
+https://www.315nh.com
+http://bbs.stvgame.com
+http://www.99paobu.com
 http://www.zhi-pu.com
 http://www.lgzcw.com
 http://bbsm.rfslmhk.com
@@ -4267,6 +4262,11 @@ http://119.23.14.180
 http://www.college360.cn
 http://www.muyek.com
 http://123.56.4.191
+http://184.95.51.85:8080
+http://medicine.oecr.com
+http://dl.180724.com
+http://www.80baicai.biz
+http://www.cuebe.cn
 http://45.253.65.194:8899
 https://www.zm137.com
 http://www.gonghedd.com
@@ -4275,6 +4275,7 @@ https://bbs.yxball.com
 http://www.hbqhome.com
 http://jingmen.184409.com
 https://wiki.mabinogi.club
+https://svip.huaigirls.com
 http://www.dioenglish.com
 http://manmanqi.com
 http://qth.184409.com
@@ -4310,9 +4311,11 @@ http://www.scrpg.net
 http://www.myfriends.vip
 http://micro-dsp.comcncontactmww.nakuz.com
 https://www.6chrome.com
+https://huaigirls.com
 http://51dahuo.com
 http://mail.gonghedd.com
 http://bbs.we11cn.com
+https://manhua.huaigirls.com
 http://68.168.141.140:81
 http://yuzhou.184409.com
 http://thinkingbeing.net
@@ -4376,6 +4379,7 @@ http://hanzhong.184409.com
 http://dz.xiapuapp.com
 http://fp2d.cn
 http://linfen.184409.com
+https://qz.huaigirls.com
 http://39.100.225.95
 http://community.joshvm.com
 http://sd.184409.com
