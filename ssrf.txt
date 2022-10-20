@@ -1,5 +1,3 @@
-http://www.awanzhou.com
-https://dnaxcattalk.dnaxcat.com.tw
 http://www.ffans.vip
 http://bbs.qcfdlt.com
 https://mgm1.diy.cc
@@ -3446,6 +3444,8 @@ http://dali.180724.com
 http://www.gang.cn
 http://www.jsloogoo.com
 http://hshi.180724.com
+https://dnaxcattalk.dnaxcat.com.tw
+http://www.awanzhou.com
 http://43.226.47.17
 http://3.88.211.117
 http://nchxys.cn
@@ -5157,6 +5157,7 @@ http://paperbert.com
 http://suzhou.180724.com
 http://chifeng.180724.com
 https://bbs-dev.pydp888.com
+http://lingchenwang.com
 http://dh.180724.com
 https://www.fulingws.com
 https://sts2.xyz
