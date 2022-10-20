@@ -1,5 +1,3 @@
-http://yuxiangshequ.com
-https://122.195.200.218
 http://115.159.114.85
 http://www.zsrx.com.cn
 http://homefpd.com
@@ -2852,6 +2850,7 @@ http://rjcomm.fengdasoft.com
 http://www.jmczsoft.com:82
 http://www.hjbxw.com
 https://www.hiliuyang.com
+http://ratbxh.com
 http://dhcp.pilsnet.myubbs.com:62078
 http://heze.180724.com
 http://dq.180724.com
@@ -4891,6 +4890,8 @@ http://hdbbs.fxt365.com:81
 http://www.zerotimes.cn
 https://bbs.huorong.cn
 http://lz.184409.com
+https://122.195.200.218
+http://yuxiangshequ.com
 http://180.76.184.151
 http://www.aeeze.com
 http://thx.shuqu.net
