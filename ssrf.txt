@@ -1195,6 +1195,7 @@ http://39.105.131.214
 http://www.paheng.com
 http://103.59.101.157
 http://changji.w91.cn
+http://www.myzsu.com
 http://www.bjdsw.cn
 https://renrenoffice.com
 http://xwdh.net
@@ -3364,6 +3365,7 @@ http://zongyi.oyuw.com
 https://slashtw.space
 http://baiyin.aizse.com
 https://www.xyyao.com
+http://www.hljubbs.com
 http://bbs.kinetic.com.cn
 http://daxinganling.aizse.com
 http://bbs.xdsmoli.com
