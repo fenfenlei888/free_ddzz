@@ -1643,6 +1643,7 @@ http://text.irtec.cn:1234
 http://7wyx.cn
 http://bbs.rocaircraft.com
 http://www.sdwsxy.cn
+https://fans.solidworks.com.cn
 http://112.124.42.43:8081
 http://bbs.kazi.ai
 http://www.aifangjie.cn
@@ -1721,6 +1722,7 @@ http://lz.184409.com
 http://yuxiangshequ.com
 https://122.195.200.218
 http://115.159.114.85
+http://www.zsrx.com.cn
 http://homefpd.com
 http://taizhou.184409.com
 https://www.beicity.com
