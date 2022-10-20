@@ -1,6 +1,3 @@
-http://zx.180724.com
-http://webdisk.sms.uttbbs.com
-http://sx.oa57.net
 http://bbs.gdzijin.com
 http://101.35.175.119:88
 http://sports.uttbbs.com
@@ -3383,6 +3380,7 @@ https://lgbbs.cn
 http://www.yueyingzy.com
 http://www.8liuxing.com
 https://shop.wanxueyuan.cn
+http://webdisk.sms.uttbbs.com
 http://wz.rhygc.com
 http://hzvtc.xiasha.cn
 http://godox.ltd
@@ -4479,6 +4477,7 @@ http://www.yjqun.com
 http://www.paheng.com
 http://021tz.cc
 http://www.bjdsw.cn
+http://www.bianpinqishijie.com
 https://www.yuelan8.com
 http://xwdh.net
 http://tongling.180724.com
@@ -5196,6 +5195,8 @@ http://mzsf.653200.net
 http://bbs.takecloud.cn
 http://bifeigantang.top
 http://www.slfhcy.com
+http://sx.oa57.net
+http://zx.180724.com
 http://www.ivfan.com
 http://chizhou.180724.com
 http://guangzhou2026.net
