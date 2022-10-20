@@ -2814,6 +2814,7 @@ http://bbs.chinaswim.com
 http://news.uttbbs.com
 http://www.sctz66.com
 https://zulin.rv28.com
+http://47.240.19.158
 http://www.fangxian.org
 https://bbs.mingbaiyun.com
 http://198.12.231.14
@@ -3777,6 +3778,7 @@ http://wh.mamacn.com
 http://www.ikda.cn
 https://www.zy234.com
 http://op.bleachcn.net
+http://bbs.srfcworld.com
 http://luokero.cn
 http://bbs.boyiqd.com
 http://hz.184409.com
