@@ -548,6 +548,7 @@ http://www.pianopaper.net
 http://forum.go2tutor.com
 https://bbs.xiaoyuer.com
 http://wz.180724.com
+http://121.41.226.219
 http://www.pecc.cn
 http://proxy.wxdaiyan.cn
 http://information.oecr.com
@@ -731,6 +732,7 @@ http://www.hdchd.cc
 http://bbs.bikehome.net
 https://www.ez01.com
 http://www.yizqi.com
+https://wx.0523xh.com
 http://www.luanboshiysclub.com
 http://www.rhino3d.us
 http://www.gzsangna2.com
@@ -2344,6 +2346,7 @@ http://116.255.199.61
 http://nanchong.184409.com
 http://www.zdyxw.cn
 http://foshan.qcyx.org
+http://wx.0523xh.com
 http://kezhilibin.net
 https://bbs.kingbase.com.cn
 http://t.xiasha.cn
