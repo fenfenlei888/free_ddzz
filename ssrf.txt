@@ -791,6 +791,7 @@ http://103.30.40.31
 http://bbs.xunpiaowang.com
 http://www.ddsfw.cn
 http://bbs.cnecport.com
+https://bbs.elecfans.com
 https://121.196.191.46
 http://www.fuwen1.com
 http://101.132.72.239
@@ -2109,6 +2110,7 @@ http://www.cta613.org
 http://xinyuelt9.com
 http://bbs.rdzjw.com
 http://pt.184409.com
+https://home.elecfans.com
 http://47.93.24.59
 http://sctzwz.com
 http://www.1024bbs.cf
@@ -2973,6 +2975,7 @@ http://pzyxs.com.cn
 http://132.232.176.167
 http://www.61bbw.com
 http://n023.com
+http://148.70.126.248
 https://www.huaigirls.com
 http://larkmate.com
 http://huizhou.184409.com
