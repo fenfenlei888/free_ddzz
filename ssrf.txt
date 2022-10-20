@@ -1,6 +1,3 @@
-http://www.ufocns.com
-https://bbs.superic.com
-https://service.iitt.cc
 http://117.50.173.238:88
 http://boluo.180724.com
 http://www.tiexuejunyan.com
@@ -3541,6 +3538,7 @@ http://www.myhdly.com
 http://4x4.sh.cn
 http://123.57.5.193:8080
 http://wx8591.vshangtong.com
+https://bbs.superic.com
 http://ha.180724.com
 http://zz.184409.com
 http://www.vincityhomes.com
@@ -4025,6 +4023,7 @@ http://www.myh360.com
 http://1tjy.com
 https://bbs.crossincode.com
 http://huaibei.180724.com
+http://www.sifa.org.cn
 http://bbs.srfc.com.cn
 https://www.hkturtle.org
 https://www.sousouyo.com
@@ -4254,6 +4253,7 @@ http://www.zhujiwanjia.com
 https://bbs.o2jam.cc
 http://bbs.0576qq.com
 http://www.saojie.org
+http://www.wx-robot.com
 https://lib.gkzj.net
 https://5i8.us
 http://114.107.245.122:9080
@@ -4682,6 +4682,8 @@ http://xm.180724.com
 http://hlbe.184409.com
 https://mbabdw.com
 http://bbs.pymoli.com
+http://www.ufocns.com
+https://service.iitt.cc
 http://99huitu.com
 http://zhangqiu.184409.com
 http://haidong.184409.com
