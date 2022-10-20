@@ -1,5 +1,3 @@
-http://www.youook.com
-https://www.cttoutiao.com
 http://bbs.dkjc.net
 http://www.xg8.live
 http://www.cta613.org
@@ -3390,6 +3388,7 @@ https://webdisk.news.163dz.com
 http://bbs.inknet.cn
 http://bbs.teachersbbs.com
 http://www.stubbs.cn
+https://www.cttoutiao.com
 http://www.gxcfwy.com
 http://canadalondonchinese.com
 http://www.zxmrbbs.com
@@ -5164,6 +5163,7 @@ http://www.sxydedu.cn
 http://hsmzy.com
 http://114.116.2.138:8090
 http://121.40.214.251:8080
+http://www.youook.com
 https://boesea.com
 http://panzhihua.180724.com
 http://nq.180724.com
