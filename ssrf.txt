@@ -1,11 +1,3 @@
-http://www.gongkew.com:81
-http://47.92.192.118:999
-http://www.zhaohushi.com
-http://www.uccool.com
-http://www.bjsyouth.cn
-http://120.25.148.206:1080
-http://bbs.fxku.cn
-https://ozhaha.com
 http://124.156.183.91
 http://39.107.116.45
 http://112.124.10.157
@@ -3973,6 +3965,14 @@ http://bbs.huaibei123.cn
 http://www.icanon.asia
 http://47.74.178.33
 http://www.global-movie.net
+http://www.zhaohushi.com
+http://47.92.192.118:999
+http://www.gongkew.com:81
+http://www.bjsyouth.cn
+http://www.uccool.com
+https://ozhaha.com
+http://bbs.fxku.cn
+http://120.25.148.206:1080
 http://bbs.c3.wuyou.net
 http://htmlarticle25www.nakuz.com
 http://bbs.daxianju.cn
@@ -3999,8 +3999,10 @@ http://bbs.reasonclub.com
 http://www.shirenwang.com
 http://mswiki.win
 http://bbs.niubt.cn
+http://www.haoyoushi.cn
 http://www.zgyjr.com
 http://bbs.caup.net
+http://www.yunyingtong.org
 http://kjsq.net
 https://bbs.07340.com
 https://community.joshvm.com
@@ -4227,6 +4229,7 @@ https://www.hnzxgs.com.cn
 https://www.boxueop.com
 http://bbs.fhsx.net.cn
 http://abbc.eu.org:7777
+http://www.06edu.net
 https://dz.zhijianyun.net
 http://www.xng18.xyz
 http://5ihome.net
