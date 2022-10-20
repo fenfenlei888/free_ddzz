@@ -1,4 +1,3 @@
-http://www.lipar.com.tw
 http://www.qyage.net
 http://sctz77.com
 http://bbs.zonzu.cn
@@ -4668,6 +4667,7 @@ http://bbs.97wanwan.com
 http://pe.180724.com
 http://zh.180724.com
 http://nxs053.cc
+http://www.lipar.com.tw
 http://lingshui.180724.com
 http://99huitu.com
 http://zhangqiu.184409.com
@@ -4935,6 +4935,7 @@ https://www.xyyhww.com
 http://jinggzj.com:8080
 http://www.qingquxuexiao.com
 http://www.gongkaobl.com
+http://benmao8.com
 http://fuzhou.180724.com
 http://47.94.175.17:62078
 https://yt520.cc
