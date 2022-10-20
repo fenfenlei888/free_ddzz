@@ -171,6 +171,7 @@ http://lwgod.org
 http://shart.cn
 http://www.bearingbbs.com
 http://www.theold.net
+http://www.dmsnx.com
 http://120.25.206.20:88
 https://www.wszgw.net
 http://so.ppfeng.com
@@ -208,6 +209,7 @@ http://chizhou.w91.cn
 http://sy.180724.com
 https://7177.cn
 http://www.90houqq.com
+http://lkdie.com
 http://edu.jychina.com
 http://11sgz.com
 http://www.yalianedu.net
@@ -457,6 +459,7 @@ https://www.tzbbs.com.cn
 http://xiangshan.184409.com
 https://autodiscover.es.gkzj.net
 http://bbs.bingchengwang.com
+http://home.coatu.com
 http://www.newhuashang.com
 http://101.43.34.8
 http://blog.leslie-cheung.com
@@ -1406,6 +1409,7 @@ http://www.cfan.cc
 http://www.imeiai.com
 http://122.114.131.71:7777
 http://www.kcb2b.cn
+http://bbs.coatu.com
 http://autodiscover.support.uttbbs.com
 http://www.zzzzbbbb.com
 http://60.248.140.2:8081
@@ -1589,6 +1593,7 @@ http://bbs.qianfanyun.com
 http://hf.mamacn.com
 https://www.hanwowo.com
 http://112.74.44.170
+http://bbs.qinxue.com
 http://mypanku.com
 http://www.hmqg.com
 http://www.xinmitong.cn
@@ -3715,6 +3720,7 @@ http://bt.180724.com
 http://121.88.250.85
 http://www.songyuan163.com
 http://lovechul.com
+http://111.231.132.190
 http://118.190.176.134
 http://job.ztrxw.cn
 http://116.255.230.131:8084
@@ -3806,6 +3812,7 @@ http://www.wptcw.com
 http://luoya.shawsen.com
 https://isp-caledon.cit.gkzj.net
 http://opsbbs.whaley.cn
+http://www.lkdie.com
 http://mszb.ckuyun.com
 http://www.pzzj.net
 http://chaoyang.w91.cn
