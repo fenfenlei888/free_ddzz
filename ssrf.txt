@@ -225,6 +225,7 @@ http://market.wxdaiyan.cn
 https://bbs.one-long.com
 http://www.giffuli.com
 http://wo.tkway.com
+http://123.57.84.98
 http://106.225.140.6:8081
 http://www.yimenonline.com
 http://dali.184409.com
@@ -653,6 +654,7 @@ http://112.74.88.149
 http://yk.180724.com
 http://bbs.zangshinian.com
 http://8888888.ltd
+http://182.92.105.211
 http://www.manmanqi.com
 http://bbs.8yx.com
 http://bbs.cjrj.org
@@ -808,6 +810,7 @@ http://411au.com.cn
 http://bbs.zhileng.com
 http://zhuzhou.184409.com
 http://202.91.247.138
+http://bbs.fenxiaobao.xin
 https://www.cgziyuanhai.com
 http://go141.net
 http://www.yxssy.com
@@ -1065,6 +1068,7 @@ http://jiankang.ytbbs.com
 https://bbs.aladedalu.com
 http://bbs.swiper.com.cn
 http://www.h596.com
+http://61.174.248.14
 http://www.linsivvi.com
 http://diqing.aizse.com
 http://www.chinahost.org
@@ -1165,6 +1169,7 @@ http://bbs.17dra.com
 https://bbs.skyfleet.cc
 http://en.dataguru.cn
 https://used.rv28.com
+http://149.248.17.166
 http://www.taotu99.net
 http://www.xiangxiangmedia.com
 http://files.wxdaiyan.cn
@@ -1270,6 +1275,7 @@ https://77scw.com
 http://121.42.13.206
 http://bbs.chinahrd.net
 http://203.33.224.178:8081
+http://219.136.240.11
 http://www.x505.cn
 http://discuz.myesball.net
 http://www.bzswbbs.com
@@ -1791,6 +1797,7 @@ http://bbs.ltesting.net
 http://www.xinyuelt7.com
 http://58.213.78.75:9000
 http://bbs.5281.net
+http://101.132.188.252
 http://jm.180724.com
 http://hhh.bgz6.com
 http://www.xylt3.com
@@ -2357,6 +2364,7 @@ http://58.221.146.210:8090
 http://winqu.com
 http://www.862686.com
 http://www.2math.cn
+http://209.222.98.180
 http://1.83.154.140:8093
 https://www.faceboer.org
 http://43.154.220.234:8090
@@ -2366,6 +2374,7 @@ http://www.qmxyc.com
 http://cc.wxdaiyan.cn
 http://xiangqin.azheteng.cn
 http://www.waterant.cn
+http://124.223.214.143
 http://www.0756.name
 http://www.xzly.com
 http://iyunle.cn
@@ -2480,9 +2489,11 @@ http://www.songtaox.com
 http://olh557.cc
 http://www.jiadianmofang.com
 https://bbs.luzhou28.com
+http://47.57.244.205
 http://106.75.247.44:8089
 http://u.ytbbs.com
 http://210.56.60.100
+http://120.133.46.121
 http://www.huangdineijing.com
 http://bbs.shiqi.xin
 http://qihuokaihu.cdfco.com.cn
@@ -2490,6 +2501,7 @@ http://www.dtganji.com
 http://bbs.cuwww.com
 http://scgjp.com.cn
 http://www.oneline.cc
+http://47.96.177.77
 http://160.238.87.187
 http://www.phmy.net
 https://pcpc.club
@@ -2854,6 +2866,7 @@ http://www.storyren.com
 http://106.52.28.22:83
 http://www.listenyuan.com
 http://www.lingdian.org.cn
+http://39.107.78.109
 https://x505.cn
 http://43.136.176.17
 http://www.qixingquan.com
