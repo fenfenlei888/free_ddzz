@@ -1,5 +1,3 @@
-http://sh.exampx.com
-http://bbs.sunsili.com
 http://bbs.hifidiy.net
 http://139.129.28.37
 http://bbs.tianmingxy.com
@@ -4048,6 +4046,7 @@ http://www.lebvo.com
 http://bbs.daxianju.cn
 http://www.zhi-pu.com
 http://www.lgzcw.com
+http://www.cpa1932.com
 http://47.97.202.77
 http://www.shirenwang.com
 http://bbs.niubt.cn
@@ -4117,6 +4116,8 @@ http://qingyuan.184409.com
 http://bbs.mxxsyh.com
 http://meigongyun.com
 http://www.idcser.com
+http://bbs.sunsili.com
+http://sh.exampx.com
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
