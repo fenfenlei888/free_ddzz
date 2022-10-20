@@ -1,5 +1,3 @@
-http://bbs.caishen66.cn
-http://nb.mamacn.com
 http://bbs.i52088.com
 http://47.94.168.215
 http://qun.eweiqi.com
@@ -3932,6 +3930,8 @@ http://www.qbyan27.com
 https://www.ozhaha.com
 http://115.29.188.128:81
 https://s.epwk.com
+http://nb.mamacn.com
+http://bbs.caishen66.cn
 http://bbs.daxianju.cn
 https://dgwww.com
 http://www.zhi-pu.com
@@ -4012,6 +4012,7 @@ https://www.mabinogi.club
 http://wny.i234.me
 http://bbs.yeya-jia.com
 http://gonghedd.com
+http://18.139.235.208
 http://119.29.153.216:81
 https://wzbj.beizongren.cn
 http://sytu.23du.com
