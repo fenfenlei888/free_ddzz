@@ -162,6 +162,7 @@ http://lwgod.org
 http://shart.cn
 http://www.bearingbbs.com
 http://www.theold.net
+http://120.25.206.20:88
 https://www.wszgw.net
 http://so.ppfeng.com
 http://bbs.56785678.net
@@ -1280,6 +1281,7 @@ http://rudong.180724.com
 http://imfec.23du.com
 http://119.57.134.111:81
 http://bbs.sgconline.com.cn
+http://bbs.ykt1.cn
 http://news.oecr.com
 http://www.premama.com.cn
 http://123.57.160.225
@@ -2801,6 +2803,7 @@ http://www.sdpea.com
 http://188.lmcpw.net
 https://forum.simwe.com
 http://58.221.146.210:8090
+http://bbs.hjsg.zhanshunkeji.com
 http://winqu.com
 http://www.862686.com
 http://www.2math.cn
