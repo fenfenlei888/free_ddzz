@@ -264,6 +264,7 @@ http://baoding.aizse.com
 http://115.28.157.149
 http://kel.184409.com
 http://bbs.abntest.com
+http://47.52.224.170
 http://218.94.144.26:8080
 http://39.108.219.42
 http://www.idicbc.com
@@ -713,6 +714,7 @@ http://hg.180724.com
 http://czn.com.cn
 http://t.diandee.com
 https://www.ibmbjb.com
+http://221.6.48.113:88
 http://www.adyouxi.com
 http://love.ytbbs.com
 http://www.qshapan.com
@@ -1225,6 +1227,7 @@ http://www.1868888.com
 https://bbs.cnction.com
 https://www.9xng.xyz
 http://118.31.165.148
+http://www.941cz.com
 http://www.wendan.com.cn
 http://chunyealley.com.tw
 https://www.zippobymazziinchina.com
@@ -1617,6 +1620,7 @@ http://www.60shequ.cn
 https://www.zjimo.com
 http://www.shengzhe.net
 http://datong.w91.cn
+http://bbs.atguigu.com
 http://wj.cmjnu.com.cn
 http://boertala.w91.cn
 http://64.32.12.99:443
@@ -1638,6 +1642,7 @@ https://www.583118.com
 http://www.zjgay.net
 http://cd.184409.com
 http://148.70.126.248:8081
+http://www.dszw.net
 http://www.tangnianw.com
 http://www.nonglinshuyuan.com
 http://hdkaraokesong.com
@@ -2171,6 +2176,7 @@ http://118.178.143.22
 https://www.xiaochimiji.com
 http://120.25.171.194
 https://konkurs.gkzj.net
+https://znzz.work
 http://www.fsjxjg.com
 http://blog.yuxiangshequ.com
 http://bayinguoleng.aizse.com
@@ -2788,6 +2794,7 @@ http://108.170.5.98:8080
 https://bbs.guitarsquare.com
 http://www.hntz02.com
 http://mg.184409.com
+http://znzz.work
 https://qiaoxiaojun.vip
 http://bbs.aalborgportland.com.cn
 http://121.127.238.161
