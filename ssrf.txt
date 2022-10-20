@@ -1,4 +1,3 @@
-http://www.smdsw.cn
 http://www.extranet.uttbbs.com
 http://rxshenqi.net
 http://www.jnuedf.org
@@ -2936,6 +2935,7 @@ http://host.dataguru.cn
 http://www.xinyuelt2.com
 http://www.jyxdsxh.cn
 http://deyang.aizse.com
+http://dztp.yidouwang.com
 http://www.gosest.com
 http://150.158.152.164
 http://218.244.147.126
@@ -4862,6 +4862,7 @@ http://chuxiong.w91.cn
 http://www.100sj.net
 http://impk113.com
 http://118.24.141.115:8000
+http://www.smdsw.cn
 http://www.zbhw.com
 http://www.bjsax.com
 https://365xiaochi.net
