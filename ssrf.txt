@@ -1,6 +1,3 @@
-http://zh.180724.com
-http://bbs.5ucms.com
-http://nxs053.cc
 http://www.lipar.com.tw
 http://www.qyage.net
 http://sctz77.com
@@ -3555,6 +3552,7 @@ http://diqing.aizse.com
 http://www.linsivvi.com
 http://148.70.21.123
 http://116.255.166.128
+http://bbs.5ucms.com
 http://k654321.com
 http://www.shirenwang.com
 http://xx.180724.com
@@ -3733,6 +3731,7 @@ http://www.baishabowuguan.com
 http://www.shibianshi.com
 http://tongcheng.180724.com
 https://jxfuli.cf
+http://www.freeinfo.com.my
 http://jinzhou.180724.com
 http://bozhou.180724.com
 http://www.zhonghuaying.com
@@ -4667,6 +4666,8 @@ http://221.6.48.116
 http://www.chinahost.org
 http://bbs.97wanwan.com
 http://pe.180724.com
+http://zh.180724.com
+http://nxs053.cc
 http://lingshui.180724.com
 http://99huitu.com
 http://zhangqiu.184409.com
@@ -4865,6 +4866,7 @@ http://yuepy5.com
 http://www.kaitaobaodian.com
 http://zhuji.180724.com
 http://community.joshvm.com
+http://www.sxlfjr.com
 https://yongyifamen.com
 https://stereosound.com.cn
 http://www.jjjbbs.cn
