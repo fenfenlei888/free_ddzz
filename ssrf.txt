@@ -1247,6 +1247,7 @@ http://47.106.13.214
 http://45.136.150.15
 http://wx.vshangtong.com
 http://bbs.7to.cn
+http://bbs.d-n.cc
 http://www.uerchina.com
 http://www.pxenter.com
 https://www.paijibbs.com
