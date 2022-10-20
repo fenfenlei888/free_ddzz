@@ -1,5 +1,3 @@
-http://221.6.48.113:88
-http://www.adyouxi.com
 http://love.ytbbs.com
 http://www.qshapan.com
 http://bangbu.aizse.com
@@ -3719,6 +3717,7 @@ http://liuzhou.180724.com
 http://changdu.aizse.com
 http://www.keaimao.com.cn
 https://www.ibmbjb.com
+http://www.adyouxi.com
 http://tc.rlwsh.com
 http://www.xng17.xyz
 http://zhuji.184409.com
@@ -3821,6 +3820,7 @@ https://shop.wanxueyuan.cn
 http://hzvtc.xiasha.cn
 http://www.mangoscn.com
 https://www.longjingshuochang.com
+http://chengqu.com
 http://chessocean.com
 http://www.circusannarbor.com
 http://comcnncontactwww.nakuz.com
@@ -4416,6 +4416,7 @@ http://www.xunliaoyou.cn
 http://hg.180724.com
 http://t.diandee.com
 http://czn.com.cn
+http://221.6.48.113:88
 http://www.hrbpet.org
 http://yj.184409.com
 http://sdu.myubbs.com
