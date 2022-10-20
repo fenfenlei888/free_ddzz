@@ -1,7 +1,3 @@
-http://paynews.net
-http://122.112.227.136
-http://www.0760.biz
-http://www.cantonese.asia
 http://www.intehn.com
 http://108.170.5.102:8080
 http://www.dxhb.cc
@@ -3381,6 +3377,7 @@ http://www.jlpzj.net
 http://wz.rhygc.com
 http://www.gssjcjy.com
 http://www.gzsfkj.com
+http://paynews.net
 http://hzvtc.xiasha.cn
 http://godox.ltd
 http://www.mangoscn.com
@@ -3505,6 +3502,7 @@ https://sixiantongxiang.com
 http://www.baishabowuguan.com
 http://www.hzyiwo.com
 http://jiafawang.com.cn
+http://tzhcyy.cn
 http://www.shibianshi.com
 http://tongcheng.180724.com
 https://jxfuli.cf
@@ -3516,6 +3514,7 @@ http://www.daheng28.com
 http://www.52cae.cn
 http://wjq.180724.com
 http://www.shuqu.net
+http://miaos.cn
 http://jx.180724.com
 http://www.bocailou01.com
 https://dz.xiapuapp.com
@@ -4135,6 +4134,7 @@ http://www.saojie.org
 http://www.wx-robot.com
 https://lib.gkzj.net
 https://5i8.us
+http://www.tzhcyy.cn
 http://114.107.245.122:9080
 http://www.xs8.live
 http://bbs.kuaixiaohulian.com
@@ -5202,6 +5202,9 @@ http://sx.oa57.net
 http://zx.180724.com
 http://101.35.175.119:88
 http://xn.180724.com
+http://122.112.227.136
+http://www.0760.biz
+http://www.cantonese.asia
 http://www.ivfan.com
 http://chizhou.180724.com
 http://guangzhou2026.net
@@ -5315,6 +5318,7 @@ http://tuangou.fulingws.com
 http://hanzhong.184409.com
 http://dz.xiapuapp.com
 http://www.huateair.com:89
+http://www.miaos.cn
 http://tj.ckuyun.com
 http://ksjiyi.com
 http://scu.myubbs.com
