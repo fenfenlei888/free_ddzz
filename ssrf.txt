@@ -991,6 +991,7 @@ http://go141.net
 http://www.yxssy.com
 http://101.42.177.34
 http://www.goonecity.com
+http://47.91.224.153
 http://changdu.184409.com
 http://www.davinci-cg.com
 http://bbs.xcsalon.com
@@ -1167,6 +1168,7 @@ https://www.yuelan8.com
 http://www.kutlan.cn
 http://tongling.180724.com
 http://bbs.jimistore.com
+https://www.biz-abroad.com
 http://rexuesq.com
 http://47.106.13.214
 http://45.136.150.15
@@ -1652,6 +1654,7 @@ http://forum.iyingwu.net
 http://47.92.221.168
 https://www.178448.com
 http://bj.180724.com
+http://bbs.iapply.cn
 http://www.mvp007.com
 http://www.mmyubb.com
 http://47.101.197.44
@@ -2025,6 +2028,7 @@ http://hntz01.com
 http://opticaldesign.oecr.com
 http://www.lakwdian.com
 http://www.3gmir3.com
+http://www.hytangbao.com
 http://nj.184409.com
 http://bbs.hongyawang.com
 http://www.28cun.com
