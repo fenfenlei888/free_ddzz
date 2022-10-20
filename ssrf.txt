@@ -317,6 +317,7 @@ https://www.2haoshu.com
 http://bbs.bd-gti.com
 http://www.west.club
 http://140.143.187.135
+http://106.15.61.58
 http://47.104.99.49:82
 https://www.11sgz.com
 http://bbs.cskin.net
@@ -1967,6 +1968,7 @@ http://bbs.87870.com
 http://xxke.cn
 https://hgpoo.com
 https://bbs.dawansheng.com
+http://120.79.255.214
 https://bbs.weijj.com
 http://www.jhsyw.com
 https://forum.ssk.com.cn
