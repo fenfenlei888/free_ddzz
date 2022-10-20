@@ -2007,6 +2007,7 @@ http://bbs.2r3r.com
 http://47.75.87.77
 http://www.combat2000.cn
 http://bbs.uker.net
+http://www.zhenzhubay.com
 https://v.icax.org
 http://www.boesea.com
 http://www.lianyaowang.com
@@ -2040,6 +2041,7 @@ http://www.mrihome.com
 http://www.luotianyi.org
 http://108.170.10.237
 http://735055.com
+http://art.zhenzhubay.com
 http://jm.mamacn.com
 http://103.149.92.198
 http://108.170.5.77
@@ -2537,6 +2539,7 @@ http://123.57.234.132
 https://www.gupiao168.com
 http://ppfeng.com
 https://development.gkzj.net
+http://www.zzwav.com
 http://tj.180724.com
 http://116.255.199.61
 http://nanchong.184409.com
@@ -2598,6 +2601,7 @@ http://www.xushi.net
 http://shishi.180724.com
 http://xiaoaikj.com
 http://www.horphoto.com
+http://bbs.dhyana.com.cn
 http://zhangbei.180724.com
 http://112.74.88.149:8080
 https://www.zp05.com
@@ -2964,6 +2968,7 @@ http://wjsyjxh.com
 http://bbs.jiuping.cn
 http://120.25.78.109
 http://guangzhou.hmsem.com
+http://zzwave.com
 http://www.rexuesq.com
 http://baicheng.w91.cn
 https://www.tcelue.ooo
@@ -3640,6 +3645,7 @@ https://www.sxbst.net.cn
 http://scn.csegn.com
 http://www.zjman.cn
 http://www.iyingwu.net
+http://www.zzwave.com
 https://54.185.218.198
 http://kel.180724.com
 http://www.my0557.cn
@@ -3691,6 +3697,7 @@ https://x505.cn
 http://43.136.176.17
 http://vip.weistock.com:8081
 https://bbs.xiaot.com
+http://zhenzhubay.com
 http://www.qixingquan.com
 http://wd.znds.com
 http://103.222.189.137:89
