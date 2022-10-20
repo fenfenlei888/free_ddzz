@@ -1071,6 +1071,7 @@ http://www.tiexuejunyan.com
 http://120.198.76.2:82
 https://wd.dangbei.com
 http://www.cfan.cc
+http://122.114.131.71:7777
 http://www.kcb2b.cn
 http://autodiscover.support.uttbbs.com
 http://www.zzzzbbbb.com
