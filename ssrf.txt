@@ -42,6 +42,7 @@ http://www.hdbbs.net
 https://www.alex.gkzj.net
 http://bbs.lama001.com
 http://124.221.113.162
+http://ny.saojie.org
 http://www.okxy28.com
 http://haian.184409.com
 http://www.service.uttbbs.com
@@ -576,6 +577,7 @@ http://hntz03.com
 http://bbs.xiushui.net
 https://bbs.o2jam.cc
 http://www.zhujiwanjia.com
+http://www.saojie.org
 http://www.0750yl.com
 http://43.138.147.221
 https://lib.gkzj.net
@@ -767,6 +769,7 @@ http://sjz.184409.com
 http://www.520free.com
 http://solar.oecr.com
 http://www.09hw.icu
+http://www.dayok.net
 http://bbs.phonegap100.com
 http://ganzi.180724.com
 http://linzhi.180724.com
@@ -860,6 +863,7 @@ https://www.07133.cn
 https://www.hzyw6.com
 http://www.klsh.com
 http://www.xy28home.com
+http://www.ejia7.net
 http://film.dataguru.cn
 http://211.144.149.153
 https://autoconfig.staging.gkzj.net
@@ -2889,6 +2893,7 @@ http://42.121.15.9:8003
 http://home.wangjing.cn
 http://www.xzqc.net
 http://bbs.cailiaoren.com
+http://www.ny.saojie.org
 http://www.xisn5.net
 https://bbs.wstx.com
 http://49.234.183.121
