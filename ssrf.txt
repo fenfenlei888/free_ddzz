@@ -1,8 +1,3 @@
-http://bbs.qcfdlt.com
-https://mgm1.diy.cc
-http://bbs.360wzgj.com
-http://www.dimai3d.com
-https://www.21micro-grid.com
 http://test.hmphanmi.com.cn
 http://bbs.maxthon.cn
 http://www.lama001.com
@@ -2408,6 +2403,7 @@ http://106.225.140.6:8081
 http://123.57.84.98
 http://linyi.180724.com
 http://bbs.play800.cn
+http://ikeynote.cn
 http://bbs.anluw.com
 http://www.cncdiy.cn
 http://www.cuplclub.com
@@ -3045,6 +3041,7 @@ https://renrenoffice.com
 http://www.kutlan.cn
 http://bbs.jimistore.com
 http://www.exofanclub.com
+https://zxymk.com
 http://rexuesq.com
 https://www.cqxmd.cn
 http://bbs.7to.cn
@@ -3447,6 +3444,9 @@ https://dnaxcattalk.dnaxcat.com.tw
 http://www.awanzhou.com
 http://www.ffans.vip
 http://43.226.47.17
+https://mgm1.diy.cc
+http://www.dimai3d.com
+https://www.21micro-grid.com
 http://3.88.211.117
 http://nchxys.cn
 http://jn.180724.com
@@ -3482,6 +3482,7 @@ http://dafeng.184409.com
 http://www.kmrlt.com
 http://www.rosevision.net
 http://df.184409.com
+http://www.ikeynote.cn
 http://yulin.184409.com
 http://hlbe.180724.com
 http://bbsy.gaoxiaobbs.cn
@@ -3579,6 +3580,7 @@ http://bbs.lngkw.com
 http://www.zgywcm.com
 https://wz58.site
 http://jiafen.oa57.net
+https://www.zxymk.com
 http://qxn.180724.com
 http://q057707.com
 https://www.rmu7.club
@@ -4923,6 +4925,8 @@ https://www.samngamhos.go.th
 https://www.soonidea.cn
 http://tianshui.180724.com
 http://www.huaxingbbs.com
+http://bbs.qcfdlt.com
+http://bbs.360wzgj.com
 http://imcema.org
 http://www.23myw.com
 http://cs.oa57.net
