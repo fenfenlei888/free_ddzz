@@ -1,5 +1,3 @@
-https://fans.solidworks.com.cn
-http://112.124.42.43:8081
 http://bbs.kazi.ai
 http://www.aifangjie.cn
 http://115.28.31.233
@@ -3469,6 +3467,8 @@ http://7wyx.cn
 http://text.irtec.cn:1234
 http://bbs.rocaircraft.com
 http://www.dianhunbbs.com
+http://112.124.42.43:8081
+https://fans.solidworks.com.cn
 http://www.xun321.com
 http://taixing.180724.com
 http://www.029lintong.com
@@ -4742,6 +4742,7 @@ http://davinci-cg.com
 http://www.hsyjk1.com
 http://www.bbstui.com
 https://www.yjxsoft.com
+https://bbs.ipa001.com
 http://www.sglpw.cn
 http://cs.184409.com
 http://47.105.94.241
