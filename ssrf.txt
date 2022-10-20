@@ -1,5 +1,3 @@
-http://149.248.17.166
-http://www.taotu99.net
 http://www.xiangxiangmedia.com
 http://files.wxdaiyan.cn
 https://www.100miaomu.cn
@@ -3515,6 +3513,7 @@ http://bbs.370k.com
 http://www.chijiuhui.net
 http://47.111.232.50:1234
 http://en.dataguru.cn
+http://149.248.17.166
 http://mswiki.win
 http://jq.180724.com
 https://sts4.xyz
@@ -4726,6 +4725,7 @@ http://huidong.180724.com
 https://bbs.skyfleet.cc
 http://bbs.17dra.com
 https://used.rv28.com
+http://www.taotu99.net
 http://qingyuan.180724.com
 http://zq.180724.com
 http://weihai.180724.com
@@ -4762,6 +4762,7 @@ https://365xiaochi.net
 https://www.sts4.xyz
 https://www.sixiantongxiang.com
 http://180.76.184.151
+http://www.aeeze.com
 http://thx.shuqu.net
 http://zg.184409.com
 http://rosevision.net
