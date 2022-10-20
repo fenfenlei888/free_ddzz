@@ -841,6 +841,7 @@ http://bbs.cnecport.com
 https://bbs.elecfans.com
 https://121.196.191.46
 http://www.fuwen1.com
+http://150.109.110.93
 http://124.222.199.14
 http://101.132.72.239
 http://112.74.88.149
@@ -3220,6 +3221,7 @@ http://120.77.96.186
 http://bbs.doit.am
 http://www.175999.com
 http://portfolio.wxdaiyan.cn
+http://45.79.173.227
 http://bbs.ctainfo.cn
 http://www.xy28zj.com
 http://www.songtaox.com
