@@ -1,5 +1,3 @@
-http://52mti.com:8888
-https://www.soonidea.cn
 http://tianshui.180724.com
 http://www.awanzhou.com
 https://dnaxcattalk.dnaxcat.com.tw
@@ -3343,6 +3341,7 @@ http://www.stepoo.com
 http://xn--7hvu6lcwr.com
 http://118.31.246.86
 http://anshun.180724.com
+http://www.bbs33.cn
 http://www.xqd163.com
 http://bbs.kaikuomir.com
 http://beelark.com
@@ -4919,7 +4918,9 @@ http://hainanu.youook.com
 http://www.wuxi0510.com
 http://www.shgm.net
 http://zn.kuaiyinmao.com
+http://52mti.com:8888
 https://www.samngamhos.go.th
+https://www.soonidea.cn
 http://www.huaxingbbs.com
 http://imcema.org
 http://www.23myw.com
@@ -5200,6 +5201,7 @@ http://benmao8.com
 http://fuzhou.180724.com
 http://47.94.175.17:62078
 https://yt520.cc
+http://bbs33.cn
 http://taizhou.180724.com
 https://demo.zimucms.com
 https://tmtrl.com.tw:8443
