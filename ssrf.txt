@@ -1,6 +1,3 @@
-http://121.54.172.224
-http://101.35.175.119
-http://www.openloongson.cn
 http://km.mamacn.com
 http://194520.com
 http://haining.184409.com
@@ -3403,6 +3400,7 @@ http://www.pc1999.com
 http://redchinacn.net
 http://www.treehousesub.com
 http://58.56.76.173
+http://121.54.172.224
 http://rhxc-pro.com
 http://www.chntrs.com
 http://mas.180724.com
@@ -3604,6 +3602,7 @@ http://taishan.184409.com
 http://bbs.chinacitywater.org
 http://www.aurice.com
 http://yj.180724.com
+http://mdiirzh.fulingws.com
 https://bbs.zhuzhou.com
 http://www.zhangshangfuzhou.com
 http://canpinhui.net
@@ -5097,6 +5096,8 @@ http://www.bikesky.com
 http://security.magicworks.net
 https://swhswl.com
 http://borexf.com:34567
+http://www.openloongson.cn
+http://101.35.175.119
 http://boesea.com
 https://sts10.xyz
 http://www.yunxi.net
