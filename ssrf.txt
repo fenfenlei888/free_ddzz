@@ -297,6 +297,7 @@ http://39.108.64.77
 https://bbs.jcpeixun.com
 http://www.baicha8.cn
 http://www.411au.com.cn
+http://bbs.188yxw.com
 http://baoding.aizse.com
 http://115.28.157.149
 http://kel.184409.com
@@ -3011,6 +3012,7 @@ http://www.sctz03.com
 http://121.40.42.126
 http://www.sz1069.net
 http://hntz22.com
+http://bbs.dnfzhengfuzhe.com
 http://bbs.shumeipaiba.com
 https://bbs.0771ao.com
 http://dingxi.aizse.com
@@ -3341,6 +3343,7 @@ http://zongyi.oyuw.com
 https://slashtw.space
 http://baiyin.aizse.com
 https://www.xyyao.com
+http://bbs.kinetic.com.cn
 http://daxinganling.aizse.com
 http://bbs.xdsmoli.com
 http://bbs.lazzb.cn
@@ -3349,6 +3352,7 @@ http://s.erji.hk
 http://www.cwtmuseum.com
 http://bbs.newslist.com.cn
 http://bbs.enlern.com
+http://45.136.150.16
 http://home.lytmh.com.cn
 https://mengchenghui.com
 http://school.wxdaiyan.cn
@@ -3686,6 +3690,7 @@ http://zjwchc.xiasha.cn
 https://www.jiahejun.com
 https://www.yxb365.com
 http://www.openzyfd.com
+http://onlineforum.axiomtek.com.tw:8081
 http://www.nztd7.com
 http://santafe.tw
 http://flash.dataguru.cn
