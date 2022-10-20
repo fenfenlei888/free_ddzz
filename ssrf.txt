@@ -1,5 +1,6 @@
 https://syyyd.com
 http://139.196.156.10
+http://muyek.com
 http://184.95.51.83
 http://www.xahr.org
 http://bbs.visionzone.com.cn
@@ -146,6 +147,7 @@ http://bbs.yunyingz.com
 http://fagui.nongquan.com
 http://www.caiyuanzi.org
 http://36.137.241.31:8000
+https://www.muyek.com
 http://www.liyangedu.com
 http://bbs.itaokecms.com
 http://43.142.14.33:81
@@ -392,6 +394,7 @@ http://www.college360.cn
 http://119.23.14.180
 http://www.cdzykj.cn
 https://bbs.wulinshe.com
+http://www.muyek.com
 http://www.jinmen.cc
 http://184.95.51.85:8080
 https://www.315nh.com
@@ -933,6 +936,7 @@ https://93e.cc
 http://godclone.com
 http://bbs.highot.net
 http://x505.cn
+http://124.223.31.21:8090
 http://www.ssjx1.top
 http://114.253.252.223:88
 http://www.4kquan.com
@@ -1097,6 +1101,7 @@ http://185.243.57.96:443
 http://www.goodnas.net
 http://bbs.0634.com
 http://www.mifengedu.cn
+http://116.90.83.61
 http://bleach.bleachcn.net
 http://www.hzweiyun.com
 http://bbs.huawin.com
@@ -1969,6 +1974,7 @@ http://vfe647.cc
 http://au.wxdaiyan.cn
 http://bbs.yxsensing.net
 http://www.wr0766.com
+http://107.150.97.52
 https://bbs.ziyouro.cn
 http://www.hx2004.com.cn
 http://baoting.180724.com
