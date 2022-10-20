@@ -1146,6 +1146,7 @@ http://116.90.83.61
 http://bleach.bleachcn.net
 http://www.hzweiyun.com
 http://bbs.huawin.com
+http://8.210.192.73
 http://help.wxdaiyan.cn
 http://139.162.60.118
 http://47.100.196.62
@@ -2752,6 +2753,7 @@ https://www.xyyao.com
 http://daxinganling.aizse.com
 http://bbs.lazzb.cn
 http://16kaoyan.com:8888
+http://s.erji.hk
 http://bbs.newslist.com.cn
 http://bbs.enlern.com
 http://home.lytmh.com.cn
@@ -3070,6 +3072,7 @@ http://www.mingdao20.cn
 https://www.lsjlp8.com
 http://94.74.88.41
 http://bbs.xinpg.com
+http://96.43.95.80
 http://www.wptcw.com
 http://luoya.shawsen.com
 https://isp-caledon.cit.gkzj.net
