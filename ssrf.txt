@@ -1,5 +1,3 @@
-http://www.apuup.com
-http://myvrgame.cn
 http://52.15.204.109
 http://www.taiwanzhenglun2.com
 https://bbs.iwangzhe.com
@@ -3442,6 +3440,7 @@ http://shzj.net.cn
 http://ffans.club
 http://www.dotasterisk.cn
 http://11op.com
+https://dream.kxb4u.com
 http://group.cantonese.asia
 http://www.xxke.cn
 http://sh.184409.com
@@ -3569,6 +3568,8 @@ http://cowork.jrjkg.com.cn
 http://www.91show.club
 http://baishan.aizse.com
 http://bbs.5iyq.com
+http://myvrgame.cn
+http://www.apuup.com
 http://bbs.reasonclub.com
 http://yiyang.184409.com
 http://qingyang.180724.com
