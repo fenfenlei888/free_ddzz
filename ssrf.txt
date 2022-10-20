@@ -1,8 +1,3 @@
-http://test.hmphanmi.com.cn
-http://bbs.maxthon.cn
-http://www.lama001.com
-http://104.143.10.133:8888
-https://www.zhongchu56.com
 http://bc-bc.xyz
 http://122.227.59.19
 http://www.52pg.net
@@ -2647,6 +2642,7 @@ https://net.ucfamily.com.cn
 http://43.138.147.221
 http://bbs.exnpk.com
 http://101.37.227.158:8080
+http://daheng28.com
 http://www.sctz10.com
 http://www.feifeicms.me
 http://lvju.wdzb.org.cn
@@ -3447,8 +3443,11 @@ http://43.226.47.17
 https://mgm1.diy.cc
 http://www.dimai3d.com
 https://www.21micro-grid.com
+http://test.hmphanmi.com.cn
 http://3.88.211.117
 http://nchxys.cn
+http://bbs.maxthon.cn
+http://104.143.10.133:8888
 http://jn.180724.com
 http://www.joychanong.com
 http://sl.180724.com
@@ -3619,6 +3618,7 @@ http://www.freeinfo.com.my
 http://jinzhou.180724.com
 http://bozhou.180724.com
 http://www.zhonghuaying.com
+http://www.daheng28.com
 http://www.52cae.cn
 http://wjq.180724.com
 http://www.shuqu.net
@@ -4927,6 +4927,8 @@ http://tianshui.180724.com
 http://www.huaxingbbs.com
 http://bbs.qcfdlt.com
 http://bbs.360wzgj.com
+http://www.lama001.com
+https://www.zhongchu56.com
 http://imcema.org
 http://www.23myw.com
 http://cs.oa57.net
@@ -5125,6 +5127,7 @@ https://yongyifamen.com
 https://stereosound.com.cn
 http://www.jjjbbs.cn
 http://sd.184409.com
+http://www.sijige.net
 http://www.renyitc.com
 http://www.hdxxfb.com
 http://118.24.6.169
@@ -5191,6 +5194,7 @@ http://hanzhong.180724.com
 http://bbs.chengzhou.net
 http://haikou.180724.com
 http://www.qlqwgw.com
+http://pit28.com
 http://erds.180724.com
 http://sansha.180724.com
 http://www.hao0597.com
