@@ -1563,6 +1563,7 @@ https://club.dangbei.com
 http://www.nhjd.net
 http://display.oecr.com
 http://www.venews.cn
+http://47.75.87.77
 http://www.combat2000.cn
 http://bbs.uker.net
 https://v.icax.org
@@ -2142,6 +2143,7 @@ http://bbs.3qck.com
 http://www.jwjiaoji.com
 https://forum.eve-ng.cn
 http://www.mowangtuili.cn
+http://bbs.miaolaoshi.com
 http://www.0u1u.com
 http://108.170.5.78:8080
 http://www.52mti.com
