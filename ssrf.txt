@@ -1,9 +1,3 @@
-http://111.231.118.218:88
-http://www.8888888.ltd
-http://fudanu.com
-http://www.pr.uttbbs.com
-http://zc.184409.com
-http://yc.184409.com
 http://www.yunchan.org
 http://www.nakuz.com
 http://www.eqingyu.com
@@ -2381,6 +2375,7 @@ http://bbs.anluw.com
 http://www.cncdiy.cn
 http://www.cuplclub.com
 http://suihua.184409.com
+http://chinaveg.org
 http://zjbf.cc
 http://39.108.64.77
 http://sansha.184409.com
@@ -3228,6 +3223,7 @@ http://108.170.5.99
 https://bbs.huaibei123.cn
 http://comcjcontactwww.nakuz.com
 http://118-232-136-108.dynamic.kbronet.com.tw
+http://www.chinaveg.org
 http://174.139.68.11
 http://www.tzy648.cc
 http://121.46.31.153
@@ -3442,6 +3438,10 @@ http://www.735055.com
 http://120.48.0.46
 http://www.ilovemathematica.com
 https://www.renrenoffice.com
+http://111.231.118.218:88
+http://yc.184409.com
+http://zc.184409.com
+http://www.8888888.ltd
 http://sl.180724.com
 https://bbs.07340.com
 http://www.234.name
@@ -4946,6 +4946,8 @@ https://news.p2peye.com
 http://verycare.org
 http://all.edge.uttbbs.com
 http://1024wz.top
+http://www.pr.uttbbs.com
+http://fudanu.com
 http://jxfuli.tk
 http://tongliao.180724.com
 http://182.92.159.222
