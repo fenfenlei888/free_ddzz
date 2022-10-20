@@ -385,6 +385,7 @@ http://www.hgs99.com
 http://zn1069.com
 http://www.iuibe.com
 http://www.china2001.com
+http://www.wwuxue.com
 http://libaiyi.cn
 https://www.zjdg.com
 http://bjsouyao.com
@@ -1269,6 +1270,7 @@ http://wx.vshangtong.com
 http://bbs.7to.cn
 http://bbs.d-n.cc
 http://www.uerchina.com
+http://www.nnxindai.com
 http://www.pxenter.com
 https://www.paijibbs.com
 http://imfec.myubbs.com
@@ -2147,6 +2149,7 @@ http://www.zlighting.net
 http://ftp.cpure.org
 http://47.92.104.132
 http://116.255.230.131:8093
+http://www.elimautism.org
 http://www.xhymsq.com
 http://www.sctz99.com
 http://www.52yunku.com
@@ -2245,6 +2248,7 @@ http://crm.uttbbs.com
 http://xsgbbs.com
 http://www.bifeigantang.top
 http://www.bb.uttbbs.com
+http://www.gongjiaomi.com
 http://64.32.12.100:443
 http://114.55.57.179
 http://bbs.superic.com
@@ -4058,6 +4062,7 @@ http://www.artceda.com
 http://bbs.shouxi.com
 http://www.mchkg.com
 http://121.37.221.235
+http://wwuxue.com
 http://st.mamacn.com
 http://cc.184409.com
 http://nn.mamacn.com
