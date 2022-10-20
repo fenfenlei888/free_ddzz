@@ -1,7 +1,3 @@
-http://bbs.shoufish.com
-https://www.tcelue.com
-http://www.lichenyue.com
-http://hcwxcn.com
 https://www.aimang.net
 https://bbs.laotingbest.com
 http://www.100sj.net
@@ -3467,6 +3463,8 @@ http://www.birdwo.com
 https://3sjt.com
 http://tj.bbs.nongquan.com
 http://111.161.41.17:81
+http://hcwxcn.com
+http://bbs.shoufish.com
 http://www.hongyangjixie.cn
 http://dt.184409.com
 http://gg.180724.com
@@ -4858,6 +4856,8 @@ http://forum.nobook.com.cn
 http://www.micro-wsp.comcncontactwww.nakuz.com
 http://bbs.g3d.org
 http://juebanys.net
+http://www.lichenyue.com
+https://www.tcelue.com
 http://www.zbhw.com
 http://www.bjsax.com
 https://365xiaochi.net
@@ -5028,6 +5028,7 @@ http://hanzhong.184409.com
 http://dz.xiapuapp.com
 http://www.huateair.com:89
 http://tj.ckuyun.com
+http://ksjiyi.com
 http://ibmhome365.com
 http://bsrjyy.cn
 http://www.xinyue345.com
