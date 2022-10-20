@@ -1,8 +1,3 @@
-http://bbs.97wanwan.com
-http://116.255.166.128
-http://www.chinahost.org
-http://148.70.21.123
-http://221.6.48.116
 http://zh.180724.com
 http://bbs.5ucms.com
 http://nxs053.cc
@@ -3558,6 +3553,8 @@ https://bbs.aladedalu.com
 http://bbs.swiper.com.cn
 http://diqing.aizse.com
 http://www.linsivvi.com
+http://148.70.21.123
+http://116.255.166.128
 http://k654321.com
 http://www.shirenwang.com
 http://xx.180724.com
@@ -4666,6 +4663,9 @@ http://www.h596.com
 http://61.174.248.14
 http://www.dadijilu.com
 http://ytzx.cc
+http://221.6.48.116
+http://www.chinahost.org
+http://bbs.97wanwan.com
 http://pe.180724.com
 http://lingshui.180724.com
 http://99huitu.com
