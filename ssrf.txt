@@ -1,4 +1,3 @@
-http://115533.com
 http://www.hmphanmi.com.cn
 http://api.juweile.com
 http://www.sswchina.com
@@ -3456,6 +3455,7 @@ http://47.92.221.168
 https://www.178448.com
 https://www.tsz3.com
 http://47.101.197.44
+http://115533.com
 http://bbs.sugas.site
 https://www.sts1.xyz
 http://www.zpinfo.net
@@ -3614,6 +3614,7 @@ http://youook.com
 http://cn-sh.cn
 https://user.vlabpro.com
 http://www.waigeshetuan.com
+http://bbs.70jj.com
 http://www.xinlt.cn
 http://www.1000qm.vip
 http://bc.180724.com
