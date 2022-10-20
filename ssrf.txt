@@ -1,4 +1,3 @@
-http://bbs.mp67.com
 http://ihuge.net
 http://99957764.deutron.com.tw
 http://hnrhrj.com
@@ -3941,6 +3940,7 @@ http://danyou8.com
 http://www.healcsa.com
 https://net.ucfamily.com.cn
 http://cgzsnj.hbck.com.cn
+http://101.32.36.36
 http://ppdm.us
 http://www.fhsx.net.cn
 https://www.lcxlyy.com
@@ -4205,6 +4205,7 @@ https://www.sousouyo.com
 http://bbs.i52088.com
 http://115.238.255.143:88
 http://www.youqichuyun.com
+http://bbs.mp67.com
 http://gzwt.tk
 http://www.doubanchong.com
 http://bbs.cngansu.cn
