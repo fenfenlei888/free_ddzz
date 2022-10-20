@@ -782,6 +782,7 @@ http://101.200.172.3
 http://hf.184409.com
 http://www.zhilexue.tech
 https://dev.okfun.org
+https://www.jiankangxingqiu.com
 http://103.30.40.31
 http://bbs.xunpiaowang.com
 http://www.ddsfw.cn
@@ -1256,6 +1257,7 @@ http://52.15.204.109
 http://www.taiwanzhenglun2.com
 https://bbs.iwangzhe.com
 http://www.westpay.com.cn
+http://m.imiaoyun.cn
 https://www.qisehua.wang
 https://fl.china2001.com.cn
 http://bbs.xa17.wang
@@ -1640,6 +1642,7 @@ http://66.160.158.132
 http://bengbu.184409.com
 http://47.90.16.162
 http://bbs.dult.cn
+http://www.jiankangxingqiu.com
 http://forum.iyingwu.net
 http://47.92.221.168
 https://www.178448.com
@@ -1955,6 +1958,7 @@ http://ww.4973.cn
 http://bbs.maibu.cc
 http://www.yytrain.com
 https://wtg365.net
+http://jiankangxingqiu.com
 http://bbs.mongoosenest.org
 http://106.75.247.44
 http://113.254.20.186:8084
@@ -2092,6 +2096,7 @@ http://pt.184409.com
 http://47.93.24.59
 http://sctzwz.com
 http://www.1024bbs.cf
+http://www.laiqulaiqu.com
 http://forum.agames.hk
 http://www.sh-nfc.com
 http://www.zgetms.com
@@ -2450,6 +2455,7 @@ https://bbs.hkrscoc.com
 http://tl.180724.com
 http://www.fbionline.cn
 http://ssjx666.top
+https://www.qingyuanma.com
 https://203.70.146.23
 http://www.yuepy3.com
 http://www.szwolf.net
@@ -3473,6 +3479,7 @@ http://dong.w91.cn
 http://bbs.weibufengge.com
 http://www.xxqydh.com
 http://www.ncf-china.com
+http://laiqulaiqu.com
 https://admin.infinix.club
 https://www.shaxianxia.com
 http://www.woaidaima.com
