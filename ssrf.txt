@@ -80,6 +80,7 @@ http://bbs.mxxsyh.com
 http://sh.exampx.com
 http://bbs.sunsili.com
 http://bbs.hifidiy.net
+http://139.129.28.37
 http://bbs.tianmingxy.com
 http://111.231.105.100
 http://bbs.wolfcode.cn
@@ -569,6 +570,7 @@ http://bgz6.com
 http://bbs.oiegame.com
 http://108.170.5.76:8080
 https://zjtt.cn
+http://www.dsdgbase.com
 http://www.zhengjimtcn.com
 http://chinatree.com
 http://119.3.216.156
@@ -663,6 +665,7 @@ http://www.ljdb.net
 http://hntz03.com
 http://bbs.xiushui.net
 http://www.yiminchaoshi.com
+http://124.221.87.214
 https://bbs.o2jam.cc
 http://www.zhujiwanjia.com
 http://www.saojie.org
@@ -792,6 +795,7 @@ https://bbs.jiaozuobar.com
 http://optics.oecr.com
 https://www.znds.com
 http://haikou.184409.com
+http://dsdgbase.com
 http://www.zyibin.com
 http://www.tw-redi.com
 http://www.chinayey.com
@@ -1323,6 +1327,7 @@ http://image.datuc.com
 http://ssjx0.top
 http://zixun.lingtuan.com
 http://chongzuo.180724.com
+http://103.61.2.32
 http://dz.reetoo.com.cn:9080
 https://92fj.com
 http://nt.180724.com
@@ -1484,6 +1489,7 @@ http://47.105.100.124
 http://lyhdw.com
 https://www.dollskybbs.com
 http://www.tbqq.net
+http://www.fulingws.com
 http://www.viczz.com
 http://www.bbspj.com
 http://132.148.13.112
@@ -1950,6 +1956,7 @@ http://www.zibenquan.org
 http://bbs.2012jh.com
 http://121.42.32.107
 https://bslthb.cn
+http://idrugs.cn
 http://dlhw.net
 http://110.76.44.26
 https://club.dangbei.com
@@ -2577,6 +2584,7 @@ https://www.5a56.cn
 https://club.22.cn
 https://tcelue.ooo
 http://ch.184409.com
+http://www.idrugs.cn
 http://47.75.77.175
 http://www.zmlfs.com
 http://oecr.com
@@ -2898,6 +2906,7 @@ http://baoding.w91.cn
 http://www.zhixuannet.com
 http://wjsyjxh.com
 http://bbs.jiuping.cn
+http://120.25.78.109
 http://guangzhou.hmsem.com
 http://www.rexuesq.com
 http://baicheng.w91.cn
@@ -3091,6 +3100,7 @@ http://www.yuxinanmo.com
 http://www.haoshu5.com
 http://www.bugs.myubbs.com:62078
 https://ispeak.cn
+http://oqmldak.fulingws.com
 http://material.oecr.com
 http://www.btuge.com
 http://www.sannongjixun.com
@@ -3799,6 +3809,7 @@ http://www.it776.com
 http://dz.lfly.xyz
 http://deyang.w91.cn
 http://104.225.149.63
+http://news.idrugs.cn
 http://www.cqxdx.com
 http://www.yszq.cn
 http://sy.mamacn.com
