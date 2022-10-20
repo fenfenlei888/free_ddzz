@@ -1,4 +1,3 @@
-http://portal.xingxiancn.com
 http://www.ctyhlt.com
 http://combat2000.cn
 http://www.toohost.es
@@ -4121,6 +4120,7 @@ http://bbs.sunsili.com
 http://sh.exampx.com
 http://111.231.105.100
 http://www.ytscript.com
+http://portal.xingxiancn.com
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
@@ -4147,6 +4147,7 @@ http://peizimenhu.com
 http://www.xcex.net
 http://yelv.com
 http://www.yhyhlt.com
+https://bbs-dev.pydp888.com
 http://bbs.yypost.com
 https://bbs.daxianju.cn
 http://bbs.6dcx.com
