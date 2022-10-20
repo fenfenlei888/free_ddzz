@@ -182,6 +182,7 @@ http://chizhou.w91.cn
 http://sy.180724.com
 https://7177.cn
 http://www.90houqq.com
+http://edu.jychina.com
 http://11sgz.com
 http://www.52panku.com
 http://bbs.zggdxy.com
@@ -528,6 +529,7 @@ http://sctz0.com
 http://www.chaogubaike.com
 http://bbs.qjyz.com.cn
 https://fn139.168tech.vip
+https://www.gmbbk.com
 http://old.jrweike.com
 http://www.cncelab.com
 http://125.76.228.197
@@ -1210,6 +1212,7 @@ http://autodiscover.support.uttbbs.com
 http://www.zzzzbbbb.com
 http://60.248.140.2:8081
 http://185.243.57.96:443
+http://www.uttbbs.com
 http://www.goodnas.net
 http://bbs.0634.com
 http://www.mifengedu.cn
@@ -1283,6 +1286,7 @@ http://47.105.100.124
 http://lyhdw.com
 http://www.tbqq.net
 http://www.bbspj.com
+http://132.148.13.112
 http://zjtz.cc
 http://bbs.yiwugo.com
 https://mxeia.com
@@ -2017,6 +2021,7 @@ http://www.mei-shu.cn
 http://bandumusicbbs.net
 http://www.gophotos.cn
 http://47.101.61.41
+http://120.26.3.42
 https://jiangjinbianminwang.cn
 http://su.180724.com
 http://47.93.52.129
