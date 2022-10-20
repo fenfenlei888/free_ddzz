@@ -1,5 +1,3 @@
-http://223.111.136.156
-http://demo.daihuo100.com
 http://hljhgs.com
 http://111.67.204.3
 http://120.27.61.75:8082
@@ -3410,7 +3408,9 @@ http://www.rosevision.net
 https://39.97.164.17
 http://bbs.indmen.com
 http://www.heikejiedan1.com
+http://223.111.136.156
 http://df.184409.com
+http://demo.daihuo100.com
 http://cnuclub.com
 http://www.ikeynote.cn
 http://yulin.184409.com
@@ -4572,6 +4572,7 @@ http://chongzuo.184409.com
 http://www.xcluqiao.com
 http://www.behcet.com.cn
 http://bbs.iyudu.top
+http://iooee.com
 https://fl.china2001.com.cn
 https://www.qisehua.wang
 http://www.dnvcc.com
@@ -4648,6 +4649,7 @@ https://video.gkzj.net
 http://chifeng.184409.com
 http://bbs.zjtt.cn
 http://bbs.vbsa.com.au
+http://bbs.dedehome.com
 https://bbs.cnction.com
 http://www.1868888.com
 http://118.31.165.148
