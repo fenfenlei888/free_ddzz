@@ -830,6 +830,7 @@ http://bbs.cnecport.com
 https://bbs.elecfans.com
 https://121.196.191.46
 http://www.fuwen1.com
+http://124.222.199.14
 http://101.132.72.239
 http://112.74.88.149
 http://yk.180724.com
@@ -3698,6 +3699,7 @@ https://bbs.0376.net
 http://xinyuelt5.com
 https://community.ruijienetworks.com
 http://bbs.hjbxw.com
+http://221.122.104.40
 http://www.jbsfdc.com
 https://bbs-dev.xuanshang12.cn
 http://bbs.medoo.hk
