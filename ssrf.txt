@@ -1,5 +1,3 @@
-http://23.234.195.237
-http://www.hzweiyun.com
 http://bbs.huawin.com
 http://8.210.192.73
 http://help.wxdaiyan.cn
@@ -3537,6 +3535,7 @@ http://www.vincityhomes.com
 http://www.sharsi.com
 http://bleach.bleachcn.net
 http://116.90.83.61
+http://23.234.195.237
 http://lx.oa57.net
 http://ywzt.top:7777
 http://chengde.180724.com
@@ -4695,6 +4694,7 @@ http://bbs.coatu.com
 http://www.bgzdh.cn
 http://60.248.140.2:8081
 http://www.lvngo.com
+http://www.hzweiyun.com
 http://99huitu.com
 http://zhangqiu.184409.com
 http://haidong.184409.com
@@ -4819,6 +4819,7 @@ http://91d2.org
 https://bbs.zzjb.com
 http://www.shidong.cc
 http://www.lovekor.net
+http://www.41kq.com
 http://www.bsrjyy.com
 http://www.besa.org.cn
 http://sz.180724.com
