@@ -1,4 +1,3 @@
-http://www.fsacn.cn
 http://115.238.255.144:88
 http://tieba.cuit.org.cn
 http://baiyin.w91.cn
@@ -3411,6 +3410,7 @@ http://df.184409.com
 http://demo.daihuo100.com
 http://111.67.204.3
 http://120.27.61.75:8082
+http://www.fsacn.cn
 http://cnuclub.com
 http://www.ikeynote.cn
 http://yulin.184409.com
@@ -3809,6 +3809,7 @@ http://lwgod.org
 http://ab.184409.com
 http://www.bearingbbs.com
 http://www.theold.net
+http://www.kongbei.com
 http://www.zhongsitaihe.com
 http://120.25.206.20:88
 http://www.dmsnx.com
