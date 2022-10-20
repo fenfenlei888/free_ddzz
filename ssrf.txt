@@ -1,9 +1,3 @@
-https://ibmhome365.com
-https://webdisk.news.163dz.com
-http://108.170.5.74:8080
-http://bbs.inknet.cn
-http://maps.uttbbs.com
-http://www.sxydedu.cn
 http://114.116.2.138:8090
 http://121.40.214.251:8080
 http://www.stubbs.cn
@@ -3396,6 +3390,8 @@ https://www.retroco.co
 http://www.youcsky.com
 http://bleachcn.net
 http://dx.weifengtang.com
+https://webdisk.news.163dz.com
+http://bbs.inknet.cn
 http://www.gxcfwy.com
 http://canadalondonchinese.com
 http://www.zxmrbbs.com
@@ -3504,8 +3500,10 @@ http://youook.com
 http://cn-sh.cn
 http://cdxcdx.com
 http://hn0756.com
+http://www.xuwentcw.com
 https://user.vlabpro.com
 http://www.waigeshetuan.com
+https://xuwentcw.com
 http://bbs.70jj.com
 http://www.xinlt.cn
 http://www.1000qm.vip
@@ -4277,6 +4275,7 @@ http://ixiz.cn
 http://qdn.180724.com
 http://www.dn2828.com
 http://www.de.myubbs.com:62078
+http://xuwentcw.com
 https://www.pzxxw.com
 http://www.haga7.club
 http://bbs.hasea.com
@@ -5159,6 +5158,10 @@ http://www.bb.uttbbs.com
 http://xc.184409.com
 http://bbs.superic.com
 http://cheaixi.com
+https://ibmhome365.com
+http://maps.uttbbs.com
+http://108.170.5.74:8080
+http://www.sxydedu.cn
 http://hsmzy.com
 https://boesea.com
 http://panzhihua.180724.com
