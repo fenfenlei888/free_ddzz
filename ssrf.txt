@@ -734,6 +734,7 @@ http://www.duyadi.com
 http://www.jiuguji.com
 https://www.kangfuzhe.org
 http://image.cool-de.com
+http://47.75.160.237
 http://www.touzichaoshius.com
 http://www.hntz1.com
 http://www.sctz77.com
@@ -1450,6 +1451,7 @@ https://video.gkzj.net
 http://chifeng.184409.com
 http://108.170.5.100:8080
 http://bbs.zjtt.cn
+http://bbs.vbsa.com.au
 http://www.0750.name
 http://www.1868888.com
 https://bbs.cnction.com
