@@ -459,6 +459,7 @@ http://119.23.14.180
 http://www.cdzykj.cn
 https://bbs.wulinshe.com
 http://www.muyek.com
+http://123.56.4.191
 http://www.jinmen.cc
 http://184.95.51.85:8080
 https://www.315nh.com
@@ -860,6 +861,7 @@ http://klsh.com
 http://www.jyxdsxh.cn
 http://www.sctongzhi.net
 http://ftp.dataguru.cn
+http://www.wutongshu0531.com
 http://218.244.147.126
 http://150.158.152.164
 http://www.gosest.com
@@ -1898,6 +1900,7 @@ http://jyg.184409.com
 http://www.inextera.com
 http://www.520mojin.com
 http://ww.4973.cn
+http://bbs.maibu.cc
 http://www.yytrain.com
 https://wtg365.net
 http://bbs.mongoosenest.org
@@ -3000,6 +3003,7 @@ http://www.link.uttbbs.com
 http://qz.180724.com
 http://bbs.rhino3d.us
 http://jiashanx.184409.com
+http://203.195.186.190
 http://talk.oecr.com
 http://47.100.86.221
 http://www.doigt.com.cn
@@ -3392,6 +3396,7 @@ http://www.jbsfdc.com
 https://bbs-dev.xuanshang12.cn
 http://bbs.medoo.hk
 http://49.5.2.178
+http://116.62.6.91
 http://www.pinxijy.com
 http://www.toohost.info
 http://bbs.himi.club
