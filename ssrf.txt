@@ -1,5 +1,3 @@
-http://bbs.china-ws.org
-http://139.199.28.65
 http://heyuan.184409.com
 http://bbs.whhgq.com
 http://love.ziyoumao.com
@@ -4207,6 +4205,8 @@ http://www.youqichuyun.com
 http://bbs.mp67.com
 http://ihuge.net
 http://bbs.hiioo.com
+http://139.199.28.65
+http://bbs.china-ws.org
 http://gzwt.tk
 http://www.doubanchong.com
 http://bbs.cngansu.cn
@@ -4301,6 +4301,7 @@ http://www.xcex.net
 http://yelv.com
 http://www.yhyhlt.com
 https://bbs-dev.pydp888.com
+http://114.215.135.172
 http://bbs.yypost.com
 http://www.inanxun.com
 https://bbs.daxianju.cn
