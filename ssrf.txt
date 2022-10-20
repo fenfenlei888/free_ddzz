@@ -1256,6 +1256,7 @@ http://bbs.chinabike.net
 http://www.myjpsy.com
 http://rudong.180724.com
 http://imfec.23du.com
+http://119.57.134.111:81
 http://bbs.sgconline.com.cn
 http://news.oecr.com
 http://www.premama.com.cn
@@ -2526,6 +2527,7 @@ http://www.9453bb.com
 https://www.phillylive.co
 http://www.cq3.in
 http://www.imxy28.com
+http://119.136.25.27:8888
 http://114.34.84.101
 http://www.99huitu.com
 http://35.194.171.161
@@ -3544,6 +3546,7 @@ http://94.74.87.187
 http://182.254.153.43
 http://sctz33.com
 http://www.help-hope.org
+http://rainroot.gicp.net:81
 http://www.chinameat.org.cn
 http://www.shlhzj.com
 https://mopaishi.com
