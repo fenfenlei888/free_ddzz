@@ -1,6 +1,3 @@
-https://bbs.chizhouchacha.com
-http://sytu.myubbs.com
-http://www.xiaot.com
 http://www.tickets.myubbs.com:62078
 http://www.zfzj.cn
 http://121.62.23.174:88
@@ -3995,6 +3992,7 @@ http://www.tao92.com
 http://hdbbs.fxt365.com
 https://bbs.qianfanyun.com
 http://pxenter.com
+http://xng16.xyz
 http://bbs.jlsd.com
 http://www.glgsnw.com
 http://www.xghylt.com
@@ -4017,6 +4015,8 @@ https://mcar.vip
 http://pl.184409.com
 http://www.52jiance.cn
 http://45.56.85.29
+http://sytu.myubbs.com
+https://bbs.chizhouchacha.com
 https://www.llgarden.com
 http://bbs.c3.wuyou.net
 http://htmlarticle25www.nakuz.com
@@ -4144,6 +4144,7 @@ https://www.xiguzhen.com
 http://122.112.211.202
 https://longjingshuochang.com
 https://www.cgjoy.com
+http://www.xiaot.com
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
