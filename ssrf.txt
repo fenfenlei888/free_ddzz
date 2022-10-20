@@ -1,4 +1,3 @@
-http://101.200.172.3
 http://hf.184409.com
 http://www.zhilexue.tech
 https://dev.okfun.org
@@ -3726,6 +3725,7 @@ http://qj.184409.com
 http://bbs.txfang.cn
 https://help.massdesign.cn
 http://10.ustcjz.cn
+http://101.200.172.3
 http://www.yaodumod.com
 http://www.keaimao.com.cn
 http://tc.rlwsh.com
@@ -3784,6 +3784,7 @@ http://xn--7hvu6lcwr.com
 http://118.195.148.176
 http://www.yunyingtong.org
 http://www.dianhunbbs.com
+http://www.029lintong.com
 http://dt.184409.com
 http://bbs.sugas.site
 http://ya.184409.com
