@@ -320,6 +320,7 @@ http://bjsouyao.com
 https://hzyw5.com
 http://bbs.leshenriben.com
 http://www.imaoigou.cn
+http://bbs.taogutang.com
 http://ly.180724.com
 https://www.2haoshu.com
 http://bbs.bd-gti.com
@@ -472,6 +473,7 @@ https://www.7s6s5s.com
 http://xkh877.cc
 http://96.126.101.89
 http://49.235.111.114:8080
+http://bbs.3polar.com
 http://www.db.myubbs.com:62078
 https://www.jpinfo.net
 https://www.xoooi.com
@@ -1425,6 +1427,7 @@ https://bbs.huanai.com
 http://www.msms7.club
 http://text.irtec.cn:1234
 http://7wyx.cn
+http://bbs.rocaircraft.com
 http://www.sdwsxy.cn
 http://bbs.kazi.ai
 http://www.aifangjie.cn
@@ -1473,6 +1476,7 @@ http://ufa.wxdaiyan.cn
 http://115533.com
 http://www.hmphanmi.com.cn
 http://www.sswchina.com
+http://xueyuan.kuaipu.com.cn
 http://www.myok.cc
 http://pluslatex.users.uttbbs.com
 http://114.221.127.231:8181
@@ -2123,6 +2127,7 @@ http://nanchong.184409.com
 http://www.zdyxw.cn
 http://foshan.qcyx.org
 http://kezhilibin.net
+https://bbs.kingbase.com.cn
 http://t.xiasha.cn
 http://www.minsu.com.cn
 http://sctz5.com
@@ -2200,6 +2205,7 @@ https://tcelue.ooo
 http://ch.184409.com
 http://oecr.com
 http://www.xahycj.com
+http://47.100.101.45
 https://shktvw.com
 http://www.tui56.com
 http://jixi.180724.com
@@ -2223,6 +2229,7 @@ https://uujh1.com
 http://64.32.12.101:443
 https://www.79bo.com
 http://yidou.180724.com
+http://www.svsbbs.com
 http://223.72.182.50:8200
 http://dingxi.w91.cn
 http://www.mytju.cn
@@ -2477,6 +2484,7 @@ http://bbs.laotingbest.com
 http://bbs.chizhouchacha.com
 http://bbs.csettn.com
 https://www.msms7.club
+http://222.190.123.194
 http://fy.180724.com
 http://www.abc.myubbs.com:62078
 http://www.jiajufans.com
@@ -2533,6 +2541,7 @@ http://58.221.146.210:8090
 http://winqu.com
 http://www.862686.com
 http://www.2math.cn
+http://www.lhqzj.cn
 http://209.222.98.180
 http://1.83.154.140:8093
 https://www.faceboer.org
@@ -2696,6 +2705,7 @@ http://qinyeba.com
 http://222.73.135.105:8000
 http://zzwav.com
 http://43.156.233.105
+http://www.cdthinkpad.com
 http://www.bj-ygsp.com
 https://luck.crtslt.net
 https://www.alyxz.com
