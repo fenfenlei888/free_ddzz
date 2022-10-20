@@ -291,6 +291,7 @@ http://47.94.168.215
 http://116.255.230.131:8086
 http://www.onehdasia.com
 http://www.coltansmart.com
+http://51uwb.cn
 http://ihuge.net
 http://99957764.deutron.com.tw
 http://hnrhrj.com
@@ -353,6 +354,7 @@ http://xinyuelt4.com
 http://sm.180724.com
 https://1688yxw.cn
 https://love.huaigirls.com
+http://www.51uwb.cn
 http://changji.aizse.com
 http://www.artskaoyan.com
 https://www.hengzhou365.com
@@ -556,6 +558,7 @@ http://sdk.gamesos.co.kr
 http://new.dataguru.cn
 http://172.104.190.175
 https://wujindeng.net
+http://140.246.102.194:8081
 https://www.dubious.users.163dz.com
 http://dz.plas2006.com
 http://www.zydgbbs.com
@@ -823,6 +826,7 @@ http://changzhi.180724.com
 http://www.guochong.net
 http://bbs.0391.com.cn
 http://gang.cn
+http://www.31shenghuo.com
 http://bbs.inter.net.cn
 http://www.biotrainee.com
 http://luzhou.180724.com
@@ -1143,6 +1147,7 @@ https://fl.china2001.com.cn
 http://bbs.xa17.wang
 http://bbs.wh27s.cn
 http://114.116.13.137
+http://image.datuc.com
 http://ssjx0.top
 http://zixun.lingtuan.com
 http://chongzuo.180724.com
@@ -1400,6 +1405,7 @@ http://bbs1.phpdisk.com
 http://bijie.w91.cn
 http://tunchang.184409.com
 http://www.mm.ci
+http://49.233.206.40:88
 https://www.xinpg.com
 http://175.178.88.82
 http://wlmq.180724.com
@@ -2005,6 +2011,7 @@ http://bbs.hanwangsoft.com
 http://www.sh1069.cc
 http://1.117.58.254
 http://129.204.105.114:8080
+http://61.136.60.55:8087
 http://bbs.rxbeby.com
 http://huzhou.180724.com
 http://47.52.171.58
@@ -2201,6 +2208,7 @@ https://znzz.work
 http://www.fsjxjg.com
 http://blog.yuxiangshequ.com
 http://bayinguoleng.aizse.com
+http://www.hyundai.com.tw
 http://www.lvye.net
 http://www.mmmtw.com
 http://bbs.voldp.com
@@ -2296,6 +2304,7 @@ https://number81.xyz
 http://www.fdydd.top
 http://dz.magapp-x.magcloud.cc
 http://dealer.rv28.com
+http://www.howar.top:88
 http://116.62.33.87:8080
 http://nujiang.180724.com
 http://138.2.17.133:8090
@@ -2351,6 +2360,7 @@ http://122.112.230.93:8080
 http://xng1.top
 https://www.5i8.org
 http://dl.mamacn.com
+http://59.111.106.155
 https://www.rv28.com
 https://gjkeji.com
 http://pop.cpure.org
@@ -2426,6 +2436,7 @@ http://pt.180724.com
 http://www.hntongzhi.net
 http://bbs.feiyuqing.cn
 http://www.wenxiucn.com
+http://www.datuc.com
 http://liaoyang.180724.com
 http://com.cmtest.net
 http://www.iscut.cn
@@ -2482,6 +2493,7 @@ http://test3.wxdaiyan.cn
 http://ceshile.cn
 http://108.166.215.57:85
 http://www.kazan.uttbbs.com
+http://118.232.136.108
 http://trade.oecr.com
 https://m.huosub2b.com
 http://www.macgood.com
@@ -2929,6 +2941,7 @@ http://wwww.oyuw.com
 http://www.centerbbs.com
 http://naruto.bleachcn.net
 http://bbs.cnqol.com
+http://31shenghuo.com
 http://lps.184409.com
 http://www.aibeiwang.com
 http://www.luoyouming.cc
@@ -3356,6 +3369,7 @@ http://help.oecr.com
 http://join.skywj.com
 http://jiajiao.xiasha.cn
 http://bbs.d7w.net
+http://howar.top:88
 https://bbs.uleb.cn
 http://princeton.com.cn
 http://bbs.17qzx.com
