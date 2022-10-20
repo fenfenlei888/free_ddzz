@@ -1,4 +1,3 @@
-http://www.06gd.com
 http://www.mingxingjie.com.cn
 https://www.logo007.net
 http://15.235.133.3
@@ -3537,6 +3536,7 @@ http://bbs.huawin.com
 http://help.wxdaiyan.cn
 http://8.210.192.73
 http://139.162.60.118
+http://www.06gd.com
 http://ywzt.top:7777
 http://chengde.180724.com
 http://www.tianbaochina.cn
@@ -4706,6 +4706,7 @@ http://wn.184409.com
 http://www.chinasfj.cn
 http://wn.180724.com
 http://www1.area-11.com
+http://ecy.guangsyl.cn
 http://yw10.xyz
 http://yqsjob.com
 http://huidong.180724.com
