@@ -1,4 +1,3 @@
-http://poczta.dataguru.cn
 https://163it.top
 http://www.wxcw99.com
 http://www.millicharity.com
@@ -3641,6 +3640,7 @@ http://forum.netzone.com
 http://hongfengml.com
 http://bbs.sto.net.cn
 http://dandong.w91.cn
+http://cncdiy.cn
 http://bbs.xy17358.com
 http://ay.180724.com
 http://bbs.oiegame.com
@@ -3742,6 +3742,7 @@ http://ppdm.us
 http://www.number81.xyz
 http://121.227.42.121:7777
 http://shz.184409.com
+http://poczta.dataguru.cn
 http://www.fhsx.net.cn
 http://jomen.net
 http://hn.184409.com
