@@ -1,4 +1,5 @@
 https://syyyd.com
+http://47.112.116.39
 http://139.196.156.10
 http://www.zn1069.com
 https://www.santai.ren
@@ -11,6 +12,7 @@ http://111.225.222.146
 http://zunyi.180724.com
 http://120.48.31.72
 http://122.195.200.230:82
+https://bbs.macd.cn
 https://forum.dnaxcat.net
 http://60.205.179.195
 http://www.sctzhs.com
@@ -3341,6 +3343,7 @@ http://sys.180724.com
 http://108.170.5.77:8080
 http://www.junweidianqi.cn
 http://bbs.liyang-tech.com
+http://www.163dz.com
 https://pucatalyst.com
 https://www.portal.gkzj.net
 https://t.icax.org
@@ -3395,6 +3398,7 @@ http://yukang.org.cn
 http://jbn122.cc
 http://bbs.angui.org
 http://wh.184409.com
+https://www.quyoubbk.com
 http://www.bandumusicbbs.net
 http://mdq.mdxxw.cn
 http://bbs.game0951.com
