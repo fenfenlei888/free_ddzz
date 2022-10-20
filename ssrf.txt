@@ -1,5 +1,3 @@
-http://zjfc.xiasha.cn
-http://www.xiaogq.com
 https://bbs.newtype.com.cn
 http://1tjy.com
 http://huaibei.180724.com
@@ -4003,6 +4001,7 @@ http://1.15.174.14:81
 https://sixiantongxiang.com
 http://www.shibianshi.com
 https://jxfuli.cf
+http://www.shuqu.net
 https://dz.xiapuapp.com
 http://www.fengsheng.cc
 https://www.ccbn.com.cn
@@ -4194,6 +4193,8 @@ http://www.yelv.com
 http://www.idicbc.com
 http://www.jdwxs8.com
 http://www.beelark.com
+http://zjfc.xiasha.cn
+http://www.xiaogq.com
 http://www.myh360.com
 http://gzwt.tk
 http://www.doubanchong.com
@@ -4232,6 +4233,7 @@ http://thinkingbeing.net
 https://bbs.vipleyuan.com
 https://365xiaochi.net
 https://www.sixiantongxiang.com
+http://thx.shuqu.net
 https://www.samngamhos.go.th
 http://jxfuli.tk
 http://182.92.159.222
