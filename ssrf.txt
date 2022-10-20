@@ -1,5 +1,3 @@
-http://heyuan.184409.com
-http://bbs.whhgq.com
 http://love.ziyoumao.com
 http://106.55.169.186:8088
 http://www.csrworld.cn
@@ -3971,6 +3969,7 @@ https://forum.mtkfan.com
 https://community.joshvm.com
 http://www.kjsq.net
 http://60.173.107.196:6666
+http://www.zhiyoucheng.co
 http://www.micro-dsp.comcncontactwsw.nakuz.com
 https://www.retroco.co
 http://micro-dsp.comcncontactwsw.nakuz.com
@@ -4207,6 +4206,8 @@ http://ihuge.net
 http://bbs.hiioo.com
 http://139.199.28.65
 http://bbs.china-ws.org
+http://heyuan.184409.com
+http://bbs.whhgq.com
 http://gzwt.tk
 http://www.doubanchong.com
 http://bbs.cngansu.cn
@@ -4254,6 +4255,7 @@ http://jxfuli.tk
 http://182.92.159.222
 https://www.shuolianai.com
 https://bbs.029aa.com
+http://13.56.224.28
 http://www4.nakuz.com
 http://jipinshequ.com
 http://www.fxzdy.com
