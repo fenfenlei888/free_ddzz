@@ -1,4 +1,3 @@
-http://www.behcet.com.cn
 http://m.imiaoyun.cn
 https://www.qisehua.wang
 https://fl.china2001.com.cn
@@ -4106,6 +4105,7 @@ http://pp.wxdaiyan.cn
 http://www.taatle.com
 http://www.dandao.net
 http://shiwuzq.org
+http://wuyou.net
 http://www.871daiyun.com
 http://sp.180724.com
 http://bbs.zitan.name
@@ -4648,6 +4648,7 @@ http://gy.184409.com
 http://www.taiwanzhenglun2.com
 http://chongzuo.184409.com
 http://www.xcluqiao.com
+http://www.behcet.com.cn
 http://bbs.iyudu.top
 http://gguse.com
 http://www.nanjing2.com
