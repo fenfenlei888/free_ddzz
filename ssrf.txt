@@ -1,4 +1,3 @@
-http://combat2000.cn
 http://www.toohost.es
 http://www.sctz5.com
 http://ffans.vip
@@ -4040,6 +4039,7 @@ http://bbs.wolfcode.cn
 http://shanghainianhua.com
 http://bbs.focusdo.cn
 http://www.ctyhlt.com
+http://combat2000.cn
 http://bbs.c3.wuyou.net
 http://bbs.daxianju.cn
 http://www.zhi-pu.com
@@ -4138,6 +4138,7 @@ http://jipinshequ.com
 http://www.fxzdy.com
 http://www.yunxi.net
 http://www.homefpd.com
+https://boesea.com
 http://www.elyoo.com
 http://91d2.org
 http://abbc.eu.org:7777
