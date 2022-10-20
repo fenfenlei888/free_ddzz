@@ -1,4 +1,3 @@
-http://bbs.zhuzhou.com
 http://arm-cn.com
 http://www.ffwold.com
 https://www.az980.com
@@ -3505,6 +3504,7 @@ https://www.domain.gkzj.net
 http://h.china2001.com
 https://www.sts2.xyz
 http://shiyan.184409.com
+http://bbs.zhuzhou.com
 http://lf.180724.com
 http://www.ss8008.top
 http://hzyiwo.com
@@ -4953,6 +4953,7 @@ http://www.qianfengjiyi.cn
 http://szcq.net.cn:81
 http://yuepy5.com
 http://www.kaitaobaodian.com
+http://pxzjz.com
 http://zhuji.180724.com
 http://community.joshvm.com
 http://www.sxlfjr.com
