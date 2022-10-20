@@ -1,10 +1,3 @@
-http://182.92.105.211
-http://www.manmanqi.com
-http://bbs.8yx.com
-http://bbs.cjrj.org
-http://changdu.aizse.com
-http://liuzhou.180724.com
-http://hg.180724.com
 http://czn.com.cn
 http://t.diandee.com
 https://www.ibmbjb.com
@@ -3260,6 +3253,7 @@ http://www.wxigua.com
 http://www.115533.com
 http://www.zsacg.com
 http://t.wupen.cn
+http://www.zhenyuzhidi.com
 http://autoconfig.email.uttbbs.com
 http://www.madio.net
 http://www.lebvo.com
@@ -3720,6 +3714,12 @@ http://112.74.88.149
 http://101.132.72.239
 http://8888888.ltd
 http://bbs.zangshinian.com
+http://www.manmanqi.com
+http://182.92.105.211
+http://bbs.8yx.com
+http://bbs.cjrj.org
+http://liuzhou.180724.com
+http://changdu.aizse.com
 http://www.keaimao.com.cn
 http://tc.rlwsh.com
 http://www.xng17.xyz
@@ -3861,6 +3861,7 @@ http://116.255.230.131:8087
 http://567hw.com
 http://1.15.174.14:81
 https://sixiantongxiang.com
+http://www.baishabowuguan.com
 http://www.shibianshi.com
 https://jxfuli.cf
 http://www.shuqu.net
@@ -4414,6 +4415,7 @@ http://150.109.110.93
 http://yk.180724.com
 http://124.222.199.14
 http://www.xunliaoyou.cn
+http://hg.180724.com
 http://www.hrbpet.org
 http://yj.184409.com
 http://sdu.myubbs.com
