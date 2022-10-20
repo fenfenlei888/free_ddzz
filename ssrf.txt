@@ -1,18 +1,3 @@
-https://059183.com
-http://helpdesk.dataguru.cn
-http://www.52itstyle.top
-http://1.196.222.84:8181
-http://www.4kjia.com
-https://www.shopping.gkzj.net
-http://www.hntz03.com
-http://www.tonghuar.com
-http://bbs.hysine.cn
-https://77scw.com
-http://121.42.13.206
-http://bbs.chinahrd.net
-http://38.121.62.70
-http://203.33.224.178:8081
-http://219.136.240.11
 http://plus.udigital.cn
 http://www.x505.cn
 http://discuz.myesball.net
@@ -2888,6 +2873,7 @@ http://www.jinggzj.com
 http://nd.180724.com
 http://www.njsxkz.com
 http://www.romjz.com
+http://www.hrxuexi.com
 http://heyuan.180724.com
 http://www.jzlqw.com
 http://www.p2pux.com
@@ -3107,6 +3093,7 @@ https://www.hzyw6.com
 http://www.xy28home.com
 http://www.klsh.com
 http://www.ejia7.net
+http://sjqsy.cn
 https://autoconfig.staging.gkzj.net
 http://www.665bao.com
 http://www.acggirl.moe
@@ -3235,6 +3222,7 @@ http://vpsxuexi.com
 http://x505.cn
 http://bbs.highot.net
 http://51ibm.com
+http://bbs.bzxzk.net
 http://changji.w91.cn
 http://103.59.101.157
 http://107.189.181.18
@@ -3488,8 +3476,18 @@ http://112.74.44.170
 https://www.hanwowo.com
 http://bbs.qinxue.com
 http://www.hmqg.com
+http://helpdesk.dataguru.cn
+http://1.196.222.84:8181
+https://www.shopping.gkzj.net
+http://www.tonghuar.com
+http://www.hntz03.com
 http://www.hhht66666.com
 http://bbs.niubt.cn
+https://77scw.com
+http://bbs.hysine.cn
+http://121.42.13.206
+http://bbs.chinahrd.net
+http://203.33.224.178:8081
 http://www.haoyoushi.cn
 http://www.zgyjr.com
 http://49.232.191.228
@@ -3604,6 +3602,7 @@ http://www.sheniaorenw.com
 http://forum.godpub.com
 http://sm.184409.com
 http://0757111.com.pipione.cn
+http://www.nanlove.com
 http://sz.68866886.net
 http://www.redbaoba.com
 http://www.441109.com
@@ -3619,6 +3618,7 @@ http://nztd7.com
 http://skywj.com
 http://www.unwichp.org
 http://yangchun.180724.com
+http://qiyuandi.cn
 http://www.kancolly.com
 http://www.minuscule.cn
 http://icqu.cn
@@ -3656,6 +3656,7 @@ http://baise.180724.com
 http://116.255.230.131:8087
 http://567hw.com
 http://1.15.174.14:81
+http://www.idsky.net
 http://qionghai.180724.com
 https://sixiantongxiang.com
 http://www.baishabowuguan.com
@@ -3690,6 +3691,7 @@ https://www.ccbn.com.cn
 http://yl.180724.com
 http://47.93.191.207
 https://mdq.mdxxw.cn
+http://lt0550.com
 http://ruian.184409.com
 http://lc.180724.com
 http://yc.oa57.net
@@ -3769,6 +3771,7 @@ http://sytu.23du.com
 http://allyworld.xicp.net:8092
 http://45.79.218.47
 http://www.oa57.net
+http://www.yishenglihanchen.cn
 http://www.jdzyg.com
 http://tunchang.180724.com
 http://test.eltxdmuseum.com
@@ -3982,6 +3985,7 @@ http://www.myh360.com
 http://1tjy.com
 https://bbs.crossincode.com
 http://huaibei.180724.com
+https://huhutong315.com
 http://www.sifa.org.cn
 http://bbs.srfc.com.cn
 https://www.hkturtle.org
@@ -4784,8 +4788,13 @@ http://hf.mamacn.com
 http://bbs.qianfanyun.com
 http://mypanku.com
 http://www.xinmitong.cn
+https://059183.com
+http://www.52itstyle.top
 http://yalianedu.net
+http://www.4kjia.com
 http://bbs.we11cn.com
+http://38.121.62.70
+http://219.136.240.11
 https://manhua.huaigirls.com
 http://www.ing10bbs.com
 http://68.168.141.140:81
@@ -4935,6 +4944,7 @@ http://www.mahamaha.com
 http://changji.180724.com
 http://ta.184409.com
 http://www.lyhw.net
+http://bbs.wtoqc.net
 http://www.bangjia110.com
 http://5ihome.net
 http://www.365da.com
@@ -4962,6 +4972,7 @@ http://hanzhong.184409.com
 http://dz.xiapuapp.com
 http://www.huateair.com:89
 http://tj.ckuyun.com
+http://ibmhome365.com
 http://bsrjyy.cn
 http://www.cheaixi.cc
 http://fp2d.cn
