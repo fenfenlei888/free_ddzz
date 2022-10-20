@@ -1,4 +1,3 @@
-http://www.ctyhlt.com
 http://combat2000.cn
 http://www.toohost.es
 http://www.sctz5.com
@@ -4040,6 +4039,7 @@ http://bbs.tianmingxy.com
 http://bbs.wolfcode.cn
 http://shanghainianhua.com
 http://bbs.focusdo.cn
+http://www.ctyhlt.com
 http://bbs.c3.wuyou.net
 http://bbs.daxianju.cn
 http://www.zhi-pu.com
@@ -4055,6 +4055,7 @@ http://www.kjsq.net
 http://60.173.107.196:6666
 https://www.retroco.co
 http://forum.godpub.com
+http://hbqhome.com
 http://bbs.feidou.com
 https://www.rmu7.club
 http://cn-sh.cn
