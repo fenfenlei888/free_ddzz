@@ -1037,6 +1037,7 @@ http://go141.net
 http://www.yxssy.com
 http://101.42.177.34
 http://www.goonecity.com
+http://104.131.159.229
 http://47.91.224.153
 http://changdu.184409.com
 http://www.davinci-cg.com
@@ -1413,6 +1414,7 @@ http://120.198.76.2:82
 https://wd.dangbei.com
 http://www.cfan.cc
 http://www.imeiai.com
+http://redchinacn.org
 http://122.114.131.71:7777
 http://www.kcb2b.cn
 http://bbs.coatu.com
@@ -2107,6 +2109,7 @@ http://www.shhuu.com
 http://sglpw.cn
 http://www.zentrue.com
 https://80wusun.com
+http://redchinacn.net
 http://www.pc1999.com
 http://security.magicworks.net
 http://www.bikesky.com
@@ -2804,6 +2807,7 @@ https://www.365xiaochi.net
 http://xlibbs.com
 https://bbs.3dmgame.com
 http://zunyi.184409.com
+http://www.redchinacn.net
 http://www.swothouse.com
 http://www.hiliuyang.com
 http://120.77.173.188:88
@@ -3136,6 +3140,7 @@ http://50.shart.cn
 http://bbs.ai-thinker.com
 http://www.dzdcom.com
 http://ganzhou.184409.com
+http://www.redchinacn.org
 http://www.zhbanker.com
 https://zgglkyw.daqufa.com
 http://www.baidutz.net
