@@ -1,4 +1,3 @@
-http://km.mamacn.com
 http://194520.com
 http://haining.184409.com
 http://shouguang.184409.com
@@ -3484,6 +3483,7 @@ http://www.minuscule.cn
 http://tuchuangkeji.com
 http://icqu.cn
 http://dafeng.180724.com
+http://www.5xhome.com
 http://52.8.20.93
 http://bbs.guangsyl.cn
 https://www.webzx.net
@@ -5098,6 +5098,7 @@ https://swhswl.com
 http://borexf.com:34567
 http://www.openloongson.cn
 http://101.35.175.119
+http://km.mamacn.com
 http://boesea.com
 https://sts10.xyz
 http://www.yunxi.net
