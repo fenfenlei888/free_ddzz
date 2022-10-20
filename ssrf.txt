@@ -198,6 +198,7 @@ http://webdisk.travel.myubbs.com:62078
 http://bbs.huakebosi.com
 http://www.qx4.cn
 http://www.mypanku.com
+http://wx.dagangcheng.com
 http://www.rlctech.com:8888
 http://chizhou.w91.cn
 http://sy.180724.com
@@ -443,6 +444,7 @@ https://24maker.com
 https://www.tzbbs.com.cn
 http://xiangshan.184409.com
 https://autodiscover.es.gkzj.net
+http://bbs.bingchengwang.com
 http://www.newhuashang.com
 http://101.43.34.8
 http://blog.leslie-cheung.com
@@ -762,6 +764,7 @@ http://www.keduhuiplaza.com
 https://yiyouhome.cn
 http://communitytest.ruijienetworks.com
 http://114.55.142.165
+http://bbs.0598yu.com
 http://www.xcsalon.com
 http://timmad.com
 http://www.djd365.com
@@ -1266,6 +1269,7 @@ http://www.91show.club
 http://cowork.jrjkg.com.cn
 https://52tikong.com
 http://www.cgebook.com
+http://bbs.5iyq.com
 http://360hudong.com
 https://www.sxhonor.com
 http://baishan.aizse.com
@@ -1988,6 +1992,7 @@ http://jiankangxingqiu.com
 http://bbs.mongoosenest.org
 http://106.75.247.44
 http://113.254.20.186:8084
+http://g.5iyq.com
 http://gushu7.com
 http://jade.yuxiangshequ.com
 http://bbs.skykiwi.com
@@ -2859,6 +2864,7 @@ http://wuhu.184409.com
 http://106.225.209.33:8081
 https://bbs.yaozh.cn
 http://1tzwz.com
+http://bbs.my0557.cn
 http://123.59.206.214:31206
 http://shtzw.net
 http://yt.180724.com
@@ -3695,6 +3701,7 @@ http://mg.180724.com
 https://yuelan8.com
 http://huangshan.180724.com
 http://club.lrswl.com
+http://www.0598yu.com
 http://bbs.wangjing.cn
 http://www.jkzmd.com
 http://www.business.myubbs.com:62078
