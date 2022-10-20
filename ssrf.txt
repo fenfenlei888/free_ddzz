@@ -516,6 +516,7 @@ http://bbs.ipcgta.com
 http://134.175.25.191
 http://ks.184409.com
 https://hc.0771ao.com
+https://wujiesec.com
 http://bbs.epday.com
 https://bbs.ikuai8.com
 http://123.57.84.98:8099
@@ -2600,6 +2601,7 @@ http://pop.cpure.org
 http://www.feicuibbs.cn
 http://fd.bbs.9wee.com
 http://wiki.keepcloud.cn
+http://www.fmdevelopers.com.cn
 http://bbs.blackshark.com
 http://120.24.60.68
 http://www.iaacp.org
@@ -2722,6 +2724,7 @@ http://www.luori.net
 http://www.pvkj.com
 http://www.penbbs.com
 http://bbs.compressor.cn
+http://47.98.102.245:8080
 https://www.hxwke.com
 http://9wo.3eyun.com
 http://forum.android-studio.org
