@@ -1,6 +1,3 @@
-http://www.motoing.com.cn
-http://smtp.cpure.org
-http://47.96.40.243:8080
 http://www.cfdbbs.net
 https://bbs.17tui.cc
 http://140.143.244.108
@@ -2909,6 +2906,7 @@ http://hiliuyang.com
 http://47.97.181.149:8097
 http://baotou.aizse.com
 https://fengniao151.com
+http://soluxhome.cn:81
 http://xyw086.com
 http://www.fumanyou.cc
 http://0731gayt.com
@@ -3445,6 +3443,9 @@ http://www.nakuz.com
 http://www.dlhw.net
 http://sl.180724.com
 https://bbs.07340.com
+http://smtp.cpure.org
+http://www.motoing.com.cn
+http://47.96.40.243:8080
 http://www.234.name
 http://www.zjmyjs.com
 http://jy.184409.com
@@ -4308,6 +4309,7 @@ http://demo.zimucms.com
 http://www.pxzjz.com
 http://www.goo0.cn
 https://www.gxit.org
+http://www.soluxhome.cn:81
 http://mail.verycare.org
 http://i.idrugs.cn
 http://news.dataguru.cn
