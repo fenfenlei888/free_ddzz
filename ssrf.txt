@@ -1,6 +1,3 @@
-http://www.jiankangxingqiu.com
-http://forum.iyingwu.net
-http://47.92.221.168
 https://www.178448.com
 http://bj.180724.com
 http://bbs.iapply.cn
@@ -3462,6 +3459,8 @@ http://bengbu.184409.com
 http://gg.180724.com
 http://47.90.16.162
 http://bbs.dult.cn
+http://forum.iyingwu.net
+http://47.92.221.168
 http://bbs.sugas.site
 https://www.sts1.xyz
 http://www.zpinfo.net
@@ -3739,6 +3738,7 @@ http://hegang.180724.com
 http://zy.180724.com
 http://119.29.153.216:81
 https://wzbj.beizongren.cn
+http://www.macheng.net.cn
 http://112.126.82.224
 http://bygl.180724.com
 http://www.mamayujia.com
@@ -4867,6 +4867,7 @@ http://118.24.141.115:8000
 http://www.smdsw.cn
 http://rxshenqi.net
 http://66.160.158.132
+http://www.jiankangxingqiu.com
 http://www.zbhw.com
 http://www.bjsax.com
 https://365xiaochi.net
@@ -4923,6 +4924,7 @@ http://www.ngsdyxx.com
 http://92fj.com
 http://hu.180724.com
 http://tl.184409.com
+http://wzjs.1024sj.xyz
 http://www.bsrjyy.cn
 http://atvoc.com
 http://bbs.0592gay.com
