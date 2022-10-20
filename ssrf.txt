@@ -1,14 +1,3 @@
-https://tieba.cuit.org.cn
-http://lincang.180724.com
-http://www.goo0.cn
-http://120.26.51.175
-https://www.gxit.org
-http://123.60.57.99
-http://i.idrugs.cn
-http://www.ahtongzhi.com
-http://www.sswchina.cn
-http://news.dataguru.cn
-http://bbs.roobo.com
 http://popo0227.myds.me
 http://www.zzjggs.com
 http://bbs.weixinrj.com
@@ -3328,6 +3317,7 @@ http://43.142.14.33:81
 http://zhuzhou.180724.com
 http://www.5acnc.cn
 http://sys.184409.com
+http://post.my0514.net
 http://www.baisha0898.com
 https://bbs.epower.cn
 http://47.93.190.167
@@ -3694,6 +3684,7 @@ https://help.massdesign.cn
 http://10.ustcjz.cn
 http://101.200.172.3
 https://dev.okfun.org
+http://www.shenwujun.com
 http://www.yaodumod.com
 http://bbs.cnecport.com
 http://www.ddsfw.cn
@@ -3717,6 +3708,10 @@ http://love.ytbbs.com
 http://bangbu.aizse.com
 http://www.qshapan.com
 http://bbs.dmoli.com
+http://lincang.180724.com
+http://120.26.51.175
+http://123.60.57.99
+http://www.sswchina.cn
 http://tc.rlwsh.com
 http://www.xng17.xyz
 http://zhuji.184409.com
@@ -3813,6 +3808,7 @@ https://post76.hk
 http://www.micro-dsp.comcncontactwsw.nakuz.com
 http://zx.184409.com
 https://www.retroco.co
+http://canadalondonchinese.com
 http://www.58wh.com
 http://nn.184409.com
 http://micro-dsp.comcncontactwsw.nakuz.com
@@ -3821,6 +3817,7 @@ http://hzvtc.xiasha.cn
 http://www.mangoscn.com
 https://www.longjingshuochang.com
 http://chengqu.com
+http://www.ywzt.top:7777
 http://chessocean.com
 http://www.circusannarbor.com
 http://comcnncontactwww.nakuz.com
@@ -3871,6 +3868,7 @@ https://www.0816.love
 http://admin.in.ilovexclub.com
 http://www.fengsheng.cc
 http://www.tdwqs.com
+http://www.canadalondonchinese.com
 https://www.ccbn.com.cn
 http://47.93.191.207
 https://mdq.mdxxw.cn
@@ -4187,6 +4185,7 @@ http://www.028gay.net
 http://china-africa.cn
 https://www.tzbbs.com.cn
 http://bbs.bingchengwang.com
+http://www.sanmaobbs.com
 http://zhoushan.184409.com
 http://www.doubanchong.com
 http://101.43.34.8
@@ -4304,6 +4303,7 @@ http://bbs.dawansheng.com
 http://www.tshopping.com.tw
 http://172.104.190.175
 http://60.173.107.196:8100
+http://www.yqsjob.com
 http://www.1opk.com
 http://www.zydgbbs.com
 https://fc.dcjixiang.com
@@ -4418,6 +4418,13 @@ http://t.diandee.com
 http://czn.com.cn
 http://221.6.48.113:88
 http://syet.net
+https://tieba.cuit.org.cn
+http://www.goo0.cn
+https://www.gxit.org
+http://i.idrugs.cn
+http://news.dataguru.cn
+http://www.ahtongzhi.com
+http://bbs.roobo.com
 http://www.hrbpet.org
 http://yj.184409.com
 http://sdu.myubbs.com
