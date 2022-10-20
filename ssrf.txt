@@ -1,6 +1,3 @@
-http://zjyyc.xiasha.cn
-http://hntz01.com
-http://opticaldesign.oecr.com
 http://www.lakwdian.com
 http://www.3gmir3.com
 http://www.hytangbao.com
@@ -4935,6 +4932,7 @@ http://gamesos.co.kr
 http://bbs.rauz.net.cn
 https://bbs.bdp.cn
 http://www.ornithopter.cn
+http://www.dayinpiano.com
 http://wx.mamacn.com
 http://39.109.112.72
 http://jxfuli.tk
@@ -5111,6 +5109,9 @@ http://wordpress.wxdaiyan.cn
 http://www.ifans.site
 http://218.22.200.36
 http://bj.184409.com
+http://zjyyc.xiasha.cn
+http://opticaldesign.oecr.com
+http://hntz01.com
 http://linzhi.184409.com
 https://www.teach66.com
 http://bozhou.184409.com
@@ -5317,6 +5318,7 @@ http://sh1069.cc
 https://www.verycare.org
 https://aibaogame.com
 http://0527jsw.com
+http://pjgy.com.cn
 http://www.yunshubiao.com
 http://nb.180724.com
 http://www.xcex.net
