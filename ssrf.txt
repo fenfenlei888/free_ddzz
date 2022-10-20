@@ -535,6 +535,7 @@ http://www.zhengjimtcn.com
 http://chinatree.com
 http://119.3.216.156
 http://www.diytwo.com
+http://www.fqlook.cn
 http://www.pianopaper.net
 http://forum.go2tutor.com
 https://bbs.xiaoyuer.com
@@ -1801,6 +1802,7 @@ http://dlhw.net
 http://110.76.44.26
 https://club.dangbei.com
 http://www.nhjd.net
+https://www.fqlook.cn
 http://display.oecr.com
 http://www.venews.cn
 http://bbs.2r3r.com
@@ -3610,6 +3612,7 @@ http://tw-redi.com
 http://dongying.w91.cn
 http://wendan.com.cn
 http://sxjszx.com.cn
+https://bbs.hcharts.cn
 http://www.sc69.cc
 http://111.67.192.156
 https://bbs.ltxinbing.com
