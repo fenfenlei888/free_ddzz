@@ -24,6 +24,7 @@ http://www.hdkaraokesong.com
 http://klmy.184409.com
 http://www.lovechul.com
 http://www.morelfans.cn
+http://bbs.aiyidu.com
 http://www.laotingbest.com
 http://www.tkway.com
 https://www.artceda.com
@@ -125,6 +126,7 @@ http://13.113.177.206:81
 http://www.ppfeng.com
 http://www.cuzhiwang.com
 https://www.88flw.co
+http://tuan.aiyidu.com
 http://www.xsgbbs.com
 http://52.8.132.183
 http://www.199u2.com
@@ -623,6 +625,7 @@ http://ofc.oecr.com
 http://www.ljdb.net
 http://hntz03.com
 http://bbs.xiushui.net
+http://www.yiminchaoshi.com
 https://bbs.o2jam.cc
 http://www.zhujiwanjia.com
 http://www.saojie.org
@@ -752,6 +755,7 @@ http://bbs.cnblackhat.com
 http://hntz02.com
 http://b.ns.e.myubbs.com:62078
 https://shuolianai.com
+http://bbs.txfang.cn
 http://qj.184409.com
 https://help.massdesign.cn
 http://xc.yuxinanmo.com
@@ -1146,6 +1150,7 @@ http://imfec.myubbs.com
 http://qyzb.com.cn
 http://bbs.xtjc.com
 http://dult.cn
+http://www.aiyidu.com
 http://www.yeei.cn
 http://bbs.santai.ren
 http://dhcp.pilsnet.uttbbs.com
@@ -1848,6 +1853,7 @@ http://yongyifamen.com
 http://www.ill624.cc
 http://bz.184409.com
 http://xa.184409.com
+http://liuxuebbs.yiminchaoshi.com
 https://www.xjdyt.cn
 http://www.imcema.org
 http://club.22.cn
@@ -2021,6 +2027,7 @@ http://www.sxjszx.com.cn
 http://159.203.53.181
 http://bbs.lineage2.gamesdata.name
 http://104.143.10.132:8888
+http://184.95.51.82:8080
 http://www.erji.hk
 http://www.11sgz.com
 http://www.whhbat.com
@@ -2029,6 +2036,7 @@ http://crm.uttbbs.com
 http://xsgbbs.com
 http://www.bb.uttbbs.com
 http://64.32.12.100:443
+http://114.55.57.179
 http://bbs.superic.com
 http://www.youcsky.com
 http://bleachcn.net
@@ -2491,6 +2499,7 @@ http://www.sctz1.com
 http://mail.centerbbs.com
 http://59.127.158.12
 http://150.109.146.88
+http://114.aiyidu.com
 http://sctz10.com
 http://www.csgkplc.com
 http://bbs.csgkplc.com
@@ -2965,6 +2974,7 @@ http://138.2.17.133
 http://52brain.com
 http://3.88.235.9
 http://ifunstar.com
+https://love.puaok.com
 https://bbs.xuanshang95.com
 http://qinyeba.com
 http://suzhou.mamacn.com
@@ -2990,6 +3000,7 @@ http://www.ctxk.cc
 http://www.xzhdyy.com
 https://bbs.ca168.com
 http://www.xingfudgy.com
+http://web.aiyidu.com
 http://106.55.38.226
 http://www.cpite.cn
 https://www.cgdream.com.cn
@@ -3172,6 +3183,7 @@ http://www.luoyouming.cc
 https://www.doudouxiyan.com
 http://47.102.199.28:9000
 http://www.yevr.top
+http://sns.aiyidu.com
 http://www.cmenews.cn
 http://news.yanfabu.com
 http://zongyi.oyuw.com
@@ -3575,6 +3587,7 @@ http://www.sngdzx.cn:8088
 https://bbs.sific.com.cn
 https://api.onecoolzone.com
 https://bbs.shouxi.com
+http://60.250.151.82:8005
 http://www.sctzgay.com
 http://buy.ytbbs.com
 http://bbs.miji7.com
