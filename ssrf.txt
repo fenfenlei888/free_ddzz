@@ -200,6 +200,7 @@ http://www.ji14.com
 http://www.sierracharlie.users.uttbbs.com
 http://baish.184409.com
 http://www.zpxsxk.com
+http://121.199.48.191:89
 https://vip.yjxsoft.com
 http://www.nongdui.com
 https://www.haidiaoren.com
@@ -833,6 +834,7 @@ http://www.31shenghuo.com
 http://bbs.inter.net.cn
 http://www.biotrainee.com
 http://luzhou.180724.com
+http://ispeak.cn
 https://bbs.kangantu.com
 http://47.242.131.150
 http://search.uttbbs.com
@@ -1307,6 +1309,7 @@ https://mxeia.com
 http://028tz.cc
 http://39.103.201.166
 http://dn.nakuz.com
+http://47.111.178.35
 http://chinae68.com
 http://www.264400.com
 http://www.showing9.com
@@ -1446,6 +1449,7 @@ http://www.hisnj.com
 http://www.2001n.com
 http://120.53.117.240
 http://www.ratbxh.com
+https://www.audionet.com.tw
 http://www.huaxuepai.com
 http://119.29.99.54
 http://www.soe-parrot.com
@@ -2698,6 +2702,7 @@ http://124.223.212.110
 http://www.yuxinanmo.com
 http://www.haoshu5.com
 http://www.bugs.myubbs.com:62078
+https://ispeak.cn
 http://material.oecr.com
 http://www.btuge.com
 http://gobbit.users.wxdaiyan.cn
