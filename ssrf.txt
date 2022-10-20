@@ -1,4 +1,3 @@
-http://www.tcgzw.cn
 http://51fpush.com
 http://www.xingzhefeng.com
 http://111.229.210.245
@@ -4209,6 +4208,7 @@ http://bbs.whhgq.com
 http://love.ziyoumao.com
 http://www.csrworld.cn
 http://106.55.169.186:8088
+http://www.tcgzw.cn
 http://gzwt.tk
 http://www.doubanchong.com
 http://bbs.cngansu.cn
