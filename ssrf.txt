@@ -1,4 +1,3 @@
-http://bbs.huawin.com
 http://8.210.192.73
 http://help.wxdaiyan.cn
 http://139.162.60.118
@@ -3537,6 +3536,7 @@ http://bleach.bleachcn.net
 http://116.90.83.61
 http://23.234.195.237
 http://lx.oa57.net
+http://bbs.huawin.com
 http://ywzt.top:7777
 http://chengde.180724.com
 http://www.tianbaochina.cn
@@ -3650,6 +3650,7 @@ http://chessocean.com
 http://hx.180724.com
 http://www.circusannarbor.com
 http://wzs.180724.com
+http://www.networktalking.com
 http://bn.180724.com
 http://comcnncontactwww.nakuz.com
 http://ankang.180724.com
