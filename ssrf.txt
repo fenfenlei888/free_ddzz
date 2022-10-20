@@ -1,6 +1,3 @@
-http://www.soul-core.cn
-http://www.p2pux.com
-http://www.duyadi.com
 http://www.jiuguji.com
 https://www.kangfuzhe.org
 http://image.cool-de.com
@@ -3750,6 +3747,9 @@ http://nd.180724.com
 http://www.njsxkz.com
 http://www.romjz.com
 http://www.jzlqw.com
+http://www.p2pux.com
+http://www.soul-core.cn
+http://www.duyadi.com
 http://www.fuximiao.cn
 http://lb.184409.com
 http://cgzsnj.hbck.com.cn
@@ -4376,6 +4376,7 @@ http://rugao.184409.com
 http://wfd.184409.com
 http://www.5ihome.net
 http://wifi.netzone.com
+http://huateair.com:89
 http://canon.oa57.net
 https://maiyadi.org
 http://www.comeonyoga.cn
@@ -4493,6 +4494,7 @@ http://sdu.myubbs.com:62078
 http://tuangou.fulingws.com
 http://hanzhong.184409.com
 http://dz.xiapuapp.com
+http://www.huateair.com:89
 http://fp2d.cn
 http://linfen.184409.com
 http://www.itmxc.com
