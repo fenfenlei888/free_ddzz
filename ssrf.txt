@@ -1,5 +1,3 @@
-http://sh-nfc.com
-http://nc.180724.com
 http://www.tianranqijiaoyizhongxin.com
 http://www.puyiji.com
 http://hz.180724.com
@@ -3630,6 +3628,7 @@ http://combat2000.cn
 http://www.toohost.es
 http://ffans.vip
 http://www.0799lh.com
+https://www.jomen.net
 http://dali.aizse.com
 http://shgm.net
 http://irobo.org
@@ -3868,6 +3867,7 @@ http://cgzsnj.hbck.com.cn
 http://101.32.36.36
 http://ppdm.us
 http://www.fhsx.net.cn
+http://jomen.net
 http://hn.184409.com
 https://www.lcxlyy.com
 http://www.yaodumod.com
@@ -4261,6 +4261,8 @@ http://bbs.gzhifi.com
 http://www.0516k.com
 http://www.sctz0.com
 http://aimang.net
+http://sh-nfc.com
+http://nc.180724.com
 http://45.253.65.194:8899
 https://www.zm137.com
 http://www.gonghedd.com
