@@ -251,6 +251,7 @@ http://bbs.abntest.com
 http://218.94.144.26:8080
 http://39.108.219.42
 http://www.idicbc.com
+http://www.jdwxs8.com
 http://www.beelark.com
 http://zjfc.xiasha.cn
 http://www.xiaogq.com
@@ -346,6 +347,7 @@ http://www.dandao.net
 http://lbpv.cc
 http://www.inwaishe.com
 http://www.871daiyun.com
+http://172.105.218.161
 http://www.88yogo.com
 http://www.shart.cn
 http://1069.club
@@ -583,6 +585,7 @@ http://www.zfwz.net
 http://www.98905.com
 http://lin.ywzt.wang
 http://bbs.qianbaomm.com
+http://home.thunisoft.com:8082
 https://fuckoz.com
 http://www.zhaoyouning.com
 http://bbs.lgrapp.cn
@@ -638,12 +641,15 @@ http://101.200.172.3
 http://hf.184409.com
 http://www.zhilexue.tech
 https://dev.okfun.org
+http://103.30.40.31
 http://bbs.xunpiaowang.com
 http://bbs.cnecport.com
 https://121.196.191.46
 http://www.fuwen1.com
+http://101.132.72.239
 http://112.74.88.149
 http://yk.180724.com
+http://bbs.zangshinian.com
 http://8888888.ltd
 http://www.manmanqi.com
 http://bbs.8yx.com
@@ -1057,6 +1063,7 @@ http://bbs.swiper.com.cn
 http://www.h596.com
 http://www.linsivvi.com
 http://diqing.aizse.com
+http://www.chinahost.org
 http://148.70.21.123
 http://221.6.48.116
 http://zh.180724.com
@@ -1528,6 +1535,7 @@ http://www.waqxw.com
 http://baby12345.cn
 http://www.playacg.com
 http://159.75.202.8:8080
+http://144.202.126.147
 http://bbs.focusky.com.cn
 https://www.terrartanis.com
 http://www.51ele.net
@@ -1591,6 +1599,7 @@ http://www.heikejiedan1.com
 http://223.111.136.156
 http://demo.daihuo100.com
 http://111.67.204.3
+http://120.27.61.75:8082
 http://baiyin.w91.cn
 http://light.oecr.com
 http://www.913js.org
@@ -1699,6 +1708,7 @@ http://www.sxjszx.com.cn
 http://159.203.53.181
 http://bbs.lineage2.gamesdata.name
 http://104.143.10.132:8888
+http://www.erji.hk
 http://www.11sgz.com
 http://www.whhbat.com
 http://www.zgbbs.org
@@ -1971,6 +1981,7 @@ http://t.xiasha.cn
 http://www.minsu.com.cn
 http://sctz5.com
 http://www.mycuc.cn
+http://114.116.87.236
 http://www.vsj.wang
 http://bbs.cuug.com
 http://www.youjiaotv.com
@@ -2461,6 +2472,7 @@ http://olh557.cc
 http://www.jiadianmofang.com
 https://bbs.luzhou28.com
 http://106.75.247.44:8089
+http://u.ytbbs.com
 http://210.56.60.100
 http://www.huangdineijing.com
 http://bbs.shiqi.xin
@@ -2728,6 +2740,7 @@ http://www.anluw.com
 http://www.firemail.wang:8088
 http://yf.jyrm.cn
 http://xiantao.180724.com
+http://47.52.110.238
 https://www.uujh1.com
 http://cloud.wxdaiyan.cn
 http://www.5imx.com
@@ -2860,6 +2873,7 @@ http://bbs.hjbxw.com
 http://www.jbsfdc.com
 https://bbs-dev.xuanshang12.cn
 http://bbs.medoo.hk
+http://49.5.2.178
 http://www.pinxijy.com
 http://www.toohost.info
 http://bbs.himi.club
