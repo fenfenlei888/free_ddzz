@@ -289,6 +289,7 @@ https://www.sousouyo.com
 https://s.epwk.com
 http://47.94.168.215
 http://116.255.230.131:8086
+http://115.238.255.143:88
 http://www.onehdasia.com
 http://www.coltansmart.com
 http://51uwb.cn
@@ -753,6 +754,7 @@ http://bbs.ztrxw.cn
 http://rjcomm.fengdasoft.com
 http://www.hjbxw.com
 http://www.jmczsoft.com:82
+https://www.hiliuyang.com
 http://www.haga7.club
 http://dhcp.pilsnet.myubbs.com:62078
 http://www.santafe.tw
@@ -796,6 +798,7 @@ http://www.zdvictory.com
 http://bid.lingtuan.com
 http://f.pil.tw
 http://cy.180724.com
+http://wpn352.cc
 http://bazhong.184409.com
 http://sc1069.cc
 http://host.dataguru.cn
@@ -910,6 +913,7 @@ http://www.1tzwz.com
 https://www.55art.com
 http://px.184409.com
 http://www.ofe501.cc
+http://hiliuyang.com
 http://www.myibin.cn
 http://51ssjx.top
 http://baotou.aizse.com
@@ -1255,6 +1259,7 @@ https://www.zippobymazziinchina.com
 https://www.macw.cn
 http://www.tjzjbbs.com
 https://cclme.cn
+http://www.wpn352.cc
 http://imaoigou.cn
 http://bbs.sijige.net
 http://2021.caiwubaobiao.com
@@ -2287,6 +2292,7 @@ http://ww.oyuw.com
 http://changxing.180724.com
 http://bbs.asitb.cn
 http://www.twnnn.com
+https://www.xiaot.com
 https://zjdg.com
 http://pld.184409.com
 http://121.199.48.191:86
@@ -2415,6 +2421,7 @@ http://xlibbs.com
 https://bbs.3dmgame.com
 http://zunyi.184409.com
 http://www.swothouse.com
+http://www.hiliuyang.com
 http://jianfangmi.com
 http://www.0734zly.com
 http://www.minhofans.com
@@ -2893,6 +2900,7 @@ https://mouxue.com
 https://bs.0771ao.com
 https://bbs.lingkee.cn
 https://yuzhe.liyiyi.name
+http://junweidianqi.cn
 http://bbs.jf210.com
 http://nt.184409.com
 https://www.zhinanzhen.org
@@ -3079,6 +3087,7 @@ http://www.suixin888.com
 http://www.space-empires.com
 http://sys.180724.com
 http://108.170.5.77:8080
+http://www.junweidianqi.cn
 http://bbs.liyang-tech.com
 https://pucatalyst.com
 https://www.portal.gkzj.net
@@ -3141,6 +3150,7 @@ http://www.lingdian.org.cn
 http://39.107.78.109
 https://x505.cn
 http://43.136.176.17
+https://bbs.xiaot.com
 http://www.qixingquan.com
 http://wd.znds.com
 https://53.kuzou.cn
