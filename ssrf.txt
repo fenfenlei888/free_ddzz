@@ -1,4 +1,3 @@
-http://www.venews.cn
 http://bbs.2r3r.com
 http://47.75.87.77
 http://www.combat2000.cn
@@ -3422,6 +3421,7 @@ http://www.mpjzxh.cn
 http://110.76.44.26
 https://www.fqlook.cn
 http://display.oecr.com
+http://www.venews.cn
 http://lyg.180724.com
 http://www.kjsq.net
 http://www.iwantfind.com
@@ -3554,6 +3554,7 @@ http://laoguanhe.com
 http://youook.com
 http://cn-sh.cn
 http://cdxcdx.com
+http://hn0756.com
 https://user.vlabpro.com
 http://www.waigeshetuan.com
 http://bbs.70jj.com
