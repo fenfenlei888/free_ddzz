@@ -877,6 +877,7 @@ http://bbs.dmoli.com
 https://tieba.cuit.org.cn
 http://lincang.180724.com
 http://www.goo0.cn
+http://120.26.51.175
 https://www.gxit.org
 http://123.60.57.99
 http://i.idrugs.cn
@@ -999,6 +1000,7 @@ http://47.242.131.150
 http://search.uttbbs.com
 http://www.xn--7hvu6lcwr.com
 http://bbs.chinadjba.com
+http://www.vpsxuexi.com
 http://www.28tongji.com
 http://www.zyys128.com
 http://108.170.5.98
@@ -1230,6 +1232,7 @@ http://xiaoyeren.com
 http://bbs.51xisui.com
 http://www.wuchangqu.com
 http://mf.2math.cn
+http://vpsxuexi.com
 http://bbs.uccool.com
 http://58.248.64.173:9090
 https://93e.cc
@@ -1481,6 +1484,7 @@ http://bbs.vbsa.com.au
 http://www.0750.name
 http://www.1868888.com
 https://bbs.cnction.com
+http://www.gildland.com
 https://www.9xng.xyz
 http://118.31.165.148
 http://www.941cz.com
@@ -1733,6 +1737,7 @@ http://text.irtec.cn:1234
 http://7wyx.cn
 http://bbs.rocaircraft.com
 http://www.sdwsxy.cn
+http://en.gildland.com
 https://fans.solidworks.com.cn
 http://112.124.42.43:8081
 http://bbs.kazi.ai
@@ -3266,6 +3271,7 @@ http://bbs.51togic.com
 http://47.96.177.77
 http://160.238.87.187
 http://www.phmy.net
+http://106.13.214.207
 https://pcpc.club
 http://bbs.apisystem.cn
 http://138.2.17.133
@@ -3345,6 +3351,7 @@ http://help.qqtool8.com
 http://www.ogloszenia.myubbs.com:62078
 http://wap.jz100.com
 http://www.link.uttbbs.com
+http://chinayey.com
 http://qz.180724.com
 http://bbs.rhino3d.us
 http://jiashanx.184409.com
@@ -3563,6 +3570,7 @@ http://www.czn.com.cn
 http://ka.97973.com
 https://www.yunweiku.com
 http://www.demo2.myubbs.com:62078
+http://bbs.skycsc.cn
 http://www.yf77.com
 http://39.107.108.231:8088
 http://bbs.gyyrkj.com
@@ -3736,6 +3744,7 @@ https://x505.cn
 http://43.136.176.17
 http://vip.weistock.com:8081
 https://bbs.xiaot.com
+https://www.chinayey.com
 http://zhenzhubay.com
 http://www.qixingquan.com
 http://wd.znds.com
