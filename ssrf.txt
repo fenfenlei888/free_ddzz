@@ -1,6 +1,3 @@
-http://www.twlkbt.com
-http://www.52panku.com
-http://bbs.zggdxy.com
 http://www.0576qq.com
 http://112.90.82.4:8181
 http://120.25.151.191
@@ -3987,6 +3984,7 @@ http://www.rlctech.com:8888
 http://wx.dagangcheng.com
 https://7177.cn
 http://www.yalianedu.net
+http://www.twlkbt.com
 http://bbs.c3.wuyou.net
 http://htmlarticle25www.nakuz.com
 http://bbs.daxianju.cn
@@ -4162,6 +4160,8 @@ http://www.90houqq.com
 http://edu.jychina.com
 http://lkdie.com
 http://11sgz.com
+http://bbs.zggdxy.com
+http://www.52panku.com
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
@@ -4209,6 +4209,7 @@ http://bbs.fhsx.net.cn
 http://abbc.eu.org:7777
 https://dz.zhijianyun.net
 http://www.xng18.xyz
+http://www.qxs8.cc
 http://bbs.bossos.net
 http://www.gzwt.tk
 http://jxfuli.cf
