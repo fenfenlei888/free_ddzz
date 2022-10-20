@@ -1,5 +1,3 @@
-http://www.1868888.com
-https://bbs.cnction.com
 http://www.gildland.com
 https://www.9xng.xyz
 http://118.31.165.148
@@ -4704,6 +4702,8 @@ https://video.gkzj.net
 http://chifeng.184409.com
 http://bbs.zjtt.cn
 http://bbs.vbsa.com.au
+https://bbs.cnction.com
+http://www.1868888.com
 http://www.chessocean.com
 http://wn.184409.com
 http://www.chinasfj.cn
@@ -4983,6 +4983,7 @@ http://bbs.zjzx114.com
 http://jinggzj.com:8080
 http://www.qingquxuexiao.com
 http://www.gongkaobl.com
+http://zfzflw.com
 http://benmao8.com
 http://fuzhou.180724.com
 http://47.94.175.17:62078
