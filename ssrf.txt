@@ -1,4 +1,3 @@
-http://bbs.dmoli.com
 https://tieba.cuit.org.cn
 http://lincang.180724.com
 http://www.goo0.cn
@@ -3717,6 +3716,7 @@ http://www.adyouxi.com
 http://love.ytbbs.com
 http://bangbu.aizse.com
 http://www.qshapan.com
+http://bbs.dmoli.com
 http://tc.rlwsh.com
 http://www.xng17.xyz
 http://zhuji.184409.com
@@ -4567,6 +4567,7 @@ http://tuangou.fulingws.com
 http://hanzhong.184409.com
 http://dz.xiapuapp.com
 http://www.huateair.com:89
+http://tj.ckuyun.com
 http://www.cheaixi.cc
 http://fp2d.cn
 http://linfen.184409.com
