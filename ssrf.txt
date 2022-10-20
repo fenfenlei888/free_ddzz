@@ -867,6 +867,7 @@ http://ganzi.180724.com
 http://linzhi.180724.com
 http://www.goitos.com
 https://bbs.dahuagong.com
+https://www.wujiesec.com
 https://www.52tikong.com
 http://gj.jyrm.cn
 http://bbs.nowxue.com
@@ -977,6 +978,7 @@ http://xxqydh.com
 http://bbs.2016xiaozhuge.com
 http://www.fob0.com
 http://ecyinzi.dult.cn
+http://www.whyxsh.cn
 http://xhymsq.com
 http://411au.com.cn
 http://bbs.zhileng.com
@@ -1510,6 +1512,7 @@ http://180.150.187.10
 https://biz-abroad.com
 http://km.184409.com
 http://www.gtpeng.com
+http://bbs.moyansz.com
 https://webmail.gkzj.net
 http://bbs.qianfanyun.com
 http://hf.mamacn.com
@@ -1588,6 +1591,7 @@ https://www.audionet.com.tw
 http://bbs.zgtsm.com
 http://www.huaxuepai.com
 http://119.29.99.54
+http://whyxsh.cn
 http://www.soe-parrot.com
 http://www.fspd7.com
 http://www.514200.com
@@ -2303,6 +2307,7 @@ http://hotel.uttbbs.com
 http://www.yimawang.cn
 http://chnhealth.cn
 http://xn.184409.com
+http://ankix.shawsen.com
 http://www.irobo.org
 http://gzsfkj.com
 http://138.lmcpw.net
@@ -2728,6 +2733,7 @@ http://47.98.102.245:8080
 https://www.hxwke.com
 http://9wo.3eyun.com
 http://forum.android-studio.org
+http://47.75.184.95
 https://www.pucatalyst.com
 http://www.svipshare.com
 http://bbs.o2jam.cc
@@ -2936,6 +2942,7 @@ http://dingxi.aizse.com
 http://baishan.w91.cn
 http://exosome.com.cn
 http://81.69.28.144
+http://wsjlb.com
 https://blog.gdhealth.net
 http://sandbox.wxdaiyan.cn
 http://bbs.aiyuke.com
@@ -3082,6 +3089,7 @@ http://hanmi520.com
 http://mowangtuili.cn
 http://cta613.org
 http://bbs.258377.com
+http://www.testpv.com
 http://www.pmcenter.cn
 http://www.szwalking.com
 https://www.77scw.com
@@ -3505,6 +3513,7 @@ http://49.5.2.178
 http://116.62.6.91
 http://www.pinxijy.com
 http://www.toohost.info
+http://bbs.jiangyou.cn
 http://bbs.himi.club
 http://lzmcloud.com
 https://www.renrenzhuan.net
