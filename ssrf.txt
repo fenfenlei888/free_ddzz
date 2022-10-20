@@ -1474,6 +1474,7 @@ http://121.42.13.206
 http://bbs.chinahrd.net
 http://203.33.224.178:8081
 http://219.136.240.11
+http://plus.udigital.cn
 http://www.x505.cn
 http://discuz.myesball.net
 http://www.bmw8518.com
