@@ -1,7 +1,3 @@
-http://www.zhilexue.tech
-https://dev.okfun.org
-https://www.jiankangxingqiu.com
-http://zhi-pu.com
 http://dtganji.com
 http://103.30.40.31
 http://bbs.xunpiaowang.com
@@ -3611,6 +3607,7 @@ https://www.jiaomomo.com
 http://opticaltest.oecr.com
 http://www.oecr.com
 http://srfyf.zt.xa17.wang
+http://www.tanwanmao.net
 https://bbs.twinkstar.cn
 http://www.hr.myubbs.com:62078
 http://www.rxshenqi.net
@@ -3725,6 +3722,7 @@ http://bbs.txfang.cn
 https://help.massdesign.cn
 http://10.ustcjz.cn
 http://101.200.172.3
+https://dev.okfun.org
 http://www.yaodumod.com
 http://www.keaimao.com.cn
 http://tc.rlwsh.com
@@ -3826,6 +3824,7 @@ https://shop.wanxueyuan.cn
 http://hzvtc.xiasha.cn
 http://www.mangoscn.com
 https://www.longjingshuochang.com
+http://www.circusannarbor.com
 http://comcnncontactwww.nakuz.com
 http://www.farflunginfo.com
 http://184.95.51.85
@@ -3892,6 +3891,7 @@ http://www.aurice.com
 https://bbs.zhuzhou.com
 http://taixing.184409.com
 https://www.mabinogi.club
+http://waaax.top
 http://0470found.com
 http://wny.i234.me
 https://www.aurice.com
@@ -4290,6 +4290,7 @@ http://125.76.228.197
 http://csgkplc.com
 http://eskp.653200.net
 https://www.tuanlong.top
+http://www.waaax.top
 http://godox.pub
 http://101.42.154.241
 http://jiatc.com
@@ -4401,7 +4402,10 @@ http://bbs.inanxun.com
 http://xc.yuxinanmo.com
 http://cheaixi.cc
 http://hf.184409.com
+http://www.zhilexue.tech
 http://198.255.9.43
+https://www.jiankangxingqiu.com
+http://zhi-pu.com
 http://linxia.184409.com
 http://www.xunliaoyou.cn
 http://www.hrbpet.org
