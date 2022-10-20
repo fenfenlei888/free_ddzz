@@ -1,6 +1,3 @@
-https://bbs.dymy.org
-http://www.gxjk.cn
-http://134.175.116.248
 http://bbs.netzone.com
 http://glgsnw.com
 http://bbs.kedududu.com
@@ -2003,6 +2000,7 @@ http://99957764.deutron.com.tw
 http://hnrhrj.com
 https://www.tongziming.com
 http://entfly.com
+http://www.jj58.com.cn
 http://www.fenglove.com
 http://111.229.210.245
 http://help.saascard.com
@@ -3376,6 +3374,7 @@ http://www.gssjcjy.com
 http://www.gzsfkj.com
 http://paynews.net
 http://www.dxhb.cc
+http://134.175.116.248
 http://hzvtc.xiasha.cn
 http://godox.ltd
 http://www.mangoscn.com
@@ -3398,6 +3397,7 @@ http://ankang.180724.com
 http://sha0724.com
 http://www.farflunginfo.com
 http://gyusoft.com
+http://jj58.com.cn
 http://184.95.51.85
 http://www.iftee.com
 https://www.maiyadi.org
@@ -5209,6 +5209,8 @@ http://www.intehn.com
 http://chizhou.180724.com
 http://yhhongyue.eicp.net
 http://108.170.5.102:8080
+https://bbs.dymy.org
+http://www.gxjk.cn
 http://guangzhou2026.net
 http://hp.oa57.net
 http://www.elyoo.com
@@ -5412,6 +5414,7 @@ http://www.yhyhlt.com
 http://bmwowner.cn
 http://www.liuwenzheng.com.cn
 http://paperbert.com
+https://jj58.com.cn
 http://suzhou.180724.com
 http://chifeng.180724.com
 https://bbs-dev.pydp888.com
