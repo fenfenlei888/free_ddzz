@@ -1,6 +1,3 @@
-http://121.199.48.191:89
-https://vip.yjxsoft.com
-http://www.nongdui.com
 https://www.haidiaoren.com
 http://ty.mamacn.com
 http://104.237.56.131
@@ -3980,6 +3977,8 @@ http://www.ji14.com
 http://43.154.134.29
 http://www.zpxsxk.com
 http://www.hprx.com
+http://121.199.48.191:89
+http://www.nongdui.com
 http://bbs.c3.wuyou.net
 http://htmlarticle25www.nakuz.com
 http://bbs.daxianju.cn
@@ -4008,6 +4007,7 @@ http://www.zgyjr.com
 http://bbs.caup.net
 http://kjsq.net
 https://bbs.07340.com
+https://community.joshvm.com
 http://www.kjsq.net
 http://60.173.107.196:6666
 http://www.micro-dsp.comcncontactwsw.nakuz.com
@@ -4167,6 +4167,7 @@ http://tmsk.184409.com
 http://quanbazhong.cn
 http://www.sierracharlie.users.uttbbs.com
 http://baish.184409.com
+https://vip.yjxsoft.com
 http://bbs.17liuxue.com
 http://www.yunshui.net
 http://120.25.3.54
@@ -4225,6 +4226,7 @@ http://www.gzwt.tk
 http://jxfuli.cf
 http://dz.xiapuapp.com
 http://fp2d.cn
+http://community.joshvm.com
 http://bbs.07340.com
 http://www.jcy1998.com
 https://www.tmchina.net
