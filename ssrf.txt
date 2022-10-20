@@ -1,5 +1,3 @@
-http://www.tiexuejunyan.com
-http://120.198.76.2:82
 https://wd.dangbei.com
 http://www.cfan.cc
 http://www.imeiai.com
@@ -3539,6 +3537,7 @@ http://wx8591.vshangtong.com
 https://bbs.superic.com
 http://117.50.173.238:88
 http://ha.180724.com
+http://120.198.76.2:82
 http://zz.184409.com
 http://www.vincityhomes.com
 http://www.sharsi.com
@@ -3675,6 +3674,7 @@ http://changde.180724.com
 http://bbs.feidou.com
 http://yueyingzy.com
 http://sxjszx.com.cn.pipione.cn
+http://www.timmad.com
 http://www.quanbixuetang.com
 http://nztd7.com
 http://www.unwichp.org
@@ -4685,6 +4685,7 @@ http://bbs.pymoli.com
 http://www.ufocns.com
 https://service.iitt.cc
 http://boluo.180724.com
+http://www.tiexuejunyan.com
 http://99huitu.com
 http://zhangqiu.184409.com
 http://haidong.184409.com
