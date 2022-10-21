@@ -1,9 +1,3 @@
-http://106.54.117.50:8080
-http://www.s.myubbs.com:62078
-http://forums.joygames.me
-http://bbs.kmzx.org
-http://www.sctzgays.com
-http://edu.oecr.com
 http://ankang.aizse.com
 http://www.souke8.cn
 http://daqing.w91.cn
@@ -1647,6 +1641,7 @@ http://bbs.7to.cn
 http://www.chinasufi.cn
 http://www.uerchina.com
 http://itmxc.com
+http://zgsczzs.cn
 http://www.pxenter.com
 http://qiongzhong.180724.com
 https://www.paijibbs.com
@@ -2709,6 +2704,7 @@ https://shktvw.com
 http://cugb.mykaoyan.com
 http://jixi.180724.com
 https://bbs.mesign.com
+http://soyfood.com.cn
 http://90yp.xyz
 http://sxjszx.com.cn.pipione.cn
 http://www.fstssj.com
@@ -3263,6 +3259,9 @@ https://game.nb888.cn
 http://linfen.180724.com
 http://rxjhsq.net
 https://www.bjdiaoyu.com
+http://forums.joygames.me
+http://www.s.myubbs.com:62078
+http://edu.oecr.com
 http://linyi.184409.com
 https://0758vip.com
 https://jiaoyijijieying.com
@@ -5296,6 +5295,7 @@ https://www.hnzxgs.com.cn
 https://www.boxueop.com
 http://bbs.nystudents.net
 http://cdbf.cc
+http://168.ac.cn
 http://d.tonghuar.com
 https://benyouhui.it168.com
 http://chaoyang.aizse.com
@@ -5989,6 +5989,9 @@ http://www.webfgoo.com
 http://108.170.10.234
 http://en.cwtmuseum.com
 http://mingxingjie.com.cn
+http://106.54.117.50:8080
+http://www.sctzgays.com
+http://bbs.kmzx.org
 http://www.d1wp.com
 http://peizimenhu.com
 http://www.kaoyouzhijia.net
