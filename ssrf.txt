@@ -1,4 +1,3 @@
-http://sdtz.cc
 http://bbs.3qck.com
 http://www.jwjiaoji.com
 https://forum.eve-ng.cn
@@ -3276,6 +3275,7 @@ http://zt.184409.com
 http://www.bypsd.com
 http://bbs.storyboardworld.com
 http://icqu.cn
+http://sdtz.cc
 http://www.bitbbs.cn
 http://dafeng.180724.com
 http://limc.cc:2222
@@ -5388,6 +5388,7 @@ http://www.shejiquan.cn
 http://try.leyou.com.cn
 https://101516.vip
 http://www.dacyo.com
+http://www.ayyz1984.com
 http://118.178.143.22
 https://konkurs.gkzj.net
 http://120.25.171.194
