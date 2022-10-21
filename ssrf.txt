@@ -1,6 +1,3 @@
-http://www.lhqzj.cn
-http://209.222.98.180
-http://1.83.154.140:8093
 https://www.faceboer.org
 http://43.154.220.234:8090
 http://www.ho-la.cn
@@ -3245,6 +3242,8 @@ http://58.221.146.210:8090
 http://bbs.hjsg.zhanshunkeji.com
 http://baise.180724.com
 http://www.862686.com
+http://209.222.98.180
+http://www.lhqzj.cn
 http://www.uvledbbs.com
 http://itju.cn
 https://www.cdxcdx.com
@@ -4821,6 +4820,7 @@ http://www.xinyuelt3.com
 http://www.huaxingbbs.com
 http://bbs.qcfdlt.com
 http://bbs.360wzgj.com
+http://www.hxyhxy.com
 http://www.lama001.com
 https://www.zhongchu56.com
 http://imcema.org
@@ -5747,6 +5747,7 @@ https://forum.simwe.com
 http://ljjyzckj.com
 http://winqu.com
 http://www.2math.cn
+http://1.83.154.140:8093
 http://www.zfzflw.com
 http://xz.180724.com
 http://citsjs.com.cn:90
