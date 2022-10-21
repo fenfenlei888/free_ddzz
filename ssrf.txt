@@ -1,5 +1,3 @@
-http://zhenzhubay.com
-http://www.qixingquan.com
 http://wd.znds.com
 http://103.222.189.137:89
 https://53.kuzou.cn
@@ -1298,6 +1296,7 @@ http://www.cpure.org
 http://www.chinajjr.cn
 http://asp.cn
 http://bbs.gushu7.com
+http://crspxw.com
 http://hrb.184409.com
 http://www.leanxian.com
 http://bbs.oair.com
@@ -3280,6 +3279,7 @@ http://bbs.xxmm888.com
 https://x505.cn
 http://vip.weistock.com:8081
 http://yuncheng.180724.com
+http://www.qixingquan.com
 https://www.rosevision.net
 http://wanning.184409.com
 https://www.xylt1.com
@@ -6263,6 +6263,7 @@ http://yancheng.180724.com
 http://43.136.176.17
 https://bbs.xiaot.com
 https://www.chinayey.com
+http://zhenzhubay.com
 http://hanzhong.180724.com
 http://bbs.chengzhou.net
 http://bbs.w91.cn
