@@ -1,4 +1,3 @@
-http://bbs.quanzhi.com
 http://193.112.62.121
 http://www.zhenpet.com
 http://help.ztrxw.cn
@@ -3247,6 +3246,7 @@ http://1tzwz.com
 http://shtzw.net
 http://bbs.my0557.cn
 http://o1.email.myubbs.com:62078
+http://bbs.quanzhi.com
 http://bc.180724.com
 http://www.mc-oa.com
 http://gzhu.myujob.com
@@ -5228,6 +5228,7 @@ http://www.sh1069.cc
 http://www.szpci.com
 http://www.shidong.cc
 http://61.136.60.55:8087
+http://www.dsdh123.com
 http://www.lovekor.net
 http://www.41kq.com
 http://fl.china2001.com.cn
