@@ -1,8 +1,3 @@
-http://apuup.com
-http://www.df-xd.com
-http://bbs.winning11cn.com
-http://106.54.79.191:8090
-http://bbs.hanwangsoft.com
 http://www.sh1069.cc
 http://1.117.58.254
 http://129.204.105.114:8080
@@ -2737,6 +2732,7 @@ http://www.180724.com
 http://chengde.180724.com
 http://108.170.5.100:8080
 http://xxnms.com
+http://www.ywzt.wang:7777
 http://www.0750.name
 http://www.gildland.com
 http://www.941cz.com
@@ -3369,6 +3365,8 @@ http://121.41.39.109
 http://522631.com
 http://treehousesub.com
 http://bbs.5akm.com
+http://apuup.com
+http://bbs.winning11cn.com
 http://hx.180724.com
 http://www.circusannarbor.com
 http://qinzhaolun.cn
@@ -3644,6 +3642,7 @@ http://tunchang.180724.com
 http://test.eltxdmuseum.com
 http://exam.zzb.tech
 http://luoyang.180724.com
+http://hntz11.com
 http://365da.com
 http://jining.180724.com
 http://ss8008.top
@@ -4700,6 +4699,7 @@ https://www.az980.com
 http://www.ixiz.cn
 http://zhanjiang.180724.com
 http://honghe.180724.com
+http://www.hntz11.com
 http://davinci-cg.com
 http://www.hsyjk1.com
 http://www.bbstui.com
@@ -5261,8 +5261,11 @@ https://hanwowo.com
 http://www.thinkingbeing.net
 http://184.95.51.83:8080
 http://tac.180724.com
+http://www.df-xd.com
 http://bbs.qphome.com
+http://106.54.79.191:8090
 http://91d2.org
+http://bbs.hanwangsoft.com
 https://bbs.zzjb.com
 http://www.shidong.cc
 http://www.lovekor.net
@@ -5280,6 +5283,7 @@ https://www.hnzxgs.com.cn
 https://www.boxueop.com
 http://bbs.58wd.com
 http://bbs.fhsx.net.cn
+http://ywzt.wang:7777
 http://betl.180724.com
 http://yxsz.xmdh.com
 http://118.190.36.54:34567
