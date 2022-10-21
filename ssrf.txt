@@ -1,5 +1,3 @@
-http://bbs.feiyuqing.cn
-http://www.wenxiucn.com
 http://www.datuc.com
 http://liaoyang.180724.com
 http://com.cmtest.net
@@ -3258,6 +3256,8 @@ http://pt.180724.com
 http://www.hntongzhi.net
 https://dearhouse.net
 https://www.zxymk.com
+http://www.wenxiucn.com
+http://bbs.feiyuqing.cn
 http://cddwt.net
 http://qxn.180724.com
 http://q057707.com
@@ -5678,6 +5678,7 @@ http://www.mao.org.cn
 http://sd.184409.com
 http://www.qunmaw.cn
 http://www.sijige.net
+http://nncmkq.com
 http://www.wuweixx.com
 http://www.renyitc.com
 http://www.163edu.net
