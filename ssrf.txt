@@ -1,5 +1,3 @@
-http://bbs.laowaner.com
-http://hz.mamacn.com
 http://www.linuxchaney.com
 http://www.qmxyc.cn
 https://www.sou688.com
@@ -1497,6 +1495,7 @@ http://www.mitgov.cn
 http://47.99.124.209
 http://www.cmrclub.com.cn
 https://bbs.t-firefly.com
+https://www.zixue1688.com
 http://ks.oa57.net
 http://www.mengchenghui.com
 http://www.huangshanonline.com
@@ -3278,6 +3277,8 @@ http://www.szw86.com
 http://taishan.184409.com
 http://bbs.nakuz.com
 http://bbs.chinacitywater.org
+http://hz.mamacn.com
+http://bbs.laowaner.com
 http://www.aurice.com
 http://yj.180724.com
 http://mdiirzh.fulingws.com
