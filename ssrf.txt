@@ -1,6 +1,3 @@
-http://www.sctz33.com
-http://www.rxjhbbao.com
-http://120.27.93.163:9091
 http://www.mx.myubbs.com:62078
 http://hotlineage.com
 http://www.duzili.com
@@ -3266,7 +3263,9 @@ http://www.news110.cn
 http://www.suixin567.com
 http://www.kingstargold.com
 http://bbs.51mnw.com
+http://www.sctz33.com
 http://www.baihuabyw.com
+http://120.27.93.163:9091
 https://bbs.jinchenfu.com
 https://www.88sss.live
 http://www.sctzspa.com
@@ -3368,6 +3367,7 @@ http://ydfhj.com
 http://gz.180724.com
 http://df.180724.com
 http://www.3rlt.net
+http://bbs.hitow.net
 https://ojpal.com
 http://imgod.com.cn
 http://wuyishan.180724.com
@@ -4321,6 +4321,7 @@ http://1024ad.xyz
 http://www.zyxyy.com
 http://bbs.ieltschn.com
 http://218.76.65.252
+http://www.hitow.net
 http://www.gdankuai.com
 http://bbs.innear.cn:8090
 http://xinyue234.com
@@ -6002,6 +6003,7 @@ http://221.215.73.173:9090
 http://www.kaoyouzhijia.net
 http://imuxuan.com
 http://www.51mfd.cn
+http://www.rxjhbbao.com
 http://sh1069.cc
 https://www.verycare.org
 http://vipgu.com
