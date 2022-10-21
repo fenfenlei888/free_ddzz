@@ -1,8 +1,3 @@
-http://bbs.gs2012.com
-https://bbs.emath.ac.cn
-http://www.wycjy.com
-http://xiangtan.184409.com
-http://118.190.105.95:801
 http://cinema-home.cn
 http://www.jhdtw.cn
 http://www.1tjy.com
@@ -3260,6 +3255,8 @@ http://sz.mamacn.com
 https://wz58.site
 http://cw-net.com
 http://jiafen.oa57.net
+http://bbs.gs2012.com
+http://xiangtan.184409.com
 https://dearhouse.net
 https://www.zxymk.com
 http://cddwt.net
@@ -3347,6 +3344,7 @@ http://bbs.yanbage.com.cn
 http://www.97meishu.com
 http://au.gegeyou.com
 http://tuanshui.net
+http://www.yzgggz.com
 http://www.tdwqs.com
 http://www.tianyanet.com
 http://www.3wsjw.com
@@ -4442,6 +4440,7 @@ http://reseller.dataguru.cn
 https://tcelue.ws
 http://www.china-sufi.com
 http://www.wxscreen.net
+http://www.5678.com.cn
 http://qqhr.180724.com
 http://www.nuclear.net.cn
 http://bbs.cqcqcq.com
@@ -5592,6 +5591,9 @@ http://www.ngmyt.com
 http://www.members.uttbbs.com
 http://www.renhuai.tv
 https://www.hqyx.me
+https://bbs.emath.ac.cn
+http://118.190.105.95:801
+http://www.wycjy.com
 http://heike666.com
 http://www.gdinnet.com
 http://www.xici8080.net
