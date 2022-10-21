@@ -1,4 +1,3 @@
-http://221.122.104.40
 http://www.jbsfdc.com
 https://bbs-dev.xuanshang12.cn
 http://bbs.medoo.hk
@@ -808,6 +807,7 @@ http://www.mifengjianzhi.net
 http://fushun.180724.com
 http://www.557cg.com
 http://1540516856.com
+http://ageloc.store
 http://www.im-king.cn
 http://45.147.27.164
 http://64.32.12.102
@@ -6290,6 +6290,7 @@ http://bbs.shihenian.com
 http://up.653200.net
 http://xinyuelt5.com
 http://pit28.com
+http://221.122.104.40
 http://erds.180724.com
 http://sansha.180724.com
 http://www.hao0597.com
