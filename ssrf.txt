@@ -1,8 +1,3 @@
-https://www.gszg.com.cn
-http://bbs.chinabidding.com
-http://www.lhqzj.com
-http://siita.org.cn
-http://mobile.uttbbs.com
 http://bbs.taixing.cn
 http://yiwu.184409.com
 http://wh.180724.com
@@ -1365,6 +1360,7 @@ http://bbs.cheaa.com
 http://www.education.uttbbs.com
 http://bbs.gtibee.com
 http://www.51fpush.com
+http://www.wlxstxt.com
 http://www.dongtingxw.com
 http://47.90.44.104
 https://bbs-nuedc.21sitetest.com
@@ -3280,7 +3276,11 @@ http://yuncheng.180724.com
 http://www.qixingquan.com
 https://www.rosevision.net
 http://wanning.184409.com
+http://www.lhqzj.com
+https://www.gszg.com.cn
 https://www.xylt1.com
+http://siita.org.cn
+http://mobile.uttbbs.com
 http://www.k654321.com
 http://2vbet.net
 http://huaibei.184409.com
@@ -5858,6 +5858,7 @@ https://www.huaigirls.com
 http://www.lyhdw.com
 http://www.xcq998.cn
 http://gpo682.cc
+http://www.xsc108.com
 http://www.bugs.myubbs.com:62078
 http://www.haoshu5.com
 http://zhuji.180724.com
@@ -6268,6 +6269,7 @@ http://wd.znds.com
 http://bbs.chengzhou.net
 https://53.kuzou.cn
 http://103.222.189.137:89
+http://bbs.chinabidding.com
 http://bbs.w91.cn
 http://haikou.180724.com
 http://yl.rhygc.com
@@ -6281,6 +6283,7 @@ http://bbs.suixw.com
 http://www.ffcms.cn
 http://bbs.6dcx.com
 http://hk.gegeyou.com
+http://www.uu8801.com
 http://dy.180724.com
 http://forums.gogames.me
 http://aibl.cn
