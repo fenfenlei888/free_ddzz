@@ -1,4 +1,3 @@
-http://chizhou.aizse.com
 http://club.west.cn
 http://km.180724.com
 http://www.czn.com.cn
@@ -1031,6 +1030,7 @@ http://43.138.147.221
 http://bbs.exnpk.com
 http://zhangye.184409.com
 http://bbs.rdjs.cn
+http://www.zhongyi999.com.cn
 http://101.37.227.158:8080
 http://daheng28.com
 http://www.sctz10.com
@@ -6116,6 +6116,7 @@ http://suzhou.180724.com
 http://mdj.180724.com
 http://www.hsbbs.com
 http://www.nabiway.org
+http://chizhou.aizse.com
 http://chifeng.180724.com
 http://www.mjjzj.com
 https://bbs-dev.pydp888.com
