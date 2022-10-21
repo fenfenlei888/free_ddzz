@@ -1,4 +1,3 @@
-http://www.syqun.com
 http://91show.club
 http://www.myhit.cn
 http://bbs.ehongya.com
@@ -1949,6 +1948,7 @@ http://ftp.cpure.org
 http://116.255.230.131:8093
 http://www.zzjsngof.org
 http://60.173.107.196:6666
+http://www.cnzx.in
 http://www.sctz99.com
 http://webmail.wxdaiyan.cn
 http://xm.mamacn.com
@@ -6367,6 +6367,7 @@ http://changde.w91.cn
 http://forum.tfcis.org
 https://www.xg8.live
 http://bbs.locojoy.com
+http://www.syqun.com
 http://benmao8.com
 http://fuzhou.180724.com
 http://47.94.175.17:62078
