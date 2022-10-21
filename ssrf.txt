@@ -1,5 +1,3 @@
-http://www.cailiaoquan.com
-http://dazhou.w91.cn
 http://kzls.184409.com
 https://www.bbslixin.com
 http://www.bsdstc.club
@@ -3296,6 +3294,8 @@ http://job.ztrxw.cn
 http://116.255.230.131:8084
 http://103.28.44.120
 http://hcwlcn.cn
+http://dazhou.w91.cn
+http://www.cailiaoquan.com
 http://myhit.cn
 http://kmrlt.com
 http://zhidao.xiasha.cn
