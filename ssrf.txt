@@ -1,5 +1,3 @@
-http://yf.180724.com
-http://www.bloodsoul.tw
 http://120.25.148.206:1000
 http://122.112.230.93:8080
 http://xng1.top
@@ -3013,6 +3011,7 @@ http://www.wh8k.com
 https://bbs.xrsi.cn
 http://121.41.39.109
 http://522631.com
+http://78yytdb.com
 http://treehousesub.com
 http://bbs.5akm.com
 http://apuup.com
@@ -3223,6 +3222,7 @@ http://121.199.48.191:86
 https://www.liuxuesheng8.com
 http://47.104.207.91:8090
 http://zk.cmjnu.com.cn
+http://www.78yytdb.com
 http://guyuan.184409.com
 http://www.ytbbs.com
 http://www.tquyi.com
@@ -5537,6 +5537,8 @@ http://anshun.aizse.com
 http://wenling.184409.com
 http://testpv.cn
 http://184.95.51.82
+http://yf.180724.com
+http://www.bloodsoul.tw
 http://www.zangaoba.net
 https://bbs.inanxun.com
 http://www.xdd889.com
