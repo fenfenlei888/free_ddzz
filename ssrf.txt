@@ -1,5 +1,3 @@
-https://www.bbslixin.com
-http://www.bsdstc.club
 http://www.autofans.cn
 http://www.bbs.xigushan.com
 http://tzy.myznufe.com
@@ -1382,6 +1380,7 @@ http://4x4.sh.cn
 http://www.chinafisher.org
 http://123.57.5.193:8080
 http://wx8591.vshangtong.com
+http://yz0752.com:8088
 https://bbs.superic.com
 http://117.50.173.238:88
 http://ha.180724.com
@@ -2950,6 +2949,7 @@ http://www.myscore.cn
 http://www.suixin567.com
 http://www.kingstargold.com
 http://bbs.51mnw.com
+http://www.yz0752.com:8088
 http://www.sctz33.com
 http://www.baihuabyw.com
 http://120.27.93.163:9091
@@ -3295,6 +3295,7 @@ http://103.28.44.120
 http://hcwlcn.cn
 http://dazhou.w91.cn
 http://www.cailiaoquan.com
+http://www.bsdstc.club
 http://myhit.cn
 http://kmrlt.com
 http://zhidao.xiasha.cn
@@ -6359,6 +6360,7 @@ http://zfzflw.com
 http://bbs.www10777com.cn
 http://www.cui2.cn
 http://kzls.184409.com
+https://www.bbslixin.com
 http://www.86-001.com
 http://benmao8.com
 http://fuzhou.180724.com
