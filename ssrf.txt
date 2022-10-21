@@ -1,5 +1,3 @@
-http://39.107.78.109
-https://x505.cn
 http://43.136.176.17
 http://vip.weistock.com:8081
 https://bbs.xiaot.com
@@ -3282,6 +3280,7 @@ https://bbs.nuedc-training.com.cn
 http://www.lingdian.org.cn
 http://182.92.76.47
 http://bbs.xxmm888.com
+https://x505.cn
 http://yuncheng.180724.com
 https://www.rosevision.net
 http://wanning.184409.com
@@ -5288,6 +5287,7 @@ https://chaoyang.seofuwu.cn
 https://bbs.bianzhirensheng.com
 http://bit.myubbs.com
 https://www.centerbbs.com
+https://www.taomkv.com
 http://vn.gegeyou.com
 http://jnu.myujob.com
 https://www.hnzxgs.com.cn
@@ -5940,6 +5940,7 @@ http://139.9.86.192
 http://118.24.6.169
 http://www.sz1069.cc
 http://bbs.boy-toy.net
+https://www.bimlandscape.com
 http://www.wj86.net
 http://bbs.07340.com
 http://bbs.jianfangba.com
@@ -6256,6 +6257,7 @@ http://www.storyren.com
 http://www.listenyuan.com
 https://plastic-bbs.com:8443
 http://www.csslkj.com
+http://39.107.78.109
 http://yancheng.180724.com
 http://hanzhong.180724.com
 http://bbs.chengzhou.net
