@@ -1,7 +1,3 @@
-http://www.1314xuexi.com
-http://www.suixin888.com
-http://47.95.215.103:8888
-http://www.space-empires.com
 http://sys.180724.com
 http://108.170.5.77:8080
 http://www.junweidianqi.cn
@@ -1130,6 +1126,7 @@ https://bbs.yuanmafabu.com
 http://ssjx1.top
 http://bbs.ztrxw.cn
 http://rjcomm.fengdasoft.com
+http://portal.wa8688.com
 http://www.jmczsoft.com:82
 http://www.hjbxw.com
 http://hu6hu.com
@@ -3280,6 +3277,8 @@ http://cn-www.jlpzj.cn
 http://117.34.103.244
 https://qy0.cn
 http://wny.i234.me
+http://www.space-empires.com
+http://47.95.215.103:8888
 https://www.aurice.com
 http://bbs.qiuxuedao.cn
 http://hhht66666.com
@@ -3569,6 +3568,7 @@ http://www.h3600.cn
 http://www.verycare.org
 http://tmsk.184409.com
 http://www.005g.com
+http://bbs.wa8688.com
 http://zjk.180724.com
 http://quanbazhong.cn
 http://suizhou.184409.com
@@ -5199,6 +5199,7 @@ http://infolclub.com
 http://forum.oilmc.com
 http://www.sapbbs.cn
 http://www.entfly.com
+https://www.wa8688.com
 https://www.mopaishi.com
 https://fireblock.t-firefly.com
 http://www.gguse.com
@@ -6188,7 +6189,9 @@ http://micro-wsp.comcncontactwww.nakuz.com
 http://a.zggdxy.com
 https://bbs.daxianju.cn
 http://caiji.fxku.cn
+http://www.1314xuexi.com
 http://www.021tz.cc
+http://www.suixin888.com
 http://hu986.com
 http://www.zhouyi68.com
 http://www.xushi.org.cn
