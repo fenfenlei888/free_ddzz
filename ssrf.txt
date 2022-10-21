@@ -1,6 +1,3 @@
-http://www.openzyfd.com
-http://onlineforum.axiomtek.com.tw:8081
-http://www.nztd7.com
 http://123.57.240.186
 http://santafe.tw
 http://flash.dataguru.cn
@@ -412,6 +409,7 @@ http://jxhozen.com
 http://www.sail-lab.net
 http://xinyuelt6.com
 http://bbs.c3.wuyou.net
+http://www.shakamu.com
 http://www.miluopa.com
 http://zhilexue.tech
 http://www.geeeu.com
@@ -1807,6 +1805,7 @@ http://www.zjgay.net
 http://52bianc2017.w208.0735data.cn
 https://zn.kuaiyinmao.com
 http://yidou.184409.com
+http://shakamu.com
 http://www.dszw.net
 http://www.yituqu.com
 http://www.tangnianw.com
@@ -3295,6 +3294,7 @@ http://hsyymusic.com
 https://www.jiahejun.com
 https://www.yxb365.com
 http://www.ggxhh.com
+http://www.nztd7.com
 http://hami.184409.com
 http://www.yangqifa.cn
 http://hegang.180724.com
@@ -3416,6 +3416,7 @@ http://17youxiu.com
 http://yangzhong.180724.com
 http://bbs.sunsili.com
 http://sh.exampx.com
+http://haishen800.com
 http://111.231.105.100
 http://www.ytscript.com
 http://portal.xingxiancn.com
@@ -6384,6 +6385,8 @@ http://huzhou.184409.com
 http://zjwchc.xiasha.cn
 https://yt520.cc
 http://cdtkdw.com
+http://www.openzyfd.com
+http://onlineforum.axiomtek.com.tw:8081
 http://wuzhong.184409.com
 http://bbs33.cn
 http://163edu.net
