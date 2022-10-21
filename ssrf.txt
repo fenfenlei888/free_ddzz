@@ -1,4 +1,3 @@
-http://www.ho-la.cn
 https://www.xuetu123.com
 http://www.qmxyc.com
 http://cc.wxdaiyan.cn
@@ -976,6 +975,7 @@ https://bbs.hcharts.cn
 http://www.sc69.cc
 http://111.67.192.156
 https://bbs.ltxinbing.com
+https://www.tayue2016.com
 http://klmy.180724.com
 https://bbs.dragontooth.cn
 http://139.196.156.10
@@ -5749,6 +5749,7 @@ http://www.2math.cn
 http://1.83.154.140:8093
 http://43.154.220.234:8090
 https://www.faceboer.org
+http://www.ho-la.cn
 http://www.zfzflw.com
 http://xz.180724.com
 http://citsjs.com.cn:90
