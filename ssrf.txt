@@ -1,4 +1,3 @@
-https://bbs.nuedc-training.com.cn
 http://182.92.76.47
 http://www.listenyuan.com
 http://www.lingdian.org.cn
@@ -845,6 +844,7 @@ https://wujindeng.net
 http://140.246.102.194:8081
 http://dz.plas2006.com
 https://www.dubious.users.163dz.com
+http://bbs.krdrama.com
 http://www.tanxianwei.org
 http://www.mifengjianzhi.net
 http://fushun.180724.com
@@ -3280,6 +3280,7 @@ http://htmlarticle55wwe.nakuz.com
 http://106.52.28.22:83
 http://www.shenkongwang.com
 http://678dianshang.com
+https://bbs.nuedc-training.com.cn
 http://bbs.xxmm888.com
 http://yuncheng.180724.com
 https://www.rosevision.net
