@@ -1,4 +1,3 @@
-http://124.222.188.138
 http://qyqrs.com
 http://119.29.0.253
 http://www.188iot.com
@@ -1340,6 +1339,7 @@ http://www.moka.vip
 http://bj.mamacn.com
 http://gubibo.com
 http://bbs.daxianju.cn
+http://www.macd58.com
 http://qth.180724.com
 http://www.flexsimasia.com
 http://smx.184409.com
@@ -5702,6 +5702,7 @@ https://www.ssilife.cn
 http://www.zhaifan.net
 http://www.360hudong.com
 http://fp2d.cn
+http://124.222.188.138
 http://lpys2009.com.cn
 http://linfen.184409.com
 http://sr.180724.com
