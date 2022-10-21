@@ -1,4 +1,3 @@
-http://91show.club
 http://www.myhit.cn
 http://bbs.ehongya.com
 https://spb.gkzj.net
@@ -2514,6 +2513,7 @@ http://hn.180724.com
 http://103.255.176.183
 http://ningguo.184409.com
 http://www.jinggzj.com:8080
+http://www.sngzw44.xyz
 https://www.80baicai.biz
 http://96.126.101.89:80
 http://www.hnfhhgj.com
@@ -6368,6 +6368,7 @@ http://forum.tfcis.org
 https://www.xg8.live
 http://bbs.locojoy.com
 http://www.syqun.com
+http://91show.club
 http://benmao8.com
 http://fuzhou.180724.com
 http://47.94.175.17:62078
