@@ -1,7 +1,3 @@
-http://bbs.199u2.com
-https://www.chuxiong.com
-http://182.254.130.18
-http://123.ytbbs.com
 http://www.rxjhsq.net
 http://www.9453bb.com
 https://www.phillylive.co
@@ -1409,6 +1405,7 @@ https://www.x505.cn
 http://123.56.189.154
 http://qd.180724.com
 http://150.223.45.236:8081
+http://dadaty.com
 http://xiaomicheng.com
 http://www.ji14.com
 http://43.154.134.29
@@ -1948,6 +1945,7 @@ http://xianning.184409.com
 http://120.25.231.42
 http://bid.lingtuan.com
 http://cy.180724.com
+http://our.youshijie.com:8082
 http://153g.net
 http://wpn352.cc
 http://bazhong.184409.com
@@ -3266,6 +3264,7 @@ http://bbs.blackshark.com
 http://www.iaacp.org
 http://120.26.207.171
 http://www.60743.com
+http://182.254.130.18
 http://jdzyg.com
 http://www.shanbenjiaoyu.com
 http://www.fudanu.com
@@ -5550,7 +5549,10 @@ http://120.24.60.68
 http://www.fmdevelopers.com.cn
 http://xiongwang.net
 https://xng55.xyz
+https://www.chuxiong.com
+http://bbs.199u2.com
 http://ict.ivfan.com
+http://123.ytbbs.com
 http://zs.184409.com
 http://www.lywmh.com
 http://www.rhygc.com
@@ -5726,6 +5728,7 @@ http://www.vipgu.com
 http://www.5uzc.com
 http://bazhong.180724.com
 http://www.aimgg.com
+http://our.youshijie.com
 http://www.songjiangjituan.cn
 http://433175.com
 https://plastic-bbs.com:8443
