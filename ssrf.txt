@@ -1,4 +1,3 @@
-http://wh.mamacn.com
 http://www.ikda.cn
 https://www.zy234.com
 http://op.bleachcn.net
@@ -2563,6 +2562,7 @@ http://www.langrissera.com
 https://www.gm6699.com
 http://mmmtw.com
 http://xdd889.com
+http://lzwgm.com
 http://www.1tzf.com
 http://www.shalongart.com
 http://www.chattyku.com:8090
@@ -6321,6 +6321,7 @@ http://dcdemo.pubtc.com
 http://www.uu8801.com
 http://bbs.ebnew.com
 https://www.975w.com
+http://wh.mamacn.com
 http://dy.180724.com
 http://forums.gogames.me
 http://aibl.cn
