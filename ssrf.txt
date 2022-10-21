@@ -1,7 +1,3 @@
-http://hzbike.com
-http://www.azjrj.com
-http://machine.oecr.com
-http://www.yw10.xyz
 http://www.fingerstyle.cc
 http://yili.184409.com
 http://sec.wangxinzhi.com
@@ -3289,6 +3285,8 @@ https://www.mabinogi.club
 http://yekok.net
 https://bbs.gotvg.com
 http://www.ppcost.com
+http://machine.oecr.com
+http://hzbike.com
 http://www.bike163.net
 http://www.663jx.com
 http://bbs.rockingchina.com
@@ -5185,6 +5183,7 @@ http://www.intehn.com
 http://chizhou.180724.com
 http://yhhongyue.eicp.net
 http://108.170.5.102:8080
+http://www.xiduying.com
 https://bbs.dymy.org
 http://www.gxjk.cn
 http://guangzhou2026.net
@@ -6138,6 +6137,8 @@ http://103.212.35.164
 https://www.aisojie.com
 http://www.nowba007.com
 http://gz.mamacn.com
+http://www.yw10.xyz
+http://www.azjrj.com
 http://gem0816.cn
 http://jlxwhg.com
 http://wyiii.com
