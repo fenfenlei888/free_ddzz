@@ -1,5 +1,3 @@
-http://121.40.42.126
-http://www.sz1069.net
 http://hntz22.com
 http://bbs.dnfzhengfuzhe.com
 http://bbs.shumeipaiba.com
@@ -1008,6 +1006,7 @@ http://wanning.180724.com
 http://www.cuzhiwang.com
 http://tuan.aiyidu.com
 http://gaizexian.180724.com
+http://www.myruc.com
 http://123.56.139.164:62078
 http://6337711.com
 http://121.127.235.150
@@ -1031,6 +1030,7 @@ http://cjlu.xiasha.cn
 http://zstu.xiasha.cn
 http://zhangzhou.180724.com
 https://www.llgarden.com
+http://www.myblcu.com
 http://www.ppdm.us
 http://alashan.aizse.com
 http://www.ps2sw.com
@@ -3254,6 +3254,8 @@ http://www.zhonghuaying.com
 http://ahtongzhi.com
 http://hznu.xiasha.cn
 http://www.sctz03.com
+http://121.40.42.126
+http://www.sz1069.net
 http://www.daheng28.com
 http://www.52cae.cn
 http://wjq.180724.com
