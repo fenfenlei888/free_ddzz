@@ -1,4 +1,3 @@
-http://pl.180724.com
 http://www.ah1069.com
 http://222.187.220.203:82
 http://changzhi.w91.cn
@@ -5092,6 +5091,7 @@ http://www.yunxi.net
 https://bbs.xinpg.com
 http://wordpress.wxdaiyan.cn
 http://www.ifans.site
+http://www.haitao8.com
 http://218.22.200.36
 http://bj.184409.com
 http://zjyyc.xiasha.cn
@@ -5350,6 +5350,7 @@ http://lingdian.org.cn
 http://www.hotlineage.com
 http://114.107.226.167:9080
 http://bbs.cnpes6.com
+http://pl.180724.com
 http://118.190.36.54:34567
 http://www.cheaixi.cn
 http://abbc.eu.org:7777
