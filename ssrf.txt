@@ -1,6 +1,3 @@
-http://1024bbs.cf
-http://43.143.216.250
-http://bbs.gamesdata.name
 http://www.jyss.net
 http://wx.180724.com
 http://120.26.60.242
@@ -3251,6 +3248,7 @@ http://www.boxueop.com
 http://tzhcyy.cn
 http://www.shibianshi.com
 http://tongcheng.180724.com
+http://1024bbs.cf
 http://cn.gegeyou.com
 https://jxfuli.cf
 http://www.freeinfo.com.my
@@ -5605,6 +5603,7 @@ http://changge.180724.com
 http://bbs.ivfmami.cn
 http://www.ngmyt.com
 http://www.members.uttbbs.com
+http://www.sxbiandao.com
 http://www.renhuai.tv
 https://www.hqyx.me
 https://bbs.emath.ac.cn
@@ -5792,6 +5791,8 @@ http://www.xh580.net
 http://fuwen3.com
 http://china-liandu.com.cn
 http://siantarpeople.org
+http://bbs.gamesdata.name
+http://43.143.216.250
 http://www.rq568.cn
 http://lesson.daoqin.net
 http://hf.180724.com
@@ -5974,6 +5975,7 @@ http://xinlt.cn
 https://woodenkitten.com
 http://ningguo.180724.com
 http://ffskybbsjp.azurewebsites.net
+http://yidianzhuan.com
 http://www.tjibm.com
 http://yt.184409.com
 http://www.51dahuo.com
