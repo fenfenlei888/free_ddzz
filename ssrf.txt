@@ -1,4 +1,3 @@
-http://bbs.jcys.com
 http://new.eweiqi.com
 http://www.sh086.com
 https://hhday.com.tw:8443
@@ -3296,6 +3295,7 @@ http://cz.180724.com
 http://www.zhujiajiandao.com
 http://freeinfo.com.my
 http://zkcjcx.com
+http://bbs.jcys.com
 http://tlf.180724.com
 http://fufen.d1v1.com
 http://www.macheng.net.cn
@@ -4232,6 +4232,7 @@ http://forum.nswschools.com
 http://www.jbn122.cc
 http://chenzhou.180724.com
 https://dayibin.cn
+http://bbs.ddcnc.com
 http://118.31.40.168
 http://ht.180724.com
 http://newbbs.99zigong.com
