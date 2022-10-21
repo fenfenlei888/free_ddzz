@@ -1,4 +1,3 @@
-http://www.qmxyc.com
 http://cc.wxdaiyan.cn
 http://xiangqin.azheteng.cn
 http://sctongzhi.com
@@ -5751,6 +5750,8 @@ http://1.83.154.140:8093
 http://43.154.220.234:8090
 https://www.faceboer.org
 http://www.ho-la.cn
+http://www.vegaconflict.cn
+http://www.qmxyc.com
 http://www.zfzflw.com
 http://xz.180724.com
 http://citsjs.com.cn:90
