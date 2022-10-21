@@ -1,4 +1,3 @@
-http://bbs.xlysoft.net
 http://sh.52bus.com
 http://rkz.184409.com
 http://alsm.184409.com
@@ -2096,6 +2095,7 @@ http://scut.myujob.com
 http://122.114.234.67:8001
 http://120.78.78.103:81
 http://129.204.122.9
+http://service.iitt.cc
 https://tc.rlwsh.com
 http://www.nl.uttbbs.com
 http://www.ihain.cn
@@ -3298,6 +3298,7 @@ http://www.gushu7.com
 http://bbs.bwxsj.cn
 https://ffskybbsjp.azurewebsites.net
 http://hntongzhi.net
+http://bbs.xlysoft.net
 http://zy.180724.com
 http://hq.184409.com
 http://119.29.153.216:81
