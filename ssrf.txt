@@ -1,10 +1,3 @@
-http://202.133.247.70
-http://bjtzw.com
-http://103.255.176.183
-http://liyang.180724.com
-http://www.test2.myubbs.com:62078
-http://zsu.myubbs.com
-http://www.noc.myubbs.com:62078
 https://www.80baicai.biz
 http://www.xunsos.net
 http://iuni.xinruiweb.com
@@ -1728,6 +1721,7 @@ http://www.xiangyuecul.com
 http://www.hdchd.cc
 http://www.yuepy6.com
 http://www.jzyi.net
+http://www.mingyuan678.com
 http://jomen.net
 http://www.luanboshiysclub.com
 http://bbs.ui.cn
@@ -3258,7 +3252,9 @@ http://www.lubanshu.net
 https://www.rmu7.club
 http://www.zhongshisheji.net
 http://www.shijiwenxue.top
+http://202.133.247.70
 http://hn.180724.com
+http://103.255.176.183
 http://ningguo.184409.com
 http://www.jinggzj.com:8080
 http://xdd889.com
@@ -4724,6 +4720,7 @@ http://120.53.117.240
 http://bbs.zgtsm.com
 http://thinkingbeing.net
 http://whyxsh.cn
+http://www.lzwlidc.cn
 http://www.514200.com
 http://www.caijingzaixian.com
 http://yich.180724.com
@@ -4824,6 +4821,7 @@ http://52mti.com:8888
 https://www.samngamhos.go.th
 https://www.soonidea.cn
 http://tianshui.180724.com
+http://www.xinyuelt3.com
 http://www.huaxingbbs.com
 http://bbs.qcfdlt.com
 http://bbs.360wzgj.com
@@ -5214,6 +5212,7 @@ https://hanwowo.com
 http://www.thinkingbeing.net
 http://184.95.51.83:8080
 http://tac.180724.com
+http://3se.cc
 http://www.df-xd.com
 http://bbs.qphome.com
 http://106.54.79.191:8090
@@ -5612,7 +5611,12 @@ http://jxfuli.cf
 http://118.89.57.183
 http://yc.180724.com
 http://yinchuan.180724.com
+http://bjtzw.com
+http://liyang.180724.com
 http://www.tuchuangkeji.com
+http://www.test2.myubbs.com:62078
+http://www.noc.myubbs.com:62078
+http://zsu.myubbs.com
 http://bound4xanadu.com
 http://sdu.myubbs.com:62078
 http://bjzph.cn
@@ -5712,6 +5716,7 @@ http://www.cncml.com
 http://121.127.235.100
 http://cx.184409.com
 http://robot-ai.org
+http://www.mingy345.com
 http://qingyang.184409.com
 http://dt.180724.com
 http://mingxingjie.com.cn
