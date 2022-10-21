@@ -1,6 +1,3 @@
-http://www.020gay.net
-http://www.hnrhrj.com
-https://bbs.itsource.cn
 http://scut.myujob.com
 http://129.204.122.9
 http://120.78.78.103:81
@@ -3371,6 +3368,8 @@ http://chengqu.com
 http://139.198.177.188
 http://www.ywzt.top:7777
 http://chessocean.com
+http://www.hnrhrj.com
+http://www.020gay.net
 http://www.wh8k.com
 http://522631.com
 http://hx.180724.com
@@ -4803,6 +4802,7 @@ http://www.514200.com
 http://www.caijingzaixian.com
 http://yich.180724.com
 http://bbs.bleachcn.net
+http://www.qzzjzs.com
 http://dearhouse.net
 http://www.023lpwst.com
 http://106.225.153.196:8081
@@ -5250,6 +5250,7 @@ http://hc.rhygc.com
 http://www.zbhwxh.com
 http://bbs.bjyqy.cn
 http://www.bsqy.org
+https://bbs.itsource.cn
 http://www.sporthealth.cn
 http://www.thinkingbeing.net
 http://bbs.qphome.com
