@@ -1,5 +1,3 @@
-http://iyingwu.net
-http://www.sapbbs.cn
 http://myok.cc
 http://electronics.oecr.com
 https://www.mopaishi.com
@@ -3372,6 +3370,7 @@ http://xqm010.cc
 http://luntan.ocar.tv
 http://www.mangoscn.com
 http://www.esunny.vip
+http://iyingwu.net
 http://www.gamesifu.com
 https://www.longjingshuochang.com
 http://chengqu.com
@@ -3395,6 +3394,7 @@ http://jj58.com.cn
 http://184.95.51.85
 http://www.iftee.com
 https://www.maiyadi.org
+http://lanpa.skybbs.info
 http://home.langrissera.com
 http://www.nanjing1.com
 http://zoubhn.com
@@ -5234,6 +5234,7 @@ https://www.microduo.tw
 http://150.223.42.237:8081
 http://twitter.uttbbs.com
 http://forum.oilmc.com
+http://www.sapbbs.cn
 http://www.entfly.com
 http://www.gguse.com
 http://www.renxing500.com
