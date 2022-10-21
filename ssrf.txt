@@ -1,6 +1,3 @@
-http://www.boxueop.com
-http://fyl806.cc
-http://menhu.ca
 http://bbs.locoyposter.com
 http://xiangtan.180724.com
 http://china-liandu.com.cn
@@ -2952,6 +2949,7 @@ http://121.199.48.191:86
 https://www.liuxuesheng8.com
 http://47.104.207.91:8090
 http://zk.cmjnu.com.cn
+http://jchf.net
 http://www.78yytdb.com
 http://guyuan.184409.com
 http://www.ytbbs.com
@@ -3252,6 +3250,9 @@ http://www.fuzhoubian.com
 https://hengyang.seofuwu.cn
 http://bbs.lnylfw.com
 http://www.manfuzi.com
+http://menhu.ca
+http://fyl806.cc
+http://www.boxueop.com
 http://tzhcyy.cn
 http://www.shibianshi.com
 http://tongcheng.180724.com
