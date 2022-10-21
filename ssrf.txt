@@ -1,5 +1,3 @@
-http://159.75.248.27:8080
-http://bayinguoleng.aizse.com
 http://www.hyundai.com.tw
 http://www.lvye.net
 http://www.mmmtw.com
@@ -3306,6 +3304,8 @@ https://www.xiaochimiji.com
 http://www.redbaoba.com
 http://blog.yuxiangshequ.com
 http://www.fsjxjg.com
+http://bayinguoleng.aizse.com
+http://159.75.248.27:8080
 http://www.441109.com
 http://hbqhome.com
 http://bbs.cnwen.net
@@ -3521,6 +3521,7 @@ http://bbs.yeya-jia.com
 http://www.sha0724.com
 http://www.qcwl.pro
 http://sw.180724.com
+http://www.zkcjcx.com
 http://www.wanantan.com
 https://cz122.gov.cn
 http://anqing.180724.com
