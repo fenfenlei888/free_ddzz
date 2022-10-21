@@ -1,6 +1,3 @@
-http://121.40.249.34
-http://www.yiwu.cn
-http://www.tv.uttbbs.com
 http://www.hsyymusic.com
 http://www.bjyinongxinxi.com
 http://bbs.jpun.net
@@ -3283,6 +3280,8 @@ http://ux1069.com
 http://www.guoyiwang.cn
 https://bbs.1zj.com
 http://www.itfxz.vip
+http://121.40.249.34
+http://www.tv.uttbbs.com
 http://www.zggongkao.com
 http://www.yidianzhuan.com
 http://0470found.com
@@ -4740,6 +4739,7 @@ http://qingyidao.com
 http://www.smdsw.cn
 http://rxshenqi.net
 http://66.160.158.132
+http://tstrip.net
 http://www.jiankangxingqiu.com
 http://www.zbhw.com
 http://bj.180724.com
@@ -5586,6 +5586,7 @@ http://123.ytbbs.com
 http://www.rxjhsq.net
 https://www.phillylive.co
 http://www.cq3.in
+http://www.tstrip.net
 http://114.34.84.101
 http://119.136.25.27:8888
 http://zs.184409.com
@@ -6177,6 +6178,7 @@ http://dx.180724.com
 https://b.it168.com
 https://www.icax.org
 http://xinyishi.180724.com
+http://www.yiwu.cn
 http://mybuu.com
 https://bbs.daxianju.cn
 http://www.021tz.cc
