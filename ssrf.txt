@@ -1,4 +1,3 @@
-http://autodiscover.forums.myubbs.com:62078
 http://a.zggdxy.com
 http://117.34.103.244
 http://cn-www.jlpzj.cn
@@ -3279,6 +3278,7 @@ http://www.cablesnews.com
 https://www.24maker.com
 http://bjgay.org
 http://47.92.101.167
+http://autodiscover.forums.myubbs.com:62078
 http://www.yidianzhuan.com
 http://0470found.com
 http://wny.i234.me
@@ -4253,6 +4253,7 @@ http://www.y8bbs.com
 http://zhf365.com
 http://www.7wyx.cn
 http://www.huaiyuantaiji.com
+http://0731snyw.com
 http://www.3se.cc
 http://www.o2omax.com
 http://bbs.u-tpe.com
