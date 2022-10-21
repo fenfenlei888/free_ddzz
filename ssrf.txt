@@ -1,6 +1,3 @@
-http://www.ddfyw.com
-http://test3.wxdaiyan.cn
-http://ceshile.cn
 http://108.166.215.57:85
 http://www.kazan.uttbbs.com
 http://118.232.136.108
@@ -5204,6 +5201,7 @@ http://bbs.metro-3d.com
 http://hc.rhygc.com
 http://www.zbhwxh.com
 http://bbs.bjyqy.cn
+http://tucaptions.org
 http://www.bsqy.org
 https://bbs.itsource.cn
 http://www.sporthealth.cn
@@ -5646,8 +5644,11 @@ http://www.hu986.com
 http://www.printerwhy.net
 http://bbs.kppw.cn
 http://www.crspxw.com
+http://test3.wxdaiyan.cn
+http://www.ddfyw.com
 https://www.sesebag.com
 http://www.chengqu.com
+http://ceshile.cn
 http://tuangou.fulingws.com
 http://hanzhong.184409.com
 http://bbs.ntc-world.com
@@ -5850,6 +5851,7 @@ https://demo.zimucms.com
 http://www.taoess.com
 http://www.qiti99.com
 https://tmtrl.com.tw:8443
+http://hyundai.com.tw
 http://cnssssl.com
 http://www.228wy.com
 http://zgwzxc.com
