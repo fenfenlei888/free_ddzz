@@ -1,4 +1,3 @@
-http://35.194.171.161
 http://bbs.xxyw.com
 http://dameme.skybbs.biz
 http://bbs.chinaswim.com
@@ -3262,6 +3261,7 @@ http://www.9453bb.com
 http://jdzyg.com
 http://www.imxy28.com
 http://www.99huitu.com
+http://35.194.171.161
 http://www.shanbenjiaoyu.com
 http://www.fudanu.com
 http://www.xhyz714.com
@@ -3630,6 +3630,7 @@ http://52mjkong.com
 http://www.cdqbj.cn
 http://www.xiaot.com
 http://www.tickets.myubbs.com:62078
+http://www.52bdw.com
 http://lw.180724.com
 http://121.62.23.174:88
 http://www.mu-huo.com
