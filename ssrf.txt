@@ -1,7 +1,3 @@
-http://47.75.128.247
-http://bbs.ibenxi.com
-http://bbs.zgjztlmhw.com
-http://bbs.myir-tech.com
 http://ofe501.cc
 http://ssjx111.top
 http://hd.vipshangcheng.com
@@ -2840,6 +2836,7 @@ http://dz.zhijianyun.net
 http://hljubbs.com
 https://www.0758vip.com
 http://www.fulingws.cn
+http://www.lstt1.com
 http://www.gxdk.com.cn
 http://45.136.150.17
 http://xy.xypk168.com
@@ -3304,7 +3301,9 @@ http://www.horphoto.com
 http://hbqhome.com
 http://112.74.88.149:8080
 http://bbs.cnwen.net
+http://47.75.128.247
 http://info.xiasha.cn
+http://bbs.zgjztlmhw.com
 http://changde.180724.com
 http://ythyw.eicp.net
 http://aufe.23du.com
@@ -5411,6 +5410,8 @@ http://zhangbei.180724.com
 http://bbs.dhyana.com.cn
 http://www.uk.myubbs.com:62078
 https://www.zp05.com
+http://bbs.ibenxi.com
+http://bbs.myir-tech.com
 https://dz.zhijianyun.net
 http://bbs.upton.cn
 http://china2001.com
@@ -5422,6 +5423,7 @@ http://cdzykj.cn
 http://icjt.cn
 http://www.jiaoyiyuan.com
 http://bbs.mobiwind.cn
+http://lstt1.com
 http://linxia.180724.com
 http://bbs.kaitaobaodian.com
 http://www.chinae68.com
