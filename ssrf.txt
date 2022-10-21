@@ -1,5 +1,3 @@
-http://90yp.xyz
-https://www.eanttech.com
 http://bbs.xfplay.com
 http://www.fstssj.com
 http://tlf.184409.com
@@ -3298,6 +3296,7 @@ https://shktvw.com
 http://cugb.mykaoyan.com
 http://jixi.180724.com
 https://bbs.mesign.com
+http://90yp.xyz
 http://sxjszx.com.cn.pipione.cn
 http://www.timmad.com
 http://www.quanbixuetang.com
@@ -3525,6 +3524,7 @@ http://gonghedd.com
 http://ydfhj.com
 http://gz.180724.com
 http://df.180724.com
+http://www.3rlt.net
 https://ojpal.com
 http://imgod.com.cn
 http://15.nakuz.com
@@ -5455,6 +5455,7 @@ https://012com.com
 http://www.cdhk514.com
 http://bbs.ccbits.com
 http://108.170.5.99:8080
+https://www.eanttech.com
 http://yong2022.xyz
 http://gx.rhygc.com
 https://wh8k.com
