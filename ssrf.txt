@@ -1,7 +1,3 @@
-http://www.zhixuannet.com
-http://wjsyjxh.com
-http://bbs.jiuping.cn
-http://120.25.78.109
 http://guangzhou.hmsem.com
 http://zzwave.com
 http://www.rexuesq.com
@@ -1932,6 +1928,7 @@ http://gl.rhygc.com
 http://group.cantonese.asia
 http://www.xxke.cn
 http://sh.184409.com
+http://www.okchuanqi.com
 http://www.home-way-home.com
 http://jsjysw.top
 http://ale.184409.com
@@ -3253,6 +3250,9 @@ http://hn0756.com
 http://zhihuibaoku.cn
 http://www.xuwentcw.com
 http://baoding.w91.cn
+http://wjsyjxh.com
+http://bbs.jiuping.cn
+http://120.25.78.109
 https://user.vlabpro.com
 http://yesge.com
 http://www.waigeshetuan.com
@@ -3452,6 +3452,7 @@ http://103.28.44.120
 http://kmrlt.com
 http://mysuibe.com
 http://hsyymusic.com
+http://www.ggxhh.com
 http://www.yangqifa.cn
 http://hegang.180724.com
 https://ffskybbsjp.azurewebsites.net
@@ -5441,6 +5442,7 @@ http://www.tui56.com
 http://www.lejiacar.com
 https://012com.com
 http://www.cdhk514.com
+http://www.hnryd.cn
 http://bbs.ccbits.com
 http://108.170.5.99:8080
 https://www.eanttech.com
@@ -5674,6 +5676,7 @@ https://bbs.ichuanglan.com
 http://123.56.88.72
 https://www.itsk.com
 http://www.miaos.cn
+http://www.zhixuannet.com
 http://tj.ckuyun.com
 http://www.yiciyuan.org
 http://www.isjtu.cn
