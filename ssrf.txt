@@ -1,4 +1,3 @@
-http://bbs.nakuz.com
 http://bbs.laowaner.com
 http://hz.mamacn.com
 http://www.linuxchaney.com
@@ -3277,6 +3276,7 @@ http://bbs.gongzuoya.com
 https://www.79bo3.com
 http://www.szw86.com
 http://taishan.184409.com
+http://bbs.nakuz.com
 http://bbs.chinacitywater.org
 http://www.aurice.com
 http://yj.180724.com
@@ -5716,6 +5716,7 @@ https://www.itsk.com
 http://www.miaos.cn
 http://www.zhixuannet.com
 http://tj.ckuyun.com
+http://www.z-mall.cn
 http://guangzhou.hmsem.com
 http://www.yiciyuan.org
 http://zzwave.com
