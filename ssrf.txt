@@ -1,12 +1,3 @@
-http://119.29.118.202
-http://gzsfkj.com
-http://138.lmcpw.net
-https://yhgd.demo.weixianghost.com
-http://101.36.122.252
-http://luohe.180724.com
-http://39.105.193.82
-http://bbs.icfpa.cn
-http://www.zjbf.cc
 http://forum.yftek.com
 http://108.170.5.76
 http://171.221.207.159
@@ -2817,6 +2808,7 @@ http://www.soe-parrot.com
 http://www.fspd7.com
 http://47.106.15.148
 https://31shenghuo.com
+http://www.gujige.com
 http://xy168.net
 http://7wyx.cn
 http://text.irtec.cn:1234
@@ -3041,6 +3033,7 @@ http://www.boesea.com
 https://8fx.news
 http://www.lianyaowang.com
 http://64.32.12.101
+http://bbs.gujige.com
 http://www.ill624.cc
 http://lyg.180724.com
 http://bz.184409.com
@@ -3343,7 +3336,12 @@ http://www.yutai100.com
 http://xn.184409.com
 http://chnhealth.cn
 http://ankix.shawsen.com
+http://119.29.118.202
+http://gzsfkj.com
+http://138.lmcpw.net
 http://184.95.51.85
+http://101.36.122.252
+http://www.zjbf.cc
 http://www.iftee.com
 https://www.maiyadi.org
 http://lanpa.skybbs.info
@@ -3361,6 +3359,7 @@ http://sz.68866886.net
 http://www.yuanxingmed.com
 https://bbs.feidou.com
 http://taoess.com
+https://xyyhww.com
 http://www.redbaoba.com
 http://www.441109.com
 http://hbqhome.com
@@ -3665,6 +3664,7 @@ http://bbs.lama001.com
 http://www.yekok.net
 http://www.okxy28.com
 http://ny.saojie.org
+http://gujige.com
 http://www.service.uttbbs.com
 https://www.zqsa.com
 http://anqing.184409.com
@@ -4153,6 +4153,7 @@ http://www.98905.com
 http://bbs.qianbaomm.com
 http://nn.rhygc.com
 http://home.thunisoft.com:8082
+http://zzjggs.com
 https://fuckoz.com
 http://bbs.lgrapp.cn
 http://www.zhaoyouning.com
@@ -5327,6 +5328,10 @@ http://bbs.58wd.com
 http://hotel.uttbbs.com
 http://bbs.fhsx.net.cn
 http://www.irobo.org
+https://yhgd.demo.weixianghost.com
+http://bbs.icfpa.cn
+http://39.105.193.82
+http://luohe.180724.com
 http://ywzt.wang:7777
 http://betl.180724.com
 http://yxsz.xmdh.com
