@@ -1,8 +1,3 @@
-http://www.1tzf.com
-http://bbs.hkesp.com
-http://www.ccwzz8.com
-http://www.chattyku.com:8090
-http://huangnan.180724.com
 http://qd.mamacn.com
 http://www.acedu.cc
 http://www.luori.net
@@ -3255,7 +3250,10 @@ http://tr.180724.com
 http://www.langrissera.com
 https://www.gm6699.com
 http://xdd889.com
+http://www.1tzf.com
 http://www.shalongart.com
+http://www.chattyku.com:8090
+http://www.ccwzz8.com
 http://www.17youxiu.com
 http://huanggai.com.cn
 http://www.zztc.net
@@ -3411,6 +3409,7 @@ http://www.airmyth.com
 http://www.img.bound4xanadu.com
 http://cdzy.mykaoyan.com
 http://www.xiyinyishu.com
+http://tszuyouw.com
 http://lt.tcopx.com
 http://www.qingyidao.com
 http://danzhou.180724.com
@@ -3834,6 +3833,7 @@ http://bbs.egameol.cn
 https://24maker.com
 http://www.028gay.net
 http://china-africa.cn
+http://xinyuelt2.com
 https://www.tzbbs.com.cn
 http://bbs.bingchengwang.com
 http://www.szllcc.com
@@ -4019,6 +4019,7 @@ http://www.hbqhome.com
 http://www.gaoduanke.com
 http://45.77.70.143
 http://jp.gegeyou.com
+http://xinyuelt3.com
 https://www.feihua8.com
 http://www.fwah2.com
 http://qingqujiaoyu.com
@@ -5621,6 +5622,8 @@ http://iuni.xinruiweb.com
 http://www.xunsos.net
 http://www.larkmate.com
 http://bbs.eastsea.com.cn
+http://bbs.hkesp.com
+http://huangnan.180724.com
 http://bound4xanadu.com
 http://sdu.myubbs.com:62078
 http://bjzph.cn
