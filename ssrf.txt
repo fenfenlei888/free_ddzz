@@ -1,7 +1,3 @@
-http://sns.aiyidu.com
-http://www.cmenews.cn
-http://news.yanfabu.com
-http://zongyi.oyuw.com
 https://slashtw.space
 http://baiyin.aizse.com
 https://www.xyyao.com
@@ -3275,6 +3271,9 @@ http://www.aibeiwang.com
 https://www.doudouxiyan.com
 http://47.102.199.28:9000
 http://www.tucaptions.org
+http://zongyi.oyuw.com
+http://news.yanfabu.com
+http://sns.aiyidu.com
 http://haditie.com
 http://fangwei.zhougongbaisui.com
 http://caitabts666.com
@@ -6075,6 +6074,7 @@ http://www.xiabaite.com
 http://www.luoyouming.cc
 http://www.yevr.top
 http://115.182.12.215
+http://www.cmenews.cn
 http://yuchaijt.com
 http://135-photo.com
 http://joychanong.com
@@ -6170,6 +6170,7 @@ http://fuzhou.180724.com
 http://47.94.175.17:62078
 http://huzhou.184409.com
 https://yt520.cc
+http://cdtkdw.com
 http://wuzhong.184409.com
 http://bbs33.cn
 http://163edu.net
