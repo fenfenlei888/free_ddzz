@@ -1,5 +1,3 @@
-http://www.163dz.com
-https://pucatalyst.com
 https://www.portal.gkzj.net
 https://t.icax.org
 http://www.cinema-home.cn
@@ -3281,6 +3279,7 @@ https://www.aurice.com
 http://sys.180724.com
 http://108.170.5.77:8080
 http://www.junweidianqi.cn
+http://www.163dz.com
 http://bbs.qiuxuedao.cn
 http://hhht66666.com
 http://bbs.szfs.cc
@@ -5779,6 +5778,7 @@ http://www.shiwuzq.com
 http://188.lmcpw.net
 https://forum.simwe.com
 http://ljjyzckj.com
+http://22222abc.com
 http://winqu.com
 http://baishan.180724.com
 http://www.2math.cn
@@ -6196,6 +6196,7 @@ http://www.021tz.cc
 http://www.suixin888.com
 http://hu986.com
 http://bbs.liyang-tech.com
+https://pucatalyst.com
 http://www.zhouyi68.com
 http://www.xushi.org.cn
 http://www.pk1911.com:82
