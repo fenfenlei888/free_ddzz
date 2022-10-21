@@ -1,5 +1,3 @@
-https://www.zp05.com
-http://www.uk.myubbs.com:62078
 http://47.75.128.247
 http://bbs.ibenxi.com
 http://bbs.zgjztlmhw.com
@@ -2644,6 +2642,7 @@ http://www.zgyjr.com
 http://bbs.755gg.com
 http://49.232.191.228
 http://159.75.129.68
+http://www.sssji.com
 http://www.mengcity.com
 http://bbs1.phpdisk.com
 http://www.myszu.cn
@@ -5410,6 +5409,8 @@ http://hit.23du.com
 http://xiaoaikj.com
 http://zhangbei.180724.com
 http://bbs.dhyana.com.cn
+http://www.uk.myubbs.com:62078
+https://www.zp05.com
 https://dz.zhijianyun.net
 http://bbs.upton.cn
 http://china2001.com
