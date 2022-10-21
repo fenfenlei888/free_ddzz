@@ -1,6 +1,3 @@
-http://108.170.5.77:8080
-http://www.junweidianqi.cn
-http://bbs.liyang-tech.com
 http://www.163dz.com
 https://pucatalyst.com
 https://www.portal.gkzj.net
@@ -682,6 +679,7 @@ http://bbs.caishen66.cn
 http://47.94.168.215
 http://116.255.230.131:8086
 http://qun.eweiqi.com
+http://www.2vbet.net
 http://www.coltansmart.com
 http://www.onehdasia.com
 http://51uwb.cn
@@ -3281,6 +3279,8 @@ http://www.space-empires.com
 http://47.95.215.103:8888
 https://www.aurice.com
 http://sys.180724.com
+http://108.170.5.77:8080
+http://www.junweidianqi.cn
 http://bbs.qiuxuedao.cn
 http://hhht66666.com
 http://bbs.szfs.cc
@@ -3306,6 +3306,7 @@ https://www.rosevision.net
 http://wanning.184409.com
 https://www.xylt1.com
 http://www.k654321.com
+http://2vbet.net
 http://huaibei.184409.com
 http://www.hw179.com
 http://fwah2.com
@@ -6194,6 +6195,7 @@ http://www.1314xuexi.com
 http://www.021tz.cc
 http://www.suixin888.com
 http://hu986.com
+http://bbs.liyang-tech.com
 http://www.zhouyi68.com
 http://www.xushi.org.cn
 http://www.pk1911.com:82
