@@ -1,4 +1,3 @@
-http://myok.cc
 http://electronics.oecr.com
 https://www.mopaishi.com
 https://fireblock.t-firefly.com
@@ -2529,6 +2528,7 @@ http://www.xiangmu.org.cn:65432
 http://119.45.205.197
 http://shzj.net.cn
 http://ffans.club
+https://sandeli.zgglkyw.com
 http://www.dotasterisk.cn
 http://11op.com
 https://dream.kxb4u.com
@@ -3371,6 +3371,7 @@ http://luntan.ocar.tv
 http://www.mangoscn.com
 http://www.esunny.vip
 http://iyingwu.net
+http://myok.cc
 http://www.gamesifu.com
 https://www.longjingshuochang.com
 http://chengqu.com
