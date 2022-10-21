@@ -1,4 +1,3 @@
-http://cinema-home.cn
 http://www.jhdtw.cn
 http://www.1tjy.com
 http://pt.180724.com
@@ -2606,6 +2605,7 @@ http://kaifeng.184409.com
 http://liyangedu.com
 https://www.1688yxw.cn
 http://sjz.mamacn.com
+http://www.hkinsc.com
 https://www.abooky.com
 http://v.yuxiangshequ.com
 http://dz.zhijianyun.net
@@ -5594,6 +5594,7 @@ https://www.hqyx.me
 https://bbs.emath.ac.cn
 http://118.190.105.95:801
 http://www.wycjy.com
+http://cinema-home.cn
 http://heike666.com
 http://www.gdinnet.com
 http://www.xici8080.net
