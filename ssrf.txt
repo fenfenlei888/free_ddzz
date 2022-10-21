@@ -1,5 +1,3 @@
-https://www.itsk.com
-http://baoding.w91.cn
 http://www.zhixuannet.com
 http://wjsyjxh.com
 http://bbs.jiuping.cn
@@ -1722,6 +1720,7 @@ http://www.qshapan.com
 http://bbs.dmoli.com
 http://lincang.180724.com
 http://120.26.51.175
+http://weifeir.com
 http://123.60.57.99
 https://www.tcelue.ws
 http://www.sswchina.cn
@@ -3253,6 +3252,7 @@ http://184.95.51.84
 http://hn0756.com
 http://zhihuibaoku.cn
 http://www.xuwentcw.com
+http://baoding.w91.cn
 https://user.vlabpro.com
 http://yesge.com
 http://www.waigeshetuan.com
@@ -5672,6 +5672,7 @@ http://www.huateair.com:89
 http://bbs.potplayer.org
 https://bbs.ichuanglan.com
 http://123.56.88.72
+https://www.itsk.com
 http://www.miaos.cn
 http://tj.ckuyun.com
 http://www.yiciyuan.org
