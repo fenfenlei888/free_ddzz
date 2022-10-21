@@ -1,4 +1,3 @@
-http://bbs.bfgho.com
 http://45.33.44.158
 http://www.hljhgs.com
 http://www.lubanshu.net
@@ -2605,6 +2604,7 @@ http://www.lstt1.com
 http://www.gxdk.com.cn
 http://45.136.150.17
 http://xy.xypk168.com
+http://www.zfbd108.org
 http://shanghai.hmsem.com
 http://bbs.tonghuar.com
 http://www.txtnovel.top
@@ -5602,6 +5602,7 @@ http://heike666.com
 http://www.iscut.cn
 http://com.cmtest.net
 http://client.dataguru.cn
+http://bbs.bfgho.com
 http://www.gdinnet.com
 http://www.xici8080.net
 http://jxfuli.cf
