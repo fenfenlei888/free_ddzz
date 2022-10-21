@@ -1,5 +1,3 @@
-http://www.dakedakedu.com
-http://47.52.100.219
 http://bbs.huansi.cn
 https://www.donellaguida.com
 http://www.coco-in.net
@@ -3350,6 +3348,7 @@ http://bbs.carbit.cn
 http://www.11op.com
 http://qinzhaolun.cn
 http://bbs.iliferobot.cn
+http://47.52.100.219
 http://wzs.180724.com
 http://jzqo.com:22222
 http://www.networktalking.com
@@ -5290,6 +5289,7 @@ http://su.180724.com
 https://phillylive.co
 http://club.ctsti.cn
 http://www.impk113.com
+http://www.dakedakedu.com
 http://www.fly-ad.com.cn
 http://www.siita.org.cn
 http://jiangtongbbs.com
@@ -5530,6 +5530,7 @@ http://jinggzj.com:8080
 http://www.qingquxuexiao.com
 http://www.gongkaobl.com
 http://zfzflw.com
+http://www.86-001.com
 http://benmao8.com
 http://fuzhou.180724.com
 http://47.94.175.17:62078
@@ -5537,6 +5538,7 @@ https://yt520.cc
 http://bbs33.cn
 http://taizhou.180724.com
 https://demo.zimucms.com
+http://www.taoess.com
 http://www.qiti99.com
 https://tmtrl.com.tw:8443
 http://cnssssl.com
