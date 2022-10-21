@@ -1,6 +1,3 @@
-http://hlr.184409.com
-http://bbs.du175.com
-http://108.61.160.124
 http://bbs.castudents.org
 http://discuz.tomwx.net
 http://pohu.wang
@@ -1072,6 +1069,7 @@ http://www.mingyuan678.com
 http://jomen.net
 http://www.luanboshiysclub.com
 http://bbs.ui.cn
+http://www.jcxxzj.com
 http://ihain.cn
 http://ld.180724.com
 http://bbs.viczz.com
@@ -3284,6 +3282,7 @@ https://www.onefx.net
 http://xtm340.cc
 http://hntz9.com
 http://danzhou.180724.com
+http://hlr.184409.com
 http://waaax.top
 http://www.ziyuxuan.net
 https://www.31shenghuo.com
@@ -4670,6 +4669,7 @@ http://www.changdaolvyou.com
 http://bbs.worldeps.com
 http://wlmq.180724.com
 https://www.xinpg.com
+http://jcxxzj.com
 http://www.itzyb.net
 http://www.zy234.com
 http://ls.184409.com
@@ -6165,6 +6165,8 @@ http://amhl.vip
 http://bbs.infoeach.com
 http://www.inanxun.com
 http://tc.oa57.net
+http://108.61.160.124
+http://bbs.du175.com
 http://hd.184409.com
 http://dx.180724.com
 http://xinyishi.180724.com
