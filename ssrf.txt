@@ -1,7 +1,3 @@
-http://118.190.176.134
-http://job.ztrxw.cn
-http://116.255.230.131:8084
-http://www.fcmjg.cn
 http://hcwlcn.cn
 http://www.cui2.cn
 http://www.cailiaoquan.com
@@ -2123,6 +2119,7 @@ https://santai.ren
 http://xqm010.cc
 http://luntan.ocar.tv
 http://www.mangoscn.com
+http://rexuebaobao.net
 http://www.esunny.vip
 http://iyingwu.net
 http://myok.cc
@@ -3190,6 +3187,7 @@ http://124.222.157.111:8096
 https://www.xinxinmin.com
 http://as.180724.com
 http://shouguang.180724.com
+http://rxjhboby.com
 http://szzyyzz.com
 http://feicuibbs.cn
 http://www.d7gan.cn
@@ -3294,6 +3292,9 @@ https://cs3.lgogo.top
 http://www.songyuan163.com
 http://lovechul.com
 http://111.231.132.190
+http://118.190.176.134
+http://job.ztrxw.cn
+http://116.255.230.131:8084
 http://103.28.44.120
 http://myhit.cn
 http://kmrlt.com
@@ -3581,6 +3582,7 @@ https://autoconfig.news.gkzj.net
 http://49.235.60.179
 http://58.58.116.50:81
 http://www.yiuni.com
+http://jx.xiangmu.org.cn:65432
 http://www.fashuounion.com
 http://www.fyl806.cc
 http://www.dupingzu.com
@@ -5571,6 +5573,7 @@ http://120.25.148.206:1000
 http://64.91.235.131
 https://bbs.inanxun.com
 https://www.rv28.com
+http://www.rexuebaobao.net
 https://gjkeji.com
 http://www.xdd889.com
 http://fd.bbs.9wee.com
@@ -6350,6 +6353,7 @@ http://www.qingquxuexiao.com
 http://lzpxf.com
 http://www.gongkaobl.com
 http://fushun.184409.com
+http://www.fcmjg.cn
 http://zfzflw.com
 http://bbs.www10777com.cn
 http://www.86-001.com
