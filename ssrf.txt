@@ -1,7 +1,3 @@
-http://ankang.aizse.com
-http://www.souke8.cn
-http://daqing.w91.cn
-http://www.00211.cn
 http://221.215.73.173:9090
 http://chifeng.w91.cn
 http://www.haining.cn
@@ -1846,6 +1842,7 @@ http://www.bbspj.com
 http://www.viczz.com
 http://www.hnxsjxzz.cn
 http://028tz.cc
+http://hs23.cn
 http://lz.rhygc.com
 https://www.bhecps.com
 http://47.111.178.35
@@ -2583,6 +2580,7 @@ http://www.iftee.com
 https://www.maiyadi.org
 http://www.yszq.net
 http://171.221.207.159
+http://fstssj.com
 http://lanpa.skybbs.info
 http://yzjinhuan.com
 http://www.ilovezhai.com
@@ -3264,6 +3262,8 @@ http://www.s.myubbs.com:62078
 http://edu.oecr.com
 http://linyi.184409.com
 https://0758vip.com
+http://daqing.w91.cn
+http://www.souke8.cn
 https://jiaoyijijieying.com
 http://www.news110.cn
 http://bbs.51mnw.com
@@ -5994,6 +5994,8 @@ http://www.sctzgays.com
 http://bbs.kmzx.org
 http://www.d1wp.com
 http://peizimenhu.com
+http://ankang.aizse.com
+http://www.00211.cn
 http://www.kaoyouzhijia.net
 http://sh1069.cc
 https://www.verycare.org
