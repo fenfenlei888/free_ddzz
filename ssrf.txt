@@ -1,4 +1,3 @@
-http://changde.aizse.com
 http://meishi.ztrxw.cn
 http://124.222.157.111:8096
 http://bbs.toypf.com
@@ -3536,6 +3535,7 @@ https://bbs.xlhost.cn
 http://bbs.shenkongwang.com
 https://www.yxzx111.com
 http://zlt.sseuu.com
+http://www.minglite.com
 http://mclassic.com.hk
 http://puhuijishu.com
 http://www.shtzw.net
@@ -6232,6 +6232,7 @@ http://gaizexian.184409.com
 http://bazhong.180724.com
 http://bbs.97973.com
 http://hld.180724.com
+http://changde.aizse.com
 http://www.aimgg.com
 http://our.youshijie.com
 http://www.songjiangjituan.cn
