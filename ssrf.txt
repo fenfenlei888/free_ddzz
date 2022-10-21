@@ -1,5 +1,3 @@
-http://changxing.180724.com
-http://bbs.asitb.cn
 http://www.twnnn.com
 https://www.xiaot.com
 https://zjdg.com
@@ -3286,6 +3284,8 @@ http://skywj.com
 http://43.155.83.59
 http://www.hasea.com
 https://www.app001.com
+http://bbs.asitb.cn
+http://changxing.180724.com
 http://www.unwichp.org
 http://yangchun.180724.com
 http://www.tquyi.com
@@ -5406,6 +5406,7 @@ http://hit.23du.com
 http://xiaoaikj.com
 http://zhangbei.180724.com
 http://bbs.dhyana.com.cn
+http://szwalking.com
 http://www.uk.myubbs.com:62078
 https://www.zp05.com
 http://bbs.ibenxi.com
