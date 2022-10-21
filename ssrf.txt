@@ -1,5 +1,3 @@
-http://221.215.73.173:9090
-http://chifeng.w91.cn
 http://www.haining.cn
 http://imuxuan.com
 http://www.51mfd.cn
@@ -3264,6 +3262,7 @@ http://linyi.184409.com
 https://0758vip.com
 http://daqing.w91.cn
 http://www.souke8.cn
+http://chifeng.w91.cn
 https://jiaoyijijieying.com
 http://www.news110.cn
 http://bbs.51mnw.com
@@ -4001,6 +4000,7 @@ http://gzhivi.com
 http://www.ffcmsphp.com
 http://www.19fang.net
 http://tianzhuxian.com
+http://fishforex.cn
 https://www.kangfuzhe.org
 http://www.touzichaoshius.com
 https://zuirouqing.yymoban.com
@@ -4211,6 +4211,7 @@ http://xxqydh.com
 http://chaoshang.org.cn
 http://ecyinzi.dult.cn
 http://www.gjxwkbs.com
+http://www.fishforex.cn
 http://jianhu.180724.com
 http://bbs.zhileng.com
 https://www.cgziyuanhai.com
@@ -5996,6 +5997,7 @@ http://www.d1wp.com
 http://peizimenhu.com
 http://ankang.aizse.com
 http://www.00211.cn
+http://221.215.73.173:9090
 http://www.kaoyouzhijia.net
 http://sh1069.cc
 https://www.verycare.org
