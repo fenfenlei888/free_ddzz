@@ -1,4 +1,3 @@
-http://new.ztrxw.cn
 http://exchange.oecr.com
 https://bbs.kafan.cn
 http://www.mingdao20.cn
@@ -3295,6 +3294,7 @@ https://hhday.com.tw:8443
 http://tlf.180724.com
 http://fufen.d1v1.com
 http://www.macheng.net.cn
+http://new.ztrxw.cn
 https://faceboer.org
 http://www.zhf365.com
 http://112.126.82.224
