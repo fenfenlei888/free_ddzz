@@ -1,5 +1,3 @@
-http://117.34.103.244
-http://cn-www.jlpzj.cn
 https://qy0.cn
 http://caiji.fxku.cn
 http://www.1314xuexi.com
@@ -3280,6 +3278,8 @@ http://47.92.101.167
 http://autodiscover.forums.myubbs.com:62078
 http://www.yidianzhuan.com
 http://0470found.com
+http://cn-www.jlpzj.cn
+http://117.34.103.244
 http://wny.i234.me
 https://www.aurice.com
 http://bbs.qiuxuedao.cn
@@ -4883,6 +4883,7 @@ http://bbs.finchinasoft.com
 http://zmd.180724.com
 http://148.70.126.248:8081
 https://www.shuolianai.com
+http://www.mybuaa.com
 http://www.nonglinshuyuan.com
 http://home.china-ws.org
 http://www.piaoyou123.com
