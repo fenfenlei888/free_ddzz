@@ -1,6 +1,3 @@
-http://bbs.bb0123.com
-http://bbs.9you.com
-https://shktvw.com
 http://www.tui56.com
 http://jixi.180724.com
 http://www.lejiacar.com
@@ -2873,6 +2870,7 @@ http://www.combat2000.cn
 http://bbs.uker.net
 https://v.icax.org
 http://www.zhenzhubay.com
+http://xddqqls.com
 http://www.boesea.com
 https://8fx.news
 http://www.lianyaowang.com
@@ -3297,7 +3295,10 @@ http://www.idrugs.cn
 https://bbs.exnpk.com
 http://yueyingzy.com
 http://47.100.101.45
+http://bbs.9you.com
+http://bbs.bb0123.com
 http://020wj.net
+https://shktvw.com
 http://cugb.mykaoyan.com
 http://sxjszx.com.cn.pipione.cn
 http://www.timmad.com
@@ -3345,6 +3346,7 @@ https://www.rmu7.club
 http://hn.180724.com
 http://ningguo.184409.com
 http://www.jinggzj.com:8080
+http://xdd889.com
 http://www.shalongart.com
 http://www.17youxiu.com
 http://huanggai.com.cn
