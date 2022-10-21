@@ -1,6 +1,3 @@
-http://dcdemo.pubtc.com
-http://157.7.139.69
-http://bbs.ebnew.com
 http://z.tonghuar.com
 https://www.975w.com
 http://wh.mamacn.com
@@ -1872,6 +1869,7 @@ http://52bianc2017.w208.0735data.cn
 https://zn.kuaiyinmao.com
 http://yidou.184409.com
 http://www.dszw.net
+http://www.yituqu.com
 http://www.tangnianw.com
 http://lywmh.com
 http://bbs.lindianlu.com
@@ -3287,6 +3285,7 @@ http://www.3rlt.net
 http://yb.180724.com
 http://bbs.hitow.net
 https://ojpal.com
+http://157.7.139.69
 http://imgod.com.cn
 http://wuyishan.180724.com
 http://15.nakuz.com
@@ -4850,6 +4849,7 @@ http://www.92v.org
 http://daqing.aizse.com
 https://forum.nobook.com
 http://home.0576qq.com
+http://www.ganshi8.com
 http://tongliao.180724.com
 http://182.92.159.222
 http://www.60shequ.cn
@@ -6122,6 +6122,7 @@ http://www.robotjc.com
 http://paperbert.com
 http://suqian.180724.com
 http://changxing.184409.com
+http://www.xiangtoushu.com
 http://www.yawanju.com
 https://jj58.com.cn
 http://suzhou.180724.com
@@ -6316,7 +6317,9 @@ https://zhujiaren.com
 http://hk.gegeyou.com
 http://jining.184409.com
 http://bbs.yxssy.com
+http://dcdemo.pubtc.com
 http://www.uu8801.com
+http://bbs.ebnew.com
 http://dy.180724.com
 http://forums.gogames.me
 http://aibl.cn
