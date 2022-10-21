@@ -1,6 +1,3 @@
-http://meishi.ztrxw.cn
-http://124.222.157.111:8096
-http://bbs.toypf.com
 https://www.xinxinmin.com
 http://as.180724.com
 http://www.lietou007.com
@@ -1462,6 +1459,7 @@ http://chongzuo.180724.com
 http://zixun.lingtuan.com
 http://yiyang.184409.com
 http://mifengjianzhi.net
+https://www.0752snyw.com
 https://hzpc8.com
 http://dz.reetoo.com.cn:9080
 http://nt.180724.com
@@ -3283,6 +3281,7 @@ https://sony.it168.com
 http://113.254.20.186:8080
 http://www.520guakao.com
 http://www.zkcjcx.com
+http://124.222.157.111:8096
 http://shouguang.180724.com
 http://www.d7gan.cn
 http://www.udnbkk.com
@@ -4141,6 +4140,7 @@ http://changzhi.180724.com
 http://gang.cn
 http://www.31shenghuo.com
 http://www.biotrainee.com
+http://www.btlsearch.com
 http://bbs.cv2000.cn
 http://search.uttbbs.com
 http://47.242.131.150
@@ -6233,6 +6233,8 @@ http://bazhong.180724.com
 http://bbs.97973.com
 http://hld.180724.com
 http://changde.aizse.com
+http://meishi.ztrxw.cn
+http://bbs.toypf.com
 http://www.aimgg.com
 http://our.youshijie.com
 http://www.songjiangjituan.cn
