@@ -1,4 +1,3 @@
-http://bbs.himi.club
 http://lzmcloud.com
 http://www.appcome.com
 https://logo007.net
@@ -3332,6 +3331,7 @@ http://www.zhf365.com
 http://112.126.82.224
 http://bygl.180724.com
 http://www.mamayujia.com
+http://www.szpd10.com
 http://www.zikao5.com
 http://wenling.180724.com
 http://bjsax.com
@@ -6302,6 +6302,7 @@ http://sansha.180724.com
 http://www.hao0597.com
 http://116.62.6.91
 http://bbs.suixw.com
+http://bbs.himi.club
 http://www.ffcms.cn
 http://bbs.6dcx.com
 http://hk.gegeyou.com
