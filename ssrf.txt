@@ -1,4 +1,3 @@
-http://hero.bbs.9wee.com
 http://bbs.hx2004.com.cn
 http://yuyao.184409.com
 http://bbs.nciyuan.net
@@ -3283,6 +3282,7 @@ http://hhht66666.com
 http://www.winqu.com
 http://bbs.szfs.cc
 http://bbs.yeya-jia.com
+http://hero.bbs.9wee.com
 http://www.sha0724.com
 http://www.qcwl.pro
 http://www.shaolinbbs.com
@@ -4511,6 +4511,7 @@ http://118.31.165.148
 https://www.9xng.xyz
 http://www.wendan.com.cn
 http://www.rapidbbs.cn
+https://new.bbs.cdays.net
 https://www.macw.cn
 https://www.zippobymazziinchina.com
 https://cclme.cn
