@@ -1,5 +1,3 @@
-http://www.hljubbs.com
-http://bbs.kinetic.com.cn
 http://daxinganling.aizse.com
 http://bbs.xdsmoli.com
 http://bbs.lazzb.cn
@@ -692,6 +690,7 @@ http://shart.cn
 https://www.wszgw.net
 http://bbs.56785678.net
 http://so.ppfeng.com
+http://www.jeepyy.com
 http://www.caitabts666.com
 http://bbs.yunyingz.com
 http://www.liyangedu.com
@@ -3279,6 +3278,7 @@ http://fangwei.zhougongbaisui.com
 https://www.xyyao.com
 http://baiyin.aizse.com
 http://caitabts666.com
+http://bbs.kinetic.com.cn
 http://www.gyusoft.com
 http://taishan.184409.com
 http://bbs.chinacitywater.org
@@ -6079,6 +6079,7 @@ http://115.182.12.215
 http://www.cmenews.cn
 http://yuchaijt.com
 http://135-photo.com
+http://www.hljubbs.com
 http://joychanong.com
 http://rc.xiasha.cn
 http://yelv.com
