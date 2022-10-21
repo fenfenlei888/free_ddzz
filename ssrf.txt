@@ -1,6 +1,3 @@
-http://qd.mamacn.com
-http://www.acedu.cc
-http://www.luori.net
 http://www.pvkj.com
 http://www.penbbs.com
 http://www.kejisheying.com
@@ -2594,6 +2591,7 @@ http://www.yuanxp.com
 http://dali.w91.cn
 http://ad.yuxiangshequ.com
 http://idsky.net
+http://xinyuelt1.com
 https://bbs.51kahui.com
 http://www.hys99.cn
 http://www.nncmkq.com
@@ -3254,6 +3252,7 @@ http://www.1tzf.com
 http://www.shalongart.com
 http://www.chattyku.com:8090
 http://www.ccwzz8.com
+http://www.acedu.cc
 http://www.17youxiu.com
 http://huanggai.com.cn
 http://www.zztc.net
@@ -5624,6 +5623,8 @@ http://www.larkmate.com
 http://bbs.eastsea.com.cn
 http://bbs.hkesp.com
 http://huangnan.180724.com
+http://qd.mamacn.com
+http://www.luori.net
 http://bound4xanadu.com
 http://sdu.myubbs.com:62078
 http://bjzph.cn
@@ -5740,6 +5741,7 @@ http://www.yunshubiao.com
 http://nb.180724.com
 http://3900114.com
 http://www.xcex.net
+http://mingy345.com
 https://www.okoxox.com
 http://yunshubiao.com
 http://www.iku.org.cn
