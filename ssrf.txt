@@ -1,4 +1,3 @@
-http://bbs.hx2004.com.cn
 http://yuyao.184409.com
 http://bbs.nciyuan.net
 https://www.sxbst.net.cn
@@ -1570,6 +1569,7 @@ http://www.0750.name
 http://www.gildland.com
 http://www.941cz.com
 http://chunyealley.com.tw
+http://lygbanzou.com
 http://www.tjzjbbs.com
 http://imaoigou.cn
 http://www.tianbaochina.cn
@@ -6213,6 +6213,7 @@ http://122.114.57.46:8888
 http://www.1024ww.top
 http://gg.rhygc.com
 http://www.hongchengnet.com
+http://bbs.hx2004.com.cn
 http://www.2xex.com
 http://cd.180724.com
 http://lc.184409.com
