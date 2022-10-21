@@ -1,6 +1,3 @@
-http://www.ah1069.com
-http://222.187.220.203:82
-http://changzhi.w91.cn
 http://luanboshiysclub.com
 http://ht.184409.com
 https://www.pzbxs.com
@@ -3330,6 +3327,7 @@ http://hyl044.cc
 http://jx.xiangmu.org.cn:88
 http://zoubhn.com
 http://bbs.yibanxueyuan.com
+http://222.187.220.203:82
 http://cx.180724.com
 http://www.sheniaorenw.com
 http://byauto.net
@@ -5351,6 +5349,8 @@ http://www.hotlineage.com
 http://114.107.226.167:9080
 http://bbs.cnpes6.com
 http://pl.180724.com
+http://changzhi.w91.cn
+http://www.ah1069.com
 http://118.190.36.54:34567
 http://www.cheaixi.cn
 http://abbc.eu.org:7777
