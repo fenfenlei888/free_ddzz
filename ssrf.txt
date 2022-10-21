@@ -1,4 +1,3 @@
-http://wd.znds.com
 http://103.222.189.137:89
 https://53.kuzou.cn
 https://www.gszg.com.cn
@@ -852,6 +851,7 @@ http://www.0750yl.com
 https://net.ucfamily.com.cn
 http://43.138.147.221
 http://bbs.exnpk.com
+http://www.6986986.com
 http://zhangye.184409.com
 http://bbs.rdjs.cn
 http://www.zhongyi999.com.cn
@@ -6265,6 +6265,7 @@ https://bbs.xiaot.com
 https://www.chinayey.com
 http://zhenzhubay.com
 http://hanzhong.180724.com
+http://wd.znds.com
 http://bbs.chengzhou.net
 http://bbs.w91.cn
 http://haikou.180724.com
