@@ -1,4 +1,3 @@
-http://bbs.xxyw.com
 http://dameme.skybbs.biz
 http://bbs.chinaswim.com
 http://news.uttbbs.com
@@ -2986,6 +2985,7 @@ http://bbs.5akm.com
 http://apuup.com
 http://bbs.winning11cn.com
 http://129.204.105.114:8080
+http://www.in0818.com
 http://bbs.rxbeby.com
 http://huzhou.180724.com
 http://home.bleachcn.net
@@ -5557,6 +5557,7 @@ http://www.cq3.in
 http://114.34.84.101
 http://119.136.25.27:8888
 http://zs.184409.com
+http://bbs.xxyw.com
 http://www.lywmh.com
 http://www.rhygc.com
 http://www.gzwt.tk
