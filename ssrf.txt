@@ -1,5 +1,3 @@
-http://com.cmtest.net
-http://www.iscut.cn
 http://client.dataguru.cn
 http://bbs.bfgho.com
 http://45.33.44.158
@@ -3071,6 +3069,7 @@ http://bbs.bato.cn
 http://www.mayi.sg
 http://www.cofound.com.cn
 https://xyyhww.com
+http://108.166.215.57:84
 https://www.xiaochimiji.com
 http://www.redbaoba.com
 http://blog.yuxiangshequ.com
@@ -5600,6 +5599,8 @@ http://cinema-home.cn
 http://www.jhdtw.cn
 http://www.1tjy.com
 http://heike666.com
+http://www.iscut.cn
+http://com.cmtest.net
 http://www.gdinnet.com
 http://www.xici8080.net
 http://jxfuli.cf
