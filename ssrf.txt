@@ -1,6 +1,3 @@
-http://xc.myccmusic.com
-http://www.xiaochi28.com
-http://xx.ddcyf.com:8080
 http://nc.184409.com
 http://114.107.231.211:8082
 http://www.cyjl.cn
@@ -3659,6 +3656,7 @@ http://bbs.61cms.net
 http://www.mykaoyan.com
 http://www.u9zy.cn
 http://hd.laoguanhe.com
+http://mshjlb.com
 http://www.dea-con.com
 https://bbs.aaa-cg.com.cn
 http://indmen.com
@@ -4616,6 +4614,7 @@ http://davinci-cg.com
 http://www.hsyjk1.com
 http://www.bbstui.com
 https://www.yjxsoft.com
+http://jeestudy.com
 https://bbs.ipa001.com
 http://www.sglpw.cn
 http://cs.184409.com
@@ -5773,7 +5772,10 @@ http://luzimage01.net
 http://14.29.179.149:8081
 http://kinwok.com
 http://hb.0576qq.com
+http://www.xiaochi28.com
+http://xc.myccmusic.com
 http://www.mzjyss.cn
+http://xx.ddcyf.com:8080
 http://www.nirenxing.com
 http://xiangyuecul.com
 http://www.kokang123.net
