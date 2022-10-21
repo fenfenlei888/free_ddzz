@@ -1,5 +1,3 @@
-http://yukang.org.cn
-http://jbn122.cc
 http://bbs.angui.org
 http://wh.184409.com
 https://www.quyoubbk.com
@@ -4495,6 +4493,7 @@ http://47.100.196.62
 http://www.tooidc.cn
 https://video.gkzj.net
 http://chifeng.184409.com
+https://0574snyw.com
 http://bbs.zjtt.cn
 http://bbs.vbsa.com.au
 http://bbs.dedehome.com
@@ -4666,6 +4665,7 @@ http://www.bjzph.cn
 http://dingzhou.180724.com
 http://community.wistone.com
 http://bbs.dayin.la
+https://0752snyw.com
 http://bxlm100.com
 http://cj.cmjnu.com.cn
 http://115.29.109.104
@@ -6241,6 +6241,8 @@ http://www.aimgg.com
 http://www.bjxxw.com
 https://www.yuanhangjy.com
 http://www.38baby.com
+http://yukang.org.cn
+http://jbn122.cc
 http://our.youshijie.com
 http://www.songjiangjituan.cn
 http://433175.com
