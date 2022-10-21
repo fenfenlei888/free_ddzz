@@ -1,4 +1,3 @@
-http://bbs.locoyposter.com
 http://xiangtan.180724.com
 http://china-liandu.com.cn
 http://fuwen3.com
@@ -4115,6 +4114,7 @@ http://t.diandee.com
 http://czn.com.cn
 http://221.6.48.113:88
 http://syet.net
+http://www.jchf.net
 https://tieba.cuit.org.cn
 http://demo.zimucms.com
 http://www.pxzjz.com
@@ -5786,6 +5786,7 @@ http://nc.184409.com
 http://xiangyuecul.com
 http://www.kokang123.net
 http://yy779.com
+http://bbs.locoyposter.com
 http://39.100.225.95
 http://bbs.tkjl.xyz
 http://siantarpeople.org
