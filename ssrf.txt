@@ -1,4 +1,3 @@
-http://www.52mti.com
 http://www.lvye.org
 http://bbs.flythings.cn
 http://www.mycwu.com
@@ -3277,6 +3276,7 @@ http://bbs.mf8-china.com
 http://www.0u1u.com
 http://bbs.miaolaoshi.com
 http://108.170.5.78:8080
+http://www.52mti.com
 https://www.webzx.net
 http://bbs.dubai.boniu123.cc
 http://www.60743.com
@@ -4480,6 +4480,7 @@ http://chongzuo.184409.com
 http://www.xcluqiao.com
 http://www.behcet.com.cn
 http://bbs.iyudu.top
+http://guanjiatu.com
 http://iooee.com
 https://fl.china2001.com.cn
 https://www.qisehua.wang
