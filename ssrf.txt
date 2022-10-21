@@ -1,5 +1,3 @@
-http://discuz.qqtz.com
-http://zjj.184409.com
 http://www.haomake.xyz
 http://secidc.org.cn
 http://demo.127p.com
@@ -3251,6 +3249,7 @@ https://club.haojue.com
 http://home.52brain.com
 https://teach66.com
 http://www.sneakers.com.cn
+http://discuz.qqtz.com
 http://tdwqs.com
 http://cailiaoquan.com
 http://laoguanhe.com
@@ -5659,6 +5658,7 @@ http://108.166.215.57:85
 http://tuangou.fulingws.com
 http://tj.mamacn.com
 http://qdrxzc.com
+http://zjj.184409.com
 http://hanzhong.184409.com
 http://bbs.ntc-world.com
 http://dz.xiapuapp.com
@@ -5784,6 +5784,7 @@ https://jj58.com.cn
 http://suzhou.180724.com
 http://www.nabiway.org
 http://chifeng.180724.com
+http://www.mjjzj.com
 https://bbs-dev.pydp888.com
 http://lingchenwang.com
 http://dh.180724.com
