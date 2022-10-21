@@ -1,5 +1,3 @@
-http://bbs.locojoy.com
-http://www.asp.cn
 http://www.syqun.com
 http://91show.club
 http://www.myhit.cn
@@ -3292,6 +3290,7 @@ http://www.zgzkjy.com
 http://myhit.cn
 https://camp.rv28.com
 https://www.059183.com
+http://www.asp.cn
 http://kmrlt.com
 http://zhidao.xiasha.cn
 http://tieba.guanjiatu.com
@@ -6148,6 +6147,7 @@ http://lingchenwang.com
 http://dh.180724.com
 http://bbs.gyyrkj.com
 http://bbs.hbzkw.com
+http://metsluntan.com
 https://www.fulingws.com
 https://sts2.xyz
 http://103.212.35.164
@@ -6366,6 +6366,7 @@ http://www.shougoukucun.cn
 http://changde.w91.cn
 http://forum.tfcis.org
 https://www.xg8.live
+http://bbs.locojoy.com
 http://benmao8.com
 http://fuzhou.180724.com
 http://47.94.175.17:62078
