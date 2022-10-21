@@ -1,5 +1,3 @@
-http://bbs.bwxsj.cn
-https://www.dongtingxw.com
 http://hntongzhi.net
 http://bbs.xlysoft.net
 http://sh.52bus.com
@@ -1064,6 +1062,7 @@ http://www.chaoren021.com
 http://18.177.97.207
 http://ourgoldenage.org
 http://cc.180724.com
+http://dbczckj.cn
 https://lb.0771ao.com
 http://www.guangzhou2026.net
 http://99.79.50.7
@@ -3296,6 +3295,7 @@ http://123.57.240.186
 http://www.91d2.org
 https://www.xishanyinxiang.com
 http://www.gushu7.com
+http://bbs.bwxsj.cn
 https://ffskybbsjp.azurewebsites.net
 http://zy.180724.com
 http://hq.184409.com
@@ -4253,6 +4253,7 @@ http://club.tfclub.com
 https://mail.maiyadi.org
 http://bbs.51testing.com
 http://www.bbs168x.cn
+http://www.rhwll.com
 http://www.zzjn.com
 http://changdu.180724.com
 http://www.5000yx.com
@@ -6393,6 +6394,7 @@ http://flash.dataguru.cn
 http://163edu.net
 http://love.uttbbs.com
 http://45.56.123.113
+https://www.dongtingxw.com
 http://wnwp8.vip
 http://2kwanjia.com
 http://taizhou.180724.com
