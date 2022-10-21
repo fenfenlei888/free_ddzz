@@ -1,6 +1,3 @@
-http://www.haining.cn
-http://imuxuan.com
-http://www.51mfd.cn
 http://www.kingstargold.com
 http://www.suixin567.com
 http://www.sctz33.com
@@ -1429,6 +1426,7 @@ http://116.17.102.37:888
 http://luzhou.180724.com
 https://www.9bbk.com
 http://bbs.styd.cn
+http://waterforex.com
 https://bbs.kangantu.com
 http://ispeak.cn
 http://www.xn--7hvu6lcwr.com
@@ -2554,6 +2552,7 @@ http://gyusoft.com
 http://www.futoutiao.com
 http://121.199.29.110
 http://101.43.108.51
+http://www.waterforex.com
 http://bbs.87870.com
 http://www.iscripts.org
 http://ynqise.com
@@ -3264,6 +3263,7 @@ http://daqing.w91.cn
 http://www.souke8.cn
 http://chifeng.w91.cn
 https://jiaoyijijieying.com
+http://www.haining.cn
 http://www.news110.cn
 http://bbs.51mnw.com
 http://www.baihuabyw.com
@@ -5999,6 +5999,8 @@ http://ankang.aizse.com
 http://www.00211.cn
 http://221.215.73.173:9090
 http://www.kaoyouzhijia.net
+http://imuxuan.com
+http://www.51mfd.cn
 http://sh1069.cc
 https://www.verycare.org
 http://vipgu.com
