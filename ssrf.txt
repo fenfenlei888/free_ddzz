@@ -1,6 +1,3 @@
-http://119.136.25.27:8888
-http://114.34.84.101
-http://www.99huitu.com
 http://35.194.171.161
 http://bbs.xxyw.com
 http://dameme.skybbs.biz
@@ -3264,6 +3261,7 @@ http://182.254.130.18
 http://www.9453bb.com
 http://jdzyg.com
 http://www.imxy28.com
+http://www.99huitu.com
 http://www.shanbenjiaoyu.com
 http://www.fudanu.com
 http://www.xhyz714.com
@@ -5555,6 +5553,8 @@ http://123.ytbbs.com
 http://www.rxjhsq.net
 https://www.phillylive.co
 http://www.cq3.in
+http://114.34.84.101
+http://119.136.25.27:8888
 http://zs.184409.com
 http://www.lywmh.com
 http://www.rhygc.com
@@ -5610,6 +5610,7 @@ http://www.shiwuzq.com
 http://ljjyzckj.com
 http://www.zfzflw.com
 http://xz.180724.com
+http://citsjs.com.cn:90
 http://qingquxuexiao.cn
 http://luzimage01.net
 http://www.mzjyss.cn
