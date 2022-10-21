@@ -1,6 +1,3 @@
-http://mdj.180724.com
-http://www.hsbbs.com
-http://mail.cpure.org
 http://chizhou.aizse.com
 http://club.west.cn
 http://km.180724.com
@@ -1227,6 +1224,7 @@ http://bbs.ztrxw.cn
 http://rjcomm.fengdasoft.com
 http://www.jmczsoft.com:82
 http://www.hjbxw.com
+http://hu6hu.com
 https://www.hiliuyang.com
 http://ratbxh.com
 http://dhcp.pilsnet.myubbs.com:62078
@@ -3281,6 +3279,7 @@ http://www.lzpxf.com
 http://bbs.carbit.com.cn
 http://bbs.qianjia.com
 http://www.zhangshangfuzhou.com
+http://mail.cpure.org
 http://ggxhh.com
 http://520guakao.com
 http://langrissera.com
@@ -6114,6 +6113,8 @@ http://changxing.184409.com
 http://www.yawanju.com
 https://jj58.com.cn
 http://suzhou.180724.com
+http://mdj.180724.com
+http://www.hsbbs.com
 http://www.nabiway.org
 http://chifeng.180724.com
 http://www.mjjzj.com
