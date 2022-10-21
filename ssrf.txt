@@ -1,4 +1,3 @@
-http://xiadan.shize.org
 http://xc.myccmusic.com
 http://www.xiaochi28.com
 http://xx.ddcyf.com:8080
@@ -3249,6 +3248,7 @@ http://09hw.icu
 http://60.251.32.214
 http://yanbian.184409.com
 http://www.hs23.cn
+http://xiadan.shize.org
 https://sixiantongxiang.com
 http://www.baishabowuguan.com
 http://www.hzyiwo.com
@@ -4964,6 +4964,7 @@ http://art.zhenzhubay.com
 http://jp02.youlitv.top
 http://yfhzzx.com
 http://bbs.besovideo.com:8067
+https://sts1.xyz
 https://tcelue.com
 http://ks.180724.com
 http://39.101.194.37
