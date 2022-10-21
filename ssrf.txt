@@ -1,5 +1,3 @@
-http://119.29.0.253
-http://www.188iot.com
 http://www.xyjun.com
 http://www.gyyrkj.com
 http://154.85.222.106
@@ -2270,6 +2268,7 @@ http://www.x8ok.com
 http://plus.udigital.cn
 http://www.x505.cn
 http://bbs.ihmg.com.cn
+http://wanhang661188.com
 https://bbs.anluw.com
 http://www.bzswbbs.com
 http://www.hanmi520.com
@@ -3252,6 +3251,8 @@ http://47.97.230.163
 http://www.xinlt.cn
 https://www.awanzhou.com
 http://qyqrs.com
+http://www.188iot.com
+http://119.29.0.253
 http://www.1000qm.vip
 http://ihmg.com.cn
 http://www.nuobang.online
