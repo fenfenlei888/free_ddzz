@@ -1,4 +1,3 @@
-http://pg6.sip.dataguru.cn
 http://d.tonghuar.com
 http://www.yw021.xyz
 http://www.ztrxw.cn
@@ -3348,6 +3347,7 @@ http://www.0511ia.com
 http://www.10086rom.com
 http://www.dalianlaw.com
 http://www.biaook.com
+http://pg6.sip.dataguru.cn
 http://sha0724.com
 http://www.farflunginfo.com
 http://gyusoft.com
@@ -4015,6 +4015,7 @@ https://www.7s6s5s.com
 http://www.020wj.net
 http://49.235.111.114:8080
 http://96.126.101.89
+http://cfdbbs.net
 https://www.jpinfo.net
 https://www.xoooi.com
 http://hkcjgh.com
