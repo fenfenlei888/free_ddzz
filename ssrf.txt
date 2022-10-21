@@ -1,5 +1,3 @@
-http://cdbf.cc
-http://bbs.nystudents.net
 http://pg6.sip.dataguru.cn
 http://d.tonghuar.com
 http://www.yw021.xyz
@@ -2690,6 +2688,7 @@ http://www.chijiuhui.net
 http://47.111.232.50:1234
 http://en.dataguru.cn
 http://149.248.17.166
+http://www.zzxinghan.com
 http://www.enroobbs.com
 https://www.100miaomu.cn
 http://files.wxdaiyan.cn
@@ -5312,6 +5311,8 @@ https://www.centerbbs.com
 http://jnu.myujob.com
 https://www.hnzxgs.com.cn
 https://www.boxueop.com
+http://bbs.nystudents.net
+http://cdbf.cc
 http://bbs.58wd.com
 http://bbs.fhsx.net.cn
 http://ywzt.wang:7777
