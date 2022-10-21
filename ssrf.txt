@@ -1,4 +1,3 @@
-http://cc.wxdaiyan.cn
 http://xiangqin.azheteng.cn
 http://sctongzhi.com
 http://www.waterant.cn
@@ -3244,6 +3243,7 @@ http://209.222.98.180
 http://www.lhqzj.cn
 http://www.uvledbbs.com
 https://www.xuetu123.com
+http://cc.wxdaiyan.cn
 http://itju.cn
 https://www.cdxcdx.com
 http://www.3dmoli.com
@@ -5596,6 +5596,7 @@ http://www.minhofans.com
 http://www.0734zly.com
 http://jianfangmi.com
 http://120.77.173.188:88
+http://bloodsoul.tw
 http://changge.180724.com
 http://bbs.ivfmami.cn
 http://www.ngmyt.com
