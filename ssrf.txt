@@ -1,4 +1,3 @@
-https://slashtw.space
 http://baiyin.aizse.com
 https://www.xyyao.com
 http://www.hljubbs.com
@@ -1061,6 +1060,7 @@ https://wujindeng.net
 http://140.246.102.194:8081
 http://dz.plas2006.com
 https://www.dubious.users.163dz.com
+http://www.tanxianwei.org
 http://www.mifengjianzhi.net
 http://fushun.180724.com
 http://www.557cg.com
@@ -3274,6 +3274,7 @@ http://www.tucaptions.org
 http://zongyi.oyuw.com
 http://news.yanfabu.com
 http://sns.aiyidu.com
+https://slashtw.space
 http://haditie.com
 http://fangwei.zhougongbaisui.com
 http://caitabts666.com
