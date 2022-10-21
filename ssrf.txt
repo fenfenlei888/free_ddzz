@@ -1,5 +1,3 @@
-http://www.luoyouming.cc
-https://www.doudouxiyan.com
 http://47.102.199.28:9000
 http://115.182.12.215
 http://www.yevr.top
@@ -3276,6 +3274,7 @@ http://www.centerbbs.com
 http://naruto.bleachcn.net
 http://lps.184409.com
 http://www.aibeiwang.com
+https://www.doudouxiyan.com
 http://www.tucaptions.org
 http://haditie.com
 http://fangwei.zhougongbaisui.com
@@ -5889,6 +5888,7 @@ http://www.mao.org.cn
 http://sd.184409.com
 https://bbs.luzhou28.com
 http://106.75.247.44:8089
+http://www.roushu.cc
 http://www.qunmaw.cn
 http://210.56.60.100
 http://u.ytbbs.com
@@ -6072,6 +6072,7 @@ http://31shenghuo.com
 http://www.dongjiajidian.com
 http://www.jaaaaa.com
 http://www.xiabaite.com
+http://www.luoyouming.cc
 http://yuchaijt.com
 http://135-photo.com
 http://joychanong.com
