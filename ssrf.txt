@@ -1,4 +1,3 @@
-http://hntongzhi.net
 http://bbs.xlysoft.net
 http://sh.52bus.com
 http://rkz.184409.com
@@ -2623,6 +2622,7 @@ http://yszq.net
 http://bbs.hjsg.zhanshunkeji.com
 http://baise.180724.com
 http://www.862686.com
+http://www.ejizhi.com
 http://209.222.98.180
 http://www.lhqzj.cn
 http://www.uvledbbs.com
@@ -3297,6 +3297,7 @@ https://www.xishanyinxiang.com
 http://www.gushu7.com
 http://bbs.bwxsj.cn
 https://ffskybbsjp.azurewebsites.net
+http://hntongzhi.net
 http://zy.180724.com
 http://hq.184409.com
 http://119.29.153.216:81
