@@ -1,6 +1,3 @@
-http://www.1tjy.com
-http://pt.180724.com
-http://www.hntongzhi.net
 http://bbs.feiyuqing.cn
 http://www.wenxiucn.com
 http://www.datuc.com
@@ -2636,6 +2633,7 @@ http://ad.yuxiangshequ.com
 http://idsky.net
 https://bbs.51kahui.com
 http://www.hys99.cn
+http://www.nncmkq.com
 https://autodiscover.old.163dz.com
 https://forum.mtkfan.com
 https://www.583118.com
@@ -3256,6 +3254,8 @@ http://cw-net.com
 http://jiafen.oa57.net
 http://bbs.gs2012.com
 http://xiangtan.184409.com
+http://pt.180724.com
+http://www.hntongzhi.net
 https://dearhouse.net
 https://www.zxymk.com
 http://cddwt.net
@@ -4359,6 +4359,7 @@ http://press.oecr.com
 http://bzz.60743.com
 http://www.gzshuxie.com
 http://www.sdtz.cc
+http://xiudaowang.com
 http://dayibin.cn
 http://tju.mykaoyan.com
 http://www.retroco.co
@@ -5596,6 +5597,7 @@ http://118.190.105.95:801
 http://www.wycjy.com
 http://cinema-home.cn
 http://www.jhdtw.cn
+http://www.1tjy.com
 http://heike666.com
 http://www.gdinnet.com
 http://www.xici8080.net
@@ -5832,6 +5834,7 @@ http://szigas.cn
 http://jingzhou.180724.com
 http://wordpress.daoqin.net
 http://www1.china-ws.org
+http://www.xiuzhen123.com
 http://bbs.aizse.com
 http://sjqgw.com
 http://www.borexf.com:34567
