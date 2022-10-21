@@ -1,5 +1,3 @@
-http://www.bjxxw.com
-http://www.ckuyun.com
 http://www.38baby.com
 https://www.yuanhangjy.com
 http://yukang.org.cn
@@ -540,6 +538,7 @@ http://ch.180724.com
 http://www.zpxsxk.com
 http://www.hprx.com
 http://121.199.48.191:89
+https://021snyw.com
 http://www.nongdui.com
 http://104.237.56.131
 http://106.14.1.150:8090
@@ -3282,6 +3281,7 @@ http://szzyyzz.com
 http://feicuibbs.cn
 http://www.d7gan.cn
 http://www.aimang.net
+http://www.ckuyun.com
 http://www.udnbkk.com
 http://www.wanantan.com
 https://cz122.gov.cn
@@ -6240,6 +6240,7 @@ http://www.php200.cn
 https://www.eleok.com
 http://www.feifeicms.pro
 http://www.aimgg.com
+http://www.bjxxw.com
 http://our.youshijie.com
 http://www.songjiangjituan.cn
 http://433175.com
