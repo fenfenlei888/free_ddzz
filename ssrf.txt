@@ -1,5 +1,3 @@
-http://171.221.207.159
-http://www.yszq.net
 http://123.57.63.14:8081
 https://www.zhongxinwanka.com
 http://47.107.111.18:443
@@ -2821,6 +2819,7 @@ http://www.xun321.com
 http://xiangyang.184409.com
 http://www.wcjbb.com
 http://www.sdsdzx.com
+http://cust.mykaoyan.com
 http://bbs.xiasha.cn
 http://taixing.180724.com
 http://www.029lintong.com
@@ -3342,6 +3341,8 @@ http://101.36.122.252
 http://www.zjbf.cc
 http://www.iftee.com
 https://www.maiyadi.org
+http://www.yszq.net
+http://171.221.207.159
 http://lanpa.skybbs.info
 http://home.langrissera.com
 http://www.nanjing1.com
