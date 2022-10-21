@@ -1,5 +1,3 @@
-http://www.datuc.com
-http://liaoyang.180724.com
 http://com.cmtest.net
 http://www.iscut.cn
 http://client.dataguru.cn
@@ -3258,6 +3256,8 @@ https://dearhouse.net
 https://www.zxymk.com
 http://www.wenxiucn.com
 http://bbs.feiyuqing.cn
+http://liaoyang.180724.com
+http://www.datuc.com
 http://cddwt.net
 http://qxn.180724.com
 http://q057707.com
@@ -3345,6 +3345,7 @@ http://au.gegeyou.com
 http://tuanshui.net
 http://www.yzgggz.com
 http://www.tdwqs.com
+http://www.dyzs.com
 http://www.tianyanet.com
 http://www.3wsjw.com
 http://www.canadalondonchinese.com
