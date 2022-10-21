@@ -1,7 +1,3 @@
-http://sz.mamacn.com
-https://bjdiaoyu.com
-http://www.members.uttbbs.com
-http://www.renhuai.tv
 https://www.hqyx.me
 http://bbs.gs2012.com
 https://bbs.emath.ac.cn
@@ -2962,6 +2958,7 @@ http://120.26.3.42
 http://bbs.carbit.cn
 http://www.11op.com
 http://qinzhaolun.cn
+http://www.yesge.com
 http://bbs.iliferobot.cn
 http://47.52.100.219
 http://bbs.huansi.cn
@@ -3259,6 +3256,8 @@ http://www.redchinacn.net
 http://www.jomen.net
 http://ikstar.com
 http://www.zgywcm.com
+https://bjdiaoyu.com
+http://sz.mamacn.com
 https://wz58.site
 http://cw-net.com
 http://jiafen.oa57.net
@@ -3290,6 +3289,7 @@ http://cdxcdx.com
 http://hn0756.com
 http://www.xuwentcw.com
 https://user.vlabpro.com
+http://yesge.com
 http://www.waigeshetuan.com
 https://xuwentcw.com
 http://bbs.70jj.com
@@ -5589,6 +5589,8 @@ http://120.77.173.188:88
 http://changge.180724.com
 http://bbs.ivfmami.cn
 http://www.ngmyt.com
+http://www.members.uttbbs.com
+http://www.renhuai.tv
 http://heike666.com
 http://www.gdinnet.com
 http://www.xici8080.net
