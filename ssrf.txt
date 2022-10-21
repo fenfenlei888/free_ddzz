@@ -1,5 +1,3 @@
-http://www.ytbbs.com
-http://guyuan.184409.com
 http://ekondiy.com
 http://ca.gegeyou.com
 http://www.kangleyuan.net
@@ -3287,6 +3285,8 @@ http://121.199.48.191:86
 https://www.liuxuesheng8.com
 http://47.104.207.91:8090
 http://zk.cmjnu.com.cn
+http://guyuan.184409.com
+http://www.ytbbs.com
 http://www.tquyi.com
 http://qiyuandi.cn
 http://www.kancolly.com
@@ -5582,6 +5582,7 @@ http://www.mao.org.cn
 http://sd.184409.com
 http://www.qunmaw.cn
 http://www.sijige.net
+http://www.wuweixx.com
 http://www.renyitc.com
 http://www.163edu.net
 http://bh.rhygc.com
