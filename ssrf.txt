@@ -1,5 +1,3 @@
-http://59.111.106.155
-https://www.rv28.com
 http://111.230.130.80
 https://gjkeji.com
 http://pop.cpure.org
@@ -3273,6 +3271,7 @@ http://www.ceeppe.com
 http://bbs.dubai.boniu123.cc
 http://122.112.230.93:8080
 http://dl.mamacn.com
+http://59.111.106.155
 http://www.60743.com
 http://jdzyg.com
 http://www.shanbenjiaoyu.com
@@ -4018,6 +4017,7 @@ http://www.pit28.com
 http://bbs.paobiaoqi.com
 https://test.szckhd.com
 http://www.tr.uttbbs.com
+http://www.xcxy.net
 http://ofc.oecr.com
 http://hntz03.com
 http://www.ljdb.net
@@ -5543,6 +5543,7 @@ http://xng1.top
 http://120.25.148.206:1000
 http://64.91.235.131
 https://bbs.inanxun.com
+https://www.rv28.com
 http://www.xdd889.com
 http://ict.ivfan.com
 http://zs.184409.com
