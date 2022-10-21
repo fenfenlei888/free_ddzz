@@ -1,5 +1,3 @@
-http://mzjyss.cn
-http://bbs.potplayer.org
 http://184.95.51.84
 https://bbs.ichuanglan.com
 http://123.56.88.72
@@ -3251,6 +3249,7 @@ http://www.iyppz.com
 http://youook.com
 http://cn-sh.cn
 http://bbs.quanbazhong.cn
+http://mzjyss.cn
 http://kokang123.com
 http://cdxcdx.com
 http://hn0756.com
@@ -4178,6 +4177,7 @@ http://klsh.com
 http://123.56.133.103
 http://ftp.dataguru.cn
 http://www.sctongzhi.net
+http://www.gubibo.com
 http://yj.184409.com
 http://sdu.myubbs.com
 http://www.wutongshu0531.com
@@ -4480,6 +4480,7 @@ http://www.ustcsv.com
 http://www.zjgfwd.org
 http://forum.smart6.net
 http://www.game798.com
+http://airz.cn
 http://www.h596.com
 http://61.174.248.14
 http://www.dadijilu.com
@@ -5668,6 +5669,7 @@ http://dz.xiapuapp.com
 http://45.64.75.58
 http://139.198.15.22
 http://www.huateair.com:89
+http://bbs.potplayer.org
 http://www.miaos.cn
 http://tj.ckuyun.com
 http://www.yiciyuan.org
