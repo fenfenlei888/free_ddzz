@@ -1,6 +1,3 @@
-http://182.92.76.47
-http://www.listenyuan.com
-http://www.lingdian.org.cn
 http://39.107.78.109
 https://x505.cn
 http://43.136.176.17
@@ -2890,6 +2887,7 @@ http://120.77.96.186
 http://www.175999.com
 http://portfolio.wxdaiyan.cn
 http://45.79.173.227
+https://bbs.qxsclass.com
 http://www.songtaox.com
 http://www.jiadianmofang.com
 http://olh557.cc
@@ -3281,6 +3279,8 @@ http://106.52.28.22:83
 http://www.shenkongwang.com
 http://678dianshang.com
 https://bbs.nuedc-training.com.cn
+http://www.lingdian.org.cn
+http://182.92.76.47
 http://bbs.xxmm888.com
 http://yuncheng.180724.com
 https://www.rosevision.net
@@ -6253,6 +6253,7 @@ http://www.songjiangjituan.cn
 http://121.42.10.209:8080
 http://433175.com
 http://www.storyren.com
+http://www.listenyuan.com
 https://plastic-bbs.com:8443
 http://www.csslkj.com
 http://yancheng.180724.com
