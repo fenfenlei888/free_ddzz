@@ -1,5 +1,3 @@
-http://121.41.10.52
-http://8.140.12.248
 http://antzone.cn
 http://www.mtedu.utaipei.edu.tw
 http://sy.184409.com
@@ -241,6 +239,7 @@ http://www.wxigua.com
 http://www.115533.com
 http://www.zsacg.com
 http://t.wupen.cn
+http://www.luqiaosui.com
 http://90yunpan.com
 http://www.zhenyuzhidi.com
 http://autoconfig.email.uttbbs.com
@@ -3288,6 +3287,7 @@ http://www.asp.cn
 http://www.myhit.cn
 http://120.46.145.109
 http://kmrlt.com
+http://8.140.12.248
 http://zhidao.xiasha.cn
 http://tieba.guanjiatu.com
 http://mysuibe.com
@@ -6374,6 +6374,7 @@ http://bangbu.w91.cn
 https://spb.gkzj.net
 http://www.ctxk.org
 http://47.94.175.17:62078
+http://121.41.10.52
 http://huzhou.184409.com
 https://yt520.cc
 http://cdtkdw.com
