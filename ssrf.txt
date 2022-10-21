@@ -1,5 +1,3 @@
-http://baiyin.aizse.com
-https://www.xyyao.com
 http://www.hljubbs.com
 http://bbs.kinetic.com.cn
 http://daxinganling.aizse.com
@@ -2093,6 +2091,7 @@ http://sxu.mykaoyan.com
 https://www.zjimo.com
 http://zjj.180724.com
 http://www.shengzhe.net
+http://qiaoxiaojun.vip
 http://datong.w91.cn
 http://bbs.d1dns.com
 http://www.522631.com
@@ -3277,6 +3276,8 @@ http://sns.aiyidu.com
 https://slashtw.space
 http://haditie.com
 http://fangwei.zhougongbaisui.com
+https://www.xyyao.com
+http://baiyin.aizse.com
 http://caitabts666.com
 http://www.gyusoft.com
 http://taishan.184409.com
