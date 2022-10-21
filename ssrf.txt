@@ -1,7 +1,3 @@
-http://www.sh1069.cc
-http://1.117.58.254
-http://129.204.105.114:8080
-http://www.szpci.com
 http://61.136.60.55:8087
 http://bbs.rxbeby.com
 http://huzhou.180724.com
@@ -3367,6 +3363,7 @@ http://treehousesub.com
 http://bbs.5akm.com
 http://apuup.com
 http://bbs.winning11cn.com
+http://129.204.105.114:8080
 http://hx.180724.com
 http://www.circusannarbor.com
 http://qinzhaolun.cn
@@ -3873,6 +3870,7 @@ http://www.myh360.com
 http://1tjy.com
 https://bbs.crossincode.com
 http://huaibei.180724.com
+http://www.88u5.com
 https://huhutong315.com
 http://www.sifa.org.cn
 http://bbs.srfc.com.cn
@@ -5267,6 +5265,9 @@ http://106.54.79.191:8090
 http://91d2.org
 http://bbs.hanwangsoft.com
 https://bbs.zzjb.com
+http://1.117.58.254
+http://www.sh1069.cc
+http://www.szpci.com
 http://www.shidong.cc
 http://www.lovekor.net
 http://www.41kq.com
@@ -5521,6 +5522,7 @@ https://demo.zimucms.com
 http://www.qiti99.com
 https://tmtrl.com.tw:8443
 http://cnssssl.com
+http://www.228wy.com
 http://zgwzxc.com
 http://bbs.fytxonline.com
 http://www.xiangjiangriverwater.com
