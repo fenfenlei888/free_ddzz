@@ -1,4 +1,3 @@
-http://hcwlcn.cn
 http://www.cui2.cn
 http://www.cailiaoquan.com
 http://dazhou.w91.cn
@@ -3296,6 +3295,7 @@ http://118.190.176.134
 http://job.ztrxw.cn
 http://116.255.230.131:8084
 http://103.28.44.120
+http://hcwlcn.cn
 http://myhit.cn
 http://kmrlt.com
 http://zhidao.xiasha.cn
@@ -4797,6 +4797,7 @@ http://bbs.qcfdlt.com
 http://bbs.360wzgj.com
 http://www.hxyhxy.com
 http://www.lama001.com
+https://www.yuksal.net
 https://www.zhongchu56.com
 http://imcema.org
 http://bc-bc.xyz
