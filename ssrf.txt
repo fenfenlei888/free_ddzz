@@ -1,5 +1,3 @@
-http://bbs.yxssy.com
-http://yb.180724.com
 http://dcdemo.pubtc.com
 http://157.7.139.69
 http://bbs.ebnew.com
@@ -3286,6 +3284,7 @@ http://rxjhbaobao.net
 http://df.180724.com
 http://fsacn.cn
 http://www.3rlt.net
+http://yb.180724.com
 http://bbs.hitow.net
 https://ojpal.com
 http://imgod.com.cn
@@ -5804,6 +5803,7 @@ http://124.223.214.143
 http://101.200.176.219
 http://bbs.uipkernel.org
 http://iyunle.cn
+http://admin.fyyouth.org.cn
 https://tcelue.cc
 http://101.132.100.226
 http://www.chinazhiqing.com
@@ -6315,6 +6315,7 @@ http://hhday.com.tw
 https://zhujiaren.com
 http://hk.gegeyou.com
 http://jining.184409.com
+http://bbs.yxssy.com
 http://www.uu8801.com
 http://dy.180724.com
 http://forums.gogames.me
