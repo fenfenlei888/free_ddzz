@@ -1,9 +1,3 @@
-http://120.25.148.206:1000
-http://122.112.230.93:8080
-http://xng1.top
-https://www.5i8.org
-http://64.91.235.131
-http://dl.mamacn.com
 http://59.111.106.155
 https://www.rv28.com
 http://111.230.130.80
@@ -3277,6 +3271,8 @@ http://www.mycwu.com
 http://bbs.qupu123.com
 http://www.ceeppe.com
 http://bbs.dubai.boniu123.cc
+http://122.112.230.93:8080
+http://dl.mamacn.com
 http://www.60743.com
 http://jdzyg.com
 http://www.shanbenjiaoyu.com
@@ -3514,6 +3510,7 @@ http://zkcjcx.com
 http://fufen.d1v1.com
 http://www.macheng.net.cn
 https://faceboer.org
+http://www.zhf365.com
 http://112.126.82.224
 http://bygl.180724.com
 http://www.mamayujia.com
@@ -4325,6 +4322,7 @@ https://bbs.twinkstar.com
 http://www.ixiy.cn
 http://aks.184409.com
 http://www.y8bbs.com
+http://zhf365.com
 http://www.7wyx.cn
 http://www.huaiyuantaiji.com
 http://www.o2omax.com
@@ -5540,6 +5538,10 @@ http://184.95.51.82
 http://yf.180724.com
 http://www.bloodsoul.tw
 http://www.zangaoba.net
+https://www.5i8.org
+http://xng1.top
+http://120.25.148.206:1000
+http://64.91.235.131
 https://bbs.inanxun.com
 http://www.xdd889.com
 http://ict.ivfan.com
