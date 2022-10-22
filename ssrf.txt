@@ -1,5 +1,3 @@
-http://www.pzzj.net
-http://chaoyang.w91.cn
 https://www.chanye720.com
 http://kb9453.com
 http://47.107.187.205:9999
@@ -2930,6 +2928,7 @@ http://yulin.180724.com
 http://114.112.74.132:8089
 http://heihe.184409.com
 http://www.xinyue234.com
+http://www.transfun.net
 http://www.cqfjh.com
 http://suizhou.180724.com
 http://www.sc1069.cc
@@ -6430,6 +6429,8 @@ http://www.cncye.com
 http://123.57.240.48
 http://www.lkdie.com
 http://www.228wy.com
+http://chaoyang.w91.cn
+http://www.pzzj.net
 http://zgwzxc.com
 http://bbs.fytxonline.com
 http://www.xiangjiangriverwater.com
