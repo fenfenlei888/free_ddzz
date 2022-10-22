@@ -1,7 +1,3 @@
-http://www.sctzgay.com
-http://buy.ytbbs.com
-http://bbs.miji7.com
-https://362411.com.cn
 http://106.14.192.228:8082
 http://hanwowo.com
 http://www.guxunw.com
@@ -3297,6 +3293,7 @@ http://cdios.hjsite.com
 https://www.yoyonn.com
 http://bbs.fulingws.com
 https://bbs.shouxi.com
+http://www.sctzgay.com
 http://sytu.23du.com
 http://allyworld.xicp.net:8092
 http://45.79.218.47
@@ -6290,6 +6287,7 @@ http://dong.w91.cn
 http://www.xxqydh.com
 http://haikou.180724.com
 http://laiqulaiqu.com
+http://qx.dz169.com
 https://www.shaxianxia.com
 http://yl.rhygc.com
 http://www.qlqwgw.com
@@ -6462,6 +6460,9 @@ https://bbs.sific.com.cn
 http://60.250.151.82:8005
 http://windows.daoqin.net
 http://120.55.27.58:876
+https://362411.com.cn
+http://bbs.miji7.com
+http://buy.ytbbs.com
 http://xinlt.cn
 https://woodenkitten.com
 http://dxal.180724.com
