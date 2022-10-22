@@ -1,5 +1,3 @@
-http://122.9.46.12
-http://182.254.153.43
 http://sctz33.com
 http://www.help-hope.org
 http://rainroot.gicp.net:81
@@ -6468,6 +6466,8 @@ http://buy.ytbbs.com
 http://xinlt.cn
 https://woodenkitten.com
 http://94.74.87.187
+http://182.254.153.43
+http://122.9.46.12
 http://dxal.180724.com
 http://ningguo.180724.com
 http://ffskybbsjp.azurewebsites.net
@@ -6478,6 +6478,7 @@ http://yt.184409.com
 http://www.51dahuo.com
 http://www.xslaw.net
 http://www.niupitu.com
+https://www.newliandu.com
 http://szigas.cn
 http://jingzhou.180724.com
 http://wordpress.daoqin.net
