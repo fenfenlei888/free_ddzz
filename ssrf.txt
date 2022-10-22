@@ -1,5 +1,3 @@
-http://hanwowo.com
-http://www.guxunw.com
 http://bbs.xiaoyuer.com
 http://139.199.183.128
 http://94.74.87.187
@@ -1397,6 +1395,7 @@ http://118-232-136-108.dynamic.kbronet.com.tw
 http://www.chinaveg.org
 http://bbs.dysdu.com
 http://174.139.68.11
+http://www.feifannet.com
 http://www.tzy648.cc
 http://121.46.31.153
 http://www.chnfly.net
@@ -3294,6 +3293,8 @@ http://bbs.fulingws.com
 https://bbs.shouxi.com
 http://www.sctzgay.com
 http://106.14.192.228:8082
+http://www.guxunw.com
+http://hanwowo.com
 http://sytu.23du.com
 http://allyworld.xicp.net:8092
 http://45.79.218.47
