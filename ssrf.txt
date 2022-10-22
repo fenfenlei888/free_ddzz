@@ -1,4 +1,3 @@
-http://60.250.151.82:8005
 http://www.sctzgay.com
 http://buy.ytbbs.com
 http://bbs.miji7.com
@@ -1910,6 +1909,7 @@ http://www.zhiyoucheng.co
 https://www.chinafix.com
 http://www.jiadianbbs.cn
 http://opticalfilm.oecr.com
+http://99rom.com
 http://bsdstc.club
 http://www.lixinjiayuan.com
 http://bbs.mdm520.cn
@@ -6459,6 +6459,7 @@ http://bbs.ffsky.com
 http://www.sngdzx.cn:8088
 https://api.onecoolzone.com
 https://bbs.sific.com.cn
+http://60.250.151.82:8005
 http://windows.daoqin.net
 http://120.55.27.58:876
 http://xinlt.cn
