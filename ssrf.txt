@@ -1,5 +1,3 @@
-http://bbs.mzsky.com
-http://chaozhou.184409.com
 http://bengbu.180724.com
 http://beijing.hmsem.com
 http://103.132.235.65
@@ -3293,6 +3291,8 @@ https://baisha.tongcheng.ink
 https://www.myh360.com
 http://bbs.46ps.com
 http://www.1314mh.com
+http://chaozhou.184409.com
+http://bbs.mzsky.com
 http://www.hkcjgh.com
 http://haoxm.cc
 http://www.oa57.net
