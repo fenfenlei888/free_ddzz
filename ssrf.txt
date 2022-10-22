@@ -1,8 +1,3 @@
-http://luoya.shawsen.com
-https://isp-caledon.cit.gkzj.net
-http://opsbbs.whaley.cn
-http://123.57.240.48
-http://www.cncye.com
 http://www.lkdie.com
 http://mszb.ckuyun.com
 http://www.pzzj.net
@@ -2838,6 +2833,7 @@ http://203.195.186.190
 http://lab127.com
 http://www.zcsxxw.com
 http://bbs.91zhiliang.com
+http://www.mdjcn.net
 http://www.ruodiantong.com
 http://www.jsxslyh.com
 http://www.gytz.org
@@ -3296,6 +3292,8 @@ http://www.zhf365.com
 http://96.43.95.80
 http://112.126.82.224
 http://bygl.180724.com
+http://luoya.shawsen.com
+http://opsbbs.whaley.cn
 http://www.mamayujia.com
 http://www.szpd10.com
 http://www.fxwht.com
@@ -5095,6 +5093,7 @@ http://cheaixi.com
 https://ibmhome365.com
 http://maps.uttbbs.com
 http://108.170.5.74:8080
+http://mdjai.com
 http://www.sxydedu.cn
 http://hsmzy.com
 http://114.116.2.138:8090
@@ -6426,6 +6425,9 @@ http://cnssssl.com
 http://bbs.xinpg.com
 http://heihe.180724.com
 http://www.wptcw.com
+https://isp-caledon.cit.gkzj.net
+http://www.cncye.com
+http://123.57.240.48
 http://www.228wy.com
 http://zgwzxc.com
 http://bbs.fytxonline.com
@@ -6434,6 +6436,7 @@ http://xuancheng.180724.com
 http://kl.184409.com
 http://www.goldenbookssw.com
 http://www.jsdjhw.com
+http://www.mdjai.com
 http://www.glsanw.com
 http://www.lianlaov.com
 http://360so.seopeixunw.cn
