@@ -1,4 +1,3 @@
-http://www.business.myubbs.com:62078
 http://bbs.ffsky.com
 http://www.sngdzx.cn:8088
 https://bbs.sific.com.cn
@@ -1166,6 +1165,7 @@ https://www.sts90.com
 https://forum.dragonballz.us
 http://seogongju.seopeixunw.cn
 http://hld.184409.com
+http://demo.daihuo100.com:8080
 https://www.syzxw.com.cn
 http://www.kb9453.com
 http://121.5.141.171
@@ -3295,6 +3295,7 @@ http://www.0598yu.com
 http://www.jkzmd.com
 http://bbs.wangjing.cn
 http://8.142.82.217
+http://www.business.myubbs.com:62078
 http://bjsax.com
 http://cdios.hjsite.com
 https://www.yoyonn.com
