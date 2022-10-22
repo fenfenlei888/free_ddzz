@@ -1,5 +1,3 @@
-http://www.lkdie.com
-http://mszb.ckuyun.com
 http://www.pzzj.net
 http://chaoyang.w91.cn
 https://www.chanye720.com
@@ -1904,6 +1902,7 @@ http://www.pc1999.com
 http://redchinacn.net
 http://www.treehousesub.com
 http://58.56.76.173
+http://www.java321.com
 http://121.54.172.224
 http://haining.184409.com
 http://cangzhou.180724.com
@@ -3295,6 +3294,7 @@ http://bygl.180724.com
 http://luoya.shawsen.com
 http://opsbbs.whaley.cn
 http://www.mamayujia.com
+http://mszb.ckuyun.com
 http://www.szpd10.com
 http://www.fxwht.com
 http://www.zikao5.com
@@ -6428,6 +6428,7 @@ http://www.wptcw.com
 https://isp-caledon.cit.gkzj.net
 http://www.cncye.com
 http://123.57.240.48
+http://www.lkdie.com
 http://www.228wy.com
 http://zgwzxc.com
 http://bbs.fytxonline.com
