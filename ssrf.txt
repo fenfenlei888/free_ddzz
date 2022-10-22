@@ -1,6 +1,3 @@
-http://news.idrugs.cn
-http://www.cqxdx.com
-http://www.yszq.cn
 http://sy.mamacn.com
 http://fang.514200.com
 http://mg.180724.com
@@ -807,6 +804,7 @@ http://www.shenwujun.com
 http://www.yaodumod.com
 http://bbs.cnecport.com
 http://www.ddsfw.cn
+http://hgrwsp.top
 http://jpun.net
 http://bd.180724.com
 http://www.bound4xanadu.com
@@ -3295,6 +3293,7 @@ https://www.chanye720.com
 http://dz.lfly.xyz
 http://deyang.w91.cn
 http://www.zikao5.com
+http://news.idrugs.cn
 http://wenling.180724.com
 http://9119453.com
 http://bjsax.com
@@ -3497,6 +3496,7 @@ http://edu.jychina.com
 http://lkdie.com
 http://11sgz.com
 http://hexian.180724.com
+http://www.hgrwsp.top
 http://bbs.slfst.cn
 http://www.qiduc.com
 http://www.phoer.net
@@ -6440,6 +6440,8 @@ http://www.xiangjiangriverwater.com
 http://xuancheng.180724.com
 http://104.225.149.63
 http://kl.184409.com
+http://www.cqxdx.com
+http://www.yszq.cn
 http://www.goldenbookssw.com
 http://www.jsdjhw.com
 http://www.mdjai.com
