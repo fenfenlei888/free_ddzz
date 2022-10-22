@@ -1,6 +1,3 @@
-http://47.107.187.205:9999
-http://www.it776.com
-http://dz.lfly.xyz
 http://deyang.w91.cn
 http://104.225.149.63
 http://news.idrugs.cn
@@ -3297,8 +3294,10 @@ http://www.szpd10.com
 http://www.fxwht.com
 http://kb9453.com
 https://www.chanye720.com
+http://dz.lfly.xyz
 http://www.zikao5.com
 http://wenling.180724.com
+http://9119453.com
 http://bjsax.com
 http://cdios.hjsite.com
 https://www.yoyonn.com
@@ -6434,6 +6433,8 @@ http://chaoyang.w91.cn
 http://www.pzzj.net
 http://zgwzxc.com
 http://bbs.fytxonline.com
+http://www.it776.com
+http://47.107.187.205:9999
 http://www.xiangjiangriverwater.com
 http://xuancheng.180724.com
 http://kl.184409.com
