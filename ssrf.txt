@@ -1,5 +1,3 @@
-http://bbs.ffsky.com
-http://www.sngdzx.cn:8088
 https://bbs.sific.com.cn
 https://api.onecoolzone.com
 https://bbs.shouxi.com
@@ -3634,6 +3632,7 @@ https://www.sinoquebec.com
 http://ly.180724.com
 https://www.2haoshu.com
 https://breastbbs.com:8443
+http://club.eweiqi.com
 http://wzs.184409.com
 http://47.104.99.49:82
 http://106.15.61.58
@@ -5616,6 +5615,7 @@ http://jincheng.180724.com
 http://xd.oa57.net
 http://www.swothouse.com
 http://www.gem0816.cn
+http://qiyouhui.eweiqi.com
 http://zjjy.xiasha.cn
 http://www.hiliuyang.com
 http://www.minhofans.com
@@ -6455,6 +6455,8 @@ http://www.glsanw.com
 http://www.lianlaov.com
 http://360so.seopeixunw.cn
 http://bbs.zzbas.com
+http://bbs.ffsky.com
+http://www.sngdzx.cn:8088
 http://windows.daoqin.net
 http://120.55.27.58:876
 http://xinlt.cn
