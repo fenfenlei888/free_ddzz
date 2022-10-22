@@ -1,5 +1,3 @@
-http://96.43.95.80
-http://www.wptcw.com
 http://luoya.shawsen.com
 https://isp-caledon.cit.gkzj.net
 http://opsbbs.whaley.cn
@@ -2430,6 +2428,7 @@ http://www.redchinacn.net
 http://fuzhou.184409.com
 http://www.jomen.net
 http://ikstar.com
+http://bjyjjc.com
 http://www.zgywcm.com
 https://bjdiaoyu.com
 http://sz.mamacn.com
@@ -3294,6 +3293,7 @@ https://faceboer.org
 http://www.mingdao20.cn
 https://bbs.kafan.cn
 http://www.zhf365.com
+http://96.43.95.80
 http://112.126.82.224
 http://bygl.180724.com
 http://www.mamayujia.com
@@ -3882,6 +3882,7 @@ http://bbs.0576qq.com
 http://www.saojie.org
 http://www.wx-robot.com
 https://lib.gkzj.net
+http://www.bjyjjc.com
 https://5i8.us
 http://www.tzhcyy.cn
 http://114.107.245.122:9080
@@ -6424,6 +6425,7 @@ http://94.74.88.41
 http://cnssssl.com
 http://bbs.xinpg.com
 http://heihe.180724.com
+http://www.wptcw.com
 http://www.228wy.com
 http://zgwzxc.com
 http://bbs.fytxonline.com
